@@ -1,0 +1,25 @@
+ubicacion,anio,variable,declarado,actual_sin_redondear,actual_redondeo_directo_1decimal,coincide_precision_declarada
+ACA2.pdf p.73 tabla7,2018,ipm_media,27.9,27.91212121212121,27.9,True
+ACA2.pdf p.73 tabla7,2018,media_global_simple,250.0,249.9824397980448,250.0,True
+ACA2.pdf p.73 tabla7,2018,de_global_simple,16.7,16.686385319638955,16.7,True
+ACA2.pdf p.73 tabla7,2018,media_global_estudiantes,259.3,259.26778346692737,259.3,True
+ACA2.pdf p.73 tabla7,2019,ipm_media,26.1,26.115151515151517,26.1,True
+ACA2.pdf p.73 tabla7,2019,media_global_simple,244.2,244.16668321880343,244.2,True
+ACA2.pdf p.73 tabla7,2019,de_global_simple,16.8,16.840559921651245,16.8,True
+ACA2.pdf p.73 tabla7,2019,media_global_estudiantes,253.4,253.41346542170817,253.4,True
+ACA2.pdf p.73 tabla7,2021,ipm_media,23.7,23.706060606060603,23.7,True
+ACA2.pdf p.73 tabla7,2021,media_global_simple,242.8,242.75959300305792,242.8,True
+ACA2.pdf p.73 tabla7,2021,de_global_simple,16.4,16.399324912827428,16.4,True
+ACA2.pdf p.73 tabla7,2021,media_global_estudiantes,251.9,251.9419599418204,251.9,True
+ACA2.pdf p.73 tabla7,2022,ipm_media,20.8,20.748484848484846,20.7,False
+ACA2.pdf p.73 tabla7,2022,media_global_simple,247.3,247.26582589660643,247.3,True
+ACA2.pdf p.73 tabla7,2022,de_global_simple,16.9,16.848791983797497,16.8,False
+ACA2.pdf p.73 tabla7,2022,media_global_estudiantes,255.9,255.94046571080588,255.9,True
+ACA2.pdf p.73 tabla7,2023,ipm_media,20.0,20.03939393939394,20.0,True
+ACA2.pdf p.73 tabla7,2023,media_global_simple,249.5,249.516741431263,249.5,True
+ACA2.pdf p.73 tabla7,2023,de_global_simple,17.0,16.99033874042658,17.0,True
+ACA2.pdf p.73 tabla7,2023,media_global_estudiantes,258.1,258.1531524211895,258.2,False
+ACA2.pdf p.73 tabla7,2024,ipm_media,17.7,17.681818181818183,17.7,True
+ACA2.pdf p.73 tabla7,2024,media_global_simple,253.2,253.15180384943832,253.2,True
+ACA2.pdf p.73 tabla7,2024,de_global_simple,17.3,17.302800112072873,17.3,True
+ACA2.pdf p.73 tabla7,2024,media_global_estudiantes,261.6,261.61203054299773,261.6,True

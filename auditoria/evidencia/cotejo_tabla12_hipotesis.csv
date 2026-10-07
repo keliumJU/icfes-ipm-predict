@@ -1,0 +1,17 @@
+variable,r_entre_departamentos_declarada,r_entre_departamentos_control,r_celdas_declarada,r_celdas_control,coincide_entre_3decimales,coincide_celdas_3decimales,condicion
+Inadecuada eliminacion de excretas,-0.815,-0.8146133352353032,-0.791,-0.7912737411636039,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Sin acceso a fuente de agua mejorada,-0.809,-0.8090753449002418,-0.788,-0.7877334762549771,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+ipm,-0.74,-0.7396812010198451,-0.709,-0.7091751528958361,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Rezago escolar,-0.736,-0.735965596060753,-0.666,-0.6660483295706808,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Material inadecuado de paredes exteriores,-0.713,-0.713459436680468,-0.67,-0.6704077613004148,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Hacinamiento critico,-0.69,-0.6896743885540839,-0.629,-0.6290991138022972,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Barreras a servicios para cuidado de la primera infancia,-0.663,-0.6627875112145172,-0.561,-0.5606737857519869,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Analfabetismo,-0.642,-0.6423440470489121,-0.606,-0.6058386376299403,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Material inadecuado de pisos,-0.531,-0.5313978053847833,-0.519,-0.5194644249159586,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Trabajo informal,-0.502,-0.5024917943379336,-0.491,-0.49114977114533104,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Bajo logro educativo,-0.449,-0.4494597674539951,-0.442,-0.44190802533727364,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Inasistencia escolar,-0.446,-0.44636803900434896,-0.408,-0.40793999309022905,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Desempleo de larga duracion,-0.381,-0.3813745253298764,-0.298,-0.2981677689429782,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Barreras de acceso a servicios de salud,0.051,0.05088211285759987,-0.001,-0.001137994872294996,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Sin aseguramiento en salud,0.066,0.0663058440889775,-0.003,-0.0027414099453020903,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones
+Trabajo infantil,0.109,0.10864479691301998,0.071,0.0710502468062883,True,True,hipótesis de filtros de p115; no prueba fuente histórica ni valida exclusiones

@@ -1,0 +1,7 @@
+version,particion_historica_solo_conteo,n_celdas,positivos_promedio_ge250,negativos,no_entrenado
+panel_raiz_historico,muestra_entrenamiento_reportada,127,50,77,True
+panel_raiz_historico,muestra_evaluacion_reportada,66,29,37,True
+consolidado_todos_grados_actual,muestra_entrenamiento_reportada,132,41,91,True
+consolidado_todos_grados_actual,muestra_evaluacion_reportada,66,29,37,True
+consolidado_grado11_control_actual,muestra_entrenamiento_reportada,132,61,71,True
+consolidado_grado11_control_actual,muestra_evaluacion_reportada,66,39,27,True

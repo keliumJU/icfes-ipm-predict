@@ -1,0 +1,23 @@
+{
+  "fecha_sesion": "2026-10-07",
+  "insumos_archivo_sha256_y_tamano_inalterados": 33,
+  "directorios_vacios_conservados": 2,
+  "insumos_ignorados_inventariados": 12,
+  "afirmaciones": 59,
+  "dictamenes": {
+    "respaldada": 16,
+    "parcialmente respaldada": 16,
+    "no verificable": 8,
+    "incorrecta": 19
+  },
+  "filas_estructura_comprobadas": 7375001,
+  "periodos_conservacion_proyeccion_verificada": 11,
+  "periodo_sin_fuente_para_conservacion": "20181",
+  "versiones_actuales_poppler": {
+    "pdftotext": "pdftotext version 26.08.0",
+    "pdftoppm": "pdftoppm version 26.05.0"
+  },
+  "controles_cierre": "satisfactorios para conservación y coherencia interna",
+  "auditoria_completa": false,
+  "limitacion": "No valida origen ausente ni filtros históricos; ver pendientes en continuidad"
+}

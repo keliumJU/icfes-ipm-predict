@@ -1,0 +1,1717 @@
+codigo_departamento,anio,variable,valor,hoja,celda
+5,2018,intensidad,40.9,Intensidad_IPM,B13
+5,2019,intensidad,41.2,Intensidad_IPM,C13
+5,2021,intensidad,39.5,Intensidad_IPM,E13
+5,2022,intensidad,39.2,Intensidad_IPM,F13
+5,2023,intensidad,38.7,Intensidad_IPM,G13
+5,2024,intensidad,40.4,Intensidad_IPM,H13
+8,2018,intensidad,41.0,Intensidad_IPM,B14
+8,2019,intensidad,41.6,Intensidad_IPM,C14
+8,2021,intensidad,40.1,Intensidad_IPM,E14
+8,2022,intensidad,38.9,Intensidad_IPM,F14
+8,2023,intensidad,38.5,Intensidad_IPM,G14
+8,2024,intensidad,39.2,Intensidad_IPM,H14
+11,2018,intensidad,37.8,Intensidad_IPM,B15
+11,2019,intensidad,39.6,Intensidad_IPM,C15
+11,2021,intensidad,39.4,Intensidad_IPM,E15
+11,2022,intensidad,38.7,Intensidad_IPM,F15
+11,2023,intensidad,39.1,Intensidad_IPM,G15
+11,2024,intensidad,38.6,Intensidad_IPM,H15
+13,2018,intensidad,43.8,Intensidad_IPM,B16
+13,2019,intensidad,41.6,Intensidad_IPM,C16
+13,2021,intensidad,41.7,Intensidad_IPM,E16
+13,2022,intensidad,40.4,Intensidad_IPM,F16
+13,2023,intensidad,40.3,Intensidad_IPM,G16
+13,2024,intensidad,39.8,Intensidad_IPM,H16
+15,2018,intensidad,39.2,Intensidad_IPM,B17
+15,2019,intensidad,38.9,Intensidad_IPM,C17
+15,2021,intensidad,39.4,Intensidad_IPM,E17
+15,2022,intensidad,38.8,Intensidad_IPM,F17
+15,2023,intensidad,38.5,Intensidad_IPM,G17
+15,2024,intensidad,38.3,Intensidad_IPM,H17
+17,2018,intensidad,38.8,Intensidad_IPM,B18
+17,2019,intensidad,40.5,Intensidad_IPM,C18
+17,2021,intensidad,38.7,Intensidad_IPM,E18
+17,2022,intensidad,39.0,Intensidad_IPM,F18
+17,2023,intensidad,38.6,Intensidad_IPM,G18
+17,2024,intensidad,39.3,Intensidad_IPM,H18
+18,2018,intensidad,40.1,Intensidad_IPM,B19
+18,2019,intensidad,40.5,Intensidad_IPM,C19
+18,2021,intensidad,40.5,Intensidad_IPM,E19
+18,2022,intensidad,40.2,Intensidad_IPM,F19
+18,2023,intensidad,40.2,Intensidad_IPM,G19
+18,2024,intensidad,37.7,Intensidad_IPM,H19
+19,2018,intensidad,41.2,Intensidad_IPM,B20
+19,2019,intensidad,40.2,Intensidad_IPM,C20
+19,2021,intensidad,40.1,Intensidad_IPM,E20
+19,2022,intensidad,39.6,Intensidad_IPM,F20
+19,2023,intensidad,40.2,Intensidad_IPM,G20
+19,2024,intensidad,39.5,Intensidad_IPM,H20
+20,2018,intensidad,43.3,Intensidad_IPM,B21
+20,2019,intensidad,41.3,Intensidad_IPM,C21
+20,2021,intensidad,41.0,Intensidad_IPM,E21
+20,2022,intensidad,40.8,Intensidad_IPM,F21
+20,2023,intensidad,40.2,Intensidad_IPM,G21
+20,2024,intensidad,40.1,Intensidad_IPM,H21
+23,2018,intensidad,42.5,Intensidad_IPM,B22
+23,2019,intensidad,42.4,Intensidad_IPM,C22
+23,2021,intensidad,41.6,Intensidad_IPM,E22
+23,2022,intensidad,40.9,Intensidad_IPM,F22
+23,2023,intensidad,40.6,Intensidad_IPM,G22
+23,2024,intensidad,41.0,Intensidad_IPM,H22
+25,2018,intensidad,38.8,Intensidad_IPM,B23
+25,2019,intensidad,39.0,Intensidad_IPM,C23
+25,2021,intensidad,39.8,Intensidad_IPM,E23
+25,2022,intensidad,37.8,Intensidad_IPM,F23
+25,2023,intensidad,38.6,Intensidad_IPM,G23
+25,2024,intensidad,38.3,Intensidad_IPM,H23
+27,2018,intensidad,44.3,Intensidad_IPM,B24
+27,2019,intensidad,44.1,Intensidad_IPM,C24
+27,2021,intensidad,43.7,Intensidad_IPM,E24
+27,2022,intensidad,43.7,Intensidad_IPM,F24
+27,2023,intensidad,43.1,Intensidad_IPM,G24
+27,2024,intensidad,42.8,Intensidad_IPM,H24
+41,2018,intensidad,39.8,Intensidad_IPM,B25
+41,2019,intensidad,40.3,Intensidad_IPM,C25
+41,2021,intensidad,38.9,Intensidad_IPM,E25
+41,2022,intensidad,39.6,Intensidad_IPM,F25
+41,2023,intensidad,38.7,Intensidad_IPM,G25
+41,2024,intensidad,38.2,Intensidad_IPM,H25
+44,2018,intensidad,47.7,Intensidad_IPM,B26
+44,2019,intensidad,47.1,Intensidad_IPM,C26
+44,2021,intensidad,45.3,Intensidad_IPM,E26
+44,2022,intensidad,45.2,Intensidad_IPM,F26
+44,2023,intensidad,44.9,Intensidad_IPM,G26
+44,2024,intensidad,44.8,Intensidad_IPM,H26
+47,2018,intensidad,43.4,Intensidad_IPM,B27
+47,2019,intensidad,43.4,Intensidad_IPM,C27
+47,2021,intensidad,41.9,Intensidad_IPM,E27
+47,2022,intensidad,41.2,Intensidad_IPM,F27
+47,2023,intensidad,41.0,Intensidad_IPM,G27
+47,2024,intensidad,40.1,Intensidad_IPM,H27
+50,2018,intensidad,39.6,Intensidad_IPM,B28
+50,2019,intensidad,40.5,Intensidad_IPM,C28
+50,2021,intensidad,39.9,Intensidad_IPM,E28
+50,2022,intensidad,40.6,Intensidad_IPM,F28
+50,2023,intensidad,41.4,Intensidad_IPM,G28
+50,2024,intensidad,39.4,Intensidad_IPM,H28
+52,2018,intensidad,42.1,Intensidad_IPM,B29
+52,2019,intensidad,40.5,Intensidad_IPM,C29
+52,2021,intensidad,41.5,Intensidad_IPM,E29
+52,2022,intensidad,40.4,Intensidad_IPM,F29
+52,2023,intensidad,39.9,Intensidad_IPM,G29
+52,2024,intensidad,40.5,Intensidad_IPM,H29
+54,2018,intensidad,41.7,Intensidad_IPM,B30
+54,2019,intensidad,41.9,Intensidad_IPM,C30
+54,2021,intensidad,41.6,Intensidad_IPM,E30
+54,2022,intensidad,40.6,Intensidad_IPM,F30
+54,2023,intensidad,39.8,Intensidad_IPM,G30
+54,2024,intensidad,41.7,Intensidad_IPM,H30
+63,2018,intensidad,39.6,Intensidad_IPM,B31
+63,2019,intensidad,39.3,Intensidad_IPM,C31
+63,2021,intensidad,39.7,Intensidad_IPM,E31
+63,2022,intensidad,38.9,Intensidad_IPM,F31
+63,2023,intensidad,38.3,Intensidad_IPM,G31
+63,2024,intensidad,38.7,Intensidad_IPM,H31
+66,2018,intensidad,40.1,Intensidad_IPM,B32
+66,2019,intensidad,40.1,Intensidad_IPM,C32
+66,2021,intensidad,40.3,Intensidad_IPM,E32
+66,2022,intensidad,39.6,Intensidad_IPM,F32
+66,2023,intensidad,39.3,Intensidad_IPM,G32
+66,2024,intensidad,40.1,Intensidad_IPM,H32
+68,2018,intensidad,38.6,Intensidad_IPM,B33
+68,2019,intensidad,40.4,Intensidad_IPM,C33
+68,2021,intensidad,39.0,Intensidad_IPM,E33
+68,2022,intensidad,39.0,Intensidad_IPM,F33
+68,2023,intensidad,38.6,Intensidad_IPM,G33
+68,2024,intensidad,39.0,Intensidad_IPM,H33
+70,2018,intensidad,43.4,Intensidad_IPM,B34
+70,2019,intensidad,41.8,Intensidad_IPM,C34
+70,2021,intensidad,41.2,Intensidad_IPM,E34
+70,2022,intensidad,40.7,Intensidad_IPM,F34
+70,2023,intensidad,39.5,Intensidad_IPM,G34
+70,2024,intensidad,40.2,Intensidad_IPM,H34
+73,2018,intensidad,40.9,Intensidad_IPM,B35
+73,2019,intensidad,40.3,Intensidad_IPM,C35
+73,2021,intensidad,39.5,Intensidad_IPM,E35
+73,2022,intensidad,38.4,Intensidad_IPM,F35
+73,2023,intensidad,38.9,Intensidad_IPM,G35
+73,2024,intensidad,38.9,Intensidad_IPM,H35
+76,2018,intensidad,40.7,Intensidad_IPM,B36
+76,2019,intensidad,40.0,Intensidad_IPM,C36
+76,2021,intensidad,39.8,Intensidad_IPM,E36
+76,2022,intensidad,39.2,Intensidad_IPM,F36
+76,2023,intensidad,39.6,Intensidad_IPM,G36
+76,2024,intensidad,39.0,Intensidad_IPM,H36
+81,2018,intensidad,41.5,Intensidad_IPM,B37
+81,2019,intensidad,41.3,Intensidad_IPM,C37
+81,2021,intensidad,41.3,Intensidad_IPM,E37
+81,2022,intensidad,41.0,Intensidad_IPM,F37
+81,2023,intensidad,41.4,Intensidad_IPM,G37
+81,2024,intensidad,41.4,Intensidad_IPM,H37
+85,2018,intensidad,40.0,Intensidad_IPM,B38
+85,2019,intensidad,39.3,Intensidad_IPM,C38
+85,2021,intensidad,40.5,Intensidad_IPM,E38
+85,2022,intensidad,39.6,Intensidad_IPM,F38
+85,2023,intensidad,40.6,Intensidad_IPM,G38
+85,2024,intensidad,38.0,Intensidad_IPM,H38
+86,2018,intensidad,40.3,Intensidad_IPM,B39
+86,2019,intensidad,40.1,Intensidad_IPM,C39
+86,2021,intensidad,39.0,Intensidad_IPM,E39
+86,2022,intensidad,39.4,Intensidad_IPM,F39
+86,2023,intensidad,38.9,Intensidad_IPM,G39
+86,2024,intensidad,38.1,Intensidad_IPM,H39
+88,2018,intensidad,40.7,Intensidad_IPM,B40
+88,2019,intensidad,39.4,Intensidad_IPM,C40
+88,2021,intensidad,39.1,Intensidad_IPM,E40
+88,2022,intensidad,39.4,Intensidad_IPM,F40
+88,2023,intensidad,36.8,Intensidad_IPM,G40
+88,2024,intensidad,39.6,Intensidad_IPM,H40
+91,2018,intensidad,42.0,Intensidad_IPM,B41
+91,2019,intensidad,45.7,Intensidad_IPM,C41
+91,2021,intensidad,40.9,Intensidad_IPM,E41
+91,2022,intensidad,40.3,Intensidad_IPM,F41
+91,2023,intensidad,42.8,Intensidad_IPM,G41
+91,2024,intensidad,40.3,Intensidad_IPM,H41
+94,2018,intensidad,47.3,Intensidad_IPM,B42
+94,2019,intensidad,51.1,Intensidad_IPM,C42
+94,2021,intensidad,45.5,Intensidad_IPM,E42
+94,2022,intensidad,43.9,Intensidad_IPM,F42
+94,2023,intensidad,44.1,Intensidad_IPM,G42
+94,2024,intensidad,44.3,Intensidad_IPM,H42
+95,2018,intensidad,42.2,Intensidad_IPM,B43
+95,2019,intensidad,42.1,Intensidad_IPM,C43
+95,2021,intensidad,42.9,Intensidad_IPM,E43
+95,2022,intensidad,41.3,Intensidad_IPM,F43
+95,2023,intensidad,42.6,Intensidad_IPM,G43
+95,2024,intensidad,41.5,Intensidad_IPM,H43
+97,2018,intensidad,51.0,Intensidad_IPM,B44
+97,2019,intensidad,48.3,Intensidad_IPM,C44
+97,2021,intensidad,44.1,Intensidad_IPM,E44
+97,2022,intensidad,45.6,Intensidad_IPM,F44
+97,2023,intensidad,44.9,Intensidad_IPM,G44
+97,2024,intensidad,42.1,Intensidad_IPM,H44
+99,2018,intensidad,47.5,Intensidad_IPM,B45
+99,2019,intensidad,47.6,Intensidad_IPM,C45
+99,2021,intensidad,46.4,Intensidad_IPM,E45
+99,2022,intensidad,51.3,Intensidad_IPM,F45
+99,2023,intensidad,47.3,Intensidad_IPM,G45
+99,2024,intensidad,49.3,Intensidad_IPM,H45
+5,2018,incidencia_ajustada,6.3,Incidencia_Ajustada_IPM,B13
+5,2019,incidencia_ajustada,6.5,Incidencia_Ajustada_IPM,C13
+5,2021,incidencia_ajustada,5.6,Incidencia_Ajustada_IPM,E13
+5,2022,incidencia_ajustada,4.2,Incidencia_Ajustada_IPM,F13
+5,2023,incidencia_ajustada,3.7000000000000006,Incidencia_Ajustada_IPM,G13
+5,2024,incidencia_ajustada,4.4,Incidencia_Ajustada_IPM,H13
+8,2018,incidencia_ajustada,8.6,Incidencia_Ajustada_IPM,B14
+8,2019,incidencia_ajustada,6.2,Incidencia_Ajustada_IPM,C14
+8,2021,incidencia_ajustada,6.2,Incidencia_Ajustada_IPM,E14
+8,2022,incidencia_ajustada,4.0,Incidencia_Ajustada_IPM,F14
+8,2023,incidencia_ajustada,4.6,Incidencia_Ajustada_IPM,G14
+8,2024,incidencia_ajustada,3.7000000000000006,Incidencia_Ajustada_IPM,H14
+11,2018,incidencia_ajustada,1.6,Incidencia_Ajustada_IPM,B15
+11,2019,incidencia_ajustada,2.8,Incidencia_Ajustada_IPM,C15
+11,2021,incidencia_ajustada,2.3,Incidencia_Ajustada_IPM,E15
+11,2022,incidencia_ajustada,1.5,Incidencia_Ajustada_IPM,F15
+11,2023,incidencia_ajustada,1.4,Incidencia_Ajustada_IPM,G15
+11,2024,incidencia_ajustada,2.1,Incidencia_Ajustada_IPM,H15
+13,2018,incidencia_ajustada,13.900000000000002,Incidencia_Ajustada_IPM,B16
+13,2019,incidencia_ajustada,11.2,Incidencia_Ajustada_IPM,C16
+13,2021,incidencia_ajustada,11.2,Incidencia_Ajustada_IPM,E16
+13,2022,incidencia_ajustada,7.8,Incidencia_Ajustada_IPM,F16
+13,2023,incidencia_ajustada,7.400000000000001,Incidencia_Ajustada_IPM,G16
+13,2024,incidencia_ajustada,6.2,Incidencia_Ajustada_IPM,H16
+15,2018,incidencia_ajustada,6.4,Incidencia_Ajustada_IPM,B17
+15,2019,incidencia_ajustada,5.0,Incidencia_Ajustada_IPM,C17
+15,2021,incidencia_ajustada,4.3,Incidencia_Ajustada_IPM,E17
+15,2022,incidencia_ajustada,3.7000000000000006,Incidencia_Ajustada_IPM,F17
+15,2023,incidencia_ajustada,3.8,Incidencia_Ajustada_IPM,G17
+15,2024,incidencia_ajustada,2.7,Incidencia_Ajustada_IPM,H17
+17,2018,incidencia_ajustada,5.4,Incidencia_Ajustada_IPM,B18
+17,2019,incidencia_ajustada,5.8,Incidencia_Ajustada_IPM,C18
+17,2021,incidencia_ajustada,4.4,Incidencia_Ajustada_IPM,E18
+17,2022,incidencia_ajustada,4.1,Incidencia_Ajustada_IPM,F18
+17,2023,incidencia_ajustada,2.9,Incidencia_Ajustada_IPM,G18
+17,2024,incidencia_ajustada,3.6000000000000005,Incidencia_Ajustada_IPM,H18
+18,2018,incidencia_ajustada,10.8,Incidencia_Ajustada_IPM,B19
+18,2019,incidencia_ajustada,10.4,Incidencia_Ajustada_IPM,C19
+18,2021,incidencia_ajustada,9.3,Incidencia_Ajustada_IPM,E19
+18,2022,incidencia_ajustada,7.9,Incidencia_Ajustada_IPM,F19
+18,2023,incidencia_ajustada,6.9,Incidencia_Ajustada_IPM,G19
+18,2024,incidencia_ajustada,5.3,Incidencia_Ajustada_IPM,H19
+19,2018,incidencia_ajustada,11.4,Incidencia_Ajustada_IPM,B20
+19,2019,incidencia_ajustada,9.6,Incidencia_Ajustada_IPM,C20
+19,2021,incidencia_ajustada,7.5,Incidencia_Ajustada_IPM,E20
+19,2022,incidencia_ajustada,7.200000000000001,Incidencia_Ajustada_IPM,F20
+19,2023,incidencia_ajustada,6.4,Incidencia_Ajustada_IPM,G20
+19,2024,incidencia_ajustada,5.5,Incidencia_Ajustada_IPM,H20
+20,2018,incidencia_ajustada,13.699999999999998,Incidencia_Ajustada_IPM,B21
+20,2019,incidencia_ajustada,10.5,Incidencia_Ajustada_IPM,C21
+20,2021,incidencia_ajustada,10.4,Incidencia_Ajustada_IPM,E21
+20,2022,incidencia_ajustada,7.8,Incidencia_Ajustada_IPM,F21
+20,2023,incidencia_ajustada,7.1,Incidencia_Ajustada_IPM,G21
+20,2024,incidencia_ajustada,5.4,Incidencia_Ajustada_IPM,H21
+23,2018,incidencia_ajustada,14.6,Incidencia_Ajustada_IPM,B22
+23,2019,incidencia_ajustada,14.7,Incidencia_Ajustada_IPM,C22
+23,2021,incidencia_ajustada,11.2,Incidencia_Ajustada_IPM,E22
+23,2022,incidencia_ajustada,11.0,Incidencia_Ajustada_IPM,F22
+23,2023,incidencia_ajustada,8.7,Incidencia_Ajustada_IPM,G22
+23,2024,incidencia_ajustada,10.5,Incidencia_Ajustada_IPM,H22
+25,2018,incidencia_ajustada,4.1,Incidencia_Ajustada_IPM,B23
+25,2019,incidencia_ajustada,4.8,Incidencia_Ajustada_IPM,C23
+25,2021,incidencia_ajustada,3.7000000000000006,Incidencia_Ajustada_IPM,E23
+25,2022,incidencia_ajustada,2.8,Incidencia_Ajustada_IPM,F23
+25,2023,incidencia_ajustada,2.9,Incidencia_Ajustada_IPM,G23
+25,2024,incidencia_ajustada,2.8,Incidencia_Ajustada_IPM,H23
+27,2018,incidencia_ajustada,20.5,Incidencia_Ajustada_IPM,B24
+27,2019,incidencia_ajustada,18.7,Incidencia_Ajustada_IPM,C24
+27,2021,incidencia_ajustada,15.7,Incidencia_Ajustada_IPM,E24
+27,2022,incidencia_ajustada,16.1,Incidencia_Ajustada_IPM,F24
+27,2023,incidencia_ajustada,16.1,Incidencia_Ajustada_IPM,G24
+27,2024,incidencia_ajustada,14.499999999999998,Incidencia_Ajustada_IPM,H24
+41,2018,incidencia_ajustada,7.1,Incidencia_Ajustada_IPM,B25
+41,2019,incidencia_ajustada,7.400000000000001,Incidencia_Ajustada_IPM,C25
+41,2021,incidencia_ajustada,6.800000000000001,Incidencia_Ajustada_IPM,E25
+41,2022,incidencia_ajustada,5.3,Incidencia_Ajustada_IPM,F25
+41,2023,incidencia_ajustada,4.6,Incidencia_Ajustada_IPM,G25
+41,2024,incidencia_ajustada,4.2,Incidencia_Ajustada_IPM,H25
+44,2018,incidencia_ajustada,25.4,Incidencia_Ajustada_IPM,B26
+44,2019,incidencia_ajustada,23.0,Incidencia_Ajustada_IPM,C26
+44,2021,incidencia_ajustada,22.0,Incidencia_Ajustada_IPM,E26
+44,2022,incidencia_ajustada,19.4,Incidencia_Ajustada_IPM,F26
+44,2023,incidencia_ajustada,19.1,Incidencia_Ajustada_IPM,G26
+44,2024,incidencia_ajustada,17.6,Incidencia_Ajustada_IPM,H26
+47,2018,incidencia_ajustada,15.8,Incidencia_Ajustada_IPM,B27
+47,2019,incidencia_ajustada,13.699999999999998,Incidencia_Ajustada_IPM,C27
+47,2021,incidencia_ajustada,13.5,Incidencia_Ajustada_IPM,E27
+47,2022,incidencia_ajustada,9.5,Incidencia_Ajustada_IPM,F27
+47,2023,incidencia_ajustada,8.8,Incidencia_Ajustada_IPM,G27
+47,2024,incidencia_ajustada,7.7,Incidencia_Ajustada_IPM,H27
+50,2018,incidencia_ajustada,6.2,Incidencia_Ajustada_IPM,B28
+50,2019,incidencia_ajustada,7.7,Incidencia_Ajustada_IPM,C28
+50,2021,incidencia_ajustada,6.0,Incidencia_Ajustada_IPM,E28
+50,2022,incidencia_ajustada,4.6,Incidencia_Ajustada_IPM,F28
+50,2023,incidencia_ajustada,5.3,Incidencia_Ajustada_IPM,G28
+50,2024,incidencia_ajustada,4.1,Incidencia_Ajustada_IPM,H28
+52,2018,incidencia_ajustada,13.900000000000002,Incidencia_Ajustada_IPM,B29
+52,2019,incidencia_ajustada,9.4,Incidencia_Ajustada_IPM,C29
+52,2021,incidencia_ajustada,9.2,Incidencia_Ajustada_IPM,E29
+52,2022,incidencia_ajustada,7.1,Incidencia_Ajustada_IPM,F29
+52,2023,incidencia_ajustada,6.6000000000000005,Incidencia_Ajustada_IPM,G29
+52,2024,incidencia_ajustada,7.3,Incidencia_Ajustada_IPM,H29
+54,2018,incidencia_ajustada,12.3,Incidencia_Ajustada_IPM,B30
+54,2019,incidencia_ajustada,10.1,Incidencia_Ajustada_IPM,C30
+54,2021,incidencia_ajustada,10.3,Incidencia_Ajustada_IPM,E30
+54,2022,incidencia_ajustada,7.5,Incidencia_Ajustada_IPM,F30
+54,2023,incidencia_ajustada,8.2,Incidencia_Ajustada_IPM,G30
+54,2024,incidencia_ajustada,6.3,Incidencia_Ajustada_IPM,H30
+63,2018,incidencia_ajustada,5.6,Incidencia_Ajustada_IPM,B31
+63,2019,incidencia_ajustada,4.0,Incidencia_Ajustada_IPM,C31
+63,2021,incidencia_ajustada,4.3,Incidencia_Ajustada_IPM,E31
+63,2022,incidencia_ajustada,3.9,Incidencia_Ajustada_IPM,F31
+63,2023,incidencia_ajustada,2.9,Incidencia_Ajustada_IPM,G31
+63,2024,incidencia_ajustada,2.9,Incidencia_Ajustada_IPM,H31
+66,2018,incidencia_ajustada,4.6,Incidencia_Ajustada_IPM,B32
+66,2019,incidencia_ajustada,4.5,Incidencia_Ajustada_IPM,C32
+66,2021,incidencia_ajustada,4.3,Incidencia_Ajustada_IPM,E32
+66,2022,incidencia_ajustada,4.0,Incidencia_Ajustada_IPM,F32
+66,2023,incidencia_ajustada,4.7,Incidencia_Ajustada_IPM,G32
+66,2024,incidencia_ajustada,3.8,Incidencia_Ajustada_IPM,H32
+68,2018,incidencia_ajustada,4.9,Incidencia_Ajustada_IPM,B33
+68,2019,incidencia_ajustada,5.0,Incidencia_Ajustada_IPM,C33
+68,2021,incidencia_ajustada,5.2,Incidencia_Ajustada_IPM,E33
+68,2022,incidencia_ajustada,4.1,Incidencia_Ajustada_IPM,F33
+68,2023,incidencia_ajustada,3.8,Incidencia_Ajustada_IPM,G33
+68,2024,incidencia_ajustada,2.6,Incidencia_Ajustada_IPM,H33
+70,2018,incidencia_ajustada,18.1,Incidencia_Ajustada_IPM,B34
+70,2019,incidencia_ajustada,13.900000000000002,Incidencia_Ajustada_IPM,C34
+70,2021,incidencia_ajustada,12.5,Incidencia_Ajustada_IPM,E34
+70,2022,incidencia_ajustada,10.6,Incidencia_Ajustada_IPM,F34
+70,2023,incidencia_ajustada,9.1,Incidencia_Ajustada_IPM,G34
+70,2024,incidencia_ajustada,8.7,Incidencia_Ajustada_IPM,H34
+73,2018,incidencia_ajustada,9.1,Incidencia_Ajustada_IPM,B35
+73,2019,incidencia_ajustada,6.1,Incidencia_Ajustada_IPM,C35
+73,2021,incidencia_ajustada,6.6000000000000005,Incidencia_Ajustada_IPM,E35
+73,2022,incidencia_ajustada,4.0,Incidencia_Ajustada_IPM,F35
+73,2023,incidencia_ajustada,5.0,Incidencia_Ajustada_IPM,G35
+73,2024,incidencia_ajustada,4.9,Incidencia_Ajustada_IPM,H35
+76,2018,incidencia_ajustada,5.7,Incidencia_Ajustada_IPM,B36
+76,2019,incidencia_ajustada,4.3,Incidencia_Ajustada_IPM,C36
+76,2021,incidencia_ajustada,3.4000000000000004,Incidencia_Ajustada_IPM,E36
+76,2022,incidencia_ajustada,3.8,Incidencia_Ajustada_IPM,F36
+76,2023,incidencia_ajustada,2.8,Incidencia_Ajustada_IPM,G36
+76,2024,incidencia_ajustada,2.4,Incidencia_Ajustada_IPM,H36
+81,2018,incidencia_ajustada,11.5,Incidencia_Ajustada_IPM,B37
+81,2019,incidencia_ajustada,9.6,Incidencia_Ajustada_IPM,C37
+81,2021,incidencia_ajustada,11.1,Incidencia_Ajustada_IPM,E37
+81,2022,incidencia_ajustada,9.3,Incidencia_Ajustada_IPM,F37
+81,2023,incidencia_ajustada,9.4,Incidencia_Ajustada_IPM,G37
+81,2024,incidencia_ajustada,7.3,Incidencia_Ajustada_IPM,H37
+85,2018,incidencia_ajustada,7.6,Incidencia_Ajustada_IPM,B38
+85,2019,incidencia_ajustada,7.200000000000001,Incidencia_Ajustada_IPM,C38
+85,2021,incidencia_ajustada,7.9,Incidencia_Ajustada_IPM,E38
+85,2022,incidencia_ajustada,5.3,Incidencia_Ajustada_IPM,F38
+85,2023,incidencia_ajustada,6.1,Incidencia_Ajustada_IPM,G38
+85,2024,incidencia_ajustada,4.3,Incidencia_Ajustada_IPM,H38
+86,2018,incidencia_ajustada,9.7,Incidencia_Ajustada_IPM,B39
+86,2019,incidencia_ajustada,10.2,Incidencia_Ajustada_IPM,C39
+86,2021,incidencia_ajustada,8.9,Incidencia_Ajustada_IPM,E39
+86,2022,incidencia_ajustada,8.2,Incidencia_Ajustada_IPM,F39
+86,2023,incidencia_ajustada,5.1,Incidencia_Ajustada_IPM,G39
+86,2024,incidencia_ajustada,4.5,Incidencia_Ajustada_IPM,H39
+88,2018,incidencia_ajustada,3.5000000000000004,Incidencia_Ajustada_IPM,B40
+88,2019,incidencia_ajustada,3.2,Incidencia_Ajustada_IPM,C40
+88,2021,incidencia_ajustada,2.7,Incidencia_Ajustada_IPM,E40
+88,2022,incidencia_ajustada,3.4000000000000004,Incidencia_Ajustada_IPM,F40
+88,2023,incidencia_ajustada,1.8000000000000003,Incidencia_Ajustada_IPM,G40
+88,2024,incidencia_ajustada,2.4,Incidencia_Ajustada_IPM,H40
+91,2018,incidencia_ajustada,14.899999999999999,Incidencia_Ajustada_IPM,B41
+91,2019,incidencia_ajustada,16.3,Incidencia_Ajustada_IPM,C41
+91,2021,incidencia_ajustada,10.5,Incidencia_Ajustada_IPM,E41
+91,2022,incidencia_ajustada,11.2,Incidencia_Ajustada_IPM,F41
+91,2023,incidencia_ajustada,10.9,Incidencia_Ajustada_IPM,G41
+91,2024,incidencia_ajustada,6.3,Incidencia_Ajustada_IPM,H41
+94,2018,incidencia_ajustada,28.6,Incidencia_Ajustada_IPM,B42
+94,2019,incidencia_ajustada,34.2,Incidencia_Ajustada_IPM,C42
+94,2021,incidencia_ajustada,26.1,Incidencia_Ajustada_IPM,E42
+94,2022,incidencia_ajustada,20.4,Incidencia_Ajustada_IPM,F42
+94,2023,incidencia_ajustada,23.0,Incidencia_Ajustada_IPM,G42
+94,2024,incidencia_ajustada,21.7,Incidencia_Ajustada_IPM,H42
+95,2018,incidencia_ajustada,13.200000000000001,Incidencia_Ajustada_IPM,B43
+95,2019,incidencia_ajustada,13.0,Incidencia_Ajustada_IPM,C43
+95,2021,incidencia_ajustada,13.3,Incidencia_Ajustada_IPM,E43
+95,2022,incidencia_ajustada,11.1,Incidencia_Ajustada_IPM,F43
+95,2023,incidencia_ajustada,13.100000000000001,Incidencia_Ajustada_IPM,G43
+95,2024,incidencia_ajustada,8.8,Incidencia_Ajustada_IPM,H43
+97,2018,incidencia_ajustada,34.9,Incidencia_Ajustada_IPM,B44
+97,2019,incidencia_ajustada,32.1,Incidencia_Ajustada_IPM,C44
+97,2021,incidencia_ajustada,23.2,Incidencia_Ajustada_IPM,E44
+97,2022,incidencia_ajustada,21.5,Incidencia_Ajustada_IPM,F44
+97,2023,incidencia_ajustada,25.0,Incidencia_Ajustada_IPM,G44
+97,2024,incidencia_ajustada,15.8,Incidencia_Ajustada_IPM,H44
+99,2018,incidencia_ajustada,30.2,Incidencia_Ajustada_IPM,B45
+99,2019,incidencia_ajustada,34.4,Incidencia_Ajustada_IPM,C45
+99,2021,incidencia_ajustada,30.099999999999998,Incidencia_Ajustada_IPM,E45
+99,2022,incidencia_ajustada,38.6,Incidencia_Ajustada_IPM,F45
+99,2023,incidencia_ajustada,30.9,Incidencia_Ajustada_IPM,G45
+99,2024,incidencia_ajustada,34.6,Incidencia_Ajustada_IPM,H45
+5,2018,contribucion_EDUCACION,33.9,Contribuciones IA_IPM,B13
+5,2019,contribucion_EDUCACION,35.6,Contribuciones IA_IPM,C13
+5,2021,contribucion_EDUCACION,36.0,Contribuciones IA_IPM,E13
+5,2022,contribucion_EDUCACION,36.3,Contribuciones IA_IPM,F13
+5,2023,contribucion_EDUCACION,37.2,Contribuciones IA_IPM,G13
+5,2024,contribucion_EDUCACION,37.5,Contribuciones IA_IPM,H13
+5,2018,contribucion_NINEZ Y JUVENTUD,13.8,Contribuciones IA_IPM,B14
+5,2019,contribucion_NINEZ Y JUVENTUD,14.8,Contribuciones IA_IPM,C14
+5,2021,contribucion_NINEZ Y JUVENTUD,14.8,Contribuciones IA_IPM,E14
+5,2022,contribucion_NINEZ Y JUVENTUD,13.8,Contribuciones IA_IPM,F14
+5,2023,contribucion_NINEZ Y JUVENTUD,15.8,Contribuciones IA_IPM,G14
+5,2024,contribucion_NINEZ Y JUVENTUD,12.9,Contribuciones IA_IPM,H14
+5,2018,contribucion_TRABAJO,28.6,Contribuciones IA_IPM,B15
+5,2019,contribucion_TRABAJO,27.3,Contribuciones IA_IPM,C15
+5,2021,contribucion_TRABAJO,30.8,Contribuciones IA_IPM,E15
+5,2022,contribucion_TRABAJO,30.9,Contribuciones IA_IPM,F15
+5,2023,contribucion_TRABAJO,30.6,Contribuciones IA_IPM,G15
+5,2024,contribucion_TRABAJO,29.5,Contribuciones IA_IPM,H15
+5,2018,contribucion_SALUD,8.4,Contribuciones IA_IPM,B16
+5,2019,contribucion_SALUD,10.1,Contribuciones IA_IPM,C16
+5,2021,contribucion_SALUD,10.1,Contribuciones IA_IPM,E16
+5,2022,contribucion_SALUD,7.9,Contribuciones IA_IPM,F16
+5,2023,contribucion_SALUD,7.0,Contribuciones IA_IPM,G16
+5,2024,contribucion_SALUD,10.5,Contribuciones IA_IPM,H16
+5,2018,contribucion_VIVIENDA,15.3,Contribuciones IA_IPM,B17
+5,2019,contribucion_VIVIENDA,12.1,Contribuciones IA_IPM,C17
+5,2021,contribucion_VIVIENDA,8.3,Contribuciones IA_IPM,E17
+5,2022,contribucion_VIVIENDA,11.0,Contribuciones IA_IPM,F17
+5,2023,contribucion_VIVIENDA,9.4,Contribuciones IA_IPM,G17
+5,2024,contribucion_VIVIENDA,9.7,Contribuciones IA_IPM,H17
+8,2018,contribucion_EDUCACION,29.1,Contribuciones IA_IPM,B28
+8,2019,contribucion_EDUCACION,31.0,Contribuciones IA_IPM,C28
+8,2021,contribucion_EDUCACION,31.5,Contribuciones IA_IPM,E28
+8,2022,contribucion_EDUCACION,35.4,Contribuciones IA_IPM,F28
+8,2023,contribucion_EDUCACION,36.3,Contribuciones IA_IPM,G28
+8,2024,contribucion_EDUCACION,37.5,Contribuciones IA_IPM,H28
+8,2018,contribucion_NINEZ Y JUVENTUD,16.8,Contribuciones IA_IPM,B29
+8,2019,contribucion_NINEZ Y JUVENTUD,15.1,Contribuciones IA_IPM,C29
+8,2021,contribucion_NINEZ Y JUVENTUD,20.5,Contribuciones IA_IPM,E29
+8,2022,contribucion_NINEZ Y JUVENTUD,15.4,Contribuciones IA_IPM,F29
+8,2023,contribucion_NINEZ Y JUVENTUD,15.7,Contribuciones IA_IPM,G29
+8,2024,contribucion_NINEZ Y JUVENTUD,15.3,Contribuciones IA_IPM,H29
+8,2018,contribucion_TRABAJO,26.4,Contribuciones IA_IPM,B30
+8,2019,contribucion_TRABAJO,26.2,Contribuciones IA_IPM,C30
+8,2021,contribucion_TRABAJO,26.9,Contribuciones IA_IPM,E30
+8,2022,contribucion_TRABAJO,30.0,Contribuciones IA_IPM,F30
+8,2023,contribucion_TRABAJO,30.9,Contribuciones IA_IPM,G30
+8,2024,contribucion_TRABAJO,29.7,Contribuciones IA_IPM,H30
+8,2018,contribucion_SALUD,18.0,Contribuciones IA_IPM,B31
+8,2019,contribucion_SALUD,17.4,Contribuciones IA_IPM,C31
+8,2021,contribucion_SALUD,12.9,Contribuciones IA_IPM,E31
+8,2022,contribucion_SALUD,9.3,Contribuciones IA_IPM,F31
+8,2023,contribucion_SALUD,9.0,Contribuciones IA_IPM,G31
+8,2024,contribucion_SALUD,9.5,Contribuciones IA_IPM,H31
+8,2018,contribucion_VIVIENDA,9.7,Contribuciones IA_IPM,B32
+8,2019,contribucion_VIVIENDA,10.2,Contribuciones IA_IPM,C32
+8,2021,contribucion_VIVIENDA,8.2,Contribuciones IA_IPM,E32
+8,2022,contribucion_VIVIENDA,9.9,Contribuciones IA_IPM,F32
+8,2023,contribucion_VIVIENDA,8.1,Contribuciones IA_IPM,G32
+8,2024,contribucion_VIVIENDA,8.1,Contribuciones IA_IPM,H32
+11,2018,contribucion_EDUCACION,27.8,Contribuciones IA_IPM,B43
+11,2019,contribucion_EDUCACION,26.3,Contribuciones IA_IPM,C43
+11,2021,contribucion_EDUCACION,25.9,Contribuciones IA_IPM,E43
+11,2022,contribucion_EDUCACION,24.3,Contribuciones IA_IPM,F43
+11,2023,contribucion_EDUCACION,27.8,Contribuciones IA_IPM,G43
+11,2024,contribucion_EDUCACION,26.3,Contribuciones IA_IPM,H43
+11,2018,contribucion_NINEZ Y JUVENTUD,16.3,Contribuciones IA_IPM,B44
+11,2019,contribucion_NINEZ Y JUVENTUD,12.4,Contribuciones IA_IPM,C44
+11,2021,contribucion_NINEZ Y JUVENTUD,14.3,Contribuciones IA_IPM,E44
+11,2022,contribucion_NINEZ Y JUVENTUD,15.0,Contribuciones IA_IPM,F44
+11,2023,contribucion_NINEZ Y JUVENTUD,13.3,Contribuciones IA_IPM,G44
+11,2024,contribucion_NINEZ Y JUVENTUD,12.9,Contribuciones IA_IPM,H44
+11,2018,contribucion_TRABAJO,31.7,Contribuciones IA_IPM,B45
+11,2019,contribucion_TRABAJO,28.7,Contribuciones IA_IPM,C45
+11,2021,contribucion_TRABAJO,34.2,Contribuciones IA_IPM,E45
+11,2022,contribucion_TRABAJO,30.4,Contribuciones IA_IPM,F45
+11,2023,contribucion_TRABAJO,33.8,Contribuciones IA_IPM,G45
+11,2024,contribucion_TRABAJO,32.3,Contribuciones IA_IPM,H45
+11,2018,contribucion_SALUD,18.8,Contribuciones IA_IPM,B46
+11,2019,contribucion_SALUD,29.1,Contribuciones IA_IPM,C46
+11,2021,contribucion_SALUD,17.3,Contribuciones IA_IPM,E46
+11,2022,contribucion_SALUD,21.6,Contribuciones IA_IPM,F46
+11,2023,contribucion_SALUD,21.3,Contribuciones IA_IPM,G46
+11,2024,contribucion_SALUD,23.1,Contribuciones IA_IPM,H46
+11,2018,contribucion_VIVIENDA,5.4,Contribuciones IA_IPM,B47
+11,2019,contribucion_VIVIENDA,3.4,Contribuciones IA_IPM,C47
+11,2021,contribucion_VIVIENDA,8.2,Contribuciones IA_IPM,E47
+11,2022,contribucion_VIVIENDA,8.7,Contribuciones IA_IPM,F47
+11,2023,contribucion_VIVIENDA,3.8,Contribuciones IA_IPM,G47
+11,2024,contribucion_VIVIENDA,5.4,Contribuciones IA_IPM,H47
+13,2018,contribucion_EDUCACION,33.5,Contribuciones IA_IPM,B58
+13,2019,contribucion_EDUCACION,34.9,Contribuciones IA_IPM,C58
+13,2021,contribucion_EDUCACION,33.6,Contribuciones IA_IPM,E58
+13,2022,contribucion_EDUCACION,36.8,Contribuciones IA_IPM,F58
+13,2023,contribucion_EDUCACION,37.8,Contribuciones IA_IPM,G58
+13,2024,contribucion_EDUCACION,37.3,Contribuciones IA_IPM,H58
+13,2018,contribucion_NINEZ Y JUVENTUD,12.9,Contribuciones IA_IPM,B59
+13,2019,contribucion_NINEZ Y JUVENTUD,11.9,Contribuciones IA_IPM,C59
+13,2021,contribucion_NINEZ Y JUVENTUD,14.2,Contribuciones IA_IPM,E59
+13,2022,contribucion_NINEZ Y JUVENTUD,11.4,Contribuciones IA_IPM,F59
+13,2023,contribucion_NINEZ Y JUVENTUD,11.6,Contribuciones IA_IPM,G59
+13,2024,contribucion_NINEZ Y JUVENTUD,11.0,Contribuciones IA_IPM,H59
+13,2018,contribucion_TRABAJO,25.5,Contribuciones IA_IPM,B60
+13,2019,contribucion_TRABAJO,27.1,Contribuciones IA_IPM,C60
+13,2021,contribucion_TRABAJO,27.4,Contribuciones IA_IPM,E60
+13,2022,contribucion_TRABAJO,29.9,Contribuciones IA_IPM,F60
+13,2023,contribucion_TRABAJO,28.1,Contribuciones IA_IPM,G60
+13,2024,contribucion_TRABAJO,28.8,Contribuciones IA_IPM,H60
+13,2018,contribucion_SALUD,10.9,Contribuciones IA_IPM,B61
+13,2019,contribucion_SALUD,8.7,Contribuciones IA_IPM,C61
+13,2021,contribucion_SALUD,6.3,Contribuciones IA_IPM,E61
+13,2022,contribucion_SALUD,3.7,Contribuciones IA_IPM,F61
+13,2023,contribucion_SALUD,4.6,Contribuciones IA_IPM,G61
+13,2024,contribucion_SALUD,3.2,Contribuciones IA_IPM,H61
+13,2018,contribucion_VIVIENDA,17.2,Contribuciones IA_IPM,B62
+13,2019,contribucion_VIVIENDA,17.5,Contribuciones IA_IPM,C62
+13,2021,contribucion_VIVIENDA,18.4,Contribuciones IA_IPM,E62
+13,2022,contribucion_VIVIENDA,18.2,Contribuciones IA_IPM,F62
+13,2023,contribucion_VIVIENDA,17.9,Contribuciones IA_IPM,G62
+13,2024,contribucion_VIVIENDA,19.7,Contribuciones IA_IPM,H62
+15,2018,contribucion_EDUCACION,36.5,Contribuciones IA_IPM,B74
+15,2019,contribucion_EDUCACION,37.0,Contribuciones IA_IPM,C74
+15,2021,contribucion_EDUCACION,36.2,Contribuciones IA_IPM,E74
+15,2022,contribucion_EDUCACION,35.2,Contribuciones IA_IPM,F74
+15,2023,contribucion_EDUCACION,37.3,Contribuciones IA_IPM,G74
+15,2024,contribucion_EDUCACION,38.4,Contribuciones IA_IPM,H74
+15,2018,contribucion_NINEZ Y JUVENTUD,11.7,Contribuciones IA_IPM,B75
+15,2019,contribucion_NINEZ Y JUVENTUD,11.8,Contribuciones IA_IPM,C75
+15,2021,contribucion_NINEZ Y JUVENTUD,13.5,Contribuciones IA_IPM,E75
+15,2022,contribucion_NINEZ Y JUVENTUD,14.7,Contribuciones IA_IPM,F75
+15,2023,contribucion_NINEZ Y JUVENTUD,13.5,Contribuciones IA_IPM,G75
+15,2024,contribucion_NINEZ Y JUVENTUD,12.8,Contribuciones IA_IPM,H75
+15,2018,contribucion_TRABAJO,30.8,Contribuciones IA_IPM,B76
+15,2019,contribucion_TRABAJO,33.4,Contribuciones IA_IPM,C76
+15,2021,contribucion_TRABAJO,31.6,Contribuciones IA_IPM,E76
+15,2022,contribucion_TRABAJO,32.2,Contribuciones IA_IPM,F76
+15,2023,contribucion_TRABAJO,32.2,Contribuciones IA_IPM,G76
+15,2024,contribucion_TRABAJO,35.6,Contribuciones IA_IPM,H76
+15,2018,contribucion_SALUD,10.5,Contribuciones IA_IPM,B77
+15,2019,contribucion_SALUD,7.2,Contribuciones IA_IPM,C77
+15,2021,contribucion_SALUD,8.9,Contribuciones IA_IPM,E77
+15,2022,contribucion_SALUD,10.0,Contribuciones IA_IPM,F77
+15,2023,contribucion_SALUD,10.3,Contribuciones IA_IPM,G77
+15,2024,contribucion_SALUD,5.8,Contribuciones IA_IPM,H77
+15,2018,contribucion_VIVIENDA,10.5,Contribuciones IA_IPM,B78
+15,2019,contribucion_VIVIENDA,10.6,Contribuciones IA_IPM,C78
+15,2021,contribucion_VIVIENDA,9.7,Contribuciones IA_IPM,E78
+15,2022,contribucion_VIVIENDA,7.9,Contribuciones IA_IPM,F78
+15,2023,contribucion_VIVIENDA,6.8,Contribuciones IA_IPM,G78
+15,2024,contribucion_VIVIENDA,7.4,Contribuciones IA_IPM,H78
+17,2018,contribucion_EDUCACION,37.8,Contribuciones IA_IPM,B89
+17,2019,contribucion_EDUCACION,37.8,Contribuciones IA_IPM,C89
+17,2021,contribucion_EDUCACION,37.0,Contribuciones IA_IPM,E89
+17,2022,contribucion_EDUCACION,38.4,Contribuciones IA_IPM,F89
+17,2023,contribucion_EDUCACION,37.4,Contribuciones IA_IPM,G89
+17,2024,contribucion_EDUCACION,37.4,Contribuciones IA_IPM,H89
+17,2018,contribucion_NINEZ Y JUVENTUD,12.6,Contribuciones IA_IPM,B90
+17,2019,contribucion_NINEZ Y JUVENTUD,11.9,Contribuciones IA_IPM,C90
+17,2021,contribucion_NINEZ Y JUVENTUD,13.5,Contribuciones IA_IPM,E90
+17,2022,contribucion_NINEZ Y JUVENTUD,12.8,Contribuciones IA_IPM,F90
+17,2023,contribucion_NINEZ Y JUVENTUD,11.5,Contribuciones IA_IPM,G90
+17,2024,contribucion_NINEZ Y JUVENTUD,15.2,Contribuciones IA_IPM,H90
+17,2018,contribucion_TRABAJO,29.9,Contribuciones IA_IPM,B91
+17,2019,contribucion_TRABAJO,29.8,Contribuciones IA_IPM,C91
+17,2021,contribucion_TRABAJO,30.9,Contribuciones IA_IPM,E91
+17,2022,contribucion_TRABAJO,32.2,Contribuciones IA_IPM,F91
+17,2023,contribucion_TRABAJO,35.1,Contribuciones IA_IPM,G91
+17,2024,contribucion_TRABAJO,32.4,Contribuciones IA_IPM,H91
+17,2018,contribucion_SALUD,12.8,Contribuciones IA_IPM,B92
+17,2019,contribucion_SALUD,13.1,Contribuciones IA_IPM,C92
+17,2021,contribucion_SALUD,12.3,Contribuciones IA_IPM,E92
+17,2022,contribucion_SALUD,10.0,Contribuciones IA_IPM,F92
+17,2023,contribucion_SALUD,10.2,Contribuciones IA_IPM,G92
+17,2024,contribucion_SALUD,6.9,Contribuciones IA_IPM,H92
+17,2018,contribucion_VIVIENDA,6.9,Contribuciones IA_IPM,B93
+17,2019,contribucion_VIVIENDA,7.4,Contribuciones IA_IPM,C93
+17,2021,contribucion_VIVIENDA,6.3,Contribuciones IA_IPM,E93
+17,2022,contribucion_VIVIENDA,6.5,Contribuciones IA_IPM,F93
+17,2023,contribucion_VIVIENDA,5.8,Contribuciones IA_IPM,G93
+17,2024,contribucion_VIVIENDA,8.1,Contribuciones IA_IPM,H93
+18,2018,contribucion_EDUCACION,33.7,Contribuciones IA_IPM,B104
+18,2019,contribucion_EDUCACION,33.8,Contribuciones IA_IPM,C104
+18,2021,contribucion_EDUCACION,31.7,Contribuciones IA_IPM,E104
+18,2022,contribucion_EDUCACION,36.8,Contribuciones IA_IPM,F104
+18,2023,contribucion_EDUCACION,35.3,Contribuciones IA_IPM,G104
+18,2024,contribucion_EDUCACION,36.3,Contribuciones IA_IPM,H104
+18,2018,contribucion_NINEZ Y JUVENTUD,16.4,Contribuciones IA_IPM,B105
+18,2019,contribucion_NINEZ Y JUVENTUD,15.4,Contribuciones IA_IPM,C105
+18,2021,contribucion_NINEZ Y JUVENTUD,17.7,Contribuciones IA_IPM,E105
+18,2022,contribucion_NINEZ Y JUVENTUD,16.1,Contribuciones IA_IPM,F105
+18,2023,contribucion_NINEZ Y JUVENTUD,17.4,Contribuciones IA_IPM,G105
+18,2024,contribucion_NINEZ Y JUVENTUD,18.5,Contribuciones IA_IPM,H105
+18,2018,contribucion_TRABAJO,28.4,Contribuciones IA_IPM,B106
+18,2019,contribucion_TRABAJO,27.9,Contribuciones IA_IPM,C106
+18,2021,contribucion_TRABAJO,28.8,Contribuciones IA_IPM,E106
+18,2022,contribucion_TRABAJO,29.3,Contribuciones IA_IPM,F106
+18,2023,contribucion_TRABAJO,30.4,Contribuciones IA_IPM,G106
+18,2024,contribucion_TRABAJO,31.1,Contribuciones IA_IPM,H106
+18,2018,contribucion_SALUD,9.9,Contribuciones IA_IPM,B107
+18,2019,contribucion_SALUD,9.3,Contribuciones IA_IPM,C107
+18,2021,contribucion_SALUD,10.0,Contribuciones IA_IPM,E107
+18,2022,contribucion_SALUD,6.6,Contribuciones IA_IPM,F107
+18,2023,contribucion_SALUD,4.9,Contribuciones IA_IPM,G107
+18,2024,contribucion_SALUD,1.0,Contribuciones IA_IPM,H107
+18,2018,contribucion_VIVIENDA,11.7,Contribuciones IA_IPM,B108
+18,2019,contribucion_VIVIENDA,13.6,Contribuciones IA_IPM,C108
+18,2021,contribucion_VIVIENDA,11.7,Contribuciones IA_IPM,E108
+18,2022,contribucion_VIVIENDA,11.2,Contribuciones IA_IPM,F108
+18,2023,contribucion_VIVIENDA,12.1,Contribuciones IA_IPM,G108
+18,2024,contribucion_VIVIENDA,13.1,Contribuciones IA_IPM,H108
+19,2018,contribucion_EDUCACION,36.1,Contribuciones IA_IPM,B119
+19,2019,contribucion_EDUCACION,35.7,Contribuciones IA_IPM,C119
+19,2021,contribucion_EDUCACION,35.8,Contribuciones IA_IPM,E119
+19,2022,contribucion_EDUCACION,34.7,Contribuciones IA_IPM,F119
+19,2023,contribucion_EDUCACION,37.4,Contribuciones IA_IPM,G119
+19,2024,contribucion_EDUCACION,36.3,Contribuciones IA_IPM,H119
+19,2018,contribucion_NINEZ Y JUVENTUD,14.6,Contribuciones IA_IPM,B120
+19,2019,contribucion_NINEZ Y JUVENTUD,13.8,Contribuciones IA_IPM,C120
+19,2021,contribucion_NINEZ Y JUVENTUD,14.3,Contribuciones IA_IPM,E120
+19,2022,contribucion_NINEZ Y JUVENTUD,12.7,Contribuciones IA_IPM,F120
+19,2023,contribucion_NINEZ Y JUVENTUD,14.2,Contribuciones IA_IPM,G120
+19,2024,contribucion_NINEZ Y JUVENTUD,15.4,Contribuciones IA_IPM,H120
+19,2018,contribucion_TRABAJO,26.7,Contribuciones IA_IPM,B121
+19,2019,contribucion_TRABAJO,27.5,Contribuciones IA_IPM,C121
+19,2021,contribucion_TRABAJO,29.4,Contribuciones IA_IPM,E121
+19,2022,contribucion_TRABAJO,31.6,Contribuciones IA_IPM,F121
+19,2023,contribucion_TRABAJO,30.5,Contribuciones IA_IPM,G121
+19,2024,contribucion_TRABAJO,29.6,Contribuciones IA_IPM,H121
+19,2018,contribucion_SALUD,10.8,Contribuciones IA_IPM,B122
+19,2019,contribucion_SALUD,10.2,Contribuciones IA_IPM,C122
+19,2021,contribucion_SALUD,7.1,Contribuciones IA_IPM,E122
+19,2022,contribucion_SALUD,7.2,Contribuciones IA_IPM,F122
+19,2023,contribucion_SALUD,3.4,Contribuciones IA_IPM,G122
+19,2024,contribucion_SALUD,5.9,Contribuciones IA_IPM,H122
+19,2018,contribucion_VIVIENDA,11.9,Contribuciones IA_IPM,B123
+19,2019,contribucion_VIVIENDA,12.7,Contribuciones IA_IPM,C123
+19,2021,contribucion_VIVIENDA,13.4,Contribuciones IA_IPM,E123
+19,2022,contribucion_VIVIENDA,13.8,Contribuciones IA_IPM,F123
+19,2023,contribucion_VIVIENDA,14.5,Contribuciones IA_IPM,G123
+19,2024,contribucion_VIVIENDA,12.8,Contribuciones IA_IPM,H123
+20,2018,contribucion_EDUCACION,32.3,Contribuciones IA_IPM,B134
+20,2019,contribucion_EDUCACION,33.1,Contribuciones IA_IPM,C134
+20,2021,contribucion_EDUCACION,34.8,Contribuciones IA_IPM,E134
+20,2022,contribucion_EDUCACION,37.1,Contribuciones IA_IPM,F134
+20,2023,contribucion_EDUCACION,36.0,Contribuciones IA_IPM,G134
+20,2024,contribucion_EDUCACION,37.7,Contribuciones IA_IPM,H134
+20,2018,contribucion_NINEZ Y JUVENTUD,15.7,Contribuciones IA_IPM,B135
+20,2019,contribucion_NINEZ Y JUVENTUD,14.5,Contribuciones IA_IPM,C135
+20,2021,contribucion_NINEZ Y JUVENTUD,17.1,Contribuciones IA_IPM,E135
+20,2022,contribucion_NINEZ Y JUVENTUD,14.7,Contribuciones IA_IPM,F135
+20,2023,contribucion_NINEZ Y JUVENTUD,13.0,Contribuciones IA_IPM,G135
+20,2024,contribucion_NINEZ Y JUVENTUD,15.4,Contribuciones IA_IPM,H135
+20,2018,contribucion_TRABAJO,25.4,Contribuciones IA_IPM,B136
+20,2019,contribucion_TRABAJO,27.3,Contribuciones IA_IPM,C136
+20,2021,contribucion_TRABAJO,27.9,Contribuciones IA_IPM,E136
+20,2022,contribucion_TRABAJO,28.0,Contribuciones IA_IPM,F136
+20,2023,contribucion_TRABAJO,30.1,Contribuciones IA_IPM,G136
+20,2024,contribucion_TRABAJO,29.4,Contribuciones IA_IPM,H136
+20,2018,contribucion_SALUD,14.9,Contribuciones IA_IPM,B137
+20,2019,contribucion_SALUD,12.4,Contribuciones IA_IPM,C137
+20,2021,contribucion_SALUD,8.4,Contribuciones IA_IPM,E137
+20,2022,contribucion_SALUD,7.7,Contribuciones IA_IPM,F137
+20,2023,contribucion_SALUD,7.2,Contribuciones IA_IPM,G137
+20,2024,contribucion_SALUD,4.1,Contribuciones IA_IPM,H137
+20,2018,contribucion_VIVIENDA,11.7,Contribuciones IA_IPM,B138
+20,2019,contribucion_VIVIENDA,12.7,Contribuciones IA_IPM,C138
+20,2021,contribucion_VIVIENDA,11.8,Contribuciones IA_IPM,E138
+20,2022,contribucion_VIVIENDA,12.4,Contribuciones IA_IPM,F138
+20,2023,contribucion_VIVIENDA,13.7,Contribuciones IA_IPM,G138
+20,2024,contribucion_VIVIENDA,13.4,Contribuciones IA_IPM,H138
+23,2018,contribucion_EDUCACION,38.0,Contribuciones IA_IPM,B149
+23,2019,contribucion_EDUCACION,37.0,Contribuciones IA_IPM,C149
+23,2021,contribucion_EDUCACION,37.1,Contribuciones IA_IPM,E149
+23,2022,contribucion_EDUCACION,37.2,Contribuciones IA_IPM,F149
+23,2023,contribucion_EDUCACION,39.9,Contribuciones IA_IPM,G149
+23,2024,contribucion_EDUCACION,38.2,Contribuciones IA_IPM,H149
+23,2018,contribucion_NINEZ Y JUVENTUD,11.6,Contribuciones IA_IPM,B150
+23,2019,contribucion_NINEZ Y JUVENTUD,10.6,Contribuciones IA_IPM,C150
+23,2021,contribucion_NINEZ Y JUVENTUD,10.9,Contribuciones IA_IPM,E150
+23,2022,contribucion_NINEZ Y JUVENTUD,10.4,Contribuciones IA_IPM,F150
+23,2023,contribucion_NINEZ Y JUVENTUD,10.9,Contribuciones IA_IPM,G150
+23,2024,contribucion_NINEZ Y JUVENTUD,9.9,Contribuciones IA_IPM,H150
+23,2018,contribucion_TRABAJO,25.6,Contribuciones IA_IPM,B151
+23,2019,contribucion_TRABAJO,26.1,Contribuciones IA_IPM,C151
+23,2021,contribucion_TRABAJO,28.0,Contribuciones IA_IPM,E151
+23,2022,contribucion_TRABAJO,30.3,Contribuciones IA_IPM,F151
+23,2023,contribucion_TRABAJO,29.8,Contribuciones IA_IPM,G151
+23,2024,contribucion_TRABAJO,29.7,Contribuciones IA_IPM,H151
+23,2018,contribucion_SALUD,6.9,Contribuciones IA_IPM,B152
+23,2019,contribucion_SALUD,9.1,Contribuciones IA_IPM,C152
+23,2021,contribucion_SALUD,4.3,Contribuciones IA_IPM,E152
+23,2022,contribucion_SALUD,3.1,Contribuciones IA_IPM,F152
+23,2023,contribucion_SALUD,2.7,Contribuciones IA_IPM,G152
+23,2024,contribucion_SALUD,2.4,Contribuciones IA_IPM,H152
+23,2018,contribucion_VIVIENDA,17.9,Contribuciones IA_IPM,B153
+23,2019,contribucion_VIVIENDA,17.3,Contribuciones IA_IPM,C153
+23,2021,contribucion_VIVIENDA,19.7,Contribuciones IA_IPM,E153
+23,2022,contribucion_VIVIENDA,19.1,Contribuciones IA_IPM,F153
+23,2023,contribucion_VIVIENDA,16.7,Contribuciones IA_IPM,G153
+23,2024,contribucion_VIVIENDA,19.9,Contribuciones IA_IPM,H153
+25,2018,contribucion_EDUCACION,35.1,Contribuciones IA_IPM,B164
+25,2019,contribucion_EDUCACION,30.0,Contribuciones IA_IPM,C164
+25,2021,contribucion_EDUCACION,29.6,Contribuciones IA_IPM,E164
+25,2022,contribucion_EDUCACION,31.4,Contribuciones IA_IPM,F164
+25,2023,contribucion_EDUCACION,31.2,Contribuciones IA_IPM,G164
+25,2024,contribucion_EDUCACION,33.9,Contribuciones IA_IPM,H164
+25,2018,contribucion_NINEZ Y JUVENTUD,12.3,Contribuciones IA_IPM,B165
+25,2019,contribucion_NINEZ Y JUVENTUD,14.7,Contribuciones IA_IPM,C165
+25,2021,contribucion_NINEZ Y JUVENTUD,15.5,Contribuciones IA_IPM,E165
+25,2022,contribucion_NINEZ Y JUVENTUD,14.9,Contribuciones IA_IPM,F165
+25,2023,contribucion_NINEZ Y JUVENTUD,14.5,Contribuciones IA_IPM,G165
+25,2024,contribucion_NINEZ Y JUVENTUD,14.0,Contribuciones IA_IPM,H165
+25,2018,contribucion_TRABAJO,31.3,Contribuciones IA_IPM,B166
+25,2019,contribucion_TRABAJO,31.3,Contribuciones IA_IPM,C166
+25,2021,contribucion_TRABAJO,31.9,Contribuciones IA_IPM,E166
+25,2022,contribucion_TRABAJO,33.0,Contribuciones IA_IPM,F166
+25,2023,contribucion_TRABAJO,30.5,Contribuciones IA_IPM,G166
+25,2024,contribucion_TRABAJO,34.4,Contribuciones IA_IPM,H166
+25,2018,contribucion_SALUD,14.5,Contribuciones IA_IPM,B167
+25,2019,contribucion_SALUD,14.4,Contribuciones IA_IPM,C167
+25,2021,contribucion_SALUD,16.0,Contribuciones IA_IPM,E167
+25,2022,contribucion_SALUD,14.5,Contribuciones IA_IPM,F167
+25,2023,contribucion_SALUD,17.9,Contribuciones IA_IPM,G167
+25,2024,contribucion_SALUD,13.6,Contribuciones IA_IPM,H167
+25,2018,contribucion_VIVIENDA,6.9,Contribuciones IA_IPM,B168
+25,2019,contribucion_VIVIENDA,9.6,Contribuciones IA_IPM,C168
+25,2021,contribucion_VIVIENDA,6.9,Contribuciones IA_IPM,E168
+25,2022,contribucion_VIVIENDA,6.2,Contribuciones IA_IPM,F168
+25,2023,contribucion_VIVIENDA,6.0,Contribuciones IA_IPM,G168
+25,2024,contribucion_VIVIENDA,4.0,Contribuciones IA_IPM,H168
+27,2018,contribucion_EDUCACION,34.7,Contribuciones IA_IPM,B179
+27,2019,contribucion_EDUCACION,36.5,Contribuciones IA_IPM,C179
+27,2021,contribucion_EDUCACION,37.6,Contribuciones IA_IPM,E179
+27,2022,contribucion_EDUCACION,36.5,Contribuciones IA_IPM,F179
+27,2023,contribucion_EDUCACION,37.3,Contribuciones IA_IPM,G179
+27,2024,contribucion_EDUCACION,38.6,Contribuciones IA_IPM,H179
+27,2018,contribucion_NINEZ Y JUVENTUD,12.3,Contribuciones IA_IPM,B180
+27,2019,contribucion_NINEZ Y JUVENTUD,12.0,Contribuciones IA_IPM,C180
+27,2021,contribucion_NINEZ Y JUVENTUD,12.6,Contribuciones IA_IPM,E180
+27,2022,contribucion_NINEZ Y JUVENTUD,12.3,Contribuciones IA_IPM,F180
+27,2023,contribucion_NINEZ Y JUVENTUD,12.0,Contribuciones IA_IPM,G180
+27,2024,contribucion_NINEZ Y JUVENTUD,10.8,Contribuciones IA_IPM,H180
+27,2018,contribucion_TRABAJO,25.3,Contribuciones IA_IPM,B181
+27,2019,contribucion_TRABAJO,27.3,Contribuciones IA_IPM,C181
+27,2021,contribucion_TRABAJO,27.9,Contribuciones IA_IPM,E181
+27,2022,contribucion_TRABAJO,28.3,Contribuciones IA_IPM,F181
+27,2023,contribucion_TRABAJO,28.8,Contribuciones IA_IPM,G181
+27,2024,contribucion_TRABAJO,29.8,Contribuciones IA_IPM,H181
+27,2018,contribucion_SALUD,8.2,Contribuciones IA_IPM,B182
+27,2019,contribucion_SALUD,4.5,Contribuciones IA_IPM,C182
+27,2021,contribucion_SALUD,1.5,Contribuciones IA_IPM,E182
+27,2022,contribucion_SALUD,3.4,Contribuciones IA_IPM,F182
+27,2023,contribucion_SALUD,1.4,Contribuciones IA_IPM,G182
+27,2024,contribucion_SALUD,1.3,Contribuciones IA_IPM,H182
+27,2018,contribucion_VIVIENDA,19.4,Contribuciones IA_IPM,B183
+27,2019,contribucion_VIVIENDA,19.7,Contribuciones IA_IPM,C183
+27,2021,contribucion_VIVIENDA,20.3,Contribuciones IA_IPM,E183
+27,2022,contribucion_VIVIENDA,19.5,Contribuciones IA_IPM,F183
+27,2023,contribucion_VIVIENDA,20.5,Contribuciones IA_IPM,G183
+27,2024,contribucion_VIVIENDA,19.5,Contribuciones IA_IPM,H183
+41,2018,contribucion_EDUCACION,35.0,Contribuciones IA_IPM,B194
+41,2019,contribucion_EDUCACION,34.1,Contribuciones IA_IPM,C194
+41,2021,contribucion_EDUCACION,33.9,Contribuciones IA_IPM,E194
+41,2022,contribucion_EDUCACION,36.9,Contribuciones IA_IPM,F194
+41,2023,contribucion_EDUCACION,34.5,Contribuciones IA_IPM,G194
+41,2024,contribucion_EDUCACION,34.9,Contribuciones IA_IPM,H194
+41,2018,contribucion_NINEZ Y JUVENTUD,16.1,Contribuciones IA_IPM,B195
+41,2019,contribucion_NINEZ Y JUVENTUD,18.1,Contribuciones IA_IPM,C195
+41,2021,contribucion_NINEZ Y JUVENTUD,21.6,Contribuciones IA_IPM,E195
+41,2022,contribucion_NINEZ Y JUVENTUD,18.5,Contribuciones IA_IPM,F195
+41,2023,contribucion_NINEZ Y JUVENTUD,20.2,Contribuciones IA_IPM,G195
+41,2024,contribucion_NINEZ Y JUVENTUD,19.2,Contribuciones IA_IPM,H195
+41,2018,contribucion_TRABAJO,29.6,Contribuciones IA_IPM,B196
+41,2019,contribucion_TRABAJO,27.9,Contribuciones IA_IPM,C196
+41,2021,contribucion_TRABAJO,28.7,Contribuciones IA_IPM,E196
+41,2022,contribucion_TRABAJO,28.9,Contribuciones IA_IPM,F196
+41,2023,contribucion_TRABAJO,30.4,Contribuciones IA_IPM,G196
+41,2024,contribucion_TRABAJO,31.7,Contribuciones IA_IPM,H196
+41,2018,contribucion_SALUD,9.3,Contribuciones IA_IPM,B197
+41,2019,contribucion_SALUD,9.8,Contribuciones IA_IPM,C197
+41,2021,contribucion_SALUD,6.0,Contribuciones IA_IPM,E197
+41,2022,contribucion_SALUD,7.0,Contribuciones IA_IPM,F197
+41,2023,contribucion_SALUD,6.7,Contribuciones IA_IPM,G197
+41,2024,contribucion_SALUD,5.1,Contribuciones IA_IPM,H197
+41,2018,contribucion_VIVIENDA,10.0,Contribuciones IA_IPM,B198
+41,2019,contribucion_VIVIENDA,10.2,Contribuciones IA_IPM,C198
+41,2021,contribucion_VIVIENDA,9.8,Contribuciones IA_IPM,E198
+41,2022,contribucion_VIVIENDA,8.7,Contribuciones IA_IPM,F198
+41,2023,contribucion_VIVIENDA,8.3,Contribuciones IA_IPM,G198
+41,2024,contribucion_VIVIENDA,9.0,Contribuciones IA_IPM,H198
+44,2018,contribucion_EDUCACION,31.5,Contribuciones IA_IPM,B209
+44,2019,contribucion_EDUCACION,31.3,Contribuciones IA_IPM,C209
+44,2021,contribucion_EDUCACION,33.0,Contribuciones IA_IPM,E209
+44,2022,contribucion_EDUCACION,32.9,Contribuciones IA_IPM,F209
+44,2023,contribucion_EDUCACION,33.0,Contribuciones IA_IPM,G209
+44,2024,contribucion_EDUCACION,33.2,Contribuciones IA_IPM,H209
+44,2018,contribucion_NINEZ Y JUVENTUD,12.6,Contribuciones IA_IPM,B210
+44,2019,contribucion_NINEZ Y JUVENTUD,12.4,Contribuciones IA_IPM,C210
+44,2021,contribucion_NINEZ Y JUVENTUD,13.0,Contribuciones IA_IPM,E210
+44,2022,contribucion_NINEZ Y JUVENTUD,12.0,Contribuciones IA_IPM,F210
+44,2023,contribucion_NINEZ Y JUVENTUD,11.5,Contribuciones IA_IPM,G210
+44,2024,contribucion_NINEZ Y JUVENTUD,11.6,Contribuciones IA_IPM,H210
+44,2018,contribucion_TRABAJO,22.7,Contribuciones IA_IPM,B211
+44,2019,contribucion_TRABAJO,23.2,Contribuciones IA_IPM,C211
+44,2021,contribucion_TRABAJO,24.1,Contribuciones IA_IPM,E211
+44,2022,contribucion_TRABAJO,23.8,Contribuciones IA_IPM,F211
+44,2023,contribucion_TRABAJO,26.3,Contribuciones IA_IPM,G211
+44,2024,contribucion_TRABAJO,23.8,Contribuciones IA_IPM,H211
+44,2018,contribucion_SALUD,11.1,Contribuciones IA_IPM,B212
+44,2019,contribucion_SALUD,10.6,Contribuciones IA_IPM,C212
+44,2021,contribucion_SALUD,5.3,Contribuciones IA_IPM,E212
+44,2022,contribucion_SALUD,5.9,Contribuciones IA_IPM,F212
+44,2023,contribucion_SALUD,4.7,Contribuciones IA_IPM,G212
+44,2024,contribucion_SALUD,4.1,Contribuciones IA_IPM,H212
+44,2018,contribucion_VIVIENDA,22.1,Contribuciones IA_IPM,B213
+44,2019,contribucion_VIVIENDA,22.4,Contribuciones IA_IPM,C213
+44,2021,contribucion_VIVIENDA,24.6,Contribuciones IA_IPM,E213
+44,2022,contribucion_VIVIENDA,25.3,Contribuciones IA_IPM,F213
+44,2023,contribucion_VIVIENDA,24.6,Contribuciones IA_IPM,G213
+44,2024,contribucion_VIVIENDA,27.3,Contribuciones IA_IPM,H213
+47,2018,contribucion_EDUCACION,32.7,Contribuciones IA_IPM,B224
+47,2019,contribucion_EDUCACION,33.9,Contribuciones IA_IPM,C224
+47,2021,contribucion_EDUCACION,34.6,Contribuciones IA_IPM,E224
+47,2022,contribucion_EDUCACION,37.2,Contribuciones IA_IPM,F224
+47,2023,contribucion_EDUCACION,36.3,Contribuciones IA_IPM,G224
+47,2024,contribucion_EDUCACION,38.8,Contribuciones IA_IPM,H224
+47,2018,contribucion_NINEZ Y JUVENTUD,13.5,Contribuciones IA_IPM,B225
+47,2019,contribucion_NINEZ Y JUVENTUD,13.6,Contribuciones IA_IPM,C225
+47,2021,contribucion_NINEZ Y JUVENTUD,16.0,Contribuciones IA_IPM,E225
+47,2022,contribucion_NINEZ Y JUVENTUD,13.1,Contribuciones IA_IPM,F225
+47,2023,contribucion_NINEZ Y JUVENTUD,12.8,Contribuciones IA_IPM,G225
+47,2024,contribucion_NINEZ Y JUVENTUD,13.2,Contribuciones IA_IPM,H225
+47,2018,contribucion_TRABAJO,25.0,Contribuciones IA_IPM,B226
+47,2019,contribucion_TRABAJO,25.5,Contribuciones IA_IPM,C226
+47,2021,contribucion_TRABAJO,27.6,Contribuciones IA_IPM,E226
+47,2022,contribucion_TRABAJO,28.8,Contribuciones IA_IPM,F226
+47,2023,contribucion_TRABAJO,27.8,Contribuciones IA_IPM,G226
+47,2024,contribucion_TRABAJO,30.1,Contribuciones IA_IPM,H226
+47,2018,contribucion_SALUD,13.3,Contribuciones IA_IPM,B227
+47,2019,contribucion_SALUD,10.3,Contribuciones IA_IPM,C227
+47,2021,contribucion_SALUD,6.8,Contribuciones IA_IPM,E227
+47,2022,contribucion_SALUD,5.7,Contribuciones IA_IPM,F227
+47,2023,contribucion_SALUD,7.4,Contribuciones IA_IPM,G227
+47,2024,contribucion_SALUD,4.0,Contribuciones IA_IPM,H227
+47,2018,contribucion_VIVIENDA,15.5,Contribuciones IA_IPM,B228
+47,2019,contribucion_VIVIENDA,16.7,Contribuciones IA_IPM,C228
+47,2021,contribucion_VIVIENDA,14.9,Contribuciones IA_IPM,E228
+47,2022,contribucion_VIVIENDA,15.2,Contribuciones IA_IPM,F228
+47,2023,contribucion_VIVIENDA,15.7,Contribuciones IA_IPM,G228
+47,2024,contribucion_VIVIENDA,13.9,Contribuciones IA_IPM,H228
+50,2018,contribucion_EDUCACION,32.8,Contribuciones IA_IPM,B239
+50,2019,contribucion_EDUCACION,31.2,Contribuciones IA_IPM,C239
+50,2021,contribucion_EDUCACION,32.8,Contribuciones IA_IPM,E239
+50,2022,contribucion_EDUCACION,31.9,Contribuciones IA_IPM,F239
+50,2023,contribucion_EDUCACION,31.3,Contribuciones IA_IPM,G239
+50,2024,contribucion_EDUCACION,36.0,Contribuciones IA_IPM,H239
+50,2018,contribucion_NINEZ Y JUVENTUD,15.3,Contribuciones IA_IPM,B240
+50,2019,contribucion_NINEZ Y JUVENTUD,15.2,Contribuciones IA_IPM,C240
+50,2021,contribucion_NINEZ Y JUVENTUD,16.1,Contribuciones IA_IPM,E240
+50,2022,contribucion_NINEZ Y JUVENTUD,16.4,Contribuciones IA_IPM,F240
+50,2023,contribucion_NINEZ Y JUVENTUD,15.5,Contribuciones IA_IPM,G240
+50,2024,contribucion_NINEZ Y JUVENTUD,14.7,Contribuciones IA_IPM,H240
+50,2018,contribucion_TRABAJO,29.0,Contribuciones IA_IPM,B241
+50,2019,contribucion_TRABAJO,30.2,Contribuciones IA_IPM,C241
+50,2021,contribucion_TRABAJO,28.8,Contribuciones IA_IPM,E241
+50,2022,contribucion_TRABAJO,28.6,Contribuciones IA_IPM,F241
+50,2023,contribucion_TRABAJO,29.1,Contribuciones IA_IPM,G241
+50,2024,contribucion_TRABAJO,30.7,Contribuciones IA_IPM,H241
+50,2018,contribucion_SALUD,13.4,Contribuciones IA_IPM,B242
+50,2019,contribucion_SALUD,13.5,Contribuciones IA_IPM,C242
+50,2021,contribucion_SALUD,8.8,Contribuciones IA_IPM,E242
+50,2022,contribucion_SALUD,10.4,Contribuciones IA_IPM,F242
+50,2023,contribucion_SALUD,11.6,Contribuciones IA_IPM,G242
+50,2024,contribucion_SALUD,9.9,Contribuciones IA_IPM,H242
+50,2018,contribucion_VIVIENDA,9.4,Contribuciones IA_IPM,B243
+50,2019,contribucion_VIVIENDA,9.9,Contribuciones IA_IPM,C243
+50,2021,contribucion_VIVIENDA,13.5,Contribuciones IA_IPM,E243
+50,2022,contribucion_VIVIENDA,12.6,Contribuciones IA_IPM,F243
+50,2023,contribucion_VIVIENDA,12.5,Contribuciones IA_IPM,G243
+50,2024,contribucion_VIVIENDA,8.6,Contribuciones IA_IPM,H243
+52,2018,contribucion_EDUCACION,34.6,Contribuciones IA_IPM,B254
+52,2019,contribucion_EDUCACION,35.0,Contribuciones IA_IPM,C254
+52,2021,contribucion_EDUCACION,34.9,Contribuciones IA_IPM,E254
+52,2022,contribucion_EDUCACION,34.3,Contribuciones IA_IPM,F254
+52,2023,contribucion_EDUCACION,36.2,Contribuciones IA_IPM,G254
+52,2024,contribucion_EDUCACION,36.5,Contribuciones IA_IPM,H254
+52,2018,contribucion_NINEZ Y JUVENTUD,13.5,Contribuciones IA_IPM,B255
+52,2019,contribucion_NINEZ Y JUVENTUD,14.6,Contribuciones IA_IPM,C255
+52,2021,contribucion_NINEZ Y JUVENTUD,13.1,Contribuciones IA_IPM,E255
+52,2022,contribucion_NINEZ Y JUVENTUD,14.3,Contribuciones IA_IPM,F255
+52,2023,contribucion_NINEZ Y JUVENTUD,11.4,Contribuciones IA_IPM,G255
+52,2024,contribucion_NINEZ Y JUVENTUD,10.8,Contribuciones IA_IPM,H255
+52,2018,contribucion_TRABAJO,25.6,Contribuciones IA_IPM,B256
+52,2019,contribucion_TRABAJO,27.1,Contribuciones IA_IPM,C256
+52,2021,contribucion_TRABAJO,27.3,Contribuciones IA_IPM,E256
+52,2022,contribucion_TRABAJO,28.6,Contribuciones IA_IPM,F256
+52,2023,contribucion_TRABAJO,29.8,Contribuciones IA_IPM,G256
+52,2024,contribucion_TRABAJO,29.8,Contribuciones IA_IPM,H256
+52,2018,contribucion_SALUD,14.9,Contribuciones IA_IPM,B257
+52,2019,contribucion_SALUD,10.3,Contribuciones IA_IPM,C257
+52,2021,contribucion_SALUD,9.3,Contribuciones IA_IPM,E257
+52,2022,contribucion_SALUD,6.9,Contribuciones IA_IPM,F257
+52,2023,contribucion_SALUD,9.0,Contribuciones IA_IPM,G257
+52,2024,contribucion_SALUD,9.5,Contribuciones IA_IPM,H257
+52,2018,contribucion_VIVIENDA,11.4,Contribuciones IA_IPM,B258
+52,2019,contribucion_VIVIENDA,13.0,Contribuciones IA_IPM,C258
+52,2021,contribucion_VIVIENDA,15.4,Contribuciones IA_IPM,E258
+52,2022,contribucion_VIVIENDA,15.8,Contribuciones IA_IPM,F258
+52,2023,contribucion_VIVIENDA,13.5,Contribuciones IA_IPM,G258
+52,2024,contribucion_VIVIENDA,13.3,Contribuciones IA_IPM,H258
+54,2018,contribucion_EDUCACION,30.1,Contribuciones IA_IPM,B269
+54,2019,contribucion_EDUCACION,30.3,Contribuciones IA_IPM,C269
+54,2021,contribucion_EDUCACION,28.6,Contribuciones IA_IPM,E269
+54,2022,contribucion_EDUCACION,32.5,Contribuciones IA_IPM,F269
+54,2023,contribucion_EDUCACION,33.3,Contribuciones IA_IPM,G269
+54,2024,contribucion_EDUCACION,34.3,Contribuciones IA_IPM,H269
+54,2018,contribucion_NINEZ Y JUVENTUD,14.0,Contribuciones IA_IPM,B270
+54,2019,contribucion_NINEZ Y JUVENTUD,16.0,Contribuciones IA_IPM,C270
+54,2021,contribucion_NINEZ Y JUVENTUD,18.0,Contribuciones IA_IPM,E270
+54,2022,contribucion_NINEZ Y JUVENTUD,16.2,Contribuciones IA_IPM,F270
+54,2023,contribucion_NINEZ Y JUVENTUD,16.9,Contribuciones IA_IPM,G270
+54,2024,contribucion_NINEZ Y JUVENTUD,15.7,Contribuciones IA_IPM,H270
+54,2018,contribucion_TRABAJO,26.4,Contribuciones IA_IPM,B271
+54,2019,contribucion_TRABAJO,26.0,Contribuciones IA_IPM,C271
+54,2021,contribucion_TRABAJO,25.7,Contribuciones IA_IPM,E271
+54,2022,contribucion_TRABAJO,27.1,Contribuciones IA_IPM,F271
+54,2023,contribucion_TRABAJO,28.2,Contribuciones IA_IPM,G271
+54,2024,contribucion_TRABAJO,27.3,Contribuciones IA_IPM,H271
+54,2018,contribucion_SALUD,20.0,Contribuciones IA_IPM,B272
+54,2019,contribucion_SALUD,16.8,Contribuciones IA_IPM,C272
+54,2021,contribucion_SALUD,17.5,Contribuciones IA_IPM,E272
+54,2022,contribucion_SALUD,13.7,Contribuciones IA_IPM,F272
+54,2023,contribucion_SALUD,10.2,Contribuciones IA_IPM,G272
+54,2024,contribucion_SALUD,11.1,Contribuciones IA_IPM,H272
+54,2018,contribucion_VIVIENDA,9.5,Contribuciones IA_IPM,B273
+54,2019,contribucion_VIVIENDA,11.0,Contribuciones IA_IPM,C273
+54,2021,contribucion_VIVIENDA,10.1,Contribuciones IA_IPM,E273
+54,2022,contribucion_VIVIENDA,10.5,Contribuciones IA_IPM,F273
+54,2023,contribucion_VIVIENDA,11.4,Contribuciones IA_IPM,G273
+54,2024,contribucion_VIVIENDA,11.7,Contribuciones IA_IPM,H273
+63,2018,contribucion_EDUCACION,35.1,Contribuciones IA_IPM,B284
+63,2019,contribucion_EDUCACION,35.2,Contribuciones IA_IPM,C284
+63,2021,contribucion_EDUCACION,32.6,Contribuciones IA_IPM,E284
+63,2022,contribucion_EDUCACION,30.9,Contribuciones IA_IPM,F284
+63,2023,contribucion_EDUCACION,39.8,Contribuciones IA_IPM,G284
+63,2024,contribucion_EDUCACION,32.2,Contribuciones IA_IPM,H284
+63,2018,contribucion_NINEZ Y JUVENTUD,11.7,Contribuciones IA_IPM,B285
+63,2019,contribucion_NINEZ Y JUVENTUD,13.0,Contribuciones IA_IPM,C285
+63,2021,contribucion_NINEZ Y JUVENTUD,13.4,Contribuciones IA_IPM,E285
+63,2022,contribucion_NINEZ Y JUVENTUD,15.3,Contribuciones IA_IPM,F285
+63,2023,contribucion_NINEZ Y JUVENTUD,12.2,Contribuciones IA_IPM,G285
+63,2024,contribucion_NINEZ Y JUVENTUD,14.4,Contribuciones IA_IPM,H285
+63,2018,contribucion_TRABAJO,30.7,Contribuciones IA_IPM,B286
+63,2019,contribucion_TRABAJO,30.3,Contribuciones IA_IPM,C286
+63,2021,contribucion_TRABAJO,33.3,Contribuciones IA_IPM,E286
+63,2022,contribucion_TRABAJO,32.8,Contribuciones IA_IPM,F286
+63,2023,contribucion_TRABAJO,32.9,Contribuciones IA_IPM,G286
+63,2024,contribucion_TRABAJO,31.2,Contribuciones IA_IPM,H286
+63,2018,contribucion_SALUD,18.2,Contribuciones IA_IPM,B287
+63,2019,contribucion_SALUD,16.7,Contribuciones IA_IPM,C287
+63,2021,contribucion_SALUD,15.4,Contribuciones IA_IPM,E287
+63,2022,contribucion_SALUD,13.9,Contribuciones IA_IPM,F287
+63,2023,contribucion_SALUD,10.9,Contribuciones IA_IPM,G287
+63,2024,contribucion_SALUD,16.2,Contribuciones IA_IPM,H287
+63,2018,contribucion_VIVIENDA,4.3,Contribuciones IA_IPM,B288
+63,2019,contribucion_VIVIENDA,4.8,Contribuciones IA_IPM,C288
+63,2021,contribucion_VIVIENDA,5.3,Contribuciones IA_IPM,E288
+63,2022,contribucion_VIVIENDA,7.1,Contribuciones IA_IPM,F288
+63,2023,contribucion_VIVIENDA,4.1,Contribuciones IA_IPM,G288
+63,2024,contribucion_VIVIENDA,6.1,Contribuciones IA_IPM,H288
+66,2018,contribucion_EDUCACION,37.0,Contribuciones IA_IPM,B299
+66,2019,contribucion_EDUCACION,35.0,Contribuciones IA_IPM,C299
+66,2021,contribucion_EDUCACION,31.8,Contribuciones IA_IPM,E299
+66,2022,contribucion_EDUCACION,37.2,Contribuciones IA_IPM,F299
+66,2023,contribucion_EDUCACION,34.4,Contribuciones IA_IPM,G299
+66,2024,contribucion_EDUCACION,36.2,Contribuciones IA_IPM,H299
+66,2018,contribucion_NINEZ Y JUVENTUD,15.7,Contribuciones IA_IPM,B300
+66,2019,contribucion_NINEZ Y JUVENTUD,13.2,Contribuciones IA_IPM,C300
+66,2021,contribucion_NINEZ Y JUVENTUD,15.6,Contribuciones IA_IPM,E300
+66,2022,contribucion_NINEZ Y JUVENTUD,11.0,Contribuciones IA_IPM,F300
+66,2023,contribucion_NINEZ Y JUVENTUD,12.6,Contribuciones IA_IPM,G300
+66,2024,contribucion_NINEZ Y JUVENTUD,12.1,Contribuciones IA_IPM,H300
+66,2018,contribucion_TRABAJO,29.3,Contribuciones IA_IPM,B301
+66,2019,contribucion_TRABAJO,29.2,Contribuciones IA_IPM,C301
+66,2021,contribucion_TRABAJO,30.0,Contribuciones IA_IPM,E301
+66,2022,contribucion_TRABAJO,30.9,Contribuciones IA_IPM,F301
+66,2023,contribucion_TRABAJO,33.9,Contribuciones IA_IPM,G301
+66,2024,contribucion_TRABAJO,29.5,Contribuciones IA_IPM,H301
+66,2018,contribucion_SALUD,11.5,Contribuciones IA_IPM,B302
+66,2019,contribucion_SALUD,14.9,Contribuciones IA_IPM,C302
+66,2021,contribucion_SALUD,15.2,Contribuciones IA_IPM,E302
+66,2022,contribucion_SALUD,13.4,Contribuciones IA_IPM,F302
+66,2023,contribucion_SALUD,10.2,Contribuciones IA_IPM,G302
+66,2024,contribucion_SALUD,11.6,Contribuciones IA_IPM,H302
+66,2018,contribucion_VIVIENDA,6.5,Contribuciones IA_IPM,B303
+66,2019,contribucion_VIVIENDA,7.7,Contribuciones IA_IPM,C303
+66,2021,contribucion_VIVIENDA,7.4,Contribuciones IA_IPM,E303
+66,2022,contribucion_VIVIENDA,7.6,Contribuciones IA_IPM,F303
+66,2023,contribucion_VIVIENDA,9.0,Contribuciones IA_IPM,G303
+66,2024,contribucion_VIVIENDA,10.5,Contribuciones IA_IPM,H303
+68,2018,contribucion_EDUCACION,37.0,Contribuciones IA_IPM,B314
+68,2019,contribucion_EDUCACION,33.6,Contribuciones IA_IPM,C314
+68,2021,contribucion_EDUCACION,33.7,Contribuciones IA_IPM,E314
+68,2022,contribucion_EDUCACION,36.5,Contribuciones IA_IPM,F314
+68,2023,contribucion_EDUCACION,38.4,Contribuciones IA_IPM,G314
+68,2024,contribucion_EDUCACION,38.0,Contribuciones IA_IPM,H314
+68,2018,contribucion_NINEZ Y JUVENTUD,13.7,Contribuciones IA_IPM,B315
+68,2019,contribucion_NINEZ Y JUVENTUD,13.3,Contribuciones IA_IPM,C315
+68,2021,contribucion_NINEZ Y JUVENTUD,16.3,Contribuciones IA_IPM,E315
+68,2022,contribucion_NINEZ Y JUVENTUD,14.2,Contribuciones IA_IPM,F315
+68,2023,contribucion_NINEZ Y JUVENTUD,13.9,Contribuciones IA_IPM,G315
+68,2024,contribucion_NINEZ Y JUVENTUD,14.8,Contribuciones IA_IPM,H315
+68,2018,contribucion_TRABAJO,29.4,Contribuciones IA_IPM,B316
+68,2019,contribucion_TRABAJO,28.0,Contribuciones IA_IPM,C316
+68,2021,contribucion_TRABAJO,29.8,Contribuciones IA_IPM,E316
+68,2022,contribucion_TRABAJO,31.1,Contribuciones IA_IPM,F316
+68,2023,contribucion_TRABAJO,30.4,Contribuciones IA_IPM,G316
+68,2024,contribucion_TRABAJO,33.5,Contribuciones IA_IPM,H316
+68,2018,contribucion_SALUD,12.0,Contribuciones IA_IPM,B317
+68,2019,contribucion_SALUD,14.2,Contribuciones IA_IPM,C317
+68,2021,contribucion_SALUD,11.5,Contribuciones IA_IPM,E317
+68,2022,contribucion_SALUD,8.9,Contribuciones IA_IPM,F317
+68,2023,contribucion_SALUD,7.4,Contribuciones IA_IPM,G317
+68,2024,contribucion_SALUD,5.9,Contribuciones IA_IPM,H317
+68,2018,contribucion_VIVIENDA,7.9,Contribuciones IA_IPM,B318
+68,2019,contribucion_VIVIENDA,11.0,Contribuciones IA_IPM,C318
+68,2021,contribucion_VIVIENDA,8.6,Contribuciones IA_IPM,E318
+68,2022,contribucion_VIVIENDA,9.2,Contribuciones IA_IPM,F318
+68,2023,contribucion_VIVIENDA,10.0,Contribuciones IA_IPM,G318
+68,2024,contribucion_VIVIENDA,7.7,Contribuciones IA_IPM,H318
+70,2018,contribucion_EDUCACION,37.3,Contribuciones IA_IPM,B329
+70,2019,contribucion_EDUCACION,38.4,Contribuciones IA_IPM,C329
+70,2021,contribucion_EDUCACION,39.1,Contribuciones IA_IPM,E329
+70,2022,contribucion_EDUCACION,39.3,Contribuciones IA_IPM,F329
+70,2023,contribucion_EDUCACION,42.6,Contribuciones IA_IPM,G329
+70,2024,contribucion_EDUCACION,42.0,Contribuciones IA_IPM,H329
+70,2018,contribucion_NINEZ Y JUVENTUD,12.4,Contribuciones IA_IPM,B330
+70,2019,contribucion_NINEZ Y JUVENTUD,11.2,Contribuciones IA_IPM,C330
+70,2021,contribucion_NINEZ Y JUVENTUD,13.4,Contribuciones IA_IPM,E330
+70,2022,contribucion_NINEZ Y JUVENTUD,11.6,Contribuciones IA_IPM,F330
+70,2023,contribucion_NINEZ Y JUVENTUD,12.3,Contribuciones IA_IPM,G330
+70,2024,contribucion_NINEZ Y JUVENTUD,9.6,Contribuciones IA_IPM,H330
+70,2018,contribucion_TRABAJO,24.5,Contribuciones IA_IPM,B331
+70,2019,contribucion_TRABAJO,27.5,Contribuciones IA_IPM,C331
+70,2021,contribucion_TRABAJO,28.1,Contribuciones IA_IPM,E331
+70,2022,contribucion_TRABAJO,28.5,Contribuciones IA_IPM,F331
+70,2023,contribucion_TRABAJO,29.7,Contribuciones IA_IPM,G331
+70,2024,contribucion_TRABAJO,30.0,Contribuciones IA_IPM,H331
+70,2018,contribucion_SALUD,11.7,Contribuciones IA_IPM,B332
+70,2019,contribucion_SALUD,10.0,Contribuciones IA_IPM,C332
+70,2021,contribucion_SALUD,4.1,Contribuciones IA_IPM,E332
+70,2022,contribucion_SALUD,5.8,Contribuciones IA_IPM,F332
+70,2023,contribucion_SALUD,2.2,Contribuciones IA_IPM,G332
+70,2024,contribucion_SALUD,4.0,Contribuciones IA_IPM,H332
+70,2018,contribucion_VIVIENDA,14.0,Contribuciones IA_IPM,B333
+70,2019,contribucion_VIVIENDA,12.9,Contribuciones IA_IPM,C333
+70,2021,contribucion_VIVIENDA,15.3,Contribuciones IA_IPM,E333
+70,2022,contribucion_VIVIENDA,14.7,Contribuciones IA_IPM,F333
+70,2023,contribucion_VIVIENDA,13.2,Contribuciones IA_IPM,G333
+70,2024,contribucion_VIVIENDA,14.3,Contribuciones IA_IPM,H333
+73,2018,contribucion_EDUCACION,34.2,Contribuciones IA_IPM,B344
+73,2019,contribucion_EDUCACION,36.2,Contribuciones IA_IPM,C344
+73,2021,contribucion_EDUCACION,33.7,Contribuciones IA_IPM,E344
+73,2022,contribucion_EDUCACION,37.0,Contribuciones IA_IPM,F344
+73,2023,contribucion_EDUCACION,35.6,Contribuciones IA_IPM,G344
+73,2024,contribucion_EDUCACION,35.8,Contribuciones IA_IPM,H344
+73,2018,contribucion_NINEZ Y JUVENTUD,14.1,Contribuciones IA_IPM,B345
+73,2019,contribucion_NINEZ Y JUVENTUD,12.3,Contribuciones IA_IPM,C345
+73,2021,contribucion_NINEZ Y JUVENTUD,15.7,Contribuciones IA_IPM,E345
+73,2022,contribucion_NINEZ Y JUVENTUD,13.4,Contribuciones IA_IPM,F345
+73,2023,contribucion_NINEZ Y JUVENTUD,13.7,Contribuciones IA_IPM,G345
+73,2024,contribucion_NINEZ Y JUVENTUD,13.4,Contribuciones IA_IPM,H345
+73,2018,contribucion_TRABAJO,27.4,Contribuciones IA_IPM,B346
+73,2019,contribucion_TRABAJO,30.4,Contribuciones IA_IPM,C346
+73,2021,contribucion_TRABAJO,30.9,Contribuciones IA_IPM,E346
+73,2022,contribucion_TRABAJO,33.1,Contribuciones IA_IPM,F346
+73,2023,contribucion_TRABAJO,31.7,Contribuciones IA_IPM,G346
+73,2024,contribucion_TRABAJO,31.2,Contribuciones IA_IPM,H346
+73,2018,contribucion_SALUD,15.1,Contribuciones IA_IPM,B347
+73,2019,contribucion_SALUD,9.8,Contribuciones IA_IPM,C347
+73,2021,contribucion_SALUD,9.3,Contribuciones IA_IPM,E347
+73,2022,contribucion_SALUD,5.2,Contribuciones IA_IPM,F347
+73,2023,contribucion_SALUD,9.7,Contribuciones IA_IPM,G347
+73,2024,contribucion_SALUD,11.0,Contribuciones IA_IPM,H347
+73,2018,contribucion_VIVIENDA,9.2,Contribuciones IA_IPM,B348
+73,2019,contribucion_VIVIENDA,11.3,Contribuciones IA_IPM,C348
+73,2021,contribucion_VIVIENDA,10.5,Contribuciones IA_IPM,E348
+73,2022,contribucion_VIVIENDA,11.3,Contribuciones IA_IPM,F348
+73,2023,contribucion_VIVIENDA,9.4,Contribuciones IA_IPM,G348
+73,2024,contribucion_VIVIENDA,8.7,Contribuciones IA_IPM,H348
+76,2018,contribucion_EDUCACION,31.8,Contribuciones IA_IPM,B360
+76,2019,contribucion_EDUCACION,36.7,Contribuciones IA_IPM,C360
+76,2021,contribucion_EDUCACION,34.6,Contribuciones IA_IPM,E360
+76,2022,contribucion_EDUCACION,36.0,Contribuciones IA_IPM,F360
+76,2023,contribucion_EDUCACION,35.1,Contribuciones IA_IPM,G360
+76,2024,contribucion_EDUCACION,35.5,Contribuciones IA_IPM,H360
+76,2018,contribucion_NINEZ Y JUVENTUD,16.2,Contribuciones IA_IPM,B361
+76,2019,contribucion_NINEZ Y JUVENTUD,11.8,Contribuciones IA_IPM,C361
+76,2021,contribucion_NINEZ Y JUVENTUD,12.7,Contribuciones IA_IPM,E361
+76,2022,contribucion_NINEZ Y JUVENTUD,12.5,Contribuciones IA_IPM,F361
+76,2023,contribucion_NINEZ Y JUVENTUD,14.6,Contribuciones IA_IPM,G361
+76,2024,contribucion_NINEZ Y JUVENTUD,15.3,Contribuciones IA_IPM,H361
+76,2018,contribucion_TRABAJO,28.3,Contribuciones IA_IPM,B362
+76,2019,contribucion_TRABAJO,32.8,Contribuciones IA_IPM,C362
+76,2021,contribucion_TRABAJO,32.6,Contribuciones IA_IPM,E362
+76,2022,contribucion_TRABAJO,31.9,Contribuciones IA_IPM,F362
+76,2023,contribucion_TRABAJO,32.9,Contribuciones IA_IPM,G362
+76,2024,contribucion_TRABAJO,34.5,Contribuciones IA_IPM,H362
+76,2018,contribucion_SALUD,16.8,Contribuciones IA_IPM,B363
+76,2019,contribucion_SALUD,9.8,Contribuciones IA_IPM,C363
+76,2021,contribucion_SALUD,12.7,Contribuciones IA_IPM,E363
+76,2022,contribucion_SALUD,13.3,Contribuciones IA_IPM,F363
+76,2023,contribucion_SALUD,10.1,Contribuciones IA_IPM,G363
+76,2024,contribucion_SALUD,8.9,Contribuciones IA_IPM,H363
+76,2018,contribucion_VIVIENDA,6.9,Contribuciones IA_IPM,B364
+76,2019,contribucion_VIVIENDA,8.9,Contribuciones IA_IPM,C364
+76,2021,contribucion_VIVIENDA,7.4,Contribuciones IA_IPM,E364
+76,2022,contribucion_VIVIENDA,6.2,Contribuciones IA_IPM,F364
+76,2023,contribucion_VIVIENDA,7.3,Contribuciones IA_IPM,G364
+76,2024,contribucion_VIVIENDA,5.8,Contribuciones IA_IPM,H364
+81,2018,contribucion_EDUCACION,31.5,Contribuciones IA_IPM,B375
+81,2019,contribucion_EDUCACION,30.4,Contribuciones IA_IPM,C375
+81,2021,contribucion_EDUCACION,27.0,Contribuciones IA_IPM,E375
+81,2022,contribucion_EDUCACION,29.3,Contribuciones IA_IPM,F375
+81,2023,contribucion_EDUCACION,30.2,Contribuciones IA_IPM,G375
+81,2024,contribucion_EDUCACION,28.4,Contribuciones IA_IPM,H375
+81,2018,contribucion_NINEZ Y JUVENTUD,14.1,Contribuciones IA_IPM,B376
+81,2019,contribucion_NINEZ Y JUVENTUD,14.0,Contribuciones IA_IPM,C376
+81,2021,contribucion_NINEZ Y JUVENTUD,16.3,Contribuciones IA_IPM,E376
+81,2022,contribucion_NINEZ Y JUVENTUD,14.7,Contribuciones IA_IPM,F376
+81,2023,contribucion_NINEZ Y JUVENTUD,12.1,Contribuciones IA_IPM,G376
+81,2024,contribucion_NINEZ Y JUVENTUD,12.6,Contribuciones IA_IPM,H376
+81,2018,contribucion_TRABAJO,28.0,Contribuciones IA_IPM,B377
+81,2019,contribucion_TRABAJO,28.3,Contribuciones IA_IPM,C377
+81,2021,contribucion_TRABAJO,28.5,Contribuciones IA_IPM,E377
+81,2022,contribucion_TRABAJO,28.0,Contribuciones IA_IPM,F377
+81,2023,contribucion_TRABAJO,29.6,Contribuciones IA_IPM,G377
+81,2024,contribucion_TRABAJO,32.7,Contribuciones IA_IPM,H377
+81,2018,contribucion_SALUD,12.5,Contribuciones IA_IPM,B378
+81,2019,contribucion_SALUD,13.2,Contribuciones IA_IPM,C378
+81,2021,contribucion_SALUD,14.2,Contribuciones IA_IPM,E378
+81,2022,contribucion_SALUD,11.4,Contribuciones IA_IPM,F378
+81,2023,contribucion_SALUD,13.8,Contribuciones IA_IPM,G378
+81,2024,contribucion_SALUD,10.1,Contribuciones IA_IPM,H378
+81,2018,contribucion_VIVIENDA,14.0,Contribuciones IA_IPM,B379
+81,2019,contribucion_VIVIENDA,14.2,Contribuciones IA_IPM,C379
+81,2021,contribucion_VIVIENDA,14.1,Contribuciones IA_IPM,E379
+81,2022,contribucion_VIVIENDA,16.6,Contribuciones IA_IPM,F379
+81,2023,contribucion_VIVIENDA,14.3,Contribuciones IA_IPM,G379
+81,2024,contribucion_VIVIENDA,16.2,Contribuciones IA_IPM,H379
+85,2018,contribucion_EDUCACION,32.4,Contribuciones IA_IPM,B390
+85,2019,contribucion_EDUCACION,33.8,Contribuciones IA_IPM,C390
+85,2021,contribucion_EDUCACION,29.1,Contribuciones IA_IPM,E390
+85,2022,contribucion_EDUCACION,30.8,Contribuciones IA_IPM,F390
+85,2023,contribucion_EDUCACION,29.1,Contribuciones IA_IPM,G390
+85,2024,contribucion_EDUCACION,33.6,Contribuciones IA_IPM,H390
+85,2018,contribucion_NINEZ Y JUVENTUD,16.1,Contribuciones IA_IPM,B391
+85,2019,contribucion_NINEZ Y JUVENTUD,16.6,Contribuciones IA_IPM,C391
+85,2021,contribucion_NINEZ Y JUVENTUD,18.3,Contribuciones IA_IPM,E391
+85,2022,contribucion_NINEZ Y JUVENTUD,15.9,Contribuciones IA_IPM,F391
+85,2023,contribucion_NINEZ Y JUVENTUD,16.9,Contribuciones IA_IPM,G391
+85,2024,contribucion_NINEZ Y JUVENTUD,16.0,Contribuciones IA_IPM,H391
+85,2018,contribucion_TRABAJO,27.5,Contribuciones IA_IPM,B392
+85,2019,contribucion_TRABAJO,27.7,Contribuciones IA_IPM,C392
+85,2021,contribucion_TRABAJO,29.4,Contribuciones IA_IPM,E392
+85,2022,contribucion_TRABAJO,30.8,Contribuciones IA_IPM,F392
+85,2023,contribucion_TRABAJO,29.5,Contribuciones IA_IPM,G392
+85,2024,contribucion_TRABAJO,30.9,Contribuciones IA_IPM,H392
+85,2018,contribucion_SALUD,14.7,Contribuciones IA_IPM,B393
+85,2019,contribucion_SALUD,12.7,Contribuciones IA_IPM,C393
+85,2021,contribucion_SALUD,11.5,Contribuciones IA_IPM,E393
+85,2022,contribucion_SALUD,11.3,Contribuciones IA_IPM,F393
+85,2023,contribucion_SALUD,11.9,Contribuciones IA_IPM,G393
+85,2024,contribucion_SALUD,8.8,Contribuciones IA_IPM,H393
+85,2018,contribucion_VIVIENDA,9.2,Contribuciones IA_IPM,B394
+85,2019,contribucion_VIVIENDA,9.3,Contribuciones IA_IPM,C394
+85,2021,contribucion_VIVIENDA,11.8,Contribuciones IA_IPM,E394
+85,2022,contribucion_VIVIENDA,11.2,Contribuciones IA_IPM,F394
+85,2023,contribucion_VIVIENDA,12.6,Contribuciones IA_IPM,G394
+85,2024,contribucion_VIVIENDA,10.6,Contribuciones IA_IPM,H394
+86,2018,contribucion_EDUCACION,33.2,Contribuciones IA_IPM,B405
+86,2019,contribucion_EDUCACION,33.1,Contribuciones IA_IPM,C405
+86,2021,contribucion_EDUCACION,32.9,Contribuciones IA_IPM,E405
+86,2022,contribucion_EDUCACION,32.5,Contribuciones IA_IPM,F405
+86,2023,contribucion_EDUCACION,34.5,Contribuciones IA_IPM,G405
+86,2024,contribucion_EDUCACION,38.5,Contribuciones IA_IPM,H405
+86,2018,contribucion_NINEZ Y JUVENTUD,13.2,Contribuciones IA_IPM,B406
+86,2019,contribucion_NINEZ Y JUVENTUD,13.7,Contribuciones IA_IPM,C406
+86,2021,contribucion_NINEZ Y JUVENTUD,13.2,Contribuciones IA_IPM,E406
+86,2022,contribucion_NINEZ Y JUVENTUD,13.3,Contribuciones IA_IPM,F406
+86,2023,contribucion_NINEZ Y JUVENTUD,12.2,Contribuciones IA_IPM,G406
+86,2024,contribucion_NINEZ Y JUVENTUD,13.3,Contribuciones IA_IPM,H406
+86,2018,contribucion_TRABAJO,30.3,Contribuciones IA_IPM,B407
+86,2019,contribucion_TRABAJO,29.0,Contribuciones IA_IPM,C407
+86,2021,contribucion_TRABAJO,31.0,Contribuciones IA_IPM,E407
+86,2022,contribucion_TRABAJO,30.5,Contribuciones IA_IPM,F407
+86,2023,contribucion_TRABAJO,33.2,Contribuciones IA_IPM,G407
+86,2024,contribucion_TRABAJO,31.1,Contribuciones IA_IPM,H407
+86,2018,contribucion_SALUD,8.8,Contribuciones IA_IPM,B408
+86,2019,contribucion_SALUD,11.2,Contribuciones IA_IPM,C408
+86,2021,contribucion_SALUD,9.6,Contribuciones IA_IPM,E408
+86,2022,contribucion_SALUD,12.3,Contribuciones IA_IPM,F408
+86,2023,contribucion_SALUD,6.9,Contribuciones IA_IPM,G408
+86,2024,contribucion_SALUD,5.2,Contribuciones IA_IPM,H408
+86,2018,contribucion_VIVIENDA,14.5,Contribuciones IA_IPM,B409
+86,2019,contribucion_VIVIENDA,13.1,Contribuciones IA_IPM,C409
+86,2021,contribucion_VIVIENDA,13.3,Contribuciones IA_IPM,E409
+86,2022,contribucion_VIVIENDA,11.4,Contribuciones IA_IPM,F409
+86,2023,contribucion_VIVIENDA,13.2,Contribuciones IA_IPM,G409
+86,2024,contribucion_VIVIENDA,11.9,Contribuciones IA_IPM,H409
+88,2018,contribucion_EDUCACION,25.2,Contribuciones IA_IPM,B420
+88,2019,contribucion_EDUCACION,26.4,Contribuciones IA_IPM,C420
+88,2021,contribucion_EDUCACION,27.4,Contribuciones IA_IPM,E420
+88,2022,contribucion_EDUCACION,28.5,Contribuciones IA_IPM,F420
+88,2023,contribucion_EDUCACION,30.3,Contribuciones IA_IPM,G420
+88,2024,contribucion_EDUCACION,27.5,Contribuciones IA_IPM,H420
+88,2018,contribucion_NINEZ Y JUVENTUD,10.3,Contribuciones IA_IPM,B421
+88,2019,contribucion_NINEZ Y JUVENTUD,8.9,Contribuciones IA_IPM,C421
+88,2021,contribucion_NINEZ Y JUVENTUD,13.5,Contribuciones IA_IPM,E421
+88,2022,contribucion_NINEZ Y JUVENTUD,11.9,Contribuciones IA_IPM,F421
+88,2023,contribucion_NINEZ Y JUVENTUD,8.4,Contribuciones IA_IPM,G421
+88,2024,contribucion_NINEZ Y JUVENTUD,9.6,Contribuciones IA_IPM,H421
+88,2018,contribucion_TRABAJO,30.4,Contribuciones IA_IPM,B422
+88,2019,contribucion_TRABAJO,31.9,Contribuciones IA_IPM,C422
+88,2021,contribucion_TRABAJO,33.6,Contribuciones IA_IPM,E422
+88,2022,contribucion_TRABAJO,31.6,Contribuciones IA_IPM,F422
+88,2023,contribucion_TRABAJO,36.6,Contribuciones IA_IPM,G422
+88,2024,contribucion_TRABAJO,35.3,Contribuciones IA_IPM,H422
+88,2018,contribucion_SALUD,11.1,Contribuciones IA_IPM,B423
+88,2019,contribucion_SALUD,8.6,Contribuciones IA_IPM,C423
+88,2021,contribucion_SALUD,3.8,Contribuciones IA_IPM,E423
+88,2022,contribucion_SALUD,1.4,Contribuciones IA_IPM,F423
+88,2023,contribucion_SALUD,3.7,Contribuciones IA_IPM,G423
+88,2024,contribucion_SALUD,2.8,Contribuciones IA_IPM,H423
+88,2018,contribucion_VIVIENDA,23.1,Contribuciones IA_IPM,B424
+88,2019,contribucion_VIVIENDA,24.2,Contribuciones IA_IPM,C424
+88,2021,contribucion_VIVIENDA,21.7,Contribuciones IA_IPM,E424
+88,2022,contribucion_VIVIENDA,26.7,Contribuciones IA_IPM,F424
+88,2023,contribucion_VIVIENDA,21.0,Contribuciones IA_IPM,G424
+88,2024,contribucion_VIVIENDA,24.7,Contribuciones IA_IPM,H424
+91,2018,contribucion_EDUCACION,30.5,Contribuciones IA_IPM,B435
+91,2019,contribucion_EDUCACION,28.9,Contribuciones IA_IPM,C435
+91,2021,contribucion_EDUCACION,30.3,Contribuciones IA_IPM,E435
+91,2022,contribucion_EDUCACION,33.6,Contribuciones IA_IPM,F435
+91,2023,contribucion_EDUCACION,30.4,Contribuciones IA_IPM,G435
+91,2024,contribucion_EDUCACION,35.1,Contribuciones IA_IPM,H435
+91,2018,contribucion_NINEZ Y JUVENTUD,14.4,Contribuciones IA_IPM,B436
+91,2019,contribucion_NINEZ Y JUVENTUD,15.0,Contribuciones IA_IPM,C436
+91,2021,contribucion_NINEZ Y JUVENTUD,15.3,Contribuciones IA_IPM,E436
+91,2022,contribucion_NINEZ Y JUVENTUD,16.6,Contribuciones IA_IPM,F436
+91,2023,contribucion_NINEZ Y JUVENTUD,13.2,Contribuciones IA_IPM,G436
+91,2024,contribucion_NINEZ Y JUVENTUD,9.6,Contribuciones IA_IPM,H436
+91,2018,contribucion_TRABAJO,31.8,Contribuciones IA_IPM,B437
+91,2019,contribucion_TRABAJO,33.6,Contribuciones IA_IPM,C437
+91,2021,contribucion_TRABAJO,30.0,Contribuciones IA_IPM,E437
+91,2022,contribucion_TRABAJO,26.4,Contribuciones IA_IPM,F437
+91,2023,contribucion_TRABAJO,28.2,Contribuciones IA_IPM,G437
+91,2024,contribucion_TRABAJO,26.6,Contribuciones IA_IPM,H437
+91,2018,contribucion_SALUD,4.1,Contribuciones IA_IPM,B438
+91,2019,contribucion_SALUD,4.0,Contribuciones IA_IPM,C438
+91,2021,contribucion_SALUD,3.2,Contribuciones IA_IPM,E438
+91,2022,contribucion_SALUD,5.1,Contribuciones IA_IPM,F438
+91,2023,contribucion_SALUD,8.8,Contribuciones IA_IPM,G438
+91,2024,contribucion_SALUD,10.5,Contribuciones IA_IPM,H438
+91,2018,contribucion_VIVIENDA,19.1,Contribuciones IA_IPM,B439
+91,2019,contribucion_VIVIENDA,18.6,Contribuciones IA_IPM,C439
+91,2021,contribucion_VIVIENDA,21.2,Contribuciones IA_IPM,E439
+91,2022,contribucion_VIVIENDA,18.3,Contribuciones IA_IPM,F439
+91,2023,contribucion_VIVIENDA,19.4,Contribuciones IA_IPM,G439
+91,2024,contribucion_VIVIENDA,18.2,Contribuciones IA_IPM,H439
+94,2018,contribucion_EDUCACION,25.9,Contribuciones IA_IPM,B450
+94,2019,contribucion_EDUCACION,25.8,Contribuciones IA_IPM,C450
+94,2021,contribucion_EDUCACION,27.1,Contribuciones IA_IPM,E450
+94,2022,contribucion_EDUCACION,29.1,Contribuciones IA_IPM,F450
+94,2023,contribucion_EDUCACION,29.3,Contribuciones IA_IPM,G450
+94,2024,contribucion_EDUCACION,29.4,Contribuciones IA_IPM,H450
+94,2018,contribucion_NINEZ Y JUVENTUD,13.0,Contribuciones IA_IPM,B451
+94,2019,contribucion_NINEZ Y JUVENTUD,11.9,Contribuciones IA_IPM,C451
+94,2021,contribucion_NINEZ Y JUVENTUD,12.3,Contribuciones IA_IPM,E451
+94,2022,contribucion_NINEZ Y JUVENTUD,13.8,Contribuciones IA_IPM,F451
+94,2023,contribucion_NINEZ Y JUVENTUD,13.0,Contribuciones IA_IPM,G451
+94,2024,contribucion_NINEZ Y JUVENTUD,11.3,Contribuciones IA_IPM,H451
+94,2018,contribucion_TRABAJO,31.0,Contribuciones IA_IPM,B452
+94,2019,contribucion_TRABAJO,32.3,Contribuciones IA_IPM,C452
+94,2021,contribucion_TRABAJO,28.5,Contribuciones IA_IPM,E452
+94,2022,contribucion_TRABAJO,25.3,Contribuciones IA_IPM,F452
+94,2023,contribucion_TRABAJO,25.0,Contribuciones IA_IPM,G452
+94,2024,contribucion_TRABAJO,24.7,Contribuciones IA_IPM,H452
+94,2018,contribucion_SALUD,4.4,Contribuciones IA_IPM,B453
+94,2019,contribucion_SALUD,3.8,Contribuciones IA_IPM,C453
+94,2021,contribucion_SALUD,5.1,Contribuciones IA_IPM,E453
+94,2022,contribucion_SALUD,4.7,Contribuciones IA_IPM,F453
+94,2023,contribucion_SALUD,5.8,Contribuciones IA_IPM,G453
+94,2024,contribucion_SALUD,6.4,Contribuciones IA_IPM,H453
+94,2018,contribucion_VIVIENDA,25.8,Contribuciones IA_IPM,B454
+94,2019,contribucion_VIVIENDA,26.2,Contribuciones IA_IPM,C454
+94,2021,contribucion_VIVIENDA,27.0,Contribuciones IA_IPM,E454
+94,2022,contribucion_VIVIENDA,27.1,Contribuciones IA_IPM,F454
+94,2023,contribucion_VIVIENDA,26.8,Contribuciones IA_IPM,G454
+94,2024,contribucion_VIVIENDA,28.2,Contribuciones IA_IPM,H454
+95,2018,contribucion_EDUCACION,31.2,Contribuciones IA_IPM,B465
+95,2019,contribucion_EDUCACION,28.9,Contribuciones IA_IPM,C465
+95,2021,contribucion_EDUCACION,28.8,Contribuciones IA_IPM,E465
+95,2022,contribucion_EDUCACION,30.0,Contribuciones IA_IPM,F465
+95,2023,contribucion_EDUCACION,29.0,Contribuciones IA_IPM,G465
+95,2024,contribucion_EDUCACION,31.2,Contribuciones IA_IPM,H465
+95,2018,contribucion_NINEZ Y JUVENTUD,13.1,Contribuciones IA_IPM,B466
+95,2019,contribucion_NINEZ Y JUVENTUD,13.9,Contribuciones IA_IPM,C466
+95,2021,contribucion_NINEZ Y JUVENTUD,13.7,Contribuciones IA_IPM,E466
+95,2022,contribucion_NINEZ Y JUVENTUD,13.7,Contribuciones IA_IPM,F466
+95,2023,contribucion_NINEZ Y JUVENTUD,17.1,Contribuciones IA_IPM,G466
+95,2024,contribucion_NINEZ Y JUVENTUD,13.8,Contribuciones IA_IPM,H466
+95,2018,contribucion_TRABAJO,26.9,Contribuciones IA_IPM,B467
+95,2019,contribucion_TRABAJO,26.7,Contribuciones IA_IPM,C467
+95,2021,contribucion_TRABAJO,26.5,Contribuciones IA_IPM,E467
+95,2022,contribucion_TRABAJO,27.9,Contribuciones IA_IPM,F467
+95,2023,contribucion_TRABAJO,25.8,Contribuciones IA_IPM,G467
+95,2024,contribucion_TRABAJO,27.3,Contribuciones IA_IPM,H467
+95,2018,contribucion_SALUD,10.1,Contribuciones IA_IPM,B468
+95,2019,contribucion_SALUD,13.9,Contribuciones IA_IPM,C468
+95,2021,contribucion_SALUD,12.8,Contribuciones IA_IPM,E468
+95,2022,contribucion_SALUD,11.5,Contribuciones IA_IPM,F468
+95,2023,contribucion_SALUD,11.0,Contribuciones IA_IPM,G468
+95,2024,contribucion_SALUD,13.2,Contribuciones IA_IPM,H468
+95,2018,contribucion_VIVIENDA,18.8,Contribuciones IA_IPM,B469
+95,2019,contribucion_VIVIENDA,16.6,Contribuciones IA_IPM,C469
+95,2021,contribucion_VIVIENDA,18.3,Contribuciones IA_IPM,E469
+95,2022,contribucion_VIVIENDA,17.0,Contribuciones IA_IPM,F469
+95,2023,contribucion_VIVIENDA,17.1,Contribuciones IA_IPM,G469
+95,2024,contribucion_VIVIENDA,14.6,Contribuciones IA_IPM,H469
+97,2018,contribucion_EDUCACION,24.6,Contribuciones IA_IPM,B480
+97,2019,contribucion_EDUCACION,25.6,Contribuciones IA_IPM,C480
+97,2021,contribucion_EDUCACION,25.7,Contribuciones IA_IPM,E480
+97,2022,contribucion_EDUCACION,25.2,Contribuciones IA_IPM,F480
+97,2023,contribucion_EDUCACION,22.8,Contribuciones IA_IPM,G480
+97,2024,contribucion_EDUCACION,29.0,Contribuciones IA_IPM,H480
+97,2018,contribucion_NINEZ Y JUVENTUD,11.5,Contribuciones IA_IPM,B481
+97,2019,contribucion_NINEZ Y JUVENTUD,12.1,Contribuciones IA_IPM,C481
+97,2021,contribucion_NINEZ Y JUVENTUD,12.0,Contribuciones IA_IPM,E481
+97,2022,contribucion_NINEZ Y JUVENTUD,10.7,Contribuciones IA_IPM,F481
+97,2023,contribucion_NINEZ Y JUVENTUD,9.5,Contribuciones IA_IPM,G481
+97,2024,contribucion_NINEZ Y JUVENTUD,12.0,Contribuciones IA_IPM,H481
+97,2018,contribucion_TRABAJO,35.6,Contribuciones IA_IPM,B482
+97,2019,contribucion_TRABAJO,32.5,Contribuciones IA_IPM,C482
+97,2021,contribucion_TRABAJO,31.5,Contribuciones IA_IPM,E482
+97,2022,contribucion_TRABAJO,35.3,Contribuciones IA_IPM,F482
+97,2023,contribucion_TRABAJO,40.3,Contribuciones IA_IPM,G482
+97,2024,contribucion_TRABAJO,26.2,Contribuciones IA_IPM,H482
+97,2018,contribucion_SALUD,2.1,Contribuciones IA_IPM,B483
+97,2019,contribucion_SALUD,1.0,Contribuciones IA_IPM,C483
+97,2021,contribucion_SALUD,1.5,Contribuciones IA_IPM,E483
+97,2022,contribucion_SALUD,0.9,Contribuciones IA_IPM,F483
+97,2023,contribucion_SALUD,0.2,Contribuciones IA_IPM,G483
+97,2024,contribucion_SALUD,4.4,Contribuciones IA_IPM,H483
+97,2018,contribucion_VIVIENDA,26.2,Contribuciones IA_IPM,B484
+97,2019,contribucion_VIVIENDA,28.7,Contribuciones IA_IPM,C484
+97,2021,contribucion_VIVIENDA,29.2,Contribuciones IA_IPM,E484
+97,2022,contribucion_VIVIENDA,27.9,Contribuciones IA_IPM,F484
+97,2023,contribucion_VIVIENDA,27.1,Contribuciones IA_IPM,G484
+97,2024,contribucion_VIVIENDA,28.4,Contribuciones IA_IPM,H484
+99,2018,contribucion_EDUCACION,27.5,Contribuciones IA_IPM,B495
+99,2019,contribucion_EDUCACION,27.2,Contribuciones IA_IPM,C495
+99,2021,contribucion_EDUCACION,27.3,Contribuciones IA_IPM,E495
+99,2022,contribucion_EDUCACION,26.6,Contribuciones IA_IPM,F495
+99,2023,contribucion_EDUCACION,29.3,Contribuciones IA_IPM,G495
+99,2024,contribucion_EDUCACION,31.4,Contribuciones IA_IPM,H495
+99,2018,contribucion_NINEZ Y JUVENTUD,12.9,Contribuciones IA_IPM,B496
+99,2019,contribucion_NINEZ Y JUVENTUD,11.5,Contribuciones IA_IPM,C496
+99,2021,contribucion_NINEZ Y JUVENTUD,9.7,Contribuciones IA_IPM,E496
+99,2022,contribucion_NINEZ Y JUVENTUD,14.7,Contribuciones IA_IPM,F496
+99,2023,contribucion_NINEZ Y JUVENTUD,9.9,Contribuciones IA_IPM,G496
+99,2024,contribucion_NINEZ Y JUVENTUD,12.9,Contribuciones IA_IPM,H496
+99,2018,contribucion_TRABAJO,26.7,Contribuciones IA_IPM,B497
+99,2019,contribucion_TRABAJO,25.7,Contribuciones IA_IPM,C497
+99,2021,contribucion_TRABAJO,31.0,Contribuciones IA_IPM,E497
+99,2022,contribucion_TRABAJO,27.8,Contribuciones IA_IPM,F497
+99,2023,contribucion_TRABAJO,27.6,Contribuciones IA_IPM,G497
+99,2024,contribucion_TRABAJO,25.4,Contribuciones IA_IPM,H497
+99,2018,contribucion_SALUD,6.1,Contribuciones IA_IPM,B498
+99,2019,contribucion_SALUD,4.8,Contribuciones IA_IPM,C498
+99,2021,contribucion_SALUD,4.4,Contribuciones IA_IPM,E498
+99,2022,contribucion_SALUD,5.9,Contribuciones IA_IPM,F498
+99,2023,contribucion_SALUD,8.1,Contribuciones IA_IPM,G498
+99,2024,contribucion_SALUD,4.2,Contribuciones IA_IPM,H498
+99,2018,contribucion_VIVIENDA,26.8,Contribuciones IA_IPM,B499
+99,2019,contribucion_VIVIENDA,30.8,Contribuciones IA_IPM,C499
+99,2021,contribucion_VIVIENDA,27.6,Contribuciones IA_IPM,E499
+99,2022,contribucion_VIVIENDA,24.9,Contribuciones IA_IPM,F499
+99,2023,contribucion_VIVIENDA,25.2,Contribuciones IA_IPM,G499
+99,2024,contribucion_VIVIENDA,26.1,Contribuciones IA_IPM,H499
+5,2023,ic_estimacion,9.5,IC_IPM,B31
+5,2023,error_estandar,0.73,IC_IPM,C31
+5,2023,ic_inferior,8.0,IC_IPM,D31
+5,2023,ic_superior,10.9,IC_IPM,E31
+5,2023,cv,7.7,IC_IPM,F31
+5,2024,ic_estimacion,10.9,IC_IPM,Q31
+5,2024,error_estandar,1.0,IC_IPM,R31
+5,2024,ic_inferior,9.0,IC_IPM,S31
+5,2024,ic_superior,12.8,IC_IPM,T31
+5,2024,cv,8.9,IC_IPM,U31
+8,2023,ic_estimacion,12.0,IC_IPM,B32
+8,2023,error_estandar,1.0,IC_IPM,C32
+8,2023,ic_inferior,10.0,IC_IPM,D32
+8,2023,ic_superior,13.9,IC_IPM,E32
+8,2023,cv,8.3,IC_IPM,F32
+8,2024,ic_estimacion,9.5,IC_IPM,Q32
+8,2024,error_estandar,1.1,IC_IPM,R32
+8,2024,ic_inferior,7.4,IC_IPM,S32
+8,2024,ic_superior,11.6,IC_IPM,T32
+8,2024,cv,11.2,IC_IPM,U32
+11,2023,ic_estimacion,3.6,IC_IPM,B33
+11,2023,error_estandar,0.59,IC_IPM,C33
+11,2023,ic_inferior,2.4,IC_IPM,D33
+11,2023,ic_superior,4.7,IC_IPM,E33
+11,2023,cv,16.4,IC_IPM,F33
+11,2024,ic_estimacion,5.4,IC_IPM,Q33
+11,2024,error_estandar,1.0,IC_IPM,R33
+11,2024,ic_inferior,3.4,IC_IPM,S33
+11,2024,ic_superior,7.4,IC_IPM,T33
+11,2024,cv,18.7,IC_IPM,U33
+13,2023,ic_estimacion,18.4,IC_IPM,B34
+13,2023,error_estandar,1.19,IC_IPM,C34
+13,2023,ic_inferior,16.1,IC_IPM,D34
+13,2023,ic_superior,20.7,IC_IPM,E34
+13,2023,cv,6.5,IC_IPM,F34
+13,2024,ic_estimacion,15.6,IC_IPM,Q34
+13,2024,error_estandar,1.4,IC_IPM,R34
+13,2024,ic_inferior,12.9,IC_IPM,S34
+13,2024,ic_superior,18.3,IC_IPM,T34
+13,2024,cv,8.8,IC_IPM,U34
+15,2023,ic_estimacion,9.9,IC_IPM,B35
+15,2023,error_estandar,0.85,IC_IPM,C35
+15,2023,ic_inferior,8.3,IC_IPM,D35
+15,2023,ic_superior,11.6,IC_IPM,E35
+15,2023,cv,8.6,IC_IPM,F35
+15,2024,ic_estimacion,6.9,IC_IPM,Q35
+15,2024,error_estandar,0.7,IC_IPM,R35
+15,2024,ic_inferior,5.6,IC_IPM,S35
+15,2024,ic_superior,8.3,IC_IPM,T35
+15,2024,cv,10.2,IC_IPM,U35
+17,2023,ic_estimacion,7.4,IC_IPM,B36
+17,2023,error_estandar,0.74,IC_IPM,C36
+17,2023,ic_inferior,6.0,IC_IPM,D36
+17,2023,ic_superior,8.8,IC_IPM,E36
+17,2023,cv,10.0,IC_IPM,F36
+17,2024,ic_estimacion,9.2,IC_IPM,Q36
+17,2024,error_estandar,0.9,IC_IPM,R36
+17,2024,ic_inferior,7.4,IC_IPM,S36
+17,2024,ic_superior,11.1,IC_IPM,T36
+17,2024,cv,10.2,IC_IPM,U36
+18,2023,ic_estimacion,17.2,IC_IPM,B37
+18,2023,error_estandar,1.44,IC_IPM,C37
+18,2023,ic_inferior,14.4,IC_IPM,D37
+18,2023,ic_superior,20.1,IC_IPM,E37
+18,2023,cv,8.3,IC_IPM,F37
+18,2024,ic_estimacion,13.9,IC_IPM,Q37
+18,2024,error_estandar,1.4,IC_IPM,R37
+18,2024,ic_inferior,11.2,IC_IPM,S37
+18,2024,ic_superior,16.7,IC_IPM,T37
+18,2024,cv,10.1,IC_IPM,U37
+19,2023,ic_estimacion,15.8,IC_IPM,B38
+19,2023,error_estandar,1.01,IC_IPM,C38
+19,2023,ic_inferior,13.9,IC_IPM,D38
+19,2023,ic_superior,17.8,IC_IPM,E38
+19,2023,cv,6.4,IC_IPM,F38
+19,2024,ic_estimacion,14.0,IC_IPM,Q38
+19,2024,error_estandar,1.1,IC_IPM,R38
+19,2024,ic_inferior,11.8,IC_IPM,S38
+19,2024,ic_superior,16.2,IC_IPM,T38
+19,2024,cv,7.9,IC_IPM,U38
+20,2023,ic_estimacion,17.7,IC_IPM,B39
+20,2023,error_estandar,1.27,IC_IPM,C39
+20,2023,ic_inferior,15.2,IC_IPM,D39
+20,2023,ic_superior,20.2,IC_IPM,E39
+20,2023,cv,7.2,IC_IPM,F39
+20,2024,ic_estimacion,13.4,IC_IPM,Q39
+20,2024,error_estandar,1.2,IC_IPM,R39
+20,2024,ic_inferior,10.9,IC_IPM,S39
+20,2024,ic_superior,15.8,IC_IPM,T39
+20,2024,cv,9.3,IC_IPM,U39
+23,2023,ic_estimacion,21.4,IC_IPM,B40
+23,2023,error_estandar,1.18,IC_IPM,C40
+23,2023,ic_inferior,19.1,IC_IPM,D40
+23,2023,ic_superior,23.7,IC_IPM,E40
+23,2023,cv,5.5,IC_IPM,F40
+23,2024,ic_estimacion,25.7,IC_IPM,Q40
+23,2024,error_estandar,1.2,IC_IPM,R40
+23,2024,ic_inferior,23.4,IC_IPM,S40
+23,2024,ic_superior,28.0,IC_IPM,T40
+23,2024,cv,4.5,IC_IPM,U40
+25,2023,ic_estimacion,7.6,IC_IPM,B41
+25,2023,error_estandar,1.0,IC_IPM,C41
+25,2023,ic_inferior,5.7,IC_IPM,D41
+25,2023,ic_superior,9.6,IC_IPM,E41
+25,2023,cv,13.1,IC_IPM,F41
+25,2024,ic_estimacion,7.4,IC_IPM,Q41
+25,2024,error_estandar,0.8,IC_IPM,R41
+25,2024,ic_inferior,5.9,IC_IPM,S41
+25,2024,ic_superior,8.9,IC_IPM,T41
+25,2024,cv,10.5,IC_IPM,U41
+27,2023,ic_estimacion,37.4,IC_IPM,B42
+27,2023,error_estandar,1.75,IC_IPM,C42
+27,2023,ic_inferior,34.0,IC_IPM,D42
+27,2023,ic_superior,40.8,IC_IPM,E42
+27,2023,cv,4.7,IC_IPM,F42
+27,2024,ic_estimacion,33.9,IC_IPM,Q42
+27,2024,error_estandar,2.1,IC_IPM,R42
+27,2024,ic_inferior,29.8,IC_IPM,S42
+27,2024,ic_superior,37.9,IC_IPM,T42
+27,2024,cv,6.1,IC_IPM,U42
+41,2023,ic_estimacion,11.9,IC_IPM,B43
+41,2023,error_estandar,1.01,IC_IPM,C43
+41,2023,ic_inferior,10.0,IC_IPM,D43
+41,2023,ic_superior,13.9,IC_IPM,E43
+41,2023,cv,8.4,IC_IPM,F43
+41,2024,ic_estimacion,10.9,IC_IPM,Q43
+41,2024,error_estandar,0.8,IC_IPM,R43
+41,2024,ic_inferior,9.2,IC_IPM,S43
+41,2024,ic_superior,12.5,IC_IPM,T43
+41,2024,cv,7.7,IC_IPM,U43
+44,2023,ic_estimacion,42.6,IC_IPM,B44
+44,2023,error_estandar,1.51,IC_IPM,C44
+44,2023,ic_inferior,39.7,IC_IPM,D44
+44,2023,ic_superior,45.6,IC_IPM,E44
+44,2023,cv,3.5,IC_IPM,F44
+44,2024,ic_estimacion,39.3,IC_IPM,Q44
+44,2024,error_estandar,1.3,IC_IPM,R44
+44,2024,ic_inferior,36.6,IC_IPM,S44
+44,2024,ic_superior,41.9,IC_IPM,T44
+44,2024,cv,3.4,IC_IPM,U44
+47,2023,ic_estimacion,21.4,IC_IPM,B45
+47,2023,error_estandar,1.29,IC_IPM,C45
+47,2023,ic_inferior,18.8,IC_IPM,D45
+47,2023,ic_superior,23.9,IC_IPM,E45
+47,2023,cv,6.0,IC_IPM,F45
+47,2024,ic_estimacion,19.2,IC_IPM,Q45
+47,2024,error_estandar,1.4,IC_IPM,R45
+47,2024,ic_inferior,16.6,IC_IPM,S45
+47,2024,ic_superior,21.9,IC_IPM,T45
+47,2024,cv,7.0,IC_IPM,U45
+50,2023,ic_estimacion,12.9,IC_IPM,B46
+50,2023,error_estandar,1.11,IC_IPM,C46
+50,2023,ic_inferior,10.7,IC_IPM,D46
+50,2023,ic_superior,15.1,IC_IPM,E46
+50,2023,cv,8.6,IC_IPM,F46
+50,2024,ic_estimacion,10.4,IC_IPM,Q46
+50,2024,error_estandar,0.9,IC_IPM,R46
+50,2024,ic_inferior,8.6,IC_IPM,S46
+50,2024,ic_superior,12.3,IC_IPM,T46
+50,2024,cv,9.0,IC_IPM,U46
+52,2023,ic_estimacion,16.6,IC_IPM,B47
+52,2023,error_estandar,1.11,IC_IPM,C47
+52,2023,ic_inferior,14.4,IC_IPM,D47
+52,2023,ic_superior,18.8,IC_IPM,E47
+52,2023,cv,6.7,IC_IPM,F47
+52,2024,ic_estimacion,18.1,IC_IPM,Q47
+52,2024,error_estandar,1.0,IC_IPM,R47
+52,2024,ic_inferior,16.1,IC_IPM,S47
+52,2024,ic_superior,20.2,IC_IPM,T47
+52,2024,cv,5.7,IC_IPM,U47
+54,2023,ic_estimacion,20.5,IC_IPM,B48
+54,2023,error_estandar,1.55,IC_IPM,C48
+54,2023,ic_inferior,17.4,IC_IPM,D48
+54,2023,ic_superior,23.5,IC_IPM,E48
+54,2023,cv,7.6,IC_IPM,F48
+54,2024,ic_estimacion,15.2,IC_IPM,Q48
+54,2024,error_estandar,1.2,IC_IPM,R48
+54,2024,ic_inferior,12.9,IC_IPM,S48
+54,2024,ic_superior,17.4,IC_IPM,T48
+54,2024,cv,7.7,IC_IPM,U48
+63,2023,ic_estimacion,7.5,IC_IPM,B49
+63,2023,error_estandar,0.93,IC_IPM,C49
+63,2023,ic_inferior,5.7,IC_IPM,D49
+63,2023,ic_superior,9.4,IC_IPM,E49
+63,2023,cv,12.4,IC_IPM,F49
+63,2024,ic_estimacion,7.4,IC_IPM,Q49
+63,2024,error_estandar,1.0,IC_IPM,R49
+63,2024,ic_inferior,5.4,IC_IPM,S49
+63,2024,ic_superior,9.3,IC_IPM,T49
+63,2024,cv,13.5,IC_IPM,U49
+66,2023,ic_estimacion,11.8,IC_IPM,B50
+66,2023,error_estandar,1.32,IC_IPM,C50
+66,2023,ic_inferior,9.2,IC_IPM,D50
+66,2023,ic_superior,14.4,IC_IPM,E50
+66,2023,cv,11.1,IC_IPM,F50
+66,2024,ic_estimacion,9.5,IC_IPM,Q50
+66,2024,error_estandar,1.1,IC_IPM,R50
+66,2024,ic_inferior,7.4,IC_IPM,S50
+66,2024,ic_superior,11.7,IC_IPM,T50
+66,2024,cv,11.3,IC_IPM,U50
+68,2023,ic_estimacion,9.8,IC_IPM,B51
+68,2023,error_estandar,0.82,IC_IPM,C51
+68,2023,ic_inferior,8.2,IC_IPM,D51
+68,2023,ic_superior,11.4,IC_IPM,E51
+68,2023,cv,8.4,IC_IPM,F51
+68,2024,ic_estimacion,6.8,IC_IPM,Q51
+68,2024,error_estandar,1.0,IC_IPM,R51
+68,2024,ic_inferior,4.9,IC_IPM,S51
+68,2024,ic_superior,8.7,IC_IPM,T51
+68,2024,cv,14.4,IC_IPM,U51
+70,2023,ic_estimacion,23.1,IC_IPM,B52
+70,2023,error_estandar,1.26,IC_IPM,C52
+70,2023,ic_inferior,20.7,IC_IPM,D52
+70,2023,ic_superior,25.6,IC_IPM,E52
+70,2023,cv,5.5,IC_IPM,F52
+70,2024,ic_estimacion,21.8,IC_IPM,Q52
+70,2024,error_estandar,1.1,IC_IPM,R52
+70,2024,ic_inferior,19.6,IC_IPM,S52
+70,2024,ic_superior,23.9,IC_IPM,T52
+70,2024,cv,5.1,IC_IPM,U52
+73,2023,ic_estimacion,12.9,IC_IPM,B53
+73,2023,error_estandar,0.93,IC_IPM,C53
+73,2023,ic_inferior,11.1,IC_IPM,D53
+73,2023,ic_superior,14.7,IC_IPM,E53
+73,2023,cv,7.2,IC_IPM,F53
+73,2024,ic_estimacion,12.6,IC_IPM,Q53
+73,2024,error_estandar,1.0,IC_IPM,R53
+73,2024,ic_inferior,10.7,IC_IPM,S53
+73,2024,ic_superior,14.5,IC_IPM,T53
+73,2024,cv,7.7,IC_IPM,U53
+76,2023,ic_estimacion,7.2,IC_IPM,B54
+76,2023,error_estandar,0.77,IC_IPM,C54
+76,2023,ic_inferior,5.7,IC_IPM,D54
+76,2023,ic_superior,8.7,IC_IPM,E54
+76,2023,cv,10.7,IC_IPM,F54
+76,2024,ic_estimacion,6.2,IC_IPM,Q54
+76,2024,error_estandar,0.8,IC_IPM,R54
+76,2024,ic_inferior,4.6,IC_IPM,S54
+76,2024,ic_superior,7.8,IC_IPM,T54
+76,2024,cv,13.1,IC_IPM,U54
+81,2023,ic_estimacion,22.8,IC_IPM,B55
+81,2023,error_estandar,1.5,IC_IPM,C55
+81,2023,ic_inferior,19.8,IC_IPM,D55
+81,2023,ic_superior,25.7,IC_IPM,E55
+81,2023,cv,6.6,IC_IPM,F55
+81,2024,ic_estimacion,17.7,IC_IPM,Q55
+81,2024,error_estandar,1.6,IC_IPM,R55
+81,2024,ic_inferior,14.6,IC_IPM,S55
+81,2024,ic_superior,20.7,IC_IPM,T55
+81,2024,cv,8.8,IC_IPM,U55
+85,2023,ic_estimacion,15.0,IC_IPM,B56
+85,2023,error_estandar,1.25,IC_IPM,C56
+85,2023,ic_inferior,12.5,IC_IPM,D56
+85,2023,ic_superior,17.4,IC_IPM,E56
+85,2023,cv,8.4,IC_IPM,F56
+85,2024,ic_estimacion,11.3,IC_IPM,Q56
+85,2024,error_estandar,1.2,IC_IPM,R56
+85,2024,ic_inferior,9.0,IC_IPM,S56
+85,2024,ic_superior,13.6,IC_IPM,T56
+85,2024,cv,10.4,IC_IPM,U56
+86,2023,ic_estimacion,13.2,IC_IPM,B57
+86,2023,error_estandar,0.95,IC_IPM,C57
+86,2023,ic_inferior,11.3,IC_IPM,D57
+86,2023,ic_superior,15.0,IC_IPM,E57
+86,2023,cv,7.2,IC_IPM,F57
+86,2024,ic_estimacion,11.8,IC_IPM,Q57
+86,2024,error_estandar,0.9,IC_IPM,R57
+86,2024,ic_inferior,10.0,IC_IPM,S57
+86,2024,ic_superior,13.6,IC_IPM,T57
+86,2024,cv,7.8,IC_IPM,U57
+88,2023,ic_estimacion,5.0,IC_IPM,B58
+88,2023,error_estandar,1.12,IC_IPM,C58
+88,2023,ic_inferior,2.8,IC_IPM,D58
+88,2023,ic_superior,7.2,IC_IPM,E58
+88,2023,cv,22.3,IC_IPM,F58
+88,2024,ic_estimacion,6.0,IC_IPM,Q58
+88,2024,error_estandar,1.1,IC_IPM,R58
+88,2024,ic_inferior,3.9,IC_IPM,S58
+88,2024,ic_superior,8.2,IC_IPM,T58
+88,2024,cv,18.4,IC_IPM,U58
+91,2023,ic_estimacion,25.4,IC_IPM,B59
+91,2023,error_estandar,2.29,IC_IPM,C59
+91,2023,ic_inferior,20.9,IC_IPM,D59
+91,2023,ic_superior,29.9,IC_IPM,E59
+91,2023,cv,9.0,IC_IPM,F59
+91,2024,ic_estimacion,15.6,IC_IPM,Q59
+91,2024,error_estandar,1.7,IC_IPM,R59
+91,2024,ic_inferior,12.2,IC_IPM,S59
+91,2024,ic_superior,19.0,IC_IPM,T59
+91,2024,cv,11.2,IC_IPM,U59
+94,2023,ic_estimacion,52.1,IC_IPM,B60
+94,2023,error_estandar,2.09,IC_IPM,C60
+94,2023,ic_inferior,48.0,IC_IPM,D60
+94,2023,ic_superior,56.2,IC_IPM,E60
+94,2023,cv,4.0,IC_IPM,F60
+94,2024,ic_estimacion,49.0,IC_IPM,Q60
+94,2024,error_estandar,2.1,IC_IPM,R60
+94,2024,ic_inferior,45.0,IC_IPM,S60
+94,2024,ic_superior,53.1,IC_IPM,T60
+94,2024,cv,4.2,IC_IPM,U60
+95,2023,ic_estimacion,30.6,IC_IPM,B61
+95,2023,error_estandar,1.88,IC_IPM,C61
+95,2023,ic_inferior,26.9,IC_IPM,D61
+95,2023,ic_superior,34.3,IC_IPM,E61
+95,2023,cv,6.1,IC_IPM,F61
+95,2024,ic_estimacion,21.3,IC_IPM,Q61
+95,2024,error_estandar,1.6,IC_IPM,R61
+95,2024,ic_inferior,18.2,IC_IPM,S61
+95,2024,ic_superior,24.4,IC_IPM,T61
+95,2024,cv,7.5,IC_IPM,U61
+97,2023,ic_estimacion,55.7,IC_IPM,B62
+97,2023,error_estandar,1.84,IC_IPM,C62
+97,2023,ic_inferior,52.1,IC_IPM,D62
+97,2023,ic_superior,59.3,IC_IPM,E62
+97,2023,cv,3.3,IC_IPM,F62
+97,2024,ic_estimacion,37.4,IC_IPM,Q62
+97,2024,error_estandar,2.3,IC_IPM,R62
+97,2024,ic_inferior,33.0,IC_IPM,S62
+97,2024,ic_superior,41.8,IC_IPM,T62
+97,2024,cv,6.0,IC_IPM,U62
+99,2023,ic_estimacion,65.4,IC_IPM,B63
+99,2023,error_estandar,2.45,IC_IPM,C63
+99,2023,ic_inferior,60.6,IC_IPM,D63
+99,2023,ic_superior,70.2,IC_IPM,E63
+99,2023,cv,3.7,IC_IPM,F63
+99,2024,ic_estimacion,70.2,IC_IPM,Q63
+99,2024,error_estandar,1.7,IC_IPM,R63
+99,2024,ic_inferior,66.8,IC_IPM,S63
+99,2024,ic_superior,73.6,IC_IPM,T63
+99,2024,cv,2.5,IC_IPM,U63

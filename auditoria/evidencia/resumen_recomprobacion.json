@@ -1,0 +1,14 @@
+{
+  "filas_panel": 198,
+  "llaves_duplicadas": 0,
+  "cruces": {
+    "both": 193,
+    "right_only": 5
+  },
+  "conteo_total_panel": 2866394,
+  "diferencia_vs_tesis": 117805,
+  "train": 127,
+  "positivos_train": 50,
+  "test": 66,
+  "positivos_test": 29
+}

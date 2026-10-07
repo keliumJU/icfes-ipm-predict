@@ -1,0 +1,60 @@
+archivo,linea,modulo,ejecutado
+Scripts de preparacion/limpiar_columnas_icfes.py,1,numpy,no
+Scripts de preparacion/limpiar_columnas_icfes.py,2,pandas,no
+Scripts de preparacion/limpiar_columnas_icfes.py,3,unicodedata,no
+Scripts de preparacion/limpiar_consolidado_fix.py,8,numpy,no
+Scripts de preparacion/limpiar_consolidado_fix.py,9,pandas,no
+Scripts de preparacion/limpiar_datos_final.py,1,numpy,no
+Scripts de preparacion/limpiar_datos_final.py,2,pandas,no
+Scripts de preparacion/limpiar_tildes_nombres.py,1,re,no
+Scripts de preparacion/limpiar_tildes_nombres.py,2,numpy,no
+Scripts de preparacion/limpiar_tildes_nombres.py,3,pandas,no
+Scripts de preparacion/normalizar_txt_icfes.py,11,csv,no
+Scripts de preparacion/normalizar_txt_icfes.py,12,glob,no
+Scripts de preparacion/normalizar_txt_icfes.py,13,os,no
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,1,warnings,no
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,2,matplotlib.pyplot,no
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,3,numpy,no
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,4,pandas,no
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,5,sklearn.linear_model,no
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,6,sklearn.pipeline,no
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,7,sklearn.preprocessing,no
+Scripts de análisis y modelos/random_forest.py,1,warnings,no
+Scripts de análisis y modelos/random_forest.py,2,matplotlib.pyplot,no
+Scripts de análisis y modelos/random_forest.py,3,numpy,no
+Scripts de análisis y modelos/random_forest.py,4,pandas,no
+Scripts de análisis y modelos/random_forest.py,5,seaborn,no
+Scripts de análisis y modelos/random_forest.py,6,sklearn.ensemble,no
+Scripts de análisis y modelos/random_forest.py,7,sklearn.metrics,no
+Scripts de análisis y modelos/random_forest.py,13,sklearn.model_selection,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,1,warnings,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,2,matplotlib.pyplot,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,3,numpy,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,4,pandas,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,5,seaborn,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,6,sklearn.linear_model,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,7,sklearn.metrics,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,13,sklearn.model_selection,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,14,sklearn.pipeline,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,15,sklearn.preprocessing,no
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,16,sklearn.model_selection,no
+Scripts de análisis y modelos/simulacion.py,1,warnings,no
+Scripts de análisis y modelos/simulacion.py,2,matplotlib.pyplot,no
+Scripts de análisis y modelos/simulacion.py,3,numpy,no
+Scripts de análisis y modelos/simulacion.py,4,pandas,no
+Scripts de análisis y modelos/simulacion.py,5,seaborn,no
+Scripts de análisis y modelos/simulacion.py,6,sklearn.linear_model,no
+Scripts de análisis y modelos/simulacion.py,7,sklearn.pipeline,no
+Scripts de análisis y modelos/simulacion.py,8,sklearn.preprocessing,no
+Scripts de análisis y modelos/unir_divipola.py,23,argparse,no
+Scripts de análisis y modelos/unir_divipola.py,24,os,no
+Scripts de análisis y modelos/unir_divipola.py,25,re,no
+Scripts de análisis y modelos/unir_divipola.py,26,sys,no
+Scripts de análisis y modelos/unir_divipola.py,28,pandas,no
+Scripts de análisis y modelos/xgboost_regularizado.py,1,warnings,no
+Scripts de análisis y modelos/xgboost_regularizado.py,2,matplotlib.pyplot,no
+Scripts de análisis y modelos/xgboost_regularizado.py,3,numpy,no
+Scripts de análisis y modelos/xgboost_regularizado.py,4,pandas,no
+Scripts de análisis y modelos/xgboost_regularizado.py,5,sklearn.metrics,no
+Scripts de análisis y modelos/xgboost_regularizado.py,10,sklearn.model_selection,no
+Scripts de análisis y modelos/xgboost_regularizado.py,11,xgboost,no

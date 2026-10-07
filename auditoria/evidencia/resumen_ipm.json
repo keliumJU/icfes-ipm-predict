@@ -1,0 +1,17 @@
+{
+  "filas_csv": 198,
+  "duplicados_llaves": 0,
+  "nulos": 0,
+  "celdas_cotejadas": 3168,
+  "celdas_sin_correspondencia": 0,
+  "diferencias_numericas": 0,
+  "delta_max_h_a": 0.08019999999999783,
+  "suma_contribuciones_min": 99.89999999999999,
+  "suma_contribuciones_max": 100.10000000000001,
+  "contribuciones_no_exactamente100": 84,
+  "incertidumbre_2024": {
+    "amplitud_media": 4.821212121212121,
+    "cv_mayor10": 13
+  },
+  "anio_2020": "excluido en CSV, conservado en XLSX; no se introduce en controles analíticos"
+}

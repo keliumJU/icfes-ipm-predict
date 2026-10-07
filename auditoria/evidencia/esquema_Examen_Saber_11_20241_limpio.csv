@@ -1,0 +1,24 @@
+archivo,columna,presente
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,periodo,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,anio,False
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,cole_cod_depto_ubicacion,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,cole_depto_ubicacion,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_cod_reside_depto,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_cod_depto_presentacion,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_depto_reside,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_depto_presentacion,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_estudiante,False
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_privado_libertad,False
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_grado,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,cole_calendario,False
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_consecutivo,False
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,cole_bilingue,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,depto_analisis,False
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,punt_global,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,punt_matematicas,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,punt_lectura_critica,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,punt_c_naturales,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,punt_sociales_ciudadanas,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,punt_ingles,True
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,percentil_global,False
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,estu_inse_individual,True

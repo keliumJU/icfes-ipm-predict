@@ -1,0 +1,13 @@
+{
+  "insumos_ignorados": 12,
+  "registro_fuentes_csv": "3.973.901 filas periódicas y 3.401.100 consolidadas",
+  "reconciliacion_neta": {
+    "faltante_panel_20212": 534706,
+    "fuera_grado11_consolidado": 416901,
+    "diferencia_tesis_menos_panel": 117805
+  },
+  "originales_sin_reescritura": true,
+  "modelos_entrenados": 0,
+  "base_analitica_entregada": false,
+  "fecha_cliente": "2026-10-07"
+}

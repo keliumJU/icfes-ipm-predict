@@ -1,0 +1,36 @@
+archivo,tipo,bytes,sha256,estado_git,observacion
+Resultados Guardados/,directorio vacío,0,,sin archivos,Inspección local; no hay resultados ni versiones históricas aquí
+Entorno de ejecución/,directorio vacío,0,,sin archivos,Inspección local; no hay resultados ni versiones históricas aquí
+AGENTS.md,.md,916,779a13c0987cd94259c13871cf5ed43481d84338d79cda81dc89a6446b8057f4,versionado,Insumo local conservado; nombre no acredita origen ni historial
+PLAN_OBJETIVO_3.md,.md,12935,a7de9903daa65746bd1feddb058de7bccb4422e25f40522289a16fc4e878ac99,versionado,Insumo local conservado; nombre no acredita origen ni historial
+prom.pdf,.pdf,355909,1964efeb7d0e0015348e23d9af5e42f7b42e4a2a1b5d95e620b2f790a6e1e0fb,versionado,Insumo local conservado; nombre no acredita origen ni historial
+nueva ivestigacion .pdf,.pdf,226641,32e19c283e869b98a5ac856ddd068ab31c99e3d787d6600b99d890225ddeeff7,versionado,Insumo local conservado; nombre no acredita origen ni historial
+panel_departamento_anio_unido.csv,.csv,41245,38ea5e108ea52547791fbea7a24217b73141736c807cb349f7f46de0c296939b,versionado,Insumo local conservado; nombre no acredita origen ni historial
+.gitignore,,459,b8ab5bd3fced893b5404da41b5d25dee89e0df973eb30353abc645bc9dd1848b,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Tesis Vigente/ACA2.pdf,.pdf,5542511,117af2fffbec938309b55a240aae727f1d108bb328077dec800b0fc4f133e61f,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Dataset individual Saber 11/Saber_11_Listo_2018_2024.csv,.csv,2422573258,ec15326efe5b4174e8d1ff8a2ec82ebbbdd1934a02649bc0e1df6487e295c7a1,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20182_limpio.csv,.csv,304168309,754b65adb633f5c7caf2c62a68a63f9f3157e44e221c58308d9b10e6af7f901e,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20191_limpio.csv,.csv,18491351,7a95fc69c1bf44a8b45859193ac16e591ca7d67087bd667e53bf151f29858cdc,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20192_limpio.csv,.csv,305592893,48b90715d9a60d86495bbc06f8e8ad35ea8785ca68afc58c3fff34332e8f911d,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20211_limpio.csv,.csv,15266255,94b3043bbcddda80dba7d0c283132e2ce8d75ca0183dc0039ed219c8eb80f448,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20212_limpio.csv,.csv,300982799,f49963fa741abaa1070662054b40477d7f34ddc6df5a8d890490869aac7bdff8,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20221_limpio.csv,.csv,19375071,9f67a82959b14f5b647c5b215546470019afc2b352ed142fcb9373ac64954f1c,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20222_limpio.csv,.csv,296961135,2e6f5d826bab6ef3bf8dccbe0baf44f13ba0bfc5d281a2c65876d49e1c698857,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20231_limpio.csv,.csv,19962774,d320266601f18f2c35999e10107ca659a2d5abd56d93c09215536a3a02712ec8,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20232_limpio.csv,.csv,302655741,f93e87b247a66ecd20b076ebf768bc97d0d01ea3afdb89276e10d8aeeeede42f,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20241_limpio.csv,.csv,21317060,96f8d035820e839075a279f3b8a38e4a491b78294d09a73fd6fe8b74b036e0d5,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Datos anteriores a la limpieza/Examen_Saber_11_20242_limpio.csv,.csv,295523262,dab9b789c76d68021761b7a71c8c5700304bffd60620d67cb008e5ce36930303,ignorado,Insumo local conservado; nombre no acredita origen ni historial
+Fuente del IPM/anex-PMultidimensional-Departamental-2024.xlsx,.xlsx,396132,22ed318b6dc8b6f679c6fed59c2ab6da4a592de7de4f8c0b1607233878283381,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Fuente del IPM/archivo-IPM-descargado.png,.png,20086,d160771903f6cd1af2b72185e40b916d519e1457d3b65ae18f8e89e9d911b4c1,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Fuente del IPM/ipm_departamental_limpio_sin_2020.csv,.csv,18220,917a3b3d5b609fd1e97e7fba737652c347b17d8449a9c56b781fffd6e4568385,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de preparacion/limpiar_columnas_icfes.py,.py,3423,755b420af0db95bda56ed57b059423aa48a772c87441c265bc97be65f9513e5a,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de preparacion/limpiar_consolidado_fix.py,.py,5344,dcfd841f1cc146a3fa41886aa5e9d3da60b6cac8eed569074666447eec700901,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de preparacion/limpiar_datos_final.py,.py,4844,4168f66f5073f04775c2d4682f55990835308d572ea02bff7610ae1c905e0b11,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de preparacion/limpiar_tildes_nombres.py,.py,4867,0a49bff81c30f8cc81cd6ac7b8bac3ca4b4f1cb821c5f413ad57d70e601c8a07,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de preparacion/normalizar_txt_icfes.py,.py,3731,e84da809fb6558fb40297db215980ede8f92dd7db1b3de1ede76ecd446d73bf9,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de análisis y modelos/nueva_simulacion_educacion_vs_choque.py,.py,5703,41ce1b757c7eae4f876454980af0df854664110de6dd23ed5c842db36ef182e5,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de análisis y modelos/random_forest.py,.py,4982,1d195f4eaa848885f1d81aadc295e8a26bfc44ad0f14dd96b9da59e0834db8ec,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de análisis y modelos/regresion_logistica_con _elasticNet.py,.py,6234,198f0e5ac6d02626404be1d3a46a35085892f1b39b47bbd9aab5900f3c9bb3d0,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de análisis y modelos/simulacion.py,.py,7793,a058f3da8b571da3d5182a1beffcccab6a6f0b25096ee9b64ae0f80a5fcf2623,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de análisis y modelos/unir_divipola.py,.py,10333,b62721b6f16583d477913a020a2ec75f065d3a1b5df07abc9c4c56684838319b,versionado,Insumo local conservado; nombre no acredita origen ni historial
+Scripts de análisis y modelos/xgboost_regularizado.py,.py,4821,1bc227bea1b8ae4a79a6643ab1132e13f7b434e6446cba62ac0517ecacdf521c,versionado,Insumo local conservado; nombre no acredita origen ni historial
