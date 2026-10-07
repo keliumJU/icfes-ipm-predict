@@ -1,0 +1,12 @@
+# Large local datasets - excluded due to size (~4GB combined)
+# Keep local only, do not commit to git
+
+# 1. Pre-cleaning data folder (~1.8G)
+/Datos anteriores a la limpieza/
+Datos anteriores a la limpieza/
+
+# 2. Consolidated Saber 11 dataset (~2.3G)
+# File: Dataset individual Saber 11/Saber_11_Listo_2018_2024.csv
+/Dataset individual Saber 11/Saber_11_Listo_2018_2024.csv
+Dataset individual Saber 11/Saber_11_Listo_2018_2024.csv
+**/Saber_11_Listo_2018_2024*
