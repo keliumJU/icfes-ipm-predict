@@ -1,0 +1,26 @@
+Ejecuta únicamente la fase 2 de PLAN_OBJETIVO_3.md: cerrar el protocolo antes de entrenar. Sigue AGENTS.md y lee primero CONTINUIDAD_OBJETIVO_3.md y solo la sección del plan correspondiente a fase 2. No entrenes modelos, ejecutes simulaciones ni avances a fases posteriores.
+
+Inicio y conservación:
+- Comprueba Git, registra el commit de partida y conserva cualquier cambio existente del usuario.
+- Usa auditoria/base_analitica_departamento_anio.csv, su diccionario y la validación de auditoria/evidencia/actualizacion_20261008/. La fase 1 está cerrada para esta reconstrucción local, con salvedades históricas documentadas. No repitas censos completos salvo una discrepancia concreta o nuevos insumos.
+- Conserva originales, datasets ignorados y evidencias. No cambies .gitignore ni hagas push.
+
+Criterios de partida:
+- Unidad: departamento del colegio-año; registros elegibles de grado 11. Base de 198 filas, 33 territorios en 2018, 2019, 2021, 2022, 2023 y 2024. Mantén 2021 y Bogotá y los filtros auditados; no añadas filtros de calendario.
+- Resultado principal: prom_punt_global, media aritmética de puntajes globales recibidos, sin redondeo intermedio. El usuario confirma que se utilizó el promedio y no hubo comparación previa con mediana. Justifica la agregación según el resultado que se quiere estimar; no declares superioridad demostrada. Si una comparación descriptiva con mediana es necesaria, usa el desarrollo hasta 2022, guarda evidencia separada y no cambies el objetivo buscando mejores métricas.
+- La selección histórica de 59 columnas queda archivada, sin pendiente activo. No la investigues de nuevo salvo evidencia que afecte realmente población, puntajes o unión. No inventes criterios históricos.
+- Conserva globales recibidos, incluidas las diferencias de fórmula presentes en TXT. No recalcules ni imputes puntajes. Las áreas fueron controles de calidad, no entradas para predecir el global.
+- Cada territorio tendrá el mismo peso en el principal. Compara IPM solo, 15 tasas de privación y ambas entradas; organiza las tasas en cinco dimensiones oficiales sin inventar tasas agregadas de dimensión. Excluye INSE, puntajes de áreas, percentiles, variables derivadas del resultado e identificadores como predictores. Conteos y códigos sirven para trazabilidad y diagnóstico.
+- El alcance actual es estimar desempeño dado IPM del mismo año. No lo llames anticipación futura cuando las entradas aún no están disponibles. Si el objetivo aprobado exige anticipación, documenta la discrepancia y propone una alternativa compatible con información disponible previamente antes de cambiar el diseño.
+
+Protocolo y problemas:
+- Fija variables, transformaciones, modelos candidatos y referencias, métricas (errores expresados en puntos Saber), búsquedas, reglas de selección/desempate, semillas, manejo de fallos y límites de interpretación. Distingue decisiones nuevas de resultados históricos.
+- Desarrollo con 2018, 2019, 2021 y 2022; ventanas temporales expansivas que conservan juntos todos los territorios de un año. Toda transformación o selección futura deberá ajustarse dentro del entrenamiento de cada ventana. El contraste por territorios es secundario y responde a otra pregunta.
+- Define evaluación posterior de 2023 y 2024 por separado y conjuntamente, con modelos congelados hasta 2022. Es una reevaluación temporal, no una prueba inédita: prom.pdf pp. 13–14, 18 y 22, y nueva ivestigacion .pdf pp. 5–7 ya comparan resultados sobre esos años. No utilices sus resultados para ajustar repetidamente decisiones del protocolo.
+- Trabaja de forma dinámica: ante cada problema material, registra evidencia, impacto, alternativa, decisión y comprobación. Resuelve autónomamente decisiones rutinarias dentro del alcance. Consulta solo decisiones materiales que no puedan resolverse con contexto/evidencia. Archiva antecedentes irrelevantes; no ocultes ni cierres problemas indispensables para validez, cobertura o ausencia de fuga.
+
+Reproducción y entregables:
+- Guarda un protocolo claro y completo en protocolo/PROTOCOLO_OBJETIVO_3.md y un registro de problemas/decisiones en protocolo/decisiones_fase2.md. Respalda afirmaciones con archivos, páginas o procedimientos.
+- Define una organización de notebooks por etapas útiles para preparación, modelos y simulación posteriores. Mantén fuentes editables Python y un generador Python de .ipynb que valide el formato. Comparte lógica y parámetros; no edites JSON manualmente ni generes un notebook por algoritmo sin necesidad.
+- En esta fase crea solo notebooks de protocolo/controles si aportan reproducción real; no entrenamientos ni simulaciones, ni resultados ficticios. Documenta entradas, salidas, orden, dependencias actuales y versiones. No incrustes registros personales.
+- Verifica controles adecuados al trabajo documental y a los artefactos creados, actualiza continuidad con decisiones, pendientes, condición de avance y prompt siguiente. Revisa y versiona únicamente entregables de esta fase, sin descartar trabajo previo. Crea un commit descriptivo de cierre, o de avance con pendientes si existen bloqueos indispensables. Informa commit, estado final de Git, entregables y limitaciones. No declares terminada fase 2 si el protocolo deja decisiones indispensables sin resolver.

@@ -1,7 +1,7 @@
 archivo,tipo,bytes,sha256,estado_git,observacion,ruta_entrega_20261007,fecha_verificacion
 Resultados Guardados/,directorio vacío,0,,sin archivos,Inspección local; no hay resultados ni versiones históricas aquí,Resultados Guardados/,2026-10-08
 Entorno de ejecución/,directorio vacío,0,,sin archivos,Inspección local; no hay resultados ni versiones históricas aquí,Entorno de ejecución/,2026-10-08
-AGENTS.md,.md,916,779a13c0987cd94259c13871cf5ed43481d84338d79cda81dc89a6446b8057f4,versionado,Insumo local conservado; nombre no acredita origen ni historial,AGENTS.md,2026-10-08
+AGENTS.md,.md,2377,4f021b7d45e2b61951c2c2b3e939482f47882f12d52c3ba62f9db1482e58f466,versionado,"Normativa actualizada por solicitud del usuario: hallazgo/alternativa, relevancia, criterios actuales y notebooks generados desde Python; versión previa en Git",AGENTS.md,2026-10-08
 PLAN_OBJETIVO_3.md,.md,12935,a7de9903daa65746bd1feddb058de7bccb4422e25f40522289a16fc4e878ac99,versionado,Insumo local conservado; nombre no acredita origen ni historial,PLAN_OBJETIVO_3.md,2026-10-08
 prom.pdf,.pdf,355909,1964efeb7d0e0015348e23d9af5e42f7b42e4a2a1b5d95e620b2f790a6e1e0fb,versionado,Insumo local conservado; nombre no acredita origen ni historial,prom.pdf,2026-10-08
 nueva ivestigacion .pdf,.pdf,226641,32e19c283e869b98a5ac856ddd068ab31c99e3d787d6600b99d890225ddeeff7,versionado,Insumo local conservado; nombre no acredita origen ni historial,nueva ivestigacion .pdf,2026-10-08

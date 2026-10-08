@@ -2,6 +2,8 @@
 
 ## Entrega vigente: 2026-10-08
 
+Actualización documental posterior: la selección de 59 columnas se archiva sin pendiente activo por instrucción del usuario. El resultado usado es la media departamental del global individual, sin comparación histórica con mediana. `AGENTS.md` se actualizó para una auditoría con alternativas y notebooks generados desde Python; es normativa mutable, no un dataset inmutable. Su huella actual está en el inventario, y la versión anterior se conserva en Git. La regeneración de la matriz mantiene esa aclaración. Esta actualización no recalcula la base ni requiere repetir censos; los notebooks de modelos/simulación se crearán en sus fases autorizadas.
+
 Con los TXT aportados y la carpeta renombrada, ejecutar los procedimientos nuevos en este orden con el intérprete indicado abajo:
 
 ```text

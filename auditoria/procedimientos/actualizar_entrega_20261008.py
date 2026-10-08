@@ -55,8 +55,10 @@ def main():
             assert row['sha256']==incoming.loc[rel,'sha256'];row['observacion']='Mismo contenido que entrega previa; ruta local actualizada si corresponde'
         else:
             sha=hashlib.sha256(path.read_bytes()).hexdigest()
-            if rel!='.gitignore':assert sha==row['sha256'],rel
-            else:row['observacion']='Cambio del usuario presente al iniciar sesión; no se modifica ni incorpora al commit de auditoría'
+            if rel not in {'.gitignore','AGENTS.md'}:assert sha==row['sha256'],rel
+            elif rel=='AGENTS.md':
+                row['observacion']='Normativa de trabajo mutable; versión actual registrada, sin cambio de insumos de datos. Historial en Git.'
+            else:row['observacion']='Archivo de exclusiones del usuario; registrar versión local sin modificarla'
             row['sha256']=sha;row['bytes']=path.stat().st_size
         inv.append(row)
     for rel,r in incoming.iterrows():
@@ -149,13 +151,13 @@ def main():
         elif loc.startswith('No hay duplicados'):
             matrix.loc[i,['evidencia_verificable','correccion_o_alcance','pendiente']]=['actualizacion_20261008/filtros_raw.csv: ID nulos y repetidos; resumen_raw.json: repetición entre periodos','Se verifican IDs de registro; no identidad de personas que puedan presentar varias aplicaciones','']
         elif loc.startswith('Los _limpio son originales'):
-            matrix.loc[i,['evidencia_verificable','correccion_o_alcance','pendiente']]=['actualizacion_20261008/esquemas_raw.csv y conservacion_raw_periodicos.csv; columna59 distinta de esquema77','Derivados de 59 campos. Se comprueba su conservación proyectada; no se conoce criterio histórico de columnas. Reconstrucción nueva usa raw directamente','Criterio histórico59 no recuperado; no requerido por reconstrucción explícita nueva']
+            matrix.loc[i,['evidencia_verificable','correccion_o_alcance','pendiente']]=['actualizacion_20261008/esquemas_raw.csv y conservacion_raw_periodicos.csv; respuestas_pendientes_20261008.md, aclaración posterior del usuario','Derivados de 59 campos, con conservación proyectada. Selección histórica archivada sin pendiente activo. El resultado fue la media departamental del global individual; no hubo comparación previa con mediana. La reconstrucción actual no depende del recorte','']
         elif loc.startswith('Fórmula estándar global'):
             matrix.loc[i,['evidencia_verificable','correccion_o_alcance','pendiente']]=['actualizacion_20261008/formula20222_raw.csv; filtros_raw.csv y conservacion_raw_final.csv','Discrepancias ya presentes en TXT y conservadas; no error de lectura demostrado ni corrección de puntajes','Regla o versión ICFES que explique aritmética; advertencia de fuente, no filtro']
         elif loc.startswith('198 observaciones disponibles') or loc.startswith('198 celdas y 33'):
             matrix.loc[i,['dictamen','evidencia_verificable','correccion_o_alcance','pendiente']]=['respaldada','base_analitica_departamento_anio.csv; actualizacion_20261008/validacion_reconstruccion.json','198 celdas de población explícita reconstruida; no utilizar panel raíz incompleto','']
         elif loc.startswith('12 periodos, esquema 82'):
-            matrix.loc[i,['evidencia_verificable','pendiente']]=['actualizacion_20261008/esquemas_raw.csv: identificador/calendario en TXT; final79 y periódicos59 los omiten','Historial exacto del esquema82 no autenticado; reconstrucción nueva no depende de él']
+            matrix.loc[i,['evidencia_verificable','correccion_o_alcance','pendiente']]=['actualizacion_20261008/esquemas_raw.csv: identificador/calendario en TXT; final79 y periódicos59 los omiten','Esquemas históricos distintos archivados como antecedente, sin pendiente activo; la construcción validada usa campos críticos identificados en raw','']
         elif loc.startswith('Saber local no tiene cohorte'):
             matrix.loc[i,['evidencia_verificable','correccion_o_alcance','pendiente']]=['actualizacion_20261008/conservacion_raw_final.csv: 20211 y20212 completos bajo filtros; IPM Bogotá completo','Afirmación descartada para reconstrucción actual; conservar2021 yBogotá','']
         elif loc.startswith('Panel 160, 32 territorios'):
