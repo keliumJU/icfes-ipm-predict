@@ -1,5 +1,7 @@
 # Mapa de revisión de tesis e informes
 
+Actualización 2026-10-08: el conjunto de páginas leídas no cambia. Los TXT nuevos permiten cerrar la reproducción local de filtros y conteos. La contradicción de pp. 115–117 tiene una propuesta separada en `propuesta_correccion_tesis.md` y un reemplazo descriptivo en `evidencia/actualizacion_20261008/tabla12_propuesta_198.csv`. No se editó ACA2 ni se afirmó aceptación del grupo.
+
 Fecha: 2026-10-07. Referencias a páginas físicas del PDF, contadas desde1. En ACA2 coinciden con el número impreso. La extracción se realizó con `pdftotext -layout`; se localizaron primero objetivos, metodología, construcción, tablas de conteos, 2021 y la sección de asociación. **Extraer o localizar una página no equivale a revisarla.** El detalle página por página, incluidos los pendientes, está en `evidencia/mapa_paginas.csv` (hash del texto extraído, estado y revisión visual), regenerable con `procedimientos/mapear_documentos.py`.
 
 ## ACA2.pdf — 126 páginas

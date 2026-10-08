@@ -1,4 +1,26 @@
-# Procedimientos reproducibles de fase1
+# Procedimientos reproducibles de fase 1
+
+## Entrega vigente: 2026-10-08
+
+Con los TXT aportados y la carpeta renombrada, ejecutar los procedimientos nuevos en este orden con el intérprete indicado abajo:
+
+```text
+auditoria/procedimientos/auditar_raw_20261008.py
+auditoria/procedimientos/actualizar_entrega_20261008.py
+auditoria/procedimientos/verificar_cierre_20261008.py
+```
+
+El primero inventaría también los datos ignorados, verifica las huellas de los CSV renombrados y consolidado contra el commit de la entrega previa, y lee completos los doce TXT relevantes. Valida ancho, identificadores de registro, calendarios, filtros, puntajes y conservación bidireccional por SHA-256 de 16 campos críticos. Los IDs y firmas permanecen en memoria, sin publicación. Los cuatro TXT de 2020/2025 solo se inventarían e inspeccionan por encabezado: no se incluyen en análisis. Los TXT locales no tienen metadatos que autentiquen descarga.
+
+El segundo exige todos los controles antes de entregar una base. Relee los TXT por bloques para calcular conteos/sumas de grado 11 directamente de raw y coteja 2.574 valores con los agregados del consolidado; no usa medias redondeadas para construir nuevas medias. Valida la unión IPM uno a uno, entrega 198 filas y diccionario, prepara una tabla descriptiva alternativa para la tesis y actualiza la matriz manteniendo dictámenes anteriores. El inventario anterior y la matriz base se leen desde el commit fijo `77c286f43a3c6d811fc68ba9399fd5ec99277528`, evitando perder el estado histórico o duplicar filas al repetir. La evidencia IPM ya cotejada y los controles del consolidado de aquel commit son insumos compactos versionados.
+
+El tercero recomprueba tamaño y SHA-256 de los 49 insumos actuales, directorios vacíos y coherencia de entregables. `.gitignore` contiene una modificación del usuario presente antes de esta sesión: se inventaría su estado actual, pero no se incorpora al commit de auditoría. Las versiones del cierre son actuales. La ejecución raw emitió una advertencia pandas sobre futura conversión de tipos en `replace`; no se suprimió y no hubo fallos de lectura. Las verificaciones bidireccionales y la agregación independiente pasaron.
+
+Resultados nuevos: `evidencia/actualizacion_20261008/`. Memoria: varios conjuntos de firmas y vectores de identificadores de hasta cuatro millones de registros; se liberan al terminar, sin persistir datos personales. No cambia el universo para mejorar métricas ni recalcula puntajes recibidos. El límite de igualdad comprobada son los campos críticos y los agregados, no todos los atributos. La explicación oficial de diferencias de fórmula permanece desconocida.
+
+## Entrega histórica: 2026-10-07
+
+Los procedimientos siguientes conservan su lógica de aquella entrega y sus rutas antiguas. **No ejecutar su inventario ni regenerar la matriz antigua sobre la entrega actual:** asumirían `Datos anteriores a la limpieza/` y sobrescribirían estados fechados. Para consultar/reproducir esa entrega, usar el commit previo con sus rutas correspondientes; los originales no se trasladan ni sobrescriben automáticamente. Para la entrega vigente, usar exclusivamente la secuencia anterior. El diagnóstico anterior queda en `historico/diagnostico_calidad_20261007.md`.
 
 Todos los programas nuevos leen fuentes y escriben únicamente resultados agregados bajo `auditoria/evidencia/`. No ejecutan scripts de modelos, no entrenan, no imputan puntajes ni cambian `.gitignore`. Lanzar desde la raíz del repositorio; las rutas se resuelven desde cada programa. Inspeccionar cada programa antes de ejecutarlo. Los originales tienen huellas en `../inventario_trazabilidad.csv`.
 

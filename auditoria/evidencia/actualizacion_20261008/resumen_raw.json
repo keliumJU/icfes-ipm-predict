@@ -1,0 +1,17 @@
+{
+  "fecha_cliente": "2026-10-08",
+  "git_partida": "77c286f43a3c6d811fc68ba9399fd5ec99277528",
+  "python_actual": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "plataforma_actual": "Linux-7.2.9-1-cachyos-x86_64-with-glibc2.44",
+  "chunksize": 100000,
+  "periodos_raw_auditados": 12,
+  "filas_raw_universo": 4039755,
+  "filas_raw_hipotesis_final": 3401100,
+  "id_presentes_en_mas_de_un_periodo_exceso": 0,
+  "identificador_no_interpretado_como_id_persona": true,
+  "final_sin_raw_filtrado": 0,
+  "raw_filtrado_sin_final": 0,
+  "originales_no_modificados": true,
+  "modelo_entrenado": false,
+  "limite": "Conservación de 16 campos críticos, no igualdad de cada atributo; descarga histórica no autenticada"
+}

@@ -1,0 +1,26 @@
+{
+  "fecha_cliente": "2026-10-08",
+  "archivos_insumo_tamano_sha256_verificados": 49,
+  "directorios_vacios": 2,
+  "datasets_ignorados": 28,
+  "base_filas": 198,
+  "registros_base": 2984199,
+  "cotejos_agregacion_raw_final": 2574,
+  "dictamenes_actuales": {
+    "respaldada": 21,
+    "parcialmente respaldada": 13,
+    "incorrecta": 19,
+    "no verificable": 6
+  },
+  "python_actual": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "paquetes_actuales_no_historicos": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "openpyxl": "3.1.5"
+  },
+  "modelos_entrenados": 0,
+  "fase2_ejecutada": false,
+  "fase1_cerrada_alcance_local": true,
+  "salvedades": "Autenticación de descarga, criterio histórico59, causa antigua20212 y métricas históricas no verificadas; explicación aritmética de puntajes desconocida. Ver diagnóstico.",
+  "gitignore": "Cambio del usuario previo a sesión, conservado y excluido del commit de auditoría"
+}

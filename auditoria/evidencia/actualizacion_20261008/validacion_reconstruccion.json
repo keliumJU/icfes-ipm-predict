@@ -1,0 +1,25 @@
+{
+  "fecha": "2026-10-08",
+  "condiciones": {
+    "doce_periodos": true,
+    "total_inicial": true,
+    "estudiantes": true,
+    "sin_libertad": true,
+    "puntajes": true,
+    "codigo_colegio": true,
+    "grado11": true,
+    "final_igual_raw_filtrado": true,
+    "ancho_y_periodo_correctos": true,
+    "identificadores_registro_completos_unicos": true,
+    "firmas_criticas_no_ambiguas": true
+  },
+  "reconstruccion_validada": true,
+  "alcance": "población, geografía codificada, seis puntajes y agregación reproducidos desde TXT locales; no autenticación de descarga ni igualdad de todos los atributos",
+  "causa_historica_20212": "recuerdo del usuario y comentario del script; no se exige recrear fallo del panel sustituido",
+  "criterios_no_cambiados": true,
+  "modelo_entrenado": false,
+  "base_entregada": "auditoria/base_analitica_departamento_anio.csv",
+  "cotejos_agregacion_independiente": 2574,
+  "filas_base": 198,
+  "suma_registros_base": 2984199
+}
