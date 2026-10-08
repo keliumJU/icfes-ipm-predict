@@ -1,0 +1,11 @@
+{
+  "fuente": "protocolo/fuentes/01_protocolo_controles.py",
+  "notebook": "notebooks/01_protocolo_controles.ipynb",
+  "fuente_sha256": "a0f38688682ecebfa4f2088c14cc2b70f608b98311becfe1f027d67af48d470f",
+  "notebook_sha256": "378dcc35f49fb2b1ba8138f83b25fed203936206a5a94935afa8d16540e4ec86",
+  "formato": "4.5; subconjunto sin salidas validado por generar_notebooks.validar",
+  "celdas": 6,
+  "celdas_codigo_ejecutadas": 3,
+  "ejecucion": "compile/exec secuencial; no kernel Jupyter",
+  "outputs_distribuidos": 0
+}

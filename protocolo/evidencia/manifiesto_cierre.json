@@ -1,0 +1,31 @@
+{
+  "fecha_cliente": "2026-10-08",
+  "commit_partida": "a68f0bb58b7b5268e6025ef33afc64862f8e8cc8",
+  "fase2_cerrada": true,
+  "originales_versionados_sin_cambios": 139,
+  "control_negativo_notebook_rechazado": [
+    "ids_repetidos",
+    "salida_incrustada",
+    "codigo_invalido"
+  ],
+  "fuentes_python_sintaxis_valida": 5,
+  "notebook_reproducible_desde_fuente": true,
+  "modelos_entrenados": 0,
+  "simulaciones_ejecutadas": 0,
+  "decisiones_indispensables_pendientes": [],
+  "entregables_sha256": {
+    "CONTINUIDAD_OBJETIVO_3.md": "b4e53fcfe0e5c150da785d9a4cce73520e5ebc197bb1c283ff033d6c0666a9ee",
+    "notebooks/01_protocolo_controles.ipynb": "378dcc35f49fb2b1ba8138f83b25fed203936206a5a94935afa8d16540e4ec86",
+    "protocolo/PROTOCOLO_OBJETIVO_3.md": "b32efca2d85f21b2d24b884b0fc28e225b925ca9e6555c96e3621a22ac7b4f2b",
+    "protocolo/README.md": "9f18d822e81b58dd2e59a2865d966aba0574e1c9aee5c72851ff687d93473f40",
+    "protocolo/decisiones_fase2.md": "523a08672f139bfeb2b604850fc549724cf1e363fa8e64b16d874e0998a8a1f9",
+    "protocolo/fuentes/01_protocolo_controles.py": "a0f38688682ecebfa4f2088c14cc2b70f608b98311becfe1f027d67af48d470f",
+    "protocolo/fuentes/configuracion.py": "d4cd0c59f94d01316adfe2ab1a0ebddaa3630679344bc520296e80c78e41cab1",
+    "protocolo/fuentes/controles.py": "1021f1495f651c2fd7e09a5215a5aae61c7c521184b12f336e6b56c71fee8e7f",
+    "protocolo/fuentes/generar_notebooks.py": "5a1c06663d6ab338001a6201974d1fbdeba494a0ac10dbe253639658ebe26b57",
+    "protocolo/fuentes/verificar_cierre.py": "ecc00a8710904fc13f1b3cc35dce1857612950f90167bf7408ba6e2610cd9ff3",
+    "protocolo/evidencia/verificacion_fase2.json": "7bf17d4618e6974b8cc4faff78a2d1bbbd0b546add492f470d9e1f3f2946c54f",
+    "protocolo/evidencia/candidatos_congelados.json": "cea660daf32e10a470a5493c84778e5440f881055dd7c1c708d5e592113427da",
+    "protocolo/evidencia/verificacion_notebook.json": "ac1e9e9c3c38f9dddabca89e0dcd7a6fd4c15f3816912425f2d6b2f321806b83"
+  }
+}

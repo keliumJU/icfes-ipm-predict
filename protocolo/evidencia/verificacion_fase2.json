@@ -1,0 +1,65 @@
+{
+  "fecha_cliente": "2026-10-08",
+  "version_protocolo": "1.0",
+  "commit_partida": "a68f0bb58b7b5268e6025ef33afc64862f8e8cc8",
+  "base_filas": 198,
+  "territorios": 33,
+  "registros": 2984199,
+  "cotejos_previos_comprobados": 2574,
+  "desarrollo_filas": 132,
+  "reevaluacion_filas": 66,
+  "ventanas": [
+    {
+      "ventana": 1,
+      "entrenamiento": [
+        2018
+      ],
+      "validacion": 2019,
+      "n_entrenamiento": 33,
+      "n_validacion": 33
+    },
+    {
+      "ventana": 2,
+      "entrenamiento": [
+        2018,
+        2019
+      ],
+      "validacion": 2021,
+      "n_entrenamiento": 66,
+      "n_validacion": 33
+    },
+    {
+      "ventana": 3,
+      "entrenamiento": [
+        2018,
+        2019,
+        2021
+      ],
+      "validacion": 2022,
+      "n_entrenamiento": 99,
+      "n_validacion": 33
+    }
+  ],
+  "candidatos_definidos_no_entrenados": 67,
+  "semilla_futura": 20261008,
+  "python_actual": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "paquetes_actuales_no_historicos": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "scikit-learn": null,
+    "nbformat": null,
+    "ipykernel": null
+  },
+  "insumos_sha256": {
+    "auditoria/base_analitica_departamento_anio.csv": "609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866",
+    "auditoria/diccionario_base_analitica.csv": "6f6c662a3a68b9955e3597e5d8203d0fac9fb009b04ddc9dee73687d77599c68",
+    "auditoria/evidencia/actualizacion_20261008/validacion_reconstruccion.json": "813387d66b1f63f671d39a795098eed7304a4c36c55ecec86f6055b1a07fdde0",
+    "auditoria/evidencia/actualizacion_20261008/verificacion_cierre.json": "40dd8dce37a78e0ad5eed10f03788165cfe9c624c6bf603b9b854f15a8dce3c0",
+    "auditoria/evidencia/actualizacion_20261008/cotejo_agregacion_raw_final.csv": "fc62654ef33faa9a8fb650720b011b25ac2ab627e951de79b6ffdd4334fc49c7",
+    "auditoria/evidencia/notas_ipm.csv": "026d11e534dbf7231643571c9f13c9fd45362f49962e10fbbb90d25dc42c23a2"
+  },
+  "modelos_entrenados_en_este_procedimiento": 0,
+  "simulaciones_ejecutadas": 0,
+  "metricas_evaluacion_calculadas": false,
+  "controles_aprobados": true
+}

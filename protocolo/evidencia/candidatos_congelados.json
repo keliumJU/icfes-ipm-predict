@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "media",
+    "familia": "media",
+    "especificacion": null,
+    "parametros": {
+      "strategy": "mean"
+    }
+  },
+  {
+    "id": "ols_ipm",
+    "familia": "ols",
+    "especificacion": "ipm",
+    "parametros": {
+      "fit_intercept": true
+    }
+  },
+  {
+    "id": "ridge_ipm_00",
+    "familia": "ridge",
+    "especificacion": "ipm",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 0.1
+    }
+  },
+  {
+    "id": "ridge_ipm_01",
+    "familia": "ridge",
+    "especificacion": "ipm",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 1.0
+    }
+  },
+  {
+    "id": "ridge_ipm_02",
+    "familia": "ridge",
+    "especificacion": "ipm",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 10.0
+    }
+  },
+  {
+    "id": "ridge_ipm_03",
+    "familia": "ridge",
+    "especificacion": "ipm",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 100.0
+    }
+  },
+  {
+    "id": "ridge_ipm_04",
+    "familia": "ridge",
+    "especificacion": "ipm",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 1000.0
+    }
+  },
+  {
+    "id": "random_forest_ipm_00",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 3,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ipm_01",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 3,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_ipm_02",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 8,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ipm_03",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 8,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_ipm_04",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 3,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ipm_05",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 3,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_ipm_06",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 8,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ipm_07",
+    "familia": "random_forest",
+    "especificacion": "ipm",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 8,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_00",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.03,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_01",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.03,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_02",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.1,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_03",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.1,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_04",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.03,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_05",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.03,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_06",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.1,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ipm_07",
+    "familia": "gradient_boosting",
+    "especificacion": "ipm",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.1,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "ols_tasas",
+    "familia": "ols",
+    "especificacion": "tasas",
+    "parametros": {
+      "fit_intercept": true
+    }
+  },
+  {
+    "id": "ridge_tasas_00",
+    "familia": "ridge",
+    "especificacion": "tasas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 0.1
+    }
+  },
+  {
+    "id": "ridge_tasas_01",
+    "familia": "ridge",
+    "especificacion": "tasas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 1.0
+    }
+  },
+  {
+    "id": "ridge_tasas_02",
+    "familia": "ridge",
+    "especificacion": "tasas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 10.0
+    }
+  },
+  {
+    "id": "ridge_tasas_03",
+    "familia": "ridge",
+    "especificacion": "tasas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 100.0
+    }
+  },
+  {
+    "id": "ridge_tasas_04",
+    "familia": "ridge",
+    "especificacion": "tasas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 1000.0
+    }
+  },
+  {
+    "id": "random_forest_tasas_00",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 3,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_tasas_01",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 3,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_tasas_02",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 8,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_tasas_03",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 8,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_tasas_04",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 3,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_tasas_05",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 3,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_tasas_06",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 8,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_tasas_07",
+    "familia": "random_forest",
+    "especificacion": "tasas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 8,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_00",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.03,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_01",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.03,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_02",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.1,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_03",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.1,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_04",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.03,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_05",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.03,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_06",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.1,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_tasas_07",
+    "familia": "gradient_boosting",
+    "especificacion": "tasas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.1,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "ols_ambas",
+    "familia": "ols",
+    "especificacion": "ambas",
+    "parametros": {
+      "fit_intercept": true
+    }
+  },
+  {
+    "id": "ridge_ambas_00",
+    "familia": "ridge",
+    "especificacion": "ambas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 0.1
+    }
+  },
+  {
+    "id": "ridge_ambas_01",
+    "familia": "ridge",
+    "especificacion": "ambas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 1.0
+    }
+  },
+  {
+    "id": "ridge_ambas_02",
+    "familia": "ridge",
+    "especificacion": "ambas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 10.0
+    }
+  },
+  {
+    "id": "ridge_ambas_03",
+    "familia": "ridge",
+    "especificacion": "ambas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 100.0
+    }
+  },
+  {
+    "id": "ridge_ambas_04",
+    "familia": "ridge",
+    "especificacion": "ambas",
+    "parametros": {
+      "fit_intercept": true,
+      "solver": "svd",
+      "alpha": 1000.0
+    }
+  },
+  {
+    "id": "random_forest_ambas_00",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 3,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ambas_01",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 3,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_ambas_02",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 8,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ambas_03",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 2,
+      "min_samples_leaf": 8,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_ambas_04",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 3,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ambas_05",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 3,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "random_forest_ambas_06",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 8,
+      "max_features": 0.5
+    }
+  },
+  {
+    "id": "random_forest_ambas_07",
+    "familia": "random_forest",
+    "especificacion": "ambas",
+    "parametros": {
+      "n_estimators": 300,
+      "criterion": "squared_error",
+      "bootstrap": true,
+      "min_samples_split": 2,
+      "n_jobs": 1,
+      "random_state": 20261008,
+      "oob_score": false,
+      "max_depth": 4,
+      "min_samples_leaf": 8,
+      "max_features": 1.0
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_00",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.03,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_01",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.03,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_02",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.1,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_03",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 50,
+      "learning_rate": 0.1,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_04",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.03,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_05",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.03,
+      "max_depth": 2
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_06",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.1,
+      "max_depth": 1
+    }
+  },
+  {
+    "id": "gradient_boosting_ambas_07",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "loss": "squared_error",
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "subsample": 1.0,
+      "max_features": null,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "n_estimators": 100,
+      "learning_rate": 0.1,
+      "max_depth": 2
+    }
+  }
+]

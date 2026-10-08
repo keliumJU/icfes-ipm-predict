@@ -1,7 +1,7 @@
 # Continuidad del objetivo 3
 
-Actualización: 2026-10-08 (America/Bogota). Alcance ejecutado: **solo fase 1**.
-Estado: **fase 1 cerrada para la reconstrucción analítica local validada, con salvedades históricas documentadas**. No se ejecutó ni se autoriza implícitamente fase 2.
+Actualización: 2026-10-08 (America/Bogota). Alcance vigente: **fase 2 cerrada**, sin entrenamiento ni simulaciones.
+Estado: protocolo v1.0 congelado sobre la reconstrucción local validada de fase 1; salvedades históricas conservadas. La fase 3 requiere autorización nueva. Las secciones de fase 1 que siguen conservan el registro histórico; el cierre vigente está al final.
 
 ## Partida y conservación
 
@@ -44,7 +44,7 @@ Estas salvedades no se ocultan ni se tratan como causas demostradas. No quedan c
 
 Secuencia vigente en `auditoria/procedimientos/README.md`: `auditar_raw_20261008.py`, `actualizar_entrega_20261008.py`, `verificar_cierre_20261008.py`. No ejecutar inventarios/procedimientos antiguos con rutas renombradas: sobrescribirían estados históricos. Los nuevos usan el commit `77c286f` como referencia fija. Python 3.12.14, pandas 2.2.3, numpy 2.3.5, openpyxl 3.1.5 son versiones actuales, no históricas.
 
-## Criterios de trabajo para la siguiente fase
+## Criterios de partida conservados de la fase 2
 
 Actualización documental solicitada por el usuario el 2026-10-08; partida de esta actualización: `54cd549700c9ce8ef83c707b825d215f1902fe53`. No se ejecuta fase 2 en esta sesión. El commit del usuario ya registra la nueva carpeta y `.gitignore`; no se modifica ese archivo. Se conservan las evidencias y cifras de la auditoría.
 
@@ -56,4 +56,88 @@ Actualización documental solicitada por el usuario el 2026-10-08; partida de es
 6. **Auditoría dinámica:** ante un problema, registrar evidencia, impacto, alternativa, decisión y comprobación. Resolver lo verificable y las decisiones rutinarias dentro de la fase autorizada. Archivar antecedentes irrelevantes para el resultado actual, sin ocultarlos ni tratarlos como bloqueos. Un problema indispensable para validez, cobertura o ausencia de fuga sigue activo hasta resolverse. La reducción histórica a 59 columnas no se reabre sin nueva evidencia que afecte la población, puntajes o unión.
 7. **Notebooks:** el usuario solicita los necesarios para reproducir preparación, predicción de modelos y posteriormente simulación. Mantener fuentes editables `.py` y un generador Python de `.ipynb` con validación del formato, celdas ordenadas y funciones compartidas. Definir el número por etapas útiles, sin un notebook obligatorio por algoritmo. Separar entradas, parámetros, controles, salidas y versiones; usar rutas relativas al proyecto y semillas explícitas cuando corresponda. No incrustar datos personales ni resultados ficticios. En fase 2 pueden prepararse notebooks de protocolo/controles; entrenamiento y simulación pertenecen a sus fases posteriores autorizadas.
 
-**Mensaje para siguiente sesión:** utilizar `PROMPT_FASE_2.md`. Leer `AGENTS.md`, esta continuidad y únicamente fase 2 de `PLAN_OBJETIVO_3.md`. Cerrar el protocolo sin entrenar ni simular. Partir de la base validada y de estos criterios, justificar la media y resolver problemas materiales con alternativas verificables. No reabrir la selección de 59 columnas, atribuir decisiones nuevas al pasado, repetir censos sin motivo ni modificar originales. Actualizar continuidad y conservar trabajo existente; no hacer push.
+**Mensaje histórico de entrada a fase 2, ya atendido:** utilizar `PROMPT_FASE_2.md` y solo la sección de fase 2 del plan para cerrar protocolo, sin entrenar ni simular. Se conserva como antecedente; no reiniciar la fase por este mensaje.
+
+## Cierre vigente de fase 2 — 2026-10-08
+
+Partida `a68f0bb58b7b5268e6025ef33afc64862f8e8cc8`, Git limpio. Se leyeron AGENTS,
+PROMPT_FASE_2, continuidad y exclusivamente líneas 49–64 (fase 2) del plan. No se
+leyeron fases posteriores. No se alteró .gitignore, originales, datasets ignorados,
+evidencias de fase 1 ni scripts históricos. Commit de cierre local: consultar
+`git log -1 --format='%H %s'`; asunto `fase 2: cerrar protocolo reproducible antes de entrenar`.
+No se hizo push. No se entrenaron modelos, calcularon errores predictivos ni simularon escenarios.
+
+### Decisiones congeladas y comprobaciones
+
+- **Usuario:** mantener población/filtros, Bogotá/2021, promedio principal, peso territorial
+  igual, IPM/15 tasas/ambas, exclusiones y años acordados. Selección59 archivada.
+- **Comprobación actual:** 198 filas, 33 territorios por año, 2.984.199 registros, sin
+  nulos/llaves repetidas; diccionario, rangos y denominadores coherentes; se cotejan 2.574
+  deltas raw/final existentes iguales a cero. No se repite censo raw. Huella base
+  `609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866`, fijada en configuración.
+- **Decisión nueva de agregación:** media para estimar nivel promedio de registros
+  elegibles, no mediana del estudiante típico. No superioridad demostrada ni comparación
+  histórica inventada; contraste con mediana innecesario para el estimando fijado.
+- **Decisión nueva de entradas:** cinco dimensiones oficiales documentadas, sin tasas
+  agregadas inventadas; 1/15/16 entradas. No INSE, áreas, percentiles, derivados de y,
+  códigos, año ni conteos como X. IPM del mismo año: estimación contemporánea, no anticipación.
+- **Decisión nueva de desarrollo:** 132 filas hasta 2022; ventanas 2018→2019,
+  2018+2019→2021, 2018+2019+2021→2022, años completos 33/66/99 de entrenamiento y
+  33 de validación. Transformaciones solo dentro de entrenamiento; escalado para OLS/Ridge.
+- **Decisión nueva de modelos:** media constante y OLS como referencias; Ridge, RF regresor
+  y Gradient Boosting regresor, tres especificaciones, grillas finitas: 67 candidatos
+  definidos, ninguno entrenado. Semilla futura20261008. Parámetros en configuración y JSON.
+- **Decisión nueva de selección:** MAE principal en puntos, RMSE/sesgo en puntos y R²
+  secundario; candidatos completos en tres ventanas, tolerancia de 0.1 en MAE y luego
+  RMSE, menos entradas y orden fijo de familia/ID. No clipping, búsqueda adaptativa ni
+  ranking con ventanas fallidas. CV usada para selección tiene posible optimismo.
+- **Decisión nueva de reevaluación:** 66 filas de 2023/2024, cada año y concatenadas;
+  modelos ajustados hasta2022 congelados antes de errores, sin actualizar con2023.
+  No es prueba inédita (PDFs y páginas ya verificadas en fase1); no reescoger ganador.
+- **Decisión nueva de contraste territorial:** 33 grupos completos dentro de desarrollo,
+  hiperparámetros fijos, diagnóstico distinto al transporte temporal, con advertencia
+  de selección previa. Definido, no ejecutado.
+
+### Entregables y reproducción
+
+`protocolo/PROTOCOLO_OBJETIVO_3.md` (v1.0 completo), `protocolo/decisiones_fase2.md`
+(D01–D14: evidencia, impacto, alternativa, decisión y control), `protocolo/README.md`
+(organización de cinco etapas lógicas), fuentes Python compartidas y solo
+`notebooks/01_protocolo_controles.ipynb` creado. No se crean fuentes/notebooks de modelos
+ni simulaciones en esta fase.
+
+Ejecutados, en orden: `protocolo/fuentes/controles.py`, `generar_notebooks.py`,
+`verificar_cierre.py`. Evidencia nueva en `protocolo/evidencia/`: validación panel/ventanas,
+67 candidatos definidos, validación del notebook/ejecución de tres celdas y manifiesto
+de huellas. Notebook sin salidas incrustadas ni datos personales. Formato4.5, validación
+estricta del subconjunto generado y ejecución compile/exec, sin kernel Jupyter.
+
+Runtime usado: Python3.12.14; pandas2.2.3/numpy2.3.5 presentes, no necesarios para estos
+controles de biblioteca estándar. sklearn/nbformat/ipykernel ausentes. Python del sistema
+es3.14.7. No se confunden entornos ni versiones actuales con históricas.
+
+### Pendientes, límites y condición de avance
+
+No quedan decisiones indispensables pendientes de fase2. Permanecen advertencias de
+procedencia local, regla de fórmula global desconocida, notas de comparabilidad IPM,
+poblaciones Saber/IPM distintas, dependencia y escasos años, selección optimista y
+exposición previa de reserva. Selección59, causa antigua20212, descargas y entorno
+histórico no autenticados quedan archivados con motivo; no se reabren sin evidencia
+relevante. Aceptación editorial de corrección de tesis por el grupo sigue externa.
+
+Pendientes de implementación posterior: entorno aislado y versiones exactas/API compatible
+antes de cualquier ajuste; fuentes/notebooks de preparación/modelos/evaluación;
+entrenamientos, métricas y contraste territorial. Escenarios solo cuando se autoricen,
+sin interpretación causal. Estos pendientes no simulan trabajo realizado ni autorizan
+continuar. Cualquier cambio material al protocolo exige motivo previo a nuevos resultados.
+
+**Prompt siguiente, solo si el usuario autoriza fase 3:**
+Continuar en icfes-predict-improved y ejecutar únicamente la fase 3 autorizada. Leer
+AGENTS.md, esta continuidad, protocolo/PROTOCOLO_OBJETIVO_3.md, decisiones y README;
+consultar solo fase 3 del plan. Preservar protocolo v1.0, panel198 y huellas, promedio,
+población, especificaciones, ventanas y reglas. Preparar/verificar entorno antes de
+ajustar, implementar lógica compartida y notebooks desde Python, registrar ejecuciones
+reales y fallos. Seleccionar solo hasta2022, congelar antes de reevaluar2023–2024 conforme
+al alcance de esa fase; no reutilizar reserva para ajustar, no reabrir59 sin evidencia,
+no simular ni avanzar sin autorización. Cerrar con evidencia, continuidad y commit local;
+no push. Este prompt queda preparado, no ejecutado.
