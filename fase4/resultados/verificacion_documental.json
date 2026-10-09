@@ -1,0 +1,6 @@
+{
+  "fuentes_sintaxis_validas": true,
+  "fuentes_notebooks_identicas": true,
+  "notebooks_validados_con_ejecuciones_reales": true,
+  "snapshot_previo_conservado_excepto_continuidad": true
+}

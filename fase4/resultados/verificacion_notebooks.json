@@ -1,0 +1,20 @@
+[
+  {
+    "notebook": "notebooks/05_contraste_territorial.ipynb",
+    "fuente_sha256": "7ab0eea0d77e3ddc8d81d2d5ed0a12642c86c1eae9a774b42e7c60e631418e0a",
+    "notebook_sha256": "ca8b1687138171465a6248e1b4ceaad3d629e6979719f0880c0f2b472ed19966",
+    "celdas_codigo_ejecutadas": 2,
+    "kernel_python": "/tmp/icfes-fase3-venv/bin/python",
+    "validacion_nbformat": true,
+    "salidas_preservadas_codigo_identico": true
+  },
+  {
+    "notebook": "notebooks/06_robustez_explicaciones.ipynb",
+    "fuente_sha256": "97879efa05988b457a335fd2922dd3ec674865974707f1e0607ebc914dde96f9",
+    "notebook_sha256": "304ac5cb698a401ffa195e557125a06a37071a8062e5e7b91cd49b9f900218de",
+    "celdas_codigo_ejecutadas": 2,
+    "kernel_python": "/tmp/icfes-fase3-venv/bin/python",
+    "validacion_nbformat": true,
+    "salidas_preservadas_codigo_identico": true
+  }
+]

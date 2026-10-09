@@ -1,0 +1,33 @@
+id,variable,n_fuera_rango
+gradient_boosting_ambas_07,Analfabetismo,3
+gradient_boosting_ambas_07,Bajo logro educativo,8
+gradient_boosting_ambas_07,Barreras a servicios para cuidado de la primera infancia,3
+gradient_boosting_ambas_07,Barreras de acceso a servicios de salud,2
+gradient_boosting_ambas_07,Desempleo de larga duracion,3
+gradient_boosting_ambas_07,Hacinamiento critico,2
+gradient_boosting_ambas_07,Inadecuada eliminacion de excretas,4
+gradient_boosting_ambas_07,Inasistencia escolar,3
+gradient_boosting_ambas_07,Material inadecuado de paredes exteriores,4
+gradient_boosting_ambas_07,Material inadecuado de pisos,6
+gradient_boosting_ambas_07,Rezago escolar,3
+gradient_boosting_ambas_07,Sin acceso a fuente de agua mejorada,6
+gradient_boosting_ambas_07,Sin aseguramiento en salud,3
+gradient_boosting_ambas_07,Trabajo infantil,4
+gradient_boosting_ambas_07,Trabajo informal,4
+gradient_boosting_ambas_07,ipm,5
+gradient_boosting_ipm_02,ipm,5
+gradient_boosting_tasas_07,Analfabetismo,3
+gradient_boosting_tasas_07,Bajo logro educativo,8
+gradient_boosting_tasas_07,Barreras a servicios para cuidado de la primera infancia,3
+gradient_boosting_tasas_07,Barreras de acceso a servicios de salud,2
+gradient_boosting_tasas_07,Desempleo de larga duracion,3
+gradient_boosting_tasas_07,Hacinamiento critico,2
+gradient_boosting_tasas_07,Inadecuada eliminacion de excretas,4
+gradient_boosting_tasas_07,Inasistencia escolar,3
+gradient_boosting_tasas_07,Material inadecuado de paredes exteriores,4
+gradient_boosting_tasas_07,Material inadecuado de pisos,6
+gradient_boosting_tasas_07,Rezago escolar,3
+gradient_boosting_tasas_07,Sin acceso a fuente de agua mejorada,6
+gradient_boosting_tasas_07,Sin aseguramiento en salud,3
+gradient_boosting_tasas_07,Trabajo infantil,4
+gradient_boosting_tasas_07,Trabajo informal,4

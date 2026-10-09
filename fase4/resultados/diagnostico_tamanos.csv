@@ -1,0 +1,4 @@
+id,r_abs_error_log_n,min_n,max_n
+gradient_boosting_ambas_07,-0.21362386061940156,190,79542
+gradient_boosting_ipm_02,-0.03786442869809164,190,79542
+gradient_boosting_tasas_07,-0.24499239142073218,190,79542

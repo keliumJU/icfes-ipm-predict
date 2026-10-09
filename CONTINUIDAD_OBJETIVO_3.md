@@ -1,7 +1,7 @@
 # Continuidad del objetivo 3
 
-Actualización: 2026-10-09 (America/Bogota). Alcance vigente: **fase 3 cerrada**, modelos y reevaluación temporal ejecutados; sin simulaciones.
-Estado: protocolo v1.0 conservado, ganador y artefactos congelados hasta 2022; salvedades históricas conservadas. La fase 4 requiere autorización nueva. Las secciones anteriores conservan su registro histórico; el cierre vigente está al final.
+Actualización: 2026-10-09 (America/Bogota). Alcance vigente: **fase 4 cerrada**, contraste territorial, robustez y explicaciones ejecutados; sin simulaciones.
+Estado: protocolo v1.0 conservado, ganador y artefactos congelados hasta 2022 intactos; salvedades históricas conservadas. Cualquier fase posterior requiere autorización nueva. Las secciones anteriores conservan su registro histórico; el cierre vigente está al final.
 
 ## Partida y conservación
 
@@ -186,3 +186,42 @@ Se guardan462 predicciones de reserva (7×66), métricas21 filas (7×3 conjuntos
 Persisten limitaciones de procedencia local, fórmula global no autenticada, comparabilidad IPM, enlace ecológico, pocos años/dependencia, optimismo de selección y exposición previa de reserva. No hay afirmaciones causales. Antecedentes59/20212/descargas/entorno histórico siguen archivados; aprobación editorial de propuesta de tesis continúa externa. No quedan decisiones indispensables activas para fase3. Condición de avance: autorización nueva de fase4 sobre estos artefactos, sin ampliar búsqueda por reserva ni ejecutar escenarios no acordados.
 
 **Prompt siguiente preparado, no ejecutado:** Continuar exclusivamente fase4 si se autoriza. Leer AGENTS, esta continuidad y protocolo/decisiones/README; consultar solo fase4 del plan y documentar discrepancias frente a protocolo antes de cualquier cálculo nuevo. Verificar huellas y artefactos congelados de fase3. Mantener población198, media, filtros, Bogotá/2021, peso igual, especificaciones/exclusiones y ganador hasta 2022. Implementar el contraste territorial ya predefinido únicamente en desarrollo con parámetros fijos, advertir selección previa y diferenciar transporte territorial de temporal. No reseleccionar con 2023–2024, cambiar grillas, afirmar causalidad ni ejecutar simulaciones sin autorización expresa. Registrar problemas/evidencia/impacto/alternativa/decisión/control, cerrar con continuidad y commit local; sin push.
+
+
+## Cierre vigente de fase 4 — 2026-10-09
+
+**Usuario:** autorizó únicamente fase4, conservar decisiones/artefactos congelados, no push ni simulaciones. Partida comprobada `9a22b8adc406423fa6829b75e77d7473deffe710`, coincidente con cierre anterior declarado; Git limpio, ningún cambio existente que apartar. Se leyeron AGENTS, continuidad, protocolo/decisiones/README y fase3 README/decisiones/informe; del plan solamente fase4 líneas87–104. No se leyó fase posterior. Commit de cierre local: consultar Git, asunto `fase 4: contrastar transporte territorial y robustez sin reseleccion`.
+
+### Decisiones previas, conservación y comprobaciones
+
+- Usuario/conservado: base198, promedio global recibido, filtros auditados, Bogotá/2021, peso igual, tres especificaciones exactas y exclusiones; selección59 archivada. Ganador global/reevaluación cerrados. No se modifica protocolo v1.0, fase3, originales, evidencias históricas o .gitignore.
+- Comprobación actual antes de ajustes: huella base609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866; todas las huellas de cierre3 y entradas/protocolo/modelos coinciden. Python3.12.14, sklearn1.9.1 y todas las versiones exactas de fase3 coinciden; pip check aprobado. Se reutilizan entorno `/tmp/icfes-fase3-venv` y funciones compartidas, semilla20261008 y un hilo.
+- Decisión operativa prospectiva: `fase4/decisiones_previas.md` documentó diferencias antes de nuevos resultados. No excluir2021, añadir año como predictor, ponderar por estudiantes ni excluir dimensiones: cambiarían decisiones congeladas. Alternativas ejecutadas: métricas anuales, asociaciones longitudinales/doble centrado, tamaño frente a error, coeficientes OLS congelados y colinealidad. No enmienda material del protocolo ni búsqueda adicional.
+- Remuestreo prospectivo:2.000 réplicas pareadas por33 territorios completos, errores fijos; tres comparaciones territoriales entre especificaciones y cuatro temporales del ganador frente a referencias cerradas. Percentiles condicionales, no p-valores, inferencia i.i.d., incertidumbre de selección/ajuste o de años futuros.
+
+### Resultados actuales (no históricos ni causales)
+
+Fuentes: `fase4/resultados/metricas_agrupadas.csv`, `predicciones_territoriales.csv`, `bootstrap_resumen.csv`, `asociaciones_longitudinales.csv`; explicación/impacto/alternativas en `fase4/informe.md`.
+
+- Contraste §7 realizado:99 ajustes, cada uno128 filas/32 territorios de2018/2019/2021/2022 para entrenamiento y4 filas del territorio excluido. Tres ganadores ya seleccionados, hiperparámetros fijos, sin2023–2024.396 predicciones, métricas agrupadas/territoriales/anuales, ningún fallo o advertencia de modelos. Los ganadores son GBR sin escalado; la lógica compartida ajusta transformaciones dentro de entrenamiento cuando corresponde. No clipping.
+- MAE territorial IPM9.316132, tasas7.825903, ambas8.067691; RMSE12.126201/10.015879/10.276440, sesgo−0.498728/−0.936268/−1.301338. Tasas mejora0.241788 frente a ambas. Impacto: no afirmar ventaja territorial universal del ganador; alternativa/comprobación: comparación pareada predefinida, percentiles tasas−ambas[−0.569529,0.045591], cruza0. Decisión: informar sin cambiar ganador global `gradient_boosting_ambas_07` o evaluación temporal cerrada.
+- Parámetros seleccionados previamente con estos territorios: sesgo de selección explícito, no validación independiente. Transporte territorial con años coetáneos distinto del temporal, no anticipación ni prueba de que un diseño supera al otro.
+- IPM/global en desarrollo: r entre33 medias−0.764626, dentro132 desviaciones+0.116285, doble centrado−0.136136. Impacto: patrón geográfico no identifica mecanismo longitudinal. Alternativa ejecutada: separar y centrar por año; decisión: asociaciones descriptivas, sin causalidad. Se conservan16 indicadores completos.
+- SVD entradas estandarizadas: condición1/IPM,12.644109/tasas,30.647008/ambas; rangos completos1/15/16. Coeficientes OLS congelados no son importancia GBR ni efecto causal; tablas de correlación y coeficientes completas. Tamaños Saber190–79.542 en desarrollo, diagnóstico sin ponderar ni inferir precisión IPM. Soporte marginal/influencia de grupos/extremos preservados sin excluir filas.
+-14.000 réplicas guardadas. Los percentiles temporales del ganador frente a media/OLS son negativos, pero reserva previamente expuesta/selección/dependencia y años fijos limitan confirmación. No nuevos ajustes temporales ni uso de2024 para modificar criterios. El deterioro2024 permanece sin causa identificada.
+
+### Incidencias y verificación
+
+Primer kernel sandbox sin progreso se interrumpió (salida130) antes de resultados; misma ejecución aprobada fuera del sandbox terminó. Causa exacta no certificada. Aviso de caché pip sin impacto, dependencias aprobadas. El control documental final rechazó inicialmente prosa Markdown al aplicar ast.parse a la fuente completa; se corrigió compilando solo celdas de código, sin alterar cálculos ni repetir ajustes. Evidencia/impacto/alternativa/decisión en incidencias_ejecucion.md. No se ocultan fallos de modelos: registros vacíos por completitud real.
+
+`fase4/resultados/verificacion.json`: cobertura396,99 particiones, métricas/errores independientes,14.000 réplicas verificadas, asociaciones verificadas; seis ajustes focales adicionales en dos controles reprodujeron12 predicciones por control con tolerancia1e−12.192 archivos previos intactos salvo continuidad intencional. Los notebooks05/06 se ejecutaron en kernel aislado y validaron con nbformat; discusión concreta añadida desde resultados reales regenerando con código idéntico/salidas preservadas. No JSON manual. Manifiesto final fija entregables; segunda reproducción completa en copia implementada pero no ejecutada, sin simular evidencia.
+
+### Entregables, límites, pendientes y condición de avance
+
+`fase4/README.md` documenta orden/entradas/salidas/entorno y reproducción en copia nueva; `decisiones_previas.md`, `informe.md`, `incidencias_ejecucion.md`, fuentes Python y resultados completos. `notebooks/05_contraste_territorial.ipynb` y `06_robustez_explicaciones.ipynb` ejecutados realmente. Sin artefactos de simulación. No repetir preparación en árbol cerrado: reproducción crea copia nueva del commit de partida y conserva fuente.
+
+No quedan controles indispensables activos de fase4. Permanecen selección previa, dependencia/pocos años, exposición temporal previa, medición IPM y enlace ecológico, procedencia local y fórmula desconocida. No existen insumos aquí para cuantificar precisión de encuesta/composición individual ni atribuir causas a2024: hipótesis, no evidencia causal. Antecedentes59/20212/descargas/entorno histórico archivados; aceptación editorial de tesis externa. Sensibilidades del plan que cambian protocolo no ejecutadas y explícitas, no fallos ocultados.
+
+Condición de avance: nueva autorización de fase posterior y definición prospectiva de escenarios/pregunta/soporte sin alterar ganador o estimando por métricas. No se avanzó ni simuló. No push.
+
+**Prompt siguiente preparado, no ejecutado:** Continúa en el proyecto y ejecuta únicamente la fase posterior que autorice expresamente el usuario. Lee AGENTS, continuidad vigente, protocolo/decisiones y README/informe de fase4; consulta solamente la sección correspondiente del plan. Verifica huellas de base/protocolo/fases3–4 y Git, conserva originales y cambios existentes. Documenta cualquier diferencia antes de cálculos. Si se autorizan escenarios, define previamente entradas plausibles y controles de soporte con modelos congelados, sin reselección ni afirmaciones causales; consulta solo decisiones materiales no resolubles con evidencia. Genera notebooks desde Python editable, verifica ejecuciones reales y registra resultados desfavorables. Cierra con entregables/continuidad/commit local; no push.

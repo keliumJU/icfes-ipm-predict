@@ -1,0 +1,11 @@
+{
+  "archivos_previos_intactos_excepto_continuidad": 192,
+  "cobertura_y_errores": true,
+  "metricas_independientes": true,
+  "particiones_completas": true,
+  "tres_ajustes_focales_reproducidos": true,
+  "bootstrap_14000_replicas_verificadas": true,
+  "asociaciones_verificadas": true,
+  "notebooks_ejecutados_validados": true,
+  "ganador_global_inalterado": "gradient_boosting_ambas_07"
+}

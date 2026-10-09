@@ -1,0 +1,12 @@
+{
+  "ajustes_territoriales": 99,
+  "controles_focales_realizados": 2,
+  "ajustes_por_control": 3,
+  "ajustes_focales_totales": 6,
+  "predicciones_comprobadas_por_control": 12,
+  "bootstrap_replicas_guardadas": 14000,
+  "reproduccion_completa_en_copia_ejecutada": false,
+  "kernel_inicial_interrumpido_sin_resultados": true,
+  "celdas_ejecutadas_kernel": 4,
+  "documentacion_regenerada_sin_reajuste": true
+}
