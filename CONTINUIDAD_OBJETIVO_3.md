@@ -1,7 +1,7 @@
 # Continuidad del objetivo 3
 
-Actualización: 2026-10-08 (America/Bogota). Alcance vigente: **fase 2 cerrada**, sin entrenamiento ni simulaciones.
-Estado: protocolo v1.0 congelado sobre la reconstrucción local validada de fase 1; salvedades históricas conservadas. La fase 3 requiere autorización nueva. Las secciones de fase 1 que siguen conservan el registro histórico; el cierre vigente está al final.
+Actualización: 2026-10-09 (America/Bogota). Alcance vigente: **fase 3 cerrada**, modelos y reevaluación temporal ejecutados; sin simulaciones.
+Estado: protocolo v1.0 conservado, ganador y artefactos congelados hasta 2022; salvedades históricas conservadas. La fase 4 requiere autorización nueva. Las secciones anteriores conservan su registro histórico; el cierre vigente está al final.
 
 ## Partida y conservación
 
@@ -58,7 +58,7 @@ Actualización documental solicitada por el usuario el 2026-10-08; partida de es
 
 **Mensaje histórico de entrada a fase 2, ya atendido:** utilizar `PROMPT_FASE_2.md` y solo la sección de fase 2 del plan para cerrar protocolo, sin entrenar ni simular. Se conserva como antecedente; no reiniciar la fase por este mensaje.
 
-## Cierre vigente de fase 2 — 2026-10-08
+## Cierre histórico de fase 2 — 2026-10-08
 
 Partida `a68f0bb58b7b5268e6025ef33afc64862f8e8cc8`, Git limpio. Se leyeron AGENTS,
 PROMPT_FASE_2, continuidad y exclusivamente líneas 49–64 (fase 2) del plan. No se
@@ -92,7 +92,7 @@ No se hizo push. No se entrenaron modelos, calcularon errores predictivos ni sim
   RMSE, menos entradas y orden fijo de familia/ID. No clipping, búsqueda adaptativa ni
   ranking con ventanas fallidas. CV usada para selección tiene posible optimismo.
 - **Decisión nueva de reevaluación:** 66 filas de 2023/2024, cada año y concatenadas;
-  modelos ajustados hasta2022 congelados antes de errores, sin actualizar con2023.
+  modelos ajustados hasta 2022 congelados antes de errores, sin actualizar con 2023.
   No es prueba inédita (PDFs y páginas ya verificadas en fase1); no reescoger ganador.
 - **Decisión nueva de contraste territorial:** 33 grupos completos dentro de desarrollo,
   hiperparámetros fijos, diagnóstico distinto al transporte temporal, con advertencia
@@ -112,7 +112,7 @@ Ejecutados, en orden: `protocolo/fuentes/controles.py`, `generar_notebooks.py`,
 de huellas. Notebook sin salidas incrustadas ni datos personales. Formato4.5, validación
 estricta del subconjunto generado y ejecución compile/exec, sin kernel Jupyter.
 
-Runtime usado: Python3.12.14; pandas2.2.3/numpy2.3.5 presentes, no necesarios para estos
+Runtime usado: Python 3.12.14; pandas 2.2.3/numpy 2.3.5 presentes, no necesarios para estos
 controles de biblioteca estándar. sklearn/nbformat/ipykernel ausentes. Python del sistema
 es3.14.7. No se confunden entornos ni versiones actuales con históricas.
 
@@ -137,7 +137,52 @@ AGENTS.md, esta continuidad, protocolo/PROTOCOLO_OBJETIVO_3.md, decisiones y REA
 consultar solo fase 3 del plan. Preservar protocolo v1.0, panel198 y huellas, promedio,
 población, especificaciones, ventanas y reglas. Preparar/verificar entorno antes de
 ajustar, implementar lógica compartida y notebooks desde Python, registrar ejecuciones
-reales y fallos. Seleccionar solo hasta2022, congelar antes de reevaluar2023–2024 conforme
+reales y fallos. Seleccionar solo hasta 2022, congelar antes de reevaluar2023–2024 conforme
 al alcance de esa fase; no reutilizar reserva para ajustar, no reabrir59 sin evidencia,
 no simular ni avanzar sin autorización. Cerrar con evidencia, continuidad y commit local;
 no push. Este prompt queda preparado, no ejecutado.
+
+
+## Cierre vigente de fase 3 — 2026-10-09
+
+**Autorización del usuario:** exclusivamente fase 3, incluida reevaluación separada y conjunta de 2023–2024. Sin simulación, fases posteriores ni push. Partida `7e95ffe823c3d08f345620c0f9bc65dc72fae7d5`, árbol limpio. Se leyeron AGENTS, continuidad, protocolo, decisiones/README y solo líneas 65–85 (fase 3) del plan. No se leyeron otras fases del plan. El protocolo v1.0 y la evidencia anterior permanecen intactos. El commit de cierre se identifica con `git log -1 --format='%H %s'`, asunto `fase 3: comparar modelos y congelar reevaluacion temporal reproducible`.
+
+### Decisiones previas y controles
+
+- **Usuario/conservado:** media global recibida, grado 11/filtros auditados, Bogotá/2021, peso igual por territorio-año, IPM/15 tasas/ambas, exclusiones de predictores, desarrollo hasta 2022 y reserva previamente expuesta. Selección59 archivada, sin nueva investigación ni criterios históricos inventados.
+- **Comprobación actual:** base198 con SHA256 `609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866`; diccionario y demás huellas cotejadas. 33 territorios/año, 132 desarrollo, 66 reserva; 2.574 cotejos previos comprobados. No se repite censo de microdatos ni modifica población/agregación.
+- **Decisión operativa antes de entrenar:** las diferencias del plan (persistencia/ElasticNet/XGBoost, grillas mayores, semilla 42 y desempate general) se documentan en `fase3/decisiones.md`. Prevalece protocolo v1.0: media/OLS/Ridge/RF/GBR, 67 candidatos, ventanas expansivas, semilla 20261008 y tolerancia 0.1/orden fijo. No se amplía búsqueda por desempeño.
+- **Entorno verificado antes de ajustar:** venv aislado `/tmp/icfes-fase3-venv`, Python 3.12.14, sklearn 1.9.1, pandas 2.2.3, numpy 2.5.3, scipy 1.18.1, joblib 1.6.0, threadpoolctl 3.7.0, nbformat 5.10.4, ipykernel 6.30.1, nbclient 0.10.2. `fase3/requirements.lock.txt` fija todas las dependencias; `resultados/preparacion.json` registra versiones, defaults completos de 67 estimadores construidos sin ajustar, entradas/huellas, semilla y controles. Un hilo BLAS/OpenMP/RF.
+- **Alcance resuelto:** reevaluación ejecutada ahora por autorización explícita. Contraste territorial predefinido queda para fase4; no se ejecutó ni se usa para seleccionar. No notebooks ni escenarios de simulación.
+
+### Resultados actuales verificables
+
+Fuente: `fase3/resultados/comparacion_desarrollo.csv`, `metricas_ventanas.csv`, `congelacion.json` y `metricas_reevaluacion.csv`. Son resultados nuevos, no reproducciones de rankings históricos de clasificación.
+
+Se completaron 201 ajustes de ventanas (67×3), sin fallos ni advertencias de entrenamiento; 6.633 predicciones por territorio-año. Pipeline OLS/Ridge ajusta escalado solo dentro de entrenamiento; árboles mantienen porcentajes originales. Sin clipping, selección adicional de variables ni uso de reserva para parámetros.
+
+**Ganador global:** `gradient_boosting_ambas_07`, 16 entradas, 100 etapas, aprendizaje 0.1, profundidad 2, hoja mínima3, subsample 1, semilla 20261008. MAE desarrollo 6.332499, RMSE 7.764136, sesgo+3.297261, R² 0.779915. La mejor configuración tasas da MAE 6.440524, diferencia0.108025 fuera de banda0.1: no desplaza al ganador por parsimonia. Mejores MAE brutos por familia: RF6.504996, Ridge7.074271, OLS7.693311, media13.842431. Tabla completa conserva configuraciones menos favorables.
+
+Ganadores por especificación: IPM `gradient_boosting_ipm_02` (50 etapas/profundidad 1/aprendizaje 0.1); tasas `gradient_boosting_tasas_07`; ambas `gradient_boosting_ambas_07`. Los siete artefactos (media, tres OLS, tres ganadores) se ajustaron en 132 filas y congelaron antes de errores reservados, a2026-10-09T15:20:08.821292+00:00. Huellas, parámetros completos y transformaciones lineales en congelacion.json.
+
+**Reevaluación temporal, no prueba inédita:** mismo ajuste hasta 2022 aplicado a2023/2024, sin actualizar con 2023 ni reseleccionar. Ganador: MAE 5.020614 en 2023,7.670549 en 2024,6.345582 conjunto; RMSE conjunto 7.802886, sesgo−2.779014, R² 0.788903. Subestimación mayor en 2024; no se atribuye causa. En conjunto, media14.903887, OLS IPM9.552257, OLS tasas8.155885, OLS ambas8.252112, GBR IPM9.768153, GBR tasas6.436305. Ninguna referencia supera al ganador global en reserva, pero **OLS IPM supera a GBR IPM** en ambos años y conjuntamente (diferencias MAE 0.128946/0.302844/0.215895 a favor de OLS). Impacto: complejidad no ayuda siempre; alternativa/control: comparación explícita con misma reserva y métricas; decisión: informar sin cambiar ganador. No se evalúan67 candidatos para buscar otro ganador reservado.
+
+Se guardan462 predicciones de reserva (7×66), métricas21 filas (7×3 conjuntos), deltas frente a media/OLS y figura anual. Predicciones reservadas finitas y dentro0–500, sin recorte. Límites históricos de exposición permanecen con ubicaciones PDF ya verificadas, sin nuevas lecturas.
+
+### Problemas encontrados, resolución y verificación
+
+`fase3/incidencias_ejecucion.md`: DNS de instalación en sandbox resuelto mediante descarga autorizada del mismo paquete; kernel bloqueado antes del primer ajuste resuelto con ejecución autorizada fuera del sandbox (causa exacta no certificada). Verificación CSV encontró diferencias de hasta 5.7e-14 por parser ordinario: lectura round_trip recuperó igualdad estricta, sin alterar datos o errores. Un fallo del inventario de verificación por nombres Unicode escapados se corrigió usando salida Git delimitada por NUL, sin cambio de archivos históricos. No se oculta ningún candidato fallido: fallos.json está vacío porque ninguno falló.
+
+`verificacion.json`: controles aprobados,67 candidatos completos, cobertura/llaves, métricas independientes, selección determinista, artefactos conservados y 152 archivos previos intactos (excepto actualización intencional de continuidad). Seis ajustes adicionales de comprobación (tres en el control interrumpido por Unicode y tres en el control aprobado) reproducen las 99 predicciones de ventanas del ganador; cargar siete artefactos reproduce las462 de reserva con tolerancia numérica1e-12. No se volvió a buscar por resultados.
+
+### Entregables, reproducción y pendientes
+
+- `fase3/README.md`: orden, entorno, entradas/salidas y procedimiento de reproducción en copia nueva.
+- `fase3/informe.md`: comparación de todas las familias y referencias, hallazgo OLS IPM, límites y ubicaciones verificables.
+- `fase3/fuentes/`: lógica común, fuentes narrativas02/03/04, generador/validador nbformat, informe y verificador; `reproducir.py` prepara copia Git/venv nuevos conservando cierre. Esa segunda búsqueda completa en copia **no se ejecutó** aquí; las verificaciones concretas anteriores sí.
+- `notebooks/02_preparacion_desarrollo.ipynb`, `03_modelos_validacion.ipynb`, `04_reevaluacion_temporal.ipynb`: ejecutados realmente en kernel aislado, narrativa antes y discusión de resultados reales después. Se enriqueció Markdown y regeneró desde fuentes preservando outputs solo con código idéntico, sin editar JSON manualmente ni repetir ajustes. Notebook01/evidencias de fase2 intactos.
+- `fase3/resultados/`: tablas/predicciones, siete modelos, preparación/congelación/reevaluación, fallos/advertencias, figura, verificación y manifiesto SHA256. Sin datos personales ni resultados ficticios.
+
+Persisten limitaciones de procedencia local, fórmula global no autenticada, comparabilidad IPM, enlace ecológico, pocos años/dependencia, optimismo de selección y exposición previa de reserva. No hay afirmaciones causales. Antecedentes59/20212/descargas/entorno histórico siguen archivados; aprobación editorial de propuesta de tesis continúa externa. No quedan decisiones indispensables activas para fase3. Condición de avance: autorización nueva de fase4 sobre estos artefactos, sin ampliar búsqueda por reserva ni ejecutar escenarios no acordados.
+
+**Prompt siguiente preparado, no ejecutado:** Continuar exclusivamente fase4 si se autoriza. Leer AGENTS, esta continuidad y protocolo/decisiones/README; consultar solo fase4 del plan y documentar discrepancias frente a protocolo antes de cualquier cálculo nuevo. Verificar huellas y artefactos congelados de fase3. Mantener población198, media, filtros, Bogotá/2021, peso igual, especificaciones/exclusiones y ganador hasta 2022. Implementar el contraste territorial ya predefinido únicamente en desarrollo con parámetros fijos, advertir selección previa y diferenciar transporte territorial de temporal. No reseleccionar con 2023–2024, cambiar grillas, afirmar causalidad ni ejecutar simulaciones sin autorización expresa. Registrar problemas/evidencia/impacto/alternativa/decisión/control, cerrar con continuidad y commit local; sin push.

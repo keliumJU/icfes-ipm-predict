@@ -1,0 +1,29 @@
+[
+  {
+    "notebook": "notebooks/02_preparacion_desarrollo.ipynb",
+    "fuente_sha256": "2dd588aa63f45dce3319dd5f8a0e8cab556dbb593dee1384f89dc19af8acecc5",
+    "notebook_sha256": "522345345c671462adf3367f62c03cd6b259d20461ef0d9cbad90cad71bf32d7",
+    "celdas_codigo_ejecutadas": 1,
+    "kernel_python": "/tmp/icfes-fase3-venv/bin/python",
+    "validacion_nbformat": true,
+    "salidas_preservadas_codigo_identico": true
+  },
+  {
+    "notebook": "notebooks/03_modelos_validacion.ipynb",
+    "fuente_sha256": "38a7f530cc43ec875f715efcae3ef9c8ad2222f3c3e05fafc9c94fa9cc408eed",
+    "notebook_sha256": "9d2b717f26dc8e19c62fe6ca3ffb3a111c49f393dae0fcbb14f053256b1b4118",
+    "celdas_codigo_ejecutadas": 2,
+    "kernel_python": "/tmp/icfes-fase3-venv/bin/python",
+    "validacion_nbformat": true,
+    "salidas_preservadas_codigo_identico": true
+  },
+  {
+    "notebook": "notebooks/04_reevaluacion_temporal.ipynb",
+    "fuente_sha256": "0647e483ecd3196fb74c4a1e6c8f0d5f7da1dbc2c652edc25a849a27c70359b0",
+    "notebook_sha256": "df911b18924627247fa479e3c7224b6c6f04e43e95d3bc2daf53a460707619ed",
+    "celdas_codigo_ejecutadas": 2,
+    "kernel_python": "/tmp/icfes-fase3-venv/bin/python",
+    "validacion_nbformat": true,
+    "salidas_preservadas_codigo_identico": true
+  }
+]

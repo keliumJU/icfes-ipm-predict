@@ -1,0 +1,306 @@
+{
+  "momento_utc": "2026-10-09T15:20:08.821292+00:00",
+  "ganador_global": "gradient_boosting_ambas_07",
+  "ganadores_especificacion": {
+    "ipm": "gradient_boosting_ipm_02",
+    "tasas": "gradient_boosting_tasas_07",
+    "ambas": "gradient_boosting_ambas_07"
+  },
+  "artefactos_sha256": {
+    "fase3/resultados/modelos/media.joblib": "2f710c45caad2c4c15d89e6d6adf6f13cdbee85541f1cc109a859b77b4437832",
+    "fase3/resultados/modelos/ols_ipm.joblib": "b92fe2e7e564639ddbcfb6df6b68867a63ceea80476b1814086d6b3fb2554da2",
+    "fase3/resultados/modelos/gradient_boosting_ipm_02.joblib": "42857947aeeb532e6ab67cd4ae0002ee80e393e4769590a37cec212ac7d6ca77",
+    "fase3/resultados/modelos/ols_tasas.joblib": "6fca1de4fcba054fe72a04ac107f8dd3098ea70a8d81f007765d7a37efe144d4",
+    "fase3/resultados/modelos/gradient_boosting_tasas_07.joblib": "6e377bc6e564d1dbffffebd46e97adda7182d12592441e0432e917a998148ed5",
+    "fase3/resultados/modelos/ols_ambas.joblib": "9a650bbf42c82350f8465e7adcf56356b6a8ba3d312a1b62c9bcd66541b46ae1",
+    "fase3/resultados/modelos/gradient_boosting_ambas_07.joblib": "17089936d75db3f5a9483935c343d0bf03cddaaada81bb470e094f80f6292b1d"
+  },
+  "transformaciones": {
+    "ols_ipm": {
+      "mean": [
+        24.620454545454546
+      ],
+      "scale": [
+        15.66871394732463
+      ],
+      "coef": [
+        -12.028504085135307
+      ],
+      "intercept": 246.0436354791281
+    },
+    "ols_tasas": {
+      "mean": [
+        11.703787878787878,
+        51.429545454545455,
+        8.853787878787879,
+        4.761363636363637,
+        28.797727272727276,
+        1.731060606060606,
+        14.328787878787878,
+        80.6962121212121,
+        3.8295454545454546,
+        9.956060606060609,
+        10.81060606060606,
+        22.097727272727276,
+        7.03030303030303,
+        11.699999999999998,
+        24.709090909090904
+      ],
+      "scale": [
+        6.520671155536136,
+        11.837099733313847,
+        3.091738877773788,
+        3.1164919994956044,
+        6.4973825255402335,
+        1.0017509349737812,
+        7.564856247537932,
+        10.49498007926149,
+        3.519291824345287,
+        4.738355065167619,
+        6.778355230636009,
+        22.24125795544783,
+        8.44697309416972,
+        14.614661588053737,
+        22.59744707539037
+      ],
+      "coef": [
+        -6.5108468160209405,
+        4.656580566712394,
+        0.025981346363416077,
+        -0.9989288957088385,
+        -0.11471298427867982,
+        0.24331507906965472,
+        1.2058498465813248,
+        -5.882522650894159,
+        1.5744993833534269,
+        2.502922975179143,
+        -1.0897050969761535,
+        -4.517882722039856,
+        -3.3968928992121064,
+        3.7629215137346845,
+        -4.461457372761914
+      ],
+      "intercept": 246.0436354791281
+    },
+    "ols_ambas": {
+      "mean": [
+        24.620454545454546,
+        11.703787878787878,
+        51.429545454545455,
+        8.853787878787879,
+        4.761363636363637,
+        28.797727272727276,
+        1.731060606060606,
+        14.328787878787878,
+        80.6962121212121,
+        3.8295454545454546,
+        9.956060606060609,
+        10.81060606060606,
+        22.097727272727276,
+        7.03030303030303,
+        11.699999999999998,
+        24.709090909090904
+      ],
+      "scale": [
+        15.66871394732463,
+        6.520671155536136,
+        11.837099733313847,
+        3.091738877773788,
+        3.1164919994956044,
+        6.4973825255402335,
+        1.0017509349737812,
+        7.564856247537932,
+        10.49498007926149,
+        3.519291824345287,
+        4.738355065167619,
+        6.778355230636009,
+        22.24125795544783,
+        8.44697309416972,
+        14.614661588053737,
+        22.59744707539037
+      ],
+      "coef": [
+        -10.314071583983546,
+        -4.2958174757410115,
+        5.973116727796889,
+        0.020071318708352402,
+        0.16754137011411208,
+        1.2219287253790019,
+        -0.03355093041563259,
+        2.6989768237567526,
+        -5.87885233141588,
+        2.6055872907936326,
+        3.5586043955277833,
+        -0.30587243542746384,
+        -4.185222887226939,
+        -2.1665931984419875,
+        5.355100662567826,
+        -2.905179865854331
+      ],
+      "intercept": 246.0436354791281
+    }
+  },
+  "parametros_completos": {
+    "media": {
+      "constant": null,
+      "quantile": null,
+      "strategy": "mean"
+    },
+    "ols_ipm": {
+      "memory": null,
+      "steps": [
+        [
+          "standardscaler",
+          "StandardScaler()"
+        ],
+        [
+          "linearregression",
+          "LinearRegression()"
+        ]
+      ],
+      "transform_input": null,
+      "verbose": false,
+      "standardscaler": "StandardScaler()",
+      "linearregression": "LinearRegression()",
+      "standardscaler__copy": true,
+      "standardscaler__with_mean": true,
+      "standardscaler__with_std": true,
+      "linearregression__copy_X": true,
+      "linearregression__fit_intercept": true,
+      "linearregression__n_jobs": null,
+      "linearregression__positive": false,
+      "linearregression__tol": 1e-06
+    },
+    "gradient_boosting_ipm_02": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "deprecated",
+      "init": null,
+      "learning_rate": 0.1,
+      "loss": "squared_error",
+      "max_depth": 1,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 50,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "subsample": 1.0,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "ols_tasas": {
+      "memory": null,
+      "steps": [
+        [
+          "standardscaler",
+          "StandardScaler()"
+        ],
+        [
+          "linearregression",
+          "LinearRegression()"
+        ]
+      ],
+      "transform_input": null,
+      "verbose": false,
+      "standardscaler": "StandardScaler()",
+      "linearregression": "LinearRegression()",
+      "standardscaler__copy": true,
+      "standardscaler__with_mean": true,
+      "standardscaler__with_std": true,
+      "linearregression__copy_X": true,
+      "linearregression__fit_intercept": true,
+      "linearregression__n_jobs": null,
+      "linearregression__positive": false,
+      "linearregression__tol": 1e-06
+    },
+    "gradient_boosting_tasas_07": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "deprecated",
+      "init": null,
+      "learning_rate": 0.1,
+      "loss": "squared_error",
+      "max_depth": 2,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 100,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "subsample": 1.0,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "ols_ambas": {
+      "memory": null,
+      "steps": [
+        [
+          "standardscaler",
+          "StandardScaler()"
+        ],
+        [
+          "linearregression",
+          "LinearRegression()"
+        ]
+      ],
+      "transform_input": null,
+      "verbose": false,
+      "standardscaler": "StandardScaler()",
+      "linearregression": "LinearRegression()",
+      "standardscaler__copy": true,
+      "standardscaler__with_mean": true,
+      "standardscaler__with_std": true,
+      "linearregression__copy_X": true,
+      "linearregression__fit_intercept": true,
+      "linearregression__n_jobs": null,
+      "linearregression__positive": false,
+      "linearregression__tol": 1e-06
+    },
+    "gradient_boosting_ambas_07": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "deprecated",
+      "init": null,
+      "learning_rate": 0.1,
+      "loss": "squared_error",
+      "max_depth": 2,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 100,
+      "n_iter_no_change": null,
+      "random_state": 20261008,
+      "subsample": 1.0,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  "base_sha256": "609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866",
+  "entrenamiento_anios": [
+    2018,
+    2019,
+    2021,
+    2022
+  ],
+  "filas": 132,
+  "seleccion_sha256": "04501f8a6ab6ff491798c4027b0e645a53c6ae6070d3352931b4f0fdbc98af2c",
+  "preparacion_sha256": "825dd0328a174f89e5f4cbf8bb978620d38b9222e835b6dd2b0125d2f68e6680",
+  "predicciones_sha256": "b58c43b68a3b7dc5e4b05682032d883575a065c41542e7a428909465e84e793b",
+  "reserva_evaluada": false
+}

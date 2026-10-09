@@ -1,0 +1,31 @@
+{
+  "fecha_utc": "2026-10-09T15:22:07.187862+00:00",
+  "aprobada": true,
+  "versionados_anteriores_conservados": 152,
+  "candidatos_completos": 67,
+  "ajustes_ventanas": 201,
+  "ajustes_finales": 7,
+  "predicciones_cv": 6633,
+  "predicciones_reserva": 462,
+  "reproduccion_ganador": [
+    {
+      "ventana": 1,
+      "predicciones_reproducidas": 33
+    },
+    {
+      "ventana": 2,
+      "predicciones_reproducidas": 33
+    },
+    {
+      "ventana": 3,
+      "predicciones_reproducidas": 33
+    }
+  ],
+  "nbformat_kernel_ejecutado": true,
+  "base_sha256": "609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866",
+  "simulaciones": 0,
+  "contraste_territorial_ejecutado": false,
+  "ajustes_verificacion_por_invocacion": 3,
+  "ajustes_adicionales_verificacion_sesion": 6,
+  "documentacion_finalizada_utc": "2026-10-09T15:27:30.171039+00:00"
+}
