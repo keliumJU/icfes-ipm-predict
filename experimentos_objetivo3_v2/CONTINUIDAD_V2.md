@@ -1,3 +1,111 @@
+# Continuidad propia v2 — estado vigente tras fase 4
+
+Actualización: 2026-10-10, America/Bogota. **Fases 1–4 cerradas localmente**.
+Esta continuación autorizó y ejecutó únicamente fase4: revisión del piloto y entrega
+condicionada del notebook personal bajo protocolo2.0.2 congelado. No nueva fase,
+simulación, objetivo4, entrenamiento final, descarga ni push.
+El cierre de fase3 y antecedentes se conservan íntegros más abajo, sin vigencia de
+sus declaraciones de fase4 pendiente de autorización.
+
+## Partida y conservación
+
+HEAD real de partida `b37a2f338f0708958a412f5a0efa09f33861322b`, igual al cierre conocido
+fase3. Rama `codex/objetivo3-v2-piloto` reutilizada; Git limpio antes de crear fase4.
+Sin diferencia ni trabajo previo ajeno. AGENTS y continuidad primero; requisitos del
+plan consultados en sección fase4, líneas116–134. Protocolo/lock/configuraciones,
+informe/enmiendas/registro y evidencias fase3 en consulta. PDF efectivamente leídos:
+ninguno, cero páginas. Citas anteriores siguen siendo lecturas históricas.
+Nuevos entregables exclusivamente fase4; única modificación exterior esta continuidad.
+Originales/fases1–3/v1/CONTINUIDAD_OBJETIVO_3.md/.gitignore intactos por SHA256.
+Manifiestos previos comprobados, continuidad histórica cotejada en commits respectivos
+0664ac y b37a2f, sin excepción para otros archivos. Evidencia de partida/manifiesto/
+conservación en fase4/resultados/. Commit local descriptivo informado fuera del
+manifiesto, sin autorreferencia ni push.
+
+## Decisiones vigentes y procedencia
+
+**Usuario/protocolo congelado, sin cambios:** único panel fase1 SHA256
+6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3.
+Población ESTUDIANTE, no libertad S, seis puntajes presentes/positivos, grado11,
+geografía colegio, sin filtro calendario; media global recibida sin recalcular/redondear.
+Peso igual territorio-año, conteos trazabilidad. IPM(1), tasas(15), ambas(16), sin año,
+códigos/conteos/variables nuevas. 2020 excluido definitivamente, sin auditoría/sensibilidad.
+100 configuraciones, semilla20261010, internas expansivas desde2018→2019, cinco externas
+2021–2025, entrenamiento con todos los años autorizados anteriores. Transformaciones
+solo entrenamiento, sin clipping/imputación. Bandas MAE/RMSE0.1, menor número entradas,
+familias/orden JSON. Referencia v1 fija reentrenada con20261010;20261008 histórica.
+7200s para piloto completo con referencias/repeticiones; no reinicio del ledger.
+Umbral personal mejora MAE≥5% del procedimiento global sobre idénticas165 filas, sin
+redondeo adicional ni tres-de-cinco-años; no significancia ni efectos causales.
+
+**Comprobaciones actuales:** manifiestos/configuraciones/parámetros completos/lock y
+siete fuentes originales; Python3.12.14/sklearn1.9.1/pip check. Reutilizadas funciones
+compartidas mediante adaptación de salida restringida a fase4; no se llamó a verify/
+cierre/congelación que escribieran en fase3. Auditoría1552 ajustes,51216 predicciones
+por artefacto,49500 internas; regex completa E3-01, años exactos/anterioridad/llaves,
+observados/panel, escaladores/huellas/referencias/orden ledger, selección desde internas
+y roles/huellas de externos. Diez repeticiones históricas cotejadas: diferencia máxima0.
+E3-02 conserva máximo descriptivo1555, sin alterar100 candidatos ni7200s.
+
+**Decisiones nuevas de implementación, sin cambiar criterios:** tablas conjuntas,
+anuales/territoriales para2021–2025,2021–2024 y2025;165 diferencias firmadas/absolutas/
+cuadráticas con nombres y unidades explícitas. Tres gráficos descriptivos. Notebook
+predeterminado verifica sin entrenar y escribe en fase4/resultados/notebook_verificacion.
+Modo opcional reutiliza Runner en un subproceso y guarda un piloto nuevo en destino
+único fase4/reproducciones/, presupuesto propio7200s para toda esa reproducción, nunca
+reescritura de saldo/modelos históricos. No se ejecutó esa reejecución completa.
+No selecciona otra configuración retrospectivamente ni ajusta modelo final.
+
+## Resultados y entregables realmente ejecutados
+
+Recálculo actual desde predicciones históricas guardadas, **cero nuevos ajustes**:
+MAE v2=4.879557188161031, v1=5.979303244989078;
+mejora exacta18.392545281085766%, condición satisfecha y notebook personal entregado.
+RMSE v2=6.194961008561882; sesgo−0.9758642686030827; R²0.8729260233776192.
+Consumo histórico verificado1540.906905419055s/7200, sin consumo adicional de ajustes.
+2021–2024: MAE v2=4.8453729996839057 (valor exacto verificable en metricas.csv);
+v1≈5.868852. 2025: v2≈5.016294, v1≈6.421109. Mejora en cinco años, deterioro MAE
+en ocho territorios (05,13,15,25,68,73,76,94) y61 de165 pares en pérdida absoluta.
+Se conservan todos los resultados/territorios; delta firmado indica dirección, delta
+absoluto deterioro en puntos y cuadrático en puntos², sin equipararlo a delta RMSE.
+
+Entregables: fase4/INFORME_REVISION.md, README.md, registro_problemas.md;
+fuentes Python editables/reutilizadas y generador;
+notebooks/01_notebook_personal.ipynb; resultados/metricas.csv, comparaciones_v1.csv,
+comparaciones_referencias.csv, diferencias_emparejadas.csv, deterioros_v2.csv,
+ganadores.csv, tres PNG, integridad/partida/verificación/conservación/manifiesto;
+resultados/notebook_verificacion/ con salida real separada del notebook.
+Notebook generado/validado con nbformat, cinco celdas de código realmente ejecutadas
+mediante Python exec en modo verificar; tres gráficos incrustados/revisados visualmente.
+Sin kernel Jupyter ni reentrenamiento. Adaptador opcional inspeccionado y compilado;
+no se afirma reproducción completa actual. Tiempo esperado orientativo histórico≈25.7min,
+variable por equipo, con tope7200s para todos los ajustes de una reproducción nueva.
+
+## Hallazgos, límites y pendientes
+
+Primer control de continuidad del manifiesto antiguo detenido y resuelto cotejando
+SHA en su commit histórico; no falsa excepción para fuentes. Caché matplotlib
+redirigida a /tmp por carpeta de usuario sin escritura; gráficos regenerados.
+Impacto/alternativas/comprobaciones en registro_problemas.md. La heterogeneidad activa
+limita beneficio uniforme; alternativa resuelta con tablas completas sin modificar
+criterios/población. No reabrir antecedentes técnicos resueltos sin evidencia nueva.
+
+Persisten casos completos/Guainía238 frente404 y diferencia descriptiva21.012106 puntos
+(fase1/resultados/diagnostico_medias_disponibles.csv), procedencia local sin autenticación
+independiente, comparabilidad IPM, hogares/alumnos, residencia/colegio/enlace ecológico,
+dependencia territorial/temporal y pocos años. 2025 exploratorio, sin reserva inédita;
+no pronóstico disponible antes de publicar IPM ni efectos causales. R² territorial con
+cinco observados puede ser negativo; para2025 territorial n=1 es no definido.
+59/esquema82, causa antigua20212 y fórmula global desconocida siguen archivados con
+motivo/evidencia heredados; sin nueva conexión con análisis actual no se reabren.
+**No quedan controles indispensables pendientes de fase4.** Reejecución completa es
+opción voluntaria no realizada, no requisito de cierre. Toda fase posterior requiere
+autorización expresa; no avanzar a simulación/objetivo4/ajuste final automáticamente.
+
+---
+
+## Antecedente íntegro del cierre de fase3 — sin vigencia operativa
+
 # Continuidad propia de investigación v2 — estado vigente
 
 Actualización:2026-10-10, America/Bogota. **Fases1–3 cerradas localmente**.

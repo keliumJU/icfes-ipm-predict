@@ -1,0 +1,11 @@
+{
+  "aprobado": true,
+  "celdas_codigo_ejecutadas": 5,
+  "modo": "Python exec real de verificar; sin kernel Jupyter",
+  "ajustes_nuevos": 0,
+  "reejecucion_completa_realizada": false,
+  "fuente_sha256": "1076727eba99f1b4ffda188361588618b0f4dce7c61b1c853b149215ed734fe1",
+  "notebook_sha256": "5164865f230f1a5f6df8a1b620e3ccaac30952ba1cd5c34b588c8b1bc729133c",
+  "graficos_incrustados": 3,
+  "validacion": "nbformat antes y después de guardar"
+}

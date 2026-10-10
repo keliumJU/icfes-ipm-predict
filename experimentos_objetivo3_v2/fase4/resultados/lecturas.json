@@ -1,0 +1,38 @@
+{
+  "fecha_cliente": "2026-10-10",
+  "primeras": [
+    "AGENTS.md",
+    "experimentos_objetivo3_v2/CONTINUIDAD_V2.md"
+  ],
+  "plan_requisitos": {
+    "archivo": "experimentos_objetivo3_v2/PLAN_INVESTIGACION_V2.md",
+    "lineas": [
+      116,
+      134
+    ],
+    "seccion": "fase4"
+  },
+  "consulta": [
+    "fase2/PROTOCOLO_V2.md",
+    "fase2/requirements.lock.txt",
+    "fase2/fuentes/comun.py",
+    "fase2/fuentes/configuracion.py",
+    "fase2/fuentes/congelar.py (serial y contexto en lectura)",
+    "fase3/README.md",
+    "fase3/INFORME_PILOTO.md",
+    "fase3/ENMIENDAS_TECNICAS.md",
+    "fase3/registro_problemas.md",
+    "fase3/fuentes/piloto.py",
+    "fase3/fuentes/verificar_resultados.py",
+    "fase3/fuentes/enmienda_reporte.py",
+    "fase3/fuentes/generar_notebook.py"
+  ],
+  "archivos_procesados_codigo": [
+    "configuraciones congeladas, congelaciones y manifiestos fase2/fase3",
+    "conservación, verificación, ledger, reproducibilidad fase3",
+    "todos los ajustes y predicciones de fase3"
+  ],
+  "pdf_leidos": [],
+  "paginas_pdf": 0,
+  "graficos_revisados_visualmente": 3
+}

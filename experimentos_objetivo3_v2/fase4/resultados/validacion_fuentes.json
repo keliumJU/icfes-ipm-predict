@@ -1,0 +1,6 @@
+{
+  "aprobado": true,
+  "fuentes_compiladas": 7,
+  "entrenamiento_opcional_ejecutado": false,
+  "modo_opcional": "Inspección y compilación; rama sin entrenamiento ejecutada en notebook. No prueba de reproducción completa."
+}
