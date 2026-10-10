@@ -1,0 +1,18 @@
+{
+  "celdas_candidato_sin_grado11_cotejadas": 3003,
+  "coincidencias_sin_grado11": 3003,
+  "candidato_reproduce_agregacion_sin_filtro_grado11": true,
+  "n_global_disponible2025": 503940,
+  "n_completos2025": 496499,
+  "perdidas_otros_puntajes": 7441,
+  "proporcion_perdida_otros_puntajes": 0.014765646703972695,
+  "conteos_panel_por_anio": {
+    "2018": 478689,
+    "2019": 495224,
+    "2021": 494331,
+    "2022": 497562,
+    "2023": 516936,
+    "2024": 501457,
+    "2025": 496499
+  }
+}

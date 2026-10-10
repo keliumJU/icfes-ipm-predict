@@ -1,0 +1,47 @@
+{
+  "grupos": [
+    {
+      "grupo": 1,
+      "ocurrencias": 2,
+      "filas_completas_distintas": 2,
+      "elegibles": 1,
+      "ubicaciones": [
+        {
+          "periodo": "20252",
+          "linea_csv": 391844,
+          "grado": "11",
+          "elegible": true
+        },
+        {
+          "periodo": "20252",
+          "linea_csv": 548996,
+          "grado": "",
+          "elegible": false
+        }
+      ]
+    },
+    {
+      "grupo": 2,
+      "ocurrencias": 2,
+      "filas_completas_distintas": 2,
+      "elegibles": 1,
+      "ubicaciones": [
+        {
+          "periodo": "20252",
+          "linea_csv": 510789,
+          "grado": "11",
+          "elegible": true
+        },
+        {
+          "periodo": "20252",
+          "linea_csv": 568924,
+          "grado": "",
+          "elegible": false
+        }
+      ]
+    }
+  ],
+  "ids_serializados": false,
+  "firmas_serializadas": false,
+  "repeticiones_misma_fila": 0
+}

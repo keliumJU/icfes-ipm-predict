@@ -1,0 +1,8 @@
+{
+  "pruebas_ejecutadas": 8,
+  "fallos": 0,
+  "errores": 0,
+  "aprobado": true,
+  "salida": "test_alcance_sin_modelos_predicciones_notebooks (__main__.AuditoriaTests.test_alcance_sin_modelos_predicciones_notebooks) ... ok\ntest_entradas2025_coinciden_celdas_xlsx (__main__.AuditoriaTests.test_entradas2025_coinciden_celdas_xlsx) ... ok\ntest_faltantes_y_ceros_no_entran_como_puntajes_validos (__main__.AuditoriaTests.test_faltantes_y_ceros_no_entran_como_puntajes_validos) ... ok\ntest_huellas_fuentes_y_archivos_previos (__main__.AuditoriaTests.test_huellas_fuentes_y_archivos_previos) ... ok\ntest_medias_2025_desde_sumas_y_denominadores (__main__.AuditoriaTests.test_medias_2025_desde_sumas_y_denominadores) ... ok\ntest_panel231_preserva198_literal_y_valores (__main__.AuditoriaTests.test_panel231_preserva198_literal_y_valores) ... ok\ntest_repeticiones_raw_no_duplican_poblacion_retenida (__main__.AuditoriaTests.test_repeticiones_raw_no_duplican_poblacion_retenida) ... ok\ntest_uniones_rechazan_duplicados_y_cobertura_incompleta (__main__.AuditoriaTests.test_uniones_rechazan_duplicados_y_cobertura_incompleta) ... ok\n\n----------------------------------------------------------------------\nRan 8 tests in 0.403s\n\nOK\n",
+  "alcance": "Solo datos/auditoría. Tests de modelos y notebook pendientes de sus fases."
+}

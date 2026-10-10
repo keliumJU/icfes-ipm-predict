@@ -1,0 +1,53 @@
+{
+  "fecha_cliente": "2026-10-10",
+  "modelos_ajustados": 0,
+  "predicciones_nuevas": 0,
+  "simulaciones": 0,
+  "chunksize": 100000,
+  "filas_raw": 661891,
+  "registros_elegibles2025": 496499,
+  "controles_indispensables": {
+    "ancho_periodo_correctos": true,
+    "codigos_elegibles_validos": true,
+    "rangos_elegibles_validos": true,
+    "ids_completos_no_repetidos": false,
+    "cobertura33": true,
+    "segunda_lectura_exacta": true,
+    "entradas_completas_rango": true,
+    "denominadores_seis_positivos": true,
+    "sin2020": true
+  },
+  "ampliacion_validada": false,
+  "panel": null,
+  "filas_panel": null,
+  "registros_panel": null,
+  "panel_sha256": null,
+  "lineas_historicas_preservadas_literalmente": false,
+  "celdas_candidato_cotejadas": 6468,
+  "discrepancias_candidato": 3003,
+  "discrepancias_por_anio": {
+    "2018": 429,
+    "2019": 429,
+    "2021": 429,
+    "2022": 429,
+    "2023": 429,
+    "2024": 429,
+    "2025": 429
+  },
+  "revisiones_historicas_anexo": 0,
+  "celdas_xlsx_extraidas": 3696,
+  "celdas_segunda_lectura": 429,
+  "diagnostico_max_abs_delta_media": 21.012105832431985,
+  "identidad": "Archivos locales denominados Saber11; esquema y categorías cotejados, grado11 filtrado. Descarga y producto de origen no autenticados independientemente.",
+  "pdf_paginas_nuevas": [],
+  "busquedas_externas": 0,
+  "origen_local_no_autenticado": true,
+  "entorno": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "openpyxl": "3.1.5",
+    "plataforma": "Linux-7.2.9-1-cachyos-x86_64-with-glibc2.44"
+  },
+  "duracion_segundos": 26.63849392100019
+}

@@ -1,0 +1,23 @@
+{
+  "aprobado": true,
+  "periodos": [
+    {
+      "periodo": 20251,
+      "territorios_con_casos": 26,
+      "registros": 14143,
+      "medias_verificadas": 156
+    },
+    {
+      "periodo": 20252,
+      "territorios_con_casos": 33,
+      "registros": 482356,
+      "medias_verificadas": 198
+    }
+  ],
+  "reconciliacion_filas_fisicas_y_etapas": true,
+  "concentracion_territorial_calculada": true,
+  "comparacion_historica": "Conteos elegibles 2024 vs 2025 y filtros por periodo históricos; no se dispone de exclusiones raw históricas por territorio en esta evidencia.",
+  "paginas_pdf_nuevas": [],
+  "semillas": "No aplica; cálculos deterministas.",
+  "entrenamiento": false
+}
