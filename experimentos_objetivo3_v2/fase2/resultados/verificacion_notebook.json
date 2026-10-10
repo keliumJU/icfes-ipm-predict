@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "nbformat": true,
+  "ejecucion_real_kernel": true,
+  "kernel_python": "/tmp/icfes-v2-fase2-venv/bin/python",
+  "modo": "verificacion",
+  "celdas_codigo_ejecutadas": 2,
+  "fuente_sha256": "1321b92ca02e55f0c0a7013926354701f457d41f0f9e760ebe920ff64e144c8f",
+  "notebook_sha256": "999777027d801d89153ced53a0aa3b3f2d7e4d218a8185c08bf9e497a2924252",
+  "controles_notebook_sha256": "9dda90076f26f57ca6187f2d2ebd213bd187af1d006cdddfeea44fc64cb4b077",
+  "ajustes_panel": 0,
+  "predicciones_panel": 0
+}

@@ -1,0 +1,37 @@
+{
+  "virtual": {
+    "limite": 2.0,
+    "consumido": 2.0,
+    "pendiente": false,
+    "ajustes": [
+      {
+        "etiqueta": "referencia_doble",
+        "estado": "ok",
+        "segundos": 0.75
+      },
+      {
+        "etiqueta": "repeticion_doble",
+        "estado": "ok",
+        "segundos": 0.75
+      },
+      {
+        "etiqueta": "tercero",
+        "estado": "limite",
+        "segundos": 0.75
+      }
+    ]
+  },
+  "proceso_real_doble": {
+    "limite": 1.5,
+    "consumido": 1.5,
+    "pendiente": false,
+    "ajustes": [
+      {
+        "etiqueta": "doble_lento",
+        "estado": "limite",
+        "segundos": 1.505885278002097
+      }
+    ]
+  },
+  "limite_piloto": 7200.0
+}

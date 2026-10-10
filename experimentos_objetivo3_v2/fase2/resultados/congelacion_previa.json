@@ -1,0 +1,17 @@
+{
+  "momento_utc": "2026-10-10T22:26:25.236231+00:00",
+  "protocolo_sha256": "ceb6e56d1700b0d14ce7b951e430afb35c265dc9460678efafcb81987734bb97",
+  "configuraciones_sha256": "366012873fac5cd13bcae021bdea2bc9e3186f2efb56e7745c011dc77ac82991",
+  "fuentes_sha256": {
+    "experimentos_objetivo3_v2/fase2/fuentes/01_protocolo_verificacion.py": "1321b92ca02e55f0c0a7013926354701f457d41f0f9e760ebe920ff64e144c8f",
+    "experimentos_objetivo3_v2/fase2/fuentes/cerrar.py": "17b85d601766f619079c9adae7bbaa3020de0d73a109ced1617e664ce61222a8",
+    "experimentos_objetivo3_v2/fase2/fuentes/comun.py": "5a93b636daaac72f07e6dc0d1128e8646686b75affd1564d651feebe5180d659",
+    "experimentos_objetivo3_v2/fase2/fuentes/configuracion.py": "65ded47bad7fcde118473332d85db33cc79347bdb400962aaaedce65496ade35",
+    "experimentos_objetivo3_v2/fase2/fuentes/congelar.py": "64afb0586cd317519c3c22c5119409f1c2a527a159541e8df12e3cf3e03a5cec",
+    "experimentos_objetivo3_v2/fase2/fuentes/generar_notebook.py": "d13003e301d28035b5a3ed0e8d1bf17aba6ec81490b7a4f403d013efc267a837",
+    "experimentos_objetivo3_v2/fase2/fuentes/verificar.py": "1635fa3983c1197602eda172068c43280d5f7fed2df70a5fe1313abbb022f570"
+  },
+  "candidatos_construidos": 100,
+  "candidatos_ajustados": 0,
+  "predicciones_panel": 0
+}

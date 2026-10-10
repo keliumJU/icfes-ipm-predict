@@ -1,0 +1,225 @@
+{
+  "aprobado": true,
+  "controles": [
+    {
+      "control": 1,
+      "nombre": "panel_conservacion",
+      "aprobado": true,
+      "evidencia": {
+        "filas": 231,
+        "territorios": 33,
+        "por_anio": {
+          "2018": 33,
+          "2019": 33,
+          "2021": 33,
+          "2022": 33,
+          "2023": 33,
+          "2024": 33,
+          "2025": 33
+        },
+        "historicas_exactas": 198,
+        "prefijo_literal": true,
+        "panel_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3"
+      },
+      "segundos": 0.018867948001570767
+    },
+    {
+      "control": 2,
+      "nombre": "union",
+      "aprobado": true,
+      "evidencia": {
+        "union_validada": 231,
+        "pruebas_negativas": 5,
+        "base_unica": "panel validado; unión descompuesta solo como control"
+      },
+      "segundos": 0.02769015100057004
+    },
+    {
+      "control": 3,
+      "nombre": "agregacion",
+      "aprobado": true,
+      "evidencia": {
+        "ejemplos_sinteticos": [
+          {
+            "n": 3,
+            "suma": 600.0,
+            "media": 200.0
+          },
+          {
+            "n": 2,
+            "suma": 500.0,
+            "media": 250.0
+          }
+        ],
+        "media_anual_conocida": 250.0,
+        "nulos_rechazados": true
+      },
+      "segundos": 7.989600271685049e-05
+    },
+    {
+      "control": 4,
+      "nombre": "separacion_temporal",
+      "aprobado": true,
+      "evidencia": {
+        "ventanas": [
+          {
+            "externo": 2021,
+            "n_train": 66,
+            "n_externo": 33,
+            "internas": 1
+          },
+          {
+            "externo": 2022,
+            "n_train": 99,
+            "n_externo": 33,
+            "internas": 2
+          },
+          {
+            "externo": 2023,
+            "n_train": 132,
+            "n_externo": 33,
+            "internas": 3
+          },
+          {
+            "externo": 2024,
+            "n_train": 165,
+            "n_externo": 33,
+            "internas": 4
+          },
+          {
+            "externo": 2025,
+            "n_train": 198,
+            "n_externo": 33,
+            "internas": 5
+          }
+        ],
+        "ajustes_solo_dobles": true,
+        "seleccion_externa_prohibida": true
+      },
+      "segundos": 0.07004319400220993
+    },
+    {
+      "control": 5,
+      "nombre": "escalado",
+      "aprobado": true,
+      "evidencia": {
+        "datos": "sintéticos",
+        "media": [
+          16.5
+        ],
+        "escala": [
+          9.535023160258536
+        ],
+        "extremo_externo": 1e+100,
+        "parametros_inalterados": true,
+        "columna_constante_escala": 1
+      },
+      "segundos": 0.01079453599959379
+    },
+    {
+      "control": 6,
+      "nombre": "metricas",
+      "aprobado": true,
+      "evidencia": {
+        "datos": "sintéticos",
+        "metricas": {
+          "n": 3,
+          "mae": 1.0,
+          "rmse": 1.2909944487358056,
+          "sesgo": -0.3333333333333333,
+          "r2": -1.5
+        },
+        "recalculo_independiente": {
+          "n": 3,
+          "mae": 1.0,
+          "rmse": 1.2909944487358056,
+          "sesgo": -0.3333333333333333,
+          "r2": -1.5
+        },
+        "archivo": "resultados/predicciones_sinteticas.csv",
+        "umbral_5_verificado": true
+      },
+      "segundos": 0.003806240998528665
+    },
+    {
+      "control": 7,
+      "nombre": "seleccion_desempates",
+      "aprobado": true,
+      "evidencia": {
+        "pruebas_sinteticas": 8,
+        "conteos": {
+          "None": 1,
+          "ipm": 33,
+          "tasas": 33,
+          "ambas": 33
+        },
+        "reglas": "bandas MAE/RMSE 0.1; entradas; familia; orden congelado"
+      },
+      "segundos": 0.001053302999935113
+    },
+    {
+      "control": 8,
+      "nombre": "presupuesto",
+      "aprobado": true,
+      "evidencia": {
+        "datos": "dobles sintéticos",
+        "virtual": {
+          "limite": 2.0,
+          "consumido": 2.0,
+          "pendiente": false,
+          "ajustes": [
+            {
+              "etiqueta": "referencia_doble",
+              "estado": "ok",
+              "segundos": 0.75
+            },
+            {
+              "etiqueta": "repeticion_doble",
+              "estado": "ok",
+              "segundos": 0.75
+            },
+            {
+              "etiqueta": "tercero",
+              "estado": "limite",
+              "segundos": 0.75
+            }
+          ]
+        },
+        "proceso_interrumpido": {
+          "limite": 1.5,
+          "consumido": 1.5,
+          "pendiente": false,
+          "ajustes": [
+            {
+              "etiqueta": "doble_lento",
+              "estado": "limite",
+              "segundos": 1.5112015199993039
+            }
+          ]
+        },
+        "presupuesto_panel_consumido": 0
+      },
+      "segundos": 1.512660551998124
+    },
+    {
+      "control": 9,
+      "nombre": "notebook",
+      "aprobado": true,
+      "evidencia": {
+        "validacion_nbformat": true,
+        "fuente_editable_coincide": true,
+        "celdas": 4,
+        "datos_personales": false,
+        "ejecucion_kernel": "resultado separado verificacion_notebook.json al terminar generador"
+      },
+      "segundos": 0.0596224019973306
+    }
+  ],
+  "controles_aprobados": 9,
+  "huellas_previas": 217,
+  "ajustes_candidatos_panel": 0,
+  "predicciones_panel": 0,
+  "simulaciones": 0,
+  "pruebas_sinteticas": true,
+  "pdf_leidos": []
+}

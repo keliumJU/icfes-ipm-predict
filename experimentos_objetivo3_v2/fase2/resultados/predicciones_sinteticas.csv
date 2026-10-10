@@ -1,0 +1,4 @@
+id,externo,codigo_departamento,anio,observado,prediccion
+doble,2021,0,2021,1,2
+doble,2021,1,2021,2,2
+doble,2021,2,2021,3,1

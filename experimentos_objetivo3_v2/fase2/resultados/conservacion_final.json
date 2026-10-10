@@ -1,0 +1,21 @@
+{
+  "aprobado": true,
+  "commit_partida": "7c71c13e68420a2a4dd8f894efd7a540da8af7b5",
+  "diferencia_cierre_conocido": false,
+  "archivos_versionados_intactos": 359,
+  "fuentes_intactas": 7,
+  "excepcion_autorizada": {
+    "archivo": "experimentos_objetivo3_v2/CONTINUIDAD_V2.md",
+    "antes": "32d06b3ab21c3efee57a8e6037f03350ad54075b6a830fce7cc3bba5ee91c487",
+    "despues": "5cf79f7c765eee738fb5c44172d8a65545134ab5ac81a85b49ba05080bddcea5"
+  },
+  "fase1_intacta": true,
+  "originales_intactos": true,
+  "huellas_manifiestos": 217,
+  "pdf_leidos": [],
+  "ajustes_candidatos_panel": 0,
+  "predicciones_panel": 0,
+  "simulaciones": 0,
+  "notebook_personal_entregado": false,
+  "push": false
+}

@@ -1,3 +1,97 @@
+# Continuidad propia de investigación v2 — estado vigente
+
+Actualización: 2026-10-10, America/Bogota. **Fases 1 y 2 cerradas localmente**.
+Solo fase2 autorizada/ejecutada en esta continuación. **Piloto no ejecutado**;
+fase3 exige autorización expresa. No notebook personal ni resultados predictivos nuevos.
+
+## Partida y alcance de esta continuación
+
+HEAD real `7c71c13e68420a2a4dd8f894efd7a540da8af7b5` coincide exactamente con cierre
+conocido fase1. Rama `codex/objetivo3-v2-piloto` reutilizada; Git inicialmente limpio.
+Snapshot360 archivos versionados y siete fuentes en fase2/resultados/integridad_inicial.json.
+AGENTS/continuidad leídos primero; del plan solo fase2 líneas63–103; protocolo v1 y
+antecedentes necesarios en lectura. PDF ahora: ninguno, cero páginas.
+No se repitió censo raw, no se regeneró fase1 y no se usó candidato como base principal.
+
+## Decisiones vigentes — usuario, comprobaciones y nuevas
+
+**Usuario:** panel validado de fase1, exclusión definitiva2020 (sin auditoría/sensibilidades),
+población/filtros/media global recibida/geografía del colegio/peso igual, IPM/tasas/ambas;
+100 configuraciones, semilla20261010, presupuesto7200 segundos acumulados incluido
+referencias/repeticiones; notebook personal solo con mejora MAE conjunta≥5% frente v1
+reentrenada en las mismas ventanas, sin tres-de-cinco-años, informe aunque no mejore.
+2025 exploratorio, no reserva inédita; no causalidad ni significancia del umbral.
+
+**Comprobación:**231 filas y33 territorios en2018/2019/2021–2025;198 filas históricas
+exactas y prefijo literal. Panel SHA256
+`6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3`.
+05/08 históricos frente5/8 en2025: representación normalizada únicamente en memoria
+a dos dígitos y33 códigos conocidos validados, sin tocar CSV (enmienda técnica).
+217 cotejos de manifiestos fase1/v1 y siete fuentes comprobados; excepciones históricas
+continuidad/informe verificadas en sus commits. Conservación_final.json registra359
+versionados intactos y única actualización autorizada de continuidad v2.
+
+**Decisiones nuevas, previas a resultados predictivos:** protocolo v2.0.2
+fase2/PROTOCOLO_V2.md, configuración íntegra en resultados/configuraciones_congeladas.json.
+Cinco evaluaciones externas expansivas2021–2025 (33 filas cada una), entrenamiento
+con todos los años anteriores autorizados. Internas expansivas desde2019 anteriores
+al externo:1/2/3/4/5 ventanas. Selección propia por externo, concatenación de165 errores
+externos del procedimiento completo; no ganador escogido con errores externos.
+Bandas0.1 puntos MAE/RMSE, menor número entradas, orden media/OLS/Ridge/ElasticNet/SVR/GB/ET,
+orden JSON. Transformaciones solo dentro del entrenamiento; sin imputación/clipping.
+33 candidatos por especificación + media; cuatro referencias media/OLS ya incluidas.
+Comparador fijo v1 gradient_boosting_ambas_07 con estructura/defaults históricos; aplica
+semilla20261010 por instrucción del usuario y registra20261008 como antecedente, sin
+convertirse en candidato adicional de búsqueda. No reutilizar joblib/MAE históricos.
+Hasta1550 ajustes prospectivos sin fallos, referencias/repeticiones incluidas; tope7200s
+prevalece. Ledger persistente/procesos terminables, fallo/cobertura/umbral definidos antes
+ del piloto. No final sobre todos los años ni nuevos contrastes en el piloto diseñado.
+
+## Verificación realmente ejecutada y entregables
+
+Nueve controles aprobados por Python y repetidos en notebook de verificación realmente
+ejecutado con kernel y nbformat (dos celdas código). Panel/union/particiones leen solo
+agregados reales estructurales. Escalado/selección/métricas/predicciones/presupuesto:
+datos sintéticos y dobles, nunca resultados reales de los33 territorios. Predicciones
+sintéticas de3 filas con recálculo independiente, extremo externo1e100 sin influencia,
+selección/tolerancias/negativos, presupuesto persistente y terminación real de doble lento.
+Cero candidatos ajustados/cero predicciones sobre panel real/cero segundos de piloto.
+
+Entorno transitorio v1 ausente, recuperado offline de caché local con mismos paquetes:
+Python3.12.14/sklearn1.9.1, pip check aprobado, lock/versiones efectivas registrados.
+Kernel inicial bloqueado por sockets del aislamiento e interrumpido; ejecución fuera
+ del aislamiento autorizada y exitosa. Primer fallo de formato territorial y congelación
+con semilla v1 inicialmente interpretada se conservan en fase2/resultados/antecedentes/;
+correcciones antes de cualquier ajuste real, con evidencia/impacto/alternativa/decisión
+ en registro_problemas.md. No hay control indispensable de fase2 pendiente.
+
+Rutas: fase2/PROTOCOLO_V2.md, README.md, INFORME_CIERRE.md, registro_problemas.md,
+fuentes/*.py compartidas/editables/generador, requirements.lock.txt,
+notebooks/01_protocolo_verificacion.ipynb y resultados/ (controles, congelación,
+conservación, manifiesto, huellas y evidencias reales de pruebas). Sin notebooks de
+entrenamiento, simulación o personal. No alteraciones originales/fase1/entregables v1/
+CONTINUIDAD_OBJETIVO_3.md/.gitignore, descargas de datos, objetivo4 ni push.
+Commit local descriptivo de cierre fase2 solo nuevas rutas y esta continuidad;
+su identificador se informa al usuario, sin autorreferencia de manifiesto.
+
+## Limitaciones y siguiente paso
+
+Persisten casos completos/Guainía, procedencia local no autenticada independientemente,
+comparabilidad IPM, enlace ecológico colegio/residencia y dependencia temporal/territorial.
+59/esquema82, causa antigua20212 y regla global desconocida siguen archivados con
+ubicación/motivo históricos; no se reabren sin nueva evidencia pertinente. No transformar
+predicciones contemporáneas en efectos causales ni umbral en significancia.
+Pendiente únicamente trabajo futuro autorizado expresamente: fase3/orquestación/piloto
+100 configuraciones y dos horas, reporte completo con MAE/RMSE/sesgo/anuales/territoriales
+incluidos deterioros; notebook personal condicionado al procedimiento completo≥5%.
+
+---
+
+## Registro histórico de cierre de fase1 — conservado como antecedente
+
+Lo siguiente describe la ejecución anterior; sus pendientes de fase2 están superados
+por el estado vigente de arriba. Sus advertencias y comprobaciones permanecen.
+
 # Continuidad propia de investigación v2
 
 Actualización: 2026-10-10 (America/Bogota). **Fase 1 cerrada localmente**.

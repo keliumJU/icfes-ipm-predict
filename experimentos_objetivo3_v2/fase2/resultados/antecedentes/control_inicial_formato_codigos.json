@@ -1,0 +1,11 @@
+{
+  "aprobado": false,
+  "controles": [
+    {
+      "control": 1,
+      "nombre": "panel_conservacion",
+      "aprobado": false,
+      "traceback": "Traceback (most recent call last):\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase2/fuentes/verificar.py\", line 191, in ejecutar_verificacion\n    try:detail=test();results.append(dict(control=number,nombre=name,aprobado=True,evidencia=detail,segundos=time.monotonic()-start))\n               ^^^^^^\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase2/fuentes/verificar.py\", line 54, in control_panel\n    p=cargar_panel()\n      ^^^^^^^^^^^^^^\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase2/fuentes/comun.py\", line 26, in cargar_panel\n    validar_panel(panel)\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase2/fuentes/comun.py\", line 35, in validar_panel\n    assert len(territory)==33\n           ^^^^^^^^^^^^^^^^^^\nAssertionError\n"
+    }
+  ]
+}

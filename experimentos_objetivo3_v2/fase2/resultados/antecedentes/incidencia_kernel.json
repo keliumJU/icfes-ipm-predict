@@ -1,0 +1,7 @@
+{
+  "accion": "generar_notebook.py: ejecutar verificaci\u00f3n en kernel",
+  "primer_intento": "bloqueado por sandbox; socket.socket PermissionError Errno 1",
+  "interrupcion_salida": 130,
+  "repeticion_fuera_aislamiento_salida": 0,
+  "entrenamiento_panel": false
+}

@@ -1,0 +1,5435 @@
+{
+  "version": "2.0.2",
+  "semilla": 20261010,
+  "panel_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "especificaciones": {
+    "ipm": [
+      "ipm"
+    ],
+    "tasas": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "ambas": [
+      "ipm",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ]
+  },
+  "ventanas": [
+    {
+      "externo": 2021,
+      "entrenamiento": [
+        2018,
+        2019
+      ],
+      "internas": [
+        {
+          "entrenamiento": [
+            2018
+          ],
+          "validacion": 2019
+        }
+      ]
+    },
+    {
+      "externo": 2022,
+      "entrenamiento": [
+        2018,
+        2019,
+        2021
+      ],
+      "internas": [
+        {
+          "entrenamiento": [
+            2018
+          ],
+          "validacion": 2019
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019
+          ],
+          "validacion": 2021
+        }
+      ]
+    },
+    {
+      "externo": 2023,
+      "entrenamiento": [
+        2018,
+        2019,
+        2021,
+        2022
+      ],
+      "internas": [
+        {
+          "entrenamiento": [
+            2018
+          ],
+          "validacion": 2019
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019
+          ],
+          "validacion": 2021
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019,
+            2021
+          ],
+          "validacion": 2022
+        }
+      ]
+    },
+    {
+      "externo": 2024,
+      "entrenamiento": [
+        2018,
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "internas": [
+        {
+          "entrenamiento": [
+            2018
+          ],
+          "validacion": 2019
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019
+          ],
+          "validacion": 2021
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019,
+            2021
+          ],
+          "validacion": 2022
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019,
+            2021,
+            2022
+          ],
+          "validacion": 2023
+        }
+      ]
+    },
+    {
+      "externo": 2025,
+      "entrenamiento": [
+        2018,
+        2019,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "internas": [
+        {
+          "entrenamiento": [
+            2018
+          ],
+          "validacion": 2019
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019
+          ],
+          "validacion": 2021
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019,
+            2021
+          ],
+          "validacion": 2022
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019,
+            2021,
+            2022
+          ],
+          "validacion": 2023
+        },
+        {
+          "entrenamiento": [
+            2018,
+            2019,
+            2021,
+            2022,
+            2023
+          ],
+          "validacion": 2024
+        }
+      ]
+    }
+  ],
+  "configuraciones": [
+    {
+      "id": "media",
+      "familia": "media",
+      "especificacion": null,
+      "parametros": {
+        "strategy": "mean"
+      },
+      "entradas": [],
+      "orden": 0,
+      "parametros_completos": {
+        "constant": null,
+        "quantile": null,
+        "strategy": "mean"
+      }
+    },
+    {
+      "id": "ols_ipm_00",
+      "familia": "ols",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "n_jobs": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 1,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "LinearRegression(n_jobs=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "LinearRegression(n_jobs=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__n_jobs": 1,
+        "modelo__positive": false,
+        "modelo__tol": 1e-06
+      }
+    },
+    {
+      "id": "ridge_ipm_00",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 0.1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 2,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=0.1, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=0.1, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_ipm_01",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 3,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=1, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=1, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_ipm_02",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 10
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 4,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=10, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=10, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 10,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_ipm_03",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 100
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 5,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=100, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=100, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 100,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "elastic_net_ipm_00",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.01,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 6,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.01, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.01, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.01,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ipm_01",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.01,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 7,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.01,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ipm_02",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.1,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 8,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ipm_03",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.1,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 9,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ipm_04",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 1,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 10,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=1, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=1, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ipm_05",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 1,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 11,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "svr_ipm_00",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 1,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 12,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 1,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ipm_01",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 1,
+        "epsilon": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 13,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=1, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=1, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 1,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ipm_02",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 10,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 14,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=10)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=10)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 10,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ipm_03",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 10,
+        "epsilon": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 15,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=10, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=10, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 10,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ipm_04",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 100,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 16,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=100)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=100)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 100,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ipm_05",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 100,
+        "epsilon": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 17,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=100, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=100, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 100,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_00",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.03,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 18,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_01",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.03,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 19,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_02",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.1,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 20,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_03",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.1,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 21,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_04",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.03,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 22,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_05",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.03,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 23,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_06",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.1,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 24,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ipm_07",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.1,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 25,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_00",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 26,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_01",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 3
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 27,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_02",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 6
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 28,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 6,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_03",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 10
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 29,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 10,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_04",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 1
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 30,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_05",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 3
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 31,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_06",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 6
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 32,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 6,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ipm_07",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 10
+      },
+      "entradas": [
+        "ipm"
+      ],
+      "orden": 33,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 10,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "ols_tasas_00",
+      "familia": "ols",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "n_jobs": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 34,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "LinearRegression(n_jobs=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "LinearRegression(n_jobs=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__n_jobs": 1,
+        "modelo__positive": false,
+        "modelo__tol": 1e-06
+      }
+    },
+    {
+      "id": "ridge_tasas_00",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 0.1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 35,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=0.1, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=0.1, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_tasas_01",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 36,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=1, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=1, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_tasas_02",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 10
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 37,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=10, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=10, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 10,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_tasas_03",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 100
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 38,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=100, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=100, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 100,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "elastic_net_tasas_00",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.01,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 39,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.01, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.01, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.01,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_tasas_01",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.01,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 40,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.01,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_tasas_02",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.1,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 41,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_tasas_03",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.1,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 42,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_tasas_04",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 1,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 43,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=1, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=1, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_tasas_05",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 1,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 44,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "svr_tasas_00",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 1,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 45,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 1,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_tasas_01",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 1,
+        "epsilon": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 46,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=1, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=1, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 1,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_tasas_02",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 10,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 47,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=10)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=10)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 10,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_tasas_03",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 10,
+        "epsilon": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 48,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=10, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=10, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 10,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_tasas_04",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 100,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 49,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=100)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=100)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 100,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_tasas_05",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 100,
+        "epsilon": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 50,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=100, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=100, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 100,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_00",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.03,
+        "max_depth": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 51,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_01",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.03,
+        "max_depth": 2
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 52,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_02",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.1,
+        "max_depth": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 53,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_03",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.1,
+        "max_depth": 2
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 54,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_04",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.03,
+        "max_depth": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 55,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_05",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.03,
+        "max_depth": 2
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 56,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_06",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.1,
+        "max_depth": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 57,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_tasas_07",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.1,
+        "max_depth": 2
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 58,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_00",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 59,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_01",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 3
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 60,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_02",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 6
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 61,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 6,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_03",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 10
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 62,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 10,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_04",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 1
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 63,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_05",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 3
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 64,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_06",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 6
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 65,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 6,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_tasas_07",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 10
+      },
+      "entradas": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 66,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 10,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "ols_ambas_00",
+      "familia": "ols",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "n_jobs": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 67,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "LinearRegression(n_jobs=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "LinearRegression(n_jobs=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__n_jobs": 1,
+        "modelo__positive": false,
+        "modelo__tol": 1e-06
+      }
+    },
+    {
+      "id": "ridge_ambas_00",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 0.1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 68,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=0.1, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=0.1, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_ambas_01",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 69,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=1, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=1, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_ambas_02",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 10
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 70,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=10, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=10, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 10,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "ridge_ambas_03",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "solver": "svd",
+        "alpha": 100
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 71,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "Ridge(alpha=100, solver='svd')"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "Ridge(alpha=100, solver='svd')",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 100,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__max_iter": null,
+        "modelo__positive": false,
+        "modelo__random_state": null,
+        "modelo__solver": "svd",
+        "modelo__tol": 0.0001
+      }
+    },
+    {
+      "id": "elastic_net_ambas_00",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.01,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 72,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.01, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.01, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.01,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ambas_01",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.01,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 73,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.01,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ambas_02",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.1,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 74,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ambas_03",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 0.1,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 75,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 0.1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ambas_04",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 1,
+        "l1_ratio": 0.2
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 76,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=1, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=1, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.2,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "elastic_net_ambas_05",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "parametros": {
+        "fit_intercept": true,
+        "max_iter": 20000,
+        "selection": "cyclic",
+        "random_state": 20261010,
+        "alpha": 1,
+        "l1_ratio": 0.8
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 77,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__alpha": 1,
+        "modelo__copy_X": true,
+        "modelo__fit_intercept": true,
+        "modelo__l1_ratio": 0.8,
+        "modelo__max_iter": 20000,
+        "modelo__positive": false,
+        "modelo__precompute": false,
+        "modelo__random_state": 20261010,
+        "modelo__selection": "cyclic",
+        "modelo__tol": 0.0001,
+        "modelo__warm_start": false
+      }
+    },
+    {
+      "id": "svr_ambas_00",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 1,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 78,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 1,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ambas_01",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 1,
+        "epsilon": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 79,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=1, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=1, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 1,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ambas_02",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 10,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 80,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=10)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=10)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 10,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ambas_03",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 10,
+        "epsilon": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 81,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=10, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=10, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 10,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ambas_04",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 100,
+        "epsilon": 0.1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 82,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=100)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=100)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 100,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 0.1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "svr_ambas_05",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "parametros": {
+        "kernel": "rbf",
+        "gamma": "scale",
+        "C": 100,
+        "epsilon": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 83,
+      "parametros_completos": {
+        "memory": null,
+        "steps": [
+          [
+            "escalado",
+            "StandardScaler()"
+          ],
+          [
+            "modelo",
+            "SVR(C=100, epsilon=1)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "escalado": "StandardScaler()",
+        "modelo": "SVR(C=100, epsilon=1)",
+        "escalado__copy": true,
+        "escalado__with_mean": true,
+        "escalado__with_std": true,
+        "modelo__C": 100,
+        "modelo__cache_size": 200,
+        "modelo__coef0": 0.0,
+        "modelo__degree": 3,
+        "modelo__epsilon": 1,
+        "modelo__gamma": "scale",
+        "modelo__kernel": "rbf",
+        "modelo__max_iter": -1,
+        "modelo__shrinking": true,
+        "modelo__tol": 0.001,
+        "modelo__verbose": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_00",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.03,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 84,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_01",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.03,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 85,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_02",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.1,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 86,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_03",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 100,
+        "learning_rate": 0.1,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 87,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_04",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.03,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 88,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_05",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.03,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 89,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.03,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_06",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.1,
+        "max_depth": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 90,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 1,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "gradient_boosting_ambas_07",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "parametros": {
+        "loss": "squared_error",
+        "min_samples_leaf": 3,
+        "subsample": 1.0,
+        "random_state": 20261010,
+        "n_estimators": 300,
+        "learning_rate": 0.1,
+        "max_depth": 2
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 91,
+      "parametros_completos": {
+        "alpha": 0.9,
+        "ccp_alpha": 0.0,
+        "criterion": "deprecated",
+        "init": null,
+        "learning_rate": 0.1,
+        "loss": "squared_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 300,
+        "n_iter_no_change": null,
+        "random_state": 20261010,
+        "subsample": 1.0,
+        "tol": 0.0001,
+        "validation_fraction": 0.1,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_00",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 92,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_01",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 3
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 93,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_02",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 6
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 94,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 6,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_03",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 0.5,
+        "min_samples_leaf": 10
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 95,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 0.5,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 10,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_04",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 1
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 96,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_05",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 3
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 97,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 3,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_06",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 6
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 98,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 6,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    },
+    {
+      "id": "extra_trees_ambas_07",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "parametros": {
+        "n_estimators": 300,
+        "max_depth": null,
+        "n_jobs": 1,
+        "random_state": 20261010,
+        "max_features": 1.0,
+        "min_samples_leaf": 10
+      },
+      "entradas": [
+        "ipm",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "orden": 99,
+      "parametros_completos": {
+        "bootstrap": false,
+        "ccp_alpha": 0.0,
+        "criterion": "squared_error",
+        "max_depth": null,
+        "max_features": 1.0,
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 10,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 300,
+        "n_jobs": 1,
+        "oob_score": false,
+        "random_state": 20261010,
+        "verbose": 0,
+        "warm_start": false
+      }
+    }
+  ],
+  "referencia_historica": {
+    "id": "referencia_v1",
+    "familia": "gradient_boosting",
+    "especificacion": "ambas",
+    "parametros": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "deprecated",
+      "init": null,
+      "learning_rate": 0.1,
+      "loss": "squared_error",
+      "max_depth": 2,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 100,
+      "n_iter_no_change": null,
+      "random_state": 20261010,
+      "subsample": 1.0,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "semilla_historica": 20261008,
+    "id_historico": "gradient_boosting_ambas_07",
+    "parametros_completos": {
+      "alpha": 0.9,
+      "ccp_alpha": 0.0,
+      "criterion": "deprecated",
+      "init": null,
+      "learning_rate": 0.1,
+      "loss": "squared_error",
+      "max_depth": 2,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 3,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "n_estimators": 100,
+      "n_iter_no_change": null,
+      "random_state": 20261010,
+      "subsample": 1.0,
+      "tol": 0.0001,
+      "validation_fraction": 0.1,
+      "verbose": 0,
+      "warm_start": false
+    }
+  },
+  "presupuesto_segundos": 7200.0,
+  "tolerancias": {
+    "mae": 0.1,
+    "rmse": 0.1
+  },
+  "orden_familias": [
+    "media",
+    "ols",
+    "ridge",
+    "elastic_net",
+    "svr",
+    "gradient_boosting",
+    "extra_trees"
+  ]
+}
