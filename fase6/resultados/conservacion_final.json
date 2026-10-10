@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "archivos_previos_intactos": 269,
+  "excepcion_intencional": [
+    "CONTINUIDAD_OBJETIVO_3.md"
+  ],
+  "informe_usuario_conservado": true,
+  "modelos_ajustados": 0,
+  "predicciones_nuevas": 0,
+  "remuestreos_nuevos": 0,
+  "simulaciones": 0,
+  "push": false
+}

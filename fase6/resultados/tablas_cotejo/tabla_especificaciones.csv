@@ -1,0 +1,4 @@
+Especificación,Entradas,Unidad local,Familias comparadas
+IPM,1,Incidencia (% personas),Media común; OLS; Ridge; RF; GBR
+Tasas,15,Tasas marginales (% hogares),Media común; OLS; Ridge; RF; GBR
+Ambas,16,Incidencia y tasas,Media común; OLS; Ridge; RF; GBR

@@ -1,0 +1,21 @@
+{
+  "fecha_cliente": "2026-10-09",
+  "archivo": "fase6/entrega/informe_para_copiar.html",
+  "sha256": "391403a4b13a93be7f88f7eaa023e964c88be2ba5cd1efa6dc0d9ae079649e0b",
+  "metodo": "Navegador IAB/CUA, DOM de página propia y capturas visuales; servidor temporal solo127.0.0.1 detenido",
+  "ancho_viewport_px": 910,
+  "tablas": 10,
+  "max_columnas": 6,
+  "titulos_h1_h2": 10,
+  "figuras_enlaces_separados": 4,
+  "desborde_horizontal_pagina": false,
+  "tablas_con_desborde": 0,
+  "inspeccion_visual": [
+    "portada/resumen",
+    "tablas4–5",
+    "remuestreo/robustez/asociaciones"
+  ],
+  "pegado_real_google_docs": false,
+  "limite": "Verificación local; no documento Google Docs autorizado o modificado",
+  "figuras": "Copias exactas de fase5; revisión visual anterior conservada, sin gráfico nuevo"
+}

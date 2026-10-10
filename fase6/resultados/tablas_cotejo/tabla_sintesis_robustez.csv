@@ -1,0 +1,7 @@
+Diagnóstico,Resultado existente,Alcance,Fuente en fase4/resultados
+Diferencia tasas−ambas territorial,−0.241788; percentiles [−0.569529; 0.045591],Ventaja puntual de tasas; rango cruza cero,bootstrap_resumen.csv; territorial_desarrollo
+Ganador−OLS IPM temporal,−3.206676; [−5.669490; −0.962579],Dispersión condicional favorable; reserva expuesta,bootstrap_resumen.csv; temporal_cerrado_2023_2024
+Omitir errores de un territorio; ambas,MAE entre 7.500620 y 8.251786,Influencia de composición con errores fijos,influencia_grupos_errores.csv; ambas
+Soporte marginal territorial,126 valores fuera de rango / 4224 entradas,No acredita soporte conjunto; tasas repetidas,soporte_territorial.csv; fase4/informe.md
+Colinealidad,Condición 1 / 12.644109 / 30.647008,Rango completo; separación de aportes limitada,colinealidad.csv; IPM/tasas/ambas
+Tamaño de celda Saber desarrollo,190–79542 registros,No mide precisión de la encuesta IPM,diagnostico_tamanos.csv

@@ -1,0 +1,26 @@
+{
+  "fecha_cliente": "2026-10-09",
+  "python": "3.12.14",
+  "fuentes_sha256": {
+    "informe_objetivo_3.md": "f3b08128aba45e4bfc5439aefc1de587fe036f10ec427167d578239c0da21bb1",
+    "fase6/fuentes/informe_plantilla.md": "c7e43e83c89e2d533727b3ddf0ed8c7a881274dacec043e2d50179af6c08a0f3",
+    "fase6/fuentes/anexo_plantilla.md": "59641659539eb17255a7be49df9dd2980ec8a2e07b047a5b64f2103fa447ed1b"
+  },
+  "figuras_copia_exacta": {
+    "01_particion_temporal.png": "470b218587d087facf999d28423b015873cb9b6b314dc99fffad8d88254ffa08",
+    "01_particion_temporal.svg": "817c3143e4dc6cb7c4205e6edd33bb20d46b4df07e0b8e90ac56ba2d87cd7fa6",
+    "02_observado_predicho.png": "d38eb8c2b93dcdf997793521dc62469f5b9dce23d0458eb35617dceecc9591b3",
+    "02_observado_predicho.svg": "96eeb6544cbb8ca853f2165af1c8251302fe5d75cd7d4d5bc5b40dd586d4f881",
+    "03_errores_territoriales.png": "46cfb2b5bba8cec47cf7a5235cde59761d22e1ad1f7b7ed62ee691e1dcdd3759",
+    "03_errores_territoriales.svg": "50525024c8292987e3b05366f89e315d14ff0d4a1810c52d170a3e856278c826",
+    "04_estabilidad_interpretativa.png": "a937ea2fc3fd83a2732e4b59be19b059d2b55cff2b51e7decc58a8f2e47b598c",
+    "04_estabilidad_interpretativa.svg": "81ff8586ea2ebf0f591c383d0d81cb1a9c07df13a1e58a5291386e6dd63b20ab"
+  },
+  "modelos_ajustados": 0,
+  "predicciones_nuevas": 0,
+  "remuestreos_nuevos": 0,
+  "simulaciones": 0,
+  "nuevo_notebook": "No necesario: revisión y generación documental, notebooks previos conservados",
+  "semilla": "No aplica; generación determinista",
+  "render": "HTML semántico desde subconjunto Markdown, sin servicio Google Docs"
+}
