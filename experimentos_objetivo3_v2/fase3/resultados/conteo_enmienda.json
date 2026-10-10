@@ -1,0 +1,19 @@
+{
+  "evidencia_sin_leer_metricas": true,
+  "conteos_por_etiqueta": {
+    "2021/interno": 100,
+    "2021/externo": 8,
+    "2022/interno": 200,
+    "2022/externo": 9,
+    "2023/interno": 300,
+    "2023/externo": 8,
+    "2024/interno": 109
+  },
+  "estados": {
+    "ok": 734
+  },
+  "cota_corregida_externos": 45,
+  "cota_corregida_total_sin_fallos": 1555,
+  "limite_obligatorio_segundos": 7200,
+  "codigo_operativo_modificado": false
+}

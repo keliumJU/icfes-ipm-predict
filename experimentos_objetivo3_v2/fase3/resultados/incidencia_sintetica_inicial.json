@@ -1,0 +1,1 @@
+{"origen":"prueba sintética previa a ajustes reales","error":"ValueError: Invalid integer data type O al asignar 1e100 a columna sintética int64","impacto":"prueba de fuga no alcanzada; cero ajustes reales","alternativa":"crear resultado sintético como float64","decision":"corregir dtype del fixture y repetir controles sin modificar panel ni protocolo"}

@@ -1,0 +1,16 @@
+{
+  "instante": "2026-10-10T22:35:35.065873+00:00",
+  "codigo": {
+    "experimentos_objetivo3_v2/fase3/fuentes/piloto.py": "cf66201be99cdb5a383fd177ae9afe30a1a0f3d81521ca8a1b2fc6366773405c",
+    "experimentos_objetivo3_v2/fase3/fuentes/probar.py": "c7d897b2b6230b650ddc47c214c8869b3871b68db9e110ccd34ac5e5e403579e",
+    "experimentos_objetivo3_v2/fase3/fuentes/verificar_resultados.py": "d715d02c348fdda6e7657b1dd9a5e7f2af3a2cd5afcb73114f2d7e78ac4a294f"
+  },
+  "configuraciones_sha256": "366012873fac5cd13bcae021bdea2bc9e3186f2efb56e7745c011dc77ac82991",
+  "panel_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "entorno_sha256": "9f8d49cd175740bd46f12796cd89331cbd30b8c55791452ec5ac9230b1747fe1",
+  "pruebas_sha256": "78ab6a3239ec334703e0ad23053feadcf4e8dc2418ec7d2c0cd0bd50316c8afc",
+  "semilla": 20261010,
+  "limite": 7200,
+  "orden": "externos crecientes; JSON candidatos; internas crecientes; selección persistida; externos por JSON; v1; diez repeticiones al final",
+  "motor": "comun.Presupuesto spawn, serial, worker solo entrenamiento"
+}

@@ -1,0 +1,11 @@
+{
+  "aprobado": true,
+  "origen": "sintetico",
+  "pruebas": [
+    "metricas conocidas y sesgo",
+    "R2 nulo denominador cero",
+    "regex separa interno de externo IPM",
+    "RMSE errores concatenados"
+  ],
+  "ajustes": 0
+}

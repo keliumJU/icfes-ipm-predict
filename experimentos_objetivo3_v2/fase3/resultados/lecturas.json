@@ -1,0 +1,12 @@
+{
+  "fecha_cliente": "2026-10-10",
+  "fase_autorizada": 3,
+  "primeras_lecturas": ["AGENTS.md", "experimentos_objetivo3_v2/CONTINUIDAD_V2.md"],
+  "plan_leido": {"archivo": "experimentos_objetivo3_v2/PLAN_INVESTIGACION_V2.md", "lineas": [104, 115], "seccion": "Fase 3"},
+  "lecturas_adicionales": ["fase2/PROTOCOLO_V2.md completo", "fase2/registro_problemas.md", "fase2/requirements.lock.txt", "fase2/fuentes/comun.py", "fase2/fuentes/configuracion.py", "fase2/fuentes/congelar.py", "fase2/fuentes/cerrar.py", "fase2/resultados/entorno.json", "fase2/resultados/congelacion_previa.json", "fase2/resultados/manifiesto_cierre.json", "fase2/resultados/configuraciones_congeladas.json por código", "protocolo/fuentes/configuracion.py en lectura", "fase3/resultados/congelacion.json v1 en lectura"],
+  "referencias_historicas_no_releidas": ["PDF citados en protocolo y continuidad", "protocolo v1 §8 y decisiones D10/D12/D13: advertencias heredadas de fase2"],
+  "pdf_efectivamente_leidos": [],
+  "paginas_pdf_leidas": 0,
+  "git_partida_observado_antes_de_crear_fase3": {"commit": "0664ac21100982006d1a20670c7e987879444dc6", "rama": "codex/objetivo3-v2-piloto", "status_porcelain": "", "diferencia_cierre_conocido": false},
+  "nota_snapshot": "integridad_inicial.json se creó después de escribir fuentes autorizadas fase3; su git_inicial muestra esa carpeta nueva, sin modificaciones previas ajenas."
+}

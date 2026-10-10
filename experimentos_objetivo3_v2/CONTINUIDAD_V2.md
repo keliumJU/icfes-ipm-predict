@@ -1,5 +1,120 @@
 # Continuidad propia de investigación v2 — estado vigente
 
+Actualización:2026-10-10, America/Bogota. **Fases1–3 cerradas localmente**.
+Esta continuación autoriza y ejecuta únicamente fase3 con protocolo2.0.2 congelado.
+Fase4 y notebook personal no ejecutados ni entregados; requieren autorización expresa.
+El estado anterior se conserva íntegro más abajo como antecedente sin vigencia operativa.
+
+## Partida, alcance y conservación
+
+HEAD real `0664ac21100982006d1a20670c7e987879444dc6` coincide con cierre conocido de fase2.
+Rama `codex/objetivo3-v2-piloto` reutilizada; Git limpio antes de crear fase3. No trabajo
+previo sobrescrito. AGENTS/continuidad primero; del plan solo fase3, líneas104–115.
+Protocolo2.0.2, configuraciones, registro/código compartido y antecedentes v1 necesarios
+en lectura. PDF efectivamente leídos:ninguno, cero páginas; citas anteriores son históricas.
+Manifiesto fase2/congelación y huellas comprobados sin regenerar fases1–2.
+Siete fuentes originales intactas por huella binaria, sin repetir censo raw.
+Snapshot versionados y cierre verificables en fase3/resultados/integridad_inicial.json y
+conservacion_final.json. Solo nuevos entregables fase3 y esta continuidad se incluyen
+en commit local descriptivo; su hash se informa fuera del manifiesto, sin autorreferencia.
+Sin modificaciones de originales/fases1–2/v1/CONTINUIDAD_OBJETIVO_3.md/.gitignore ni push.
+
+## Decisiones concretas vigentes: usuario, comprobaciones y enmiendas
+
+**Usuario y protocolo congelado:** único panel fase1, SHA256
+`6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3`.
+Población ESTUDIANTE, no libertad S, seis puntajes presentes/positivos, geografía del
+colegio, grado11, sin filtro calendario; media global recibida, sin recalcular/redondear.
+Peso igual por territorio-año; conteos solo trazabilidad. IPM(1), tasas(15), ambas(16);
+2020 excluido definitivamente, sin auditoría ni sensibilidades. Normalización territorial
+solo en memoria. Cien configuraciones exactas, semilla prospectiva20261010, bandas0.1
+MAE y luego RMSE, menor número entradas, familias/orden JSON; sin criterios modificados
+según métricas. Referencia v1 estructural fija reentrenada con20261010;20261008 histórico.
+Cinco externas2021–2025, todas las anteriores autorizadas en entrenamiento; internas
+expansivas desde2018→2019,1/2/3/4/5 validaciones. Transformaciones exclusivamente dentro
+del entrenamiento, sin clipping, imputación ni ajustes finales con todos los años.
+
+**Comprobaciones actuales:**231 filas,33 territorios por año;198 históricas exactas y
+prefijo literal. Parámetros/defaults/lock exactos y entorno existente comprobados
+Python3.12.14/sklearn1.9.1, pip check aprobado; no instalación ni red. Datos sintéticos y
+dobles prueban separación/selección/persistencia/reanudación/límite/terminación antes del
+piloto, sin métricas reales ni gasto del presupuesto del panel. Código operativo,
+parámetros, versiones, orden y entradas congelados antes del primer ajuste real.
+
+**Enmiendas técnicas fase3, sin modificar congelados:**
+- E3-01: clasificar agregado interno mediante regex temporal completa; subcadena `_i`
+  también coincide con `_ipm` externo. Solo extensión de reporte, sin impacto en
+  selección/evaluación;49.500 internas y particiones exactas verificadas.
+- E3-02: corregir cota descriptiva de §7: pueden existir9 IDs externos distintos
+  (global, tres especificaciones, media, tres OLS, v1), no8; cota sin fallos≤1555, no1550.
+  Evidencia por conteos antes de leer métricas; conservar roles/deduplicar IDs es única
+  alternativa que no modifica selección/cobertura. Tope obligatorio7200s intacto.
+  Conteo efectivo1500 internos+42 externos+10 repeticiones=1552, sin repetir ajustes.
+
+Evidencia/impacto/alternativa/decisión/comprobación en fase3/ENMIENDAS_TECNICAS.md y
+registro_problemas.md; incidencias sintéticas previas conservadas separadamente.
+
+## Resultados realmente ejecutados y verificados
+
+**Procedimiento completo.** 1552 ajustes, cero fallos; tiempo acumulado
+1540.906905419055s de7200 y saldo5659.093094580945s. Ledger persistente serial
+con procesos interrumpibles, transformaciones/comunicación/referencias/repeticiones
+incluidas, sin reiniciar al reanudar. Diez repeticiones, diferencia máxima0 puntos.
+Los modelos históricos no se cargan; todos los ajustes son artefactos v2 nuevos.
+
+Nueve procedimientos/comparadores con165 externas cada uno, mismas llaves;49.500
+predicciones internas,51.216 predicciones por artefacto verificadas. Recálculo independiente
+con math.fsum desde CSV guardados confirma anterioridad, particiones exactas, roles,
+observados contra panel, transformaciones, parámetros y huellas. Principales resultados:
+
+| Procedimiento | MAE | RMSE | Sesgo pred−observado | R² conjunto |
+|---|---|---|---|---|
+| v2 global por ventana |4.879557188161031|6.194961008561882|−0.9758642686030827|0.8729260233776192|
+| v1 fija reentrenada |5.979303244989078|7.31238747219388|−0.6682847841766807|0.8229492143632028|
+
+Mejora exacta100×(MAE v1−MAE v2)/MAE v1 = **18.392545281085766%**.
+Denominador positivo y mismas165 filas; satisface umbral futuro≥5% sin redondeo adicional.
+No se exige mejora tres-de-cinco-años ni se interpreta umbral como significancia.
+MAE mejora en cinco años, deteriora en8 de33 territorios: resultados/deterioros.csv y
+metricas.csv. Ambas tiene MAE externo4.821934448903931, menor que global, pero no se
+selecciona retrospectivamente con externos ni se sustituye el criterio principal.
+
+Ganadores globales:2021 extra_trees_ambas_04;2022 extra_trees_tasas_04;
+2023/2024 extra_trees_tasas_00;2025 extra_trees_tasas_04. Cada selección global/por
+especificación se guardó antes del externo. No ganador único elegido con esos errores.
+Fuentes completas: fase3/resultados/ganadores.csv, seleccion_AAAA.json en piloto/,
+metricas_internas.csv, metricas.csv, predicciones_internas.csv/predicciones_externas.csv,
+verificacion_resultados.json, fallos.json, piloto/ledger.json/reproducibilidad.json y
+ajustes/ETIQUETA/ (modelo, parámetros, entradas, transformaciones, versiones/semilla,
+tiempo, advertencias, huellas y predicciones). Advertencias capturadas íntegras.
+
+Informe completo fase3/INFORME_PILOTO.md, fuentes editables/README/generador y único
+notebook útil01_resultados_piloto.ipynb: tres celdas de lectura realmente ejecutadas
+mediante Python exec, validado con nbformat; no kernel Jupyter ni entrenamiento extra.
+No salidas de ejecuciones no realizadas. Conservación/manifiesto verificables en
+fase3/resultados/conservacion_final.json y manifiesto_cierre.json.
+
+## Advertencias activas y pendientes
+
+Casos completos y Guainía (238 vs404; diferencia descriptiva21.012106 puntos), procedencia
+local sin autenticación independiente, comparabilidad IPM, geografía colegio versus
+residencia de hogares/enlace ecológico, dependencia temporal/territorial y pocos años.
+No se interpretan predicciones como efectos causales. 2025 exploratorio, no reserva
+inédita. Antecedentes59/esquema82, causa antigua20212 y regla global desconocida siguen
+archivados con ubicación/motivo heredados; no reapertura sin evidencia nueva pertinente.
+No queda control indispensable del piloto pendiente. Falta únicamente autorización
+expresa de fase4 para revisión/notebook personal condicionado, ahora con umbral satisfecho.
+No simulación, objetivo4, nuevo ajuste final, descarga de datos, push ni fase4 en esta fase.
+
+---
+
+## Antecedente conservado del cierre de fase2 — sin vigencia operativa
+
+Las declaraciones siguientes de piloto no ejecutado/fase3 pendiente corresponden al
+cierre anterior y quedan superadas por el estado vigente de arriba.
+
+# Continuidad propia de investigación v2 — estado vigente
+
 Actualización: 2026-10-10, America/Bogota. **Fases 1 y 2 cerradas localmente**.
 Solo fase2 autorizada/ejecutada en esta continuación. **Piloto no ejecutado**;
 fase3 exige autorización expresa. No notebook personal ni resultados predictivos nuevos.

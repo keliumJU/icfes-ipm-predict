@@ -1,0 +1,1913 @@
+{
+  "externo": 2024,
+  "global_id": "extra_trees_tasas_00",
+  "especificaciones": {
+    "ipm": "gradient_boosting_ipm_00",
+    "tasas": "extra_trees_tasas_00",
+    "ambas": "extra_trees_ambas_00"
+  },
+  "metricas_internas": [
+    {
+      "id": "media",
+      "familia": "media",
+      "especificacion": null,
+      "n_predictores": 0,
+      "orden": 0,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 13.939680450683879,
+      "rmse": 17.015888938944894,
+      "sesgo": 1.2570079772920697,
+      "r2": -0.035171346299445405
+    },
+    {
+      "id": "ols_ipm_00",
+      "familia": "ols",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 1,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.352437459749474,
+      "rmse": 12.196389572751693,
+      "sesgo": 4.111569381758788,
+      "r2": 0.46817893727213633
+    },
+    {
+      "id": "ridge_ipm_00",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 2,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.351507816832807,
+      "rmse": 12.194997197824836,
+      "sesgo": 4.107863714116492,
+      "r2": 0.46830035878633436
+    },
+    {
+      "id": "ridge_ipm_01",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 3,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.344020106868177,
+      "rmse": 12.184767853897657,
+      "sesgo": 4.0750649134506745,
+      "r2": 0.4691919797152665
+    },
+    {
+      "id": "ridge_ipm_02",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 4,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.368440432669855,
+      "rmse": 12.232391601891457,
+      "sesgo": 3.7922796081656833,
+      "r2": 0.4650345810878085
+    },
+    {
+      "id": "ridge_ipm_03",
+      "familia": "ridge",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 5,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 11.00866086764839,
+      "rmse": 13.933388057859897,
+      "sesgo": 2.586601608887631,
+      "r2": 0.3059089840223008
+    },
+    {
+      "id": "elastic_net_ipm_00",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 6,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.355338942858388,
+      "rmse": 12.194637295429011,
+      "sesgo": 4.088450599379836,
+      "r2": 0.4683317416801376
+    },
+    {
+      "id": "elastic_net_ipm_01",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 7,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.353414127380816,
+      "rmse": 12.1957497351323,
+      "sesgo": 4.104006419265836,
+      "r2": 0.46823473578446795
+    },
+    {
+      "id": "elastic_net_ipm_02",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 8,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.388792244295507,
+      "rmse": 12.210814016900606,
+      "sesgo": 3.89579407955522,
+      "r2": 0.4669202435451796
+    },
+    {
+      "id": "elastic_net_ipm_03",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 9,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.36203178295148,
+      "rmse": 12.193755332658439,
+      "sesgo": 4.037274397269176,
+      "r2": 0.4684086434595074
+    },
+    {
+      "id": "elastic_net_ipm_04",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 10,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 10.35042772457847,
+      "rmse": 13.270144050403019,
+      "sesgo": 2.8169175685373697,
+      "r2": 0.37041520333543176
+    },
+    {
+      "id": "elastic_net_ipm_05",
+      "familia": "elastic_net",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 11,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.587865126881209,
+      "rmse": 12.430900457483823,
+      "sesgo": 3.4800620135970624,
+      "r2": 0.4475307187529993
+    },
+    {
+      "id": "svr_ipm_00",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 12,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 10.178022211041549,
+      "rmse": 13.065811256217533,
+      "sesgo": 4.618628265652757,
+      "r2": 0.38965454060325855
+    },
+    {
+      "id": "svr_ipm_01",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 13,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 10.120327550301957,
+      "rmse": 13.012337235918078,
+      "sesgo": 4.4752207527850105,
+      "r2": 0.3946401993385932
+    },
+    {
+      "id": "svr_ipm_02",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 14,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.188616797660258,
+      "rmse": 11.672216151000198,
+      "sesgo": 5.457863762972746,
+      "r2": 0.5129095661818075
+    },
+    {
+      "id": "svr_ipm_03",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 15,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.273066486926437,
+      "rmse": 11.755756878583293,
+      "sesgo": 5.460133513030483,
+      "r2": 0.5059121786586726
+    },
+    {
+      "id": "svr_ipm_04",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 16,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.876636394444942,
+      "rmse": 11.52636168451856,
+      "sesgo": 5.7752251307288205,
+      "r2": 0.5250067436610112
+    },
+    {
+      "id": "svr_ipm_05",
+      "familia": "svr",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 17,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.932121785066652,
+      "rmse": 11.51208129558302,
+      "sesgo": 5.783681037561635,
+      "r2": 0.5261829841316882
+    },
+    {
+      "id": "gradient_boosting_ipm_00",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 18,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.907660464852762,
+      "rmse": 11.268372279182223,
+      "sesgo": 4.219042497854434,
+      "r2": 0.5460319059614629
+    },
+    {
+      "id": "gradient_boosting_ipm_01",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 19,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.880094510969004,
+      "rmse": 11.29550563563067,
+      "sesgo": 4.466832343709953,
+      "r2": 0.5438430347017085
+    },
+    {
+      "id": "gradient_boosting_ipm_02",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 20,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.885050339968426,
+      "rmse": 11.223039760758889,
+      "sesgo": 4.689113297731776,
+      "r2": 0.5496771744900768
+    },
+    {
+      "id": "gradient_boosting_ipm_03",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 21,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.019581230319762,
+      "rmse": 11.509320736429178,
+      "sesgo": 4.6463787549359035,
+      "r2": 0.5264101964036986
+    },
+    {
+      "id": "gradient_boosting_ipm_04",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 22,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.883709469647151,
+      "rmse": 11.222006582179167,
+      "sesgo": 4.650236702009751,
+      "r2": 0.5497600829518478
+    },
+    {
+      "id": "gradient_boosting_ipm_05",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 23,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.971414617759304,
+      "rmse": 11.451522680520549,
+      "sesgo": 4.65712130153514,
+      "r2": 0.5311548446992028
+    },
+    {
+      "id": "gradient_boosting_ipm_06",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 24,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.849334236467481,
+      "rmse": 11.325873284595586,
+      "sesgo": 4.962922570793604,
+      "r2": 0.5413870073301332
+    },
+    {
+      "id": "gradient_boosting_ipm_07",
+      "familia": "gradient_boosting",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 25,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.497479816680945,
+      "rmse": 12.026952269013028,
+      "sesgo": 4.8533024763884525,
+      "r2": 0.48285285390685106
+    },
+    {
+      "id": "extra_trees_ipm_00",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 26,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 10.184269717251826,
+      "rmse": 12.710912307876082,
+      "sesgo": 4.552298626746103,
+      "r2": 0.4223611394333806
+    },
+    {
+      "id": "extra_trees_ipm_01",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 27,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.272308293427056,
+      "rmse": 11.93858151264012,
+      "sesgo": 3.7411876297983713,
+      "r2": 0.4904246452255271
+    },
+    {
+      "id": "extra_trees_ipm_02",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 28,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 10.081524429152594,
+      "rmse": 12.95494700516038,
+      "sesgo": 3.117534283410083,
+      "r2": 0.39996823913882407
+    },
+    {
+      "id": "extra_trees_ipm_03",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 29,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 11.060749336418986,
+      "rmse": 14.043151498843791,
+      "sesgo": 2.5264041489005304,
+      "r2": 0.2949301892699693
+    },
+    {
+      "id": "extra_trees_ipm_04",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 30,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 10.184269717251826,
+      "rmse": 12.710912307876082,
+      "sesgo": 4.552298626746103,
+      "r2": 0.4223611394333806
+    },
+    {
+      "id": "extra_trees_ipm_05",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 31,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.272308293427056,
+      "rmse": 11.93858151264012,
+      "sesgo": 3.7411876297983713,
+      "r2": 0.4904246452255271
+    },
+    {
+      "id": "extra_trees_ipm_06",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 32,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 10.081524429152594,
+      "rmse": 12.95494700516038,
+      "sesgo": 3.117534283410083,
+      "r2": 0.39996823913882407
+    },
+    {
+      "id": "extra_trees_ipm_07",
+      "familia": "extra_trees",
+      "especificacion": "ipm",
+      "n_predictores": 1,
+      "orden": 33,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 11.060749336418986,
+      "rmse": 14.043151498843791,
+      "sesgo": 2.5264041489005304,
+      "r2": 0.2949301892699693
+    },
+    {
+      "id": "ols_tasas_00",
+      "familia": "ols",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 34,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.392003236018514,
+      "rmse": 9.10636237491328,
+      "sesgo": 1.4879649198029758,
+      "r2": 0.7035217664195572
+    },
+    {
+      "id": "ridge_tasas_00",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 35,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.343376134962897,
+      "rmse": 9.0212663277976,
+      "sesgo": 1.4880713955065707,
+      "r2": 0.7090368657841053
+    },
+    {
+      "id": "ridge_tasas_01",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 36,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.1030785336931554,
+      "rmse": 8.684981889919273,
+      "sesgo": 1.5237014577564465,
+      "r2": 0.7303249351060194
+    },
+    {
+      "id": "ridge_tasas_02",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 37,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.851471959983161,
+      "rmse": 8.503588351801243,
+      "sesgo": 1.8372361022719257,
+      "r2": 0.7414721024952761
+    },
+    {
+      "id": "ridge_tasas_03",
+      "familia": "ridge",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 38,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.630228080068991,
+      "rmse": 9.773243068068563,
+      "sesgo": 2.1294426848529224,
+      "r2": 0.6585081385981498
+    },
+    {
+      "id": "elastic_net_tasas_00",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 39,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.229738865728114,
+      "rmse": 8.860507114496157,
+      "sesgo": 1.5318722668297609,
+      "r2": 0.7193144115165934
+    },
+    {
+      "id": "elastic_net_tasas_01",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 40,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.299505453158654,
+      "rmse": 8.954854490067161,
+      "sesgo": 1.4583352967863328,
+      "r2": 0.713305062565268
+    },
+    {
+      "id": "elastic_net_tasas_02",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 41,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.857424514195708,
+      "rmse": 8.461958625750404,
+      "sesgo": 1.8108575595016791,
+      "r2": 0.7439971780446484
+    },
+    {
+      "id": "elastic_net_tasas_03",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 42,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.906475683159029,
+      "rmse": 8.405466907567375,
+      "sesgo": 1.3764859004528647,
+      "r2": 0.7474038988509666
+    },
+    {
+      "id": "elastic_net_tasas_04",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 43,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.417207729262917,
+      "rmse": 9.297568615214134,
+      "sesgo": 2.257847616738744,
+      "r2": 0.690940753287504
+    },
+    {
+      "id": "elastic_net_tasas_05",
+      "familia": "elastic_net",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 44,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.223178108810768,
+      "rmse": 8.989382285693592,
+      "sesgo": 2.139745722154227,
+      "r2": 0.71108994489725
+    },
+    {
+      "id": "svr_tasas_00",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 45,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.91941769257602,
+      "rmse": 13.053238996124744,
+      "sesgo": 2.670880395541714,
+      "r2": 0.39082855573779807
+    },
+    {
+      "id": "svr_tasas_01",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 46,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.99600176014537,
+      "rmse": 13.139497269213708,
+      "sesgo": 2.61839369240214,
+      "r2": 0.3827509140089248
+    },
+    {
+      "id": "svr_tasas_02",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 47,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.521986475966536,
+      "rmse": 8.308338117757705,
+      "sesgo": 1.4199028639774052,
+      "r2": 0.7532078836558064
+    },
+    {
+      "id": "svr_tasas_03",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 48,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.491456523504353,
+      "rmse": 8.28900282725984,
+      "sesgo": 1.478840385501075,
+      "r2": 0.7543552237604236
+    },
+    {
+      "id": "svr_tasas_04",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 49,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.4970798634169205,
+      "rmse": 8.02638415868773,
+      "sesgo": 3.5049199119930585,
+      "r2": 0.7696740655920549
+    },
+    {
+      "id": "svr_tasas_05",
+      "familia": "svr",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 50,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.4452637049416515,
+      "rmse": 7.94091105303247,
+      "sesgo": 3.240430219188531,
+      "r2": 0.774553436097388
+    },
+    {
+      "id": "gradient_boosting_tasas_00",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 51,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.977142608700281,
+      "rmse": 8.792713947047128,
+      "sesgo": 2.6832265920906524,
+      "r2": 0.7235931214249538
+    },
+    {
+      "id": "gradient_boosting_tasas_01",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 52,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.3741968653264545,
+      "rmse": 7.93058771533003,
+      "sesgo": 2.514854325173854,
+      "r2": 0.7751392248539577
+    },
+    {
+      "id": "gradient_boosting_tasas_02",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 53,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.45444942748155,
+      "rmse": 8.039189193335561,
+      "sesgo": 2.3631223098044596,
+      "r2": 0.7689385702192182
+    },
+    {
+      "id": "gradient_boosting_tasas_03",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 54,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.158319025156199,
+      "rmse": 7.543434945634717,
+      "sesgo": 2.1825034186154264,
+      "r2": 0.7965577003909688
+    },
+    {
+      "id": "gradient_boosting_tasas_04",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 55,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.499114430130047,
+      "rmse": 8.10862441706103,
+      "sesgo": 2.4135175380312184,
+      "r2": 0.764929935122332
+    },
+    {
+      "id": "gradient_boosting_tasas_05",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 56,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.112630909563243,
+      "rmse": 7.477170720536181,
+      "sesgo": 2.1404926956910595,
+      "r2": 0.8001162213327814
+    },
+    {
+      "id": "gradient_boosting_tasas_06",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 57,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.137205429137057,
+      "rmse": 7.637934324992789,
+      "sesgo": 2.057659243522503,
+      "r2": 0.7914285804141785
+    },
+    {
+      "id": "gradient_boosting_tasas_07",
+      "familia": "gradient_boosting",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 58,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.0659301950539986,
+      "rmse": 7.473167562865172,
+      "sesgo": 2.056236872585963,
+      "r2": 0.8003301931982536
+    },
+    {
+      "id": "extra_trees_tasas_00",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 59,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.173907140066941,
+      "rmse": 6.479775079850748,
+      "sesgo": 2.136752891348208,
+      "r2": 0.8498854391390231
+    },
+    {
+      "id": "extra_trees_tasas_01",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 60,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.906833126884154,
+      "rmse": 7.534138998498382,
+      "sesgo": 2.4844173453055003,
+      "r2": 0.7970588046222563
+    },
+    {
+      "id": "extra_trees_tasas_02",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 61,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.75181085469537,
+      "rmse": 8.736211294351042,
+      "sesgo": 2.601117263065252,
+      "r2": 0.727134130860439
+    },
+    {
+      "id": "extra_trees_tasas_03",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 62,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.617780739271903,
+      "rmse": 10.120812789195362,
+      "sesgo": 2.5423737109898292,
+      "r2": 0.6337870138605245
+    },
+    {
+      "id": "extra_trees_tasas_04",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 63,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.213765201625554,
+      "rmse": 6.519444264779825,
+      "sesgo": 2.0583773295343004,
+      "r2": 0.8480418102415115
+    },
+    {
+      "id": "extra_trees_tasas_05",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 64,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.622848744037838,
+      "rmse": 7.095091585325541,
+      "sesgo": 2.2555426124212614,
+      "r2": 0.8200221874167473
+    },
+    {
+      "id": "extra_trees_tasas_06",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 65,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.355899197065162,
+      "rmse": 8.055530211939423,
+      "sesgo": 2.516521968097115,
+      "r2": 0.7679982722642282
+    },
+    {
+      "id": "extra_trees_tasas_07",
+      "familia": "extra_trees",
+      "especificacion": "tasas",
+      "n_predictores": 15,
+      "orden": 66,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.075602521596441,
+      "rmse": 9.136863687592182,
+      "sesgo": 2.550396291673393,
+      "r2": 0.701532361774233
+    },
+    {
+      "id": "ols_ambas_00",
+      "familia": "ols",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 67,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 8.210623530343721,
+      "rmse": 10.316426900626054,
+      "sesgo": 2.1686781239278083,
+      "r2": 0.6194939485835348
+    },
+    {
+      "id": "ridge_ambas_00",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 68,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.946223755538331,
+      "rmse": 9.928250658513996,
+      "sesgo": 2.0830049333535112,
+      "r2": 0.6475898372299738
+    },
+    {
+      "id": "ridge_ambas_01",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 69,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.277137580769006,
+      "rmse": 8.942778267884325,
+      "sesgo": 1.7287814274363293,
+      "r2": 0.7140777958951139
+    },
+    {
+      "id": "ridge_ambas_02",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 70,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.896050031412019,
+      "rmse": 8.54328057169285,
+      "sesgo": 1.8863194808691894,
+      "r2": 0.7390530072493063
+    },
+    {
+      "id": "ridge_ambas_03",
+      "familia": "ridge",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 71,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.625096469289097,
+      "rmse": 9.75957557440889,
+      "sesgo": 2.2107120934953386,
+      "r2": 0.6594625964530129
+    },
+    {
+      "id": "elastic_net_ambas_00",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 72,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.497193102028094,
+      "rmse": 9.241264564399529,
+      "sesgo": 1.8481995128330695,
+      "r2": 0.6946726103021039
+    },
+    {
+      "id": "elastic_net_ambas_01",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 73,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.814083580059527,
+      "rmse": 9.732625347314166,
+      "sesgo": 2.0239795764821356,
+      "r2": 0.6613407291174616
+    },
+    {
+      "id": "elastic_net_ambas_02",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 74,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.897008820669021,
+      "rmse": 8.508452193970726,
+      "sesgo": 1.8739690893696914,
+      "r2": 0.7411762747929452
+    },
+    {
+      "id": "elastic_net_ambas_03",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 75,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.958605288729353,
+      "rmse": 8.483867624218188,
+      "sesgo": 1.510536032448265,
+      "r2": 0.7426698195555561
+    },
+    {
+      "id": "elastic_net_ambas_04",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 76,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.428881477085798,
+      "rmse": 9.316282531118159,
+      "sesgo": 2.2806849706774175,
+      "r2": 0.6896953676076926
+    },
+    {
+      "id": "elastic_net_ambas_05",
+      "familia": "elastic_net",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 77,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.257812920454866,
+      "rmse": 9.029283482257423,
+      "sesgo": 2.14044991755924,
+      "r2": 0.7085194810108025
+    },
+    {
+      "id": "svr_ambas_00",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 78,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.855380246170126,
+      "rmse": 12.981417511395282,
+      "sesgo": 2.702573105415399,
+      "r2": 0.39751367544687644
+    },
+    {
+      "id": "svr_ambas_01",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 79,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 9.945593178366519,
+      "rmse": 13.085897809009397,
+      "sesgo": 2.6887837363987304,
+      "r2": 0.3877764850087172
+    },
+    {
+      "id": "svr_ambas_02",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 80,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.475230808177025,
+      "rmse": 8.259189190130881,
+      "sesgo": 1.545726227619164,
+      "r2": 0.7561191014633379
+    },
+    {
+      "id": "svr_ambas_03",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 81,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.463102380562787,
+      "rmse": 8.244969410096733,
+      "sesgo": 1.5935542301741665,
+      "r2": 0.7569581541344707
+    },
+    {
+      "id": "svr_ambas_04",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 82,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.433367148724479,
+      "rmse": 7.924709188694644,
+      "sesgo": 3.416396866176331,
+      "r2": 0.7754724561842186
+    },
+    {
+      "id": "svr_ambas_05",
+      "familia": "svr",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 83,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.3715428039081425,
+      "rmse": 7.83751789719247,
+      "sesgo": 3.212957871678291,
+      "r2": 0.7803859865938564
+    },
+    {
+      "id": "gradient_boosting_ambas_00",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 84,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.849012833398451,
+      "rmse": 8.713320594822719,
+      "sesgo": 2.7727001719564726,
+      "r2": 0.7285621887176444
+    },
+    {
+      "id": "gradient_boosting_ambas_01",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 85,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.367679531979372,
+      "rmse": 7.931693467953848,
+      "sesgo": 2.6178613270131406,
+      "r2": 0.7750765163297328
+    },
+    {
+      "id": "gradient_boosting_ambas_02",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 86,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.284052522469767,
+      "rmse": 7.887921507942328,
+      "sesgo": 2.2967984423205916,
+      "r2": 0.7775521983385814
+    },
+    {
+      "id": "gradient_boosting_ambas_03",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 87,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.008943652481318,
+      "rmse": 7.367856155920093,
+      "sesgo": 2.034063043484526,
+      "r2": 0.8059180109318971
+    },
+    {
+      "id": "gradient_boosting_ambas_04",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 88,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.382952707837576,
+      "rmse": 7.991576986794057,
+      "sesgo": 2.4120889772471426,
+      "r2": 0.7716673943453791
+    },
+    {
+      "id": "gradient_boosting_ambas_05",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 89,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.058294519741203,
+      "rmse": 7.423977324810743,
+      "sesgo": 2.1494028840546946,
+      "r2": 0.8029500944569962
+    },
+    {
+      "id": "gradient_boosting_ambas_06",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 90,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.928669190388891,
+      "rmse": 7.4295474668051975,
+      "sesgo": 2.054998780286631,
+      "r2": 0.8026542940621646
+    },
+    {
+      "id": "gradient_boosting_ambas_07",
+      "familia": "gradient_boosting",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 91,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.931349783122629,
+      "rmse": 7.30369645841842,
+      "sesgo": 1.8787554163708287,
+      "r2": 0.8092834469673447
+    },
+    {
+      "id": "extra_trees_ambas_00",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 92,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.142355389868254,
+      "rmse": 6.475687190199744,
+      "sesgo": 2.292254939130707,
+      "r2": 0.8500747846595984
+    },
+    {
+      "id": "extra_trees_ambas_01",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 93,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.845428647997919,
+      "rmse": 7.365682881808856,
+      "sesgo": 2.632601756584936,
+      "r2": 0.8060324895932124
+    },
+    {
+      "id": "extra_trees_ambas_02",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 94,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.6590251714904065,
+      "rmse": 8.466266149729242,
+      "sesgo": 2.7954992903635283,
+      "r2": 0.7437364774160775
+    },
+    {
+      "id": "extra_trees_ambas_03",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 95,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.383394246576189,
+      "rmse": 9.715278676037325,
+      "sesgo": 2.7244906727320855,
+      "r2": 0.6625468529768412
+    },
+    {
+      "id": "extra_trees_ambas_04",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 96,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.160897315052709,
+      "rmse": 6.529903300598494,
+      "sesgo": 2.344259442473488,
+      "r2": 0.8475538511585663
+    },
+    {
+      "id": "extra_trees_ambas_05",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 97,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 5.674199121479622,
+      "rmse": 7.166186922145004,
+      "sesgo": 2.492215409097256,
+      "r2": 0.8163972331242192
+    },
+    {
+      "id": "extra_trees_ambas_06",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 98,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 6.340337109214365,
+      "rmse": 7.994520017970382,
+      "sesgo": 2.7673259124394987,
+      "r2": 0.771499188817517
+    },
+    {
+      "id": "extra_trees_ambas_07",
+      "familia": "extra_trees",
+      "especificacion": "ambas",
+      "n_predictores": 16,
+      "orden": 99,
+      "ventanas": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "estado": "completo",
+      "n": 132,
+      "mae": 7.066696889079236,
+      "rmse": 9.092307422696823,
+      "sesgo": 2.909163600322086,
+      "r2": 0.7044362417120039
+    }
+  ],
+  "instante_antes_evaluacion": "2026-10-10T22:52:57.694791+00:00",
+  "congelacion_sha256": "1d2abfeb0e86a962cc5963422ac3d04ded45952d48f1b4d7507d6dc194520303"
+}

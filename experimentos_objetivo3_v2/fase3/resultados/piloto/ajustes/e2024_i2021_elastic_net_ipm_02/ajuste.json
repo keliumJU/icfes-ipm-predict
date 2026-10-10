@@ -1,0 +1,337 @@
+{
+  "id": "elastic_net_ipm_02",
+  "etiqueta": "e2024_i2021_elastic_net_ipm_02",
+  "entrenamiento": [
+    2018,
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2018
+    ],
+    [
+      "05",
+      2019
+    ],
+    [
+      "08",
+      2018
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "11",
+      2018
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "13",
+      2018
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "15",
+      2018
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "17",
+      2018
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2018
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2018
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2018
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "23",
+      2018
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "25",
+      2018
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "27",
+      2018
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "41",
+      2018
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "44",
+      2018
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "47",
+      2018
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "50",
+      2018
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "52",
+      2018
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "54",
+      2018
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "63",
+      2018
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "66",
+      2018
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "68",
+      2018
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "70",
+      2018
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "73",
+      2018
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "76",
+      2018
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "81",
+      2018
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "85",
+      2018
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "86",
+      2018
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "88",
+      2018
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "91",
+      2018
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "94",
+      2018
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "95",
+      2018
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "97",
+      2018
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "99",
+      2018
+    ],
+    [
+      "99",
+      2019
+    ]
+  ],
+  "n": 66,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "ElasticNet(alpha=0.1, l1_ratio=0.2, max_iter=20000, random_state=20261010)",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 0.1,
+    "modelo__copy_X": true,
+    "modelo__fit_intercept": true,
+    "modelo__l1_ratio": 0.2,
+    "modelo__max_iter": 20000,
+    "modelo__positive": false,
+    "modelo__precompute": false,
+    "modelo__random_state": 20261010,
+    "modelo__selection": "cyclic",
+    "modelo__tol": 0.0001,
+    "modelo__warm_start": false
+  },
+  "entradas": [
+    "ipm"
+  ],
+  "semilla": 20261010,
+  "origen": "real",
+  "panel_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "versiones_sha256": "9f8d49cd175740bd46f12796cd89331cbd30b8c55791452ec5ac9230b1747fe1",
+  "congelacion_sha256": "1d2abfeb0e86a962cc5963422ac3d04ded45952d48f1b4d7507d6dc194520303",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      27.013636363636365
+    ],
+    "scale": [
+      16.33137792590318
+    ],
+    "var": [
+      266.7139049586777
+    ],
+    "n_samples_seen": 66
+  },
+  "modelo_sha256": "a3b1a1e50f07bb0ee0681aeac5a4d2177c89214b3bc3541c717d6d2e1b27a74d",
+  "tiempo": {
+    "etiqueta": "e2024_i2021_elastic_net_ipm_02_intento1",
+    "estado": "ok",
+    "segundos": 1.086068537999381
+  },
+  "intento": 1,
+  "predicciones_sha256": "cef0cc9a3127695727f40641029a9088d490ba041a146e44f3eeaabea78066e9",
+  "fuera_0_500": 0
+}

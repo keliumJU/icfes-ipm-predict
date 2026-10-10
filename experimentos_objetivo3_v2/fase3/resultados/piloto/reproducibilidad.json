@@ -1,0 +1,55 @@
+{
+  "aprobado": true,
+  "repeticiones": [
+    {
+      "externo": 2021,
+      "id": "extra_trees_ambas_04",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2021,
+      "id": "referencia_v1",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2022,
+      "id": "extra_trees_tasas_04",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2022,
+      "id": "referencia_v1",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2023,
+      "id": "extra_trees_tasas_00",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2023,
+      "id": "referencia_v1",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2024,
+      "id": "extra_trees_tasas_00",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2024,
+      "id": "referencia_v1",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2025,
+      "id": "extra_trees_tasas_04",
+      "max_diferencia": 0.0
+    },
+    {
+      "externo": 2025,
+      "id": "referencia_v1",
+      "max_diferencia": 0.0
+    }
+  ]
+}

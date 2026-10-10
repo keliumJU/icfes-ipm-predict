@@ -1,0 +1,204 @@
+{
+  "id": "svr_ipm_03",
+  "etiqueta": "e2021_i2019_svr_ipm_03",
+  "entrenamiento": [
+    2018
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2018
+    ],
+    [
+      "08",
+      2018
+    ],
+    [
+      "11",
+      2018
+    ],
+    [
+      "13",
+      2018
+    ],
+    [
+      "15",
+      2018
+    ],
+    [
+      "17",
+      2018
+    ],
+    [
+      "18",
+      2018
+    ],
+    [
+      "19",
+      2018
+    ],
+    [
+      "20",
+      2018
+    ],
+    [
+      "23",
+      2018
+    ],
+    [
+      "25",
+      2018
+    ],
+    [
+      "27",
+      2018
+    ],
+    [
+      "41",
+      2018
+    ],
+    [
+      "44",
+      2018
+    ],
+    [
+      "47",
+      2018
+    ],
+    [
+      "50",
+      2018
+    ],
+    [
+      "52",
+      2018
+    ],
+    [
+      "54",
+      2018
+    ],
+    [
+      "63",
+      2018
+    ],
+    [
+      "66",
+      2018
+    ],
+    [
+      "68",
+      2018
+    ],
+    [
+      "70",
+      2018
+    ],
+    [
+      "73",
+      2018
+    ],
+    [
+      "76",
+      2018
+    ],
+    [
+      "81",
+      2018
+    ],
+    [
+      "85",
+      2018
+    ],
+    [
+      "86",
+      2018
+    ],
+    [
+      "88",
+      2018
+    ],
+    [
+      "91",
+      2018
+    ],
+    [
+      "94",
+      2018
+    ],
+    [
+      "95",
+      2018
+    ],
+    [
+      "97",
+      2018
+    ],
+    [
+      "99",
+      2018
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "SVR(C=10, epsilon=1)"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "SVR(C=10, epsilon=1)",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__C": 10,
+    "modelo__cache_size": 200,
+    "modelo__coef0": 0.0,
+    "modelo__degree": 3,
+    "modelo__epsilon": 1,
+    "modelo__gamma": "scale",
+    "modelo__kernel": "rbf",
+    "modelo__max_iter": -1,
+    "modelo__shrinking": true,
+    "modelo__tol": 0.001,
+    "modelo__verbose": false
+  },
+  "entradas": [
+    "ipm"
+  ],
+  "semilla": 20261010,
+  "origen": "real",
+  "panel_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "versiones_sha256": "9f8d49cd175740bd46f12796cd89331cbd30b8c55791452ec5ac9230b1747fe1",
+  "congelacion_sha256": "1d2abfeb0e86a962cc5963422ac3d04ded45952d48f1b4d7507d6dc194520303",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      27.912121212121214
+    ],
+    "scale": [
+      15.98864668360604
+    ],
+    "var": [
+      255.63682277318642
+    ],
+    "n_samples_seen": 33
+  },
+  "modelo_sha256": "ae128db49a148ca513886f6fddc7909f4426df30bb29460e655cdb98012e6cfc",
+  "tiempo": {
+    "etiqueta": "e2021_i2019_svr_ipm_03_intento1",
+    "estado": "ok",
+    "segundos": 0.9381422260012187
+  },
+  "intento": 1,
+  "predicciones_sha256": "18c602647caa0ae0ff0afe1437b6496aaa1cc24c3d325fb9a5b6091cddabdfdd",
+  "fuera_0_500": 0
+}

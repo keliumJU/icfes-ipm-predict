@@ -1,0 +1,204 @@
+{
+  "id": "elastic_net_ipm_01",
+  "etiqueta": "e2025_i2019_elastic_net_ipm_01",
+  "entrenamiento": [
+    2018
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2018
+    ],
+    [
+      "08",
+      2018
+    ],
+    [
+      "11",
+      2018
+    ],
+    [
+      "13",
+      2018
+    ],
+    [
+      "15",
+      2018
+    ],
+    [
+      "17",
+      2018
+    ],
+    [
+      "18",
+      2018
+    ],
+    [
+      "19",
+      2018
+    ],
+    [
+      "20",
+      2018
+    ],
+    [
+      "23",
+      2018
+    ],
+    [
+      "25",
+      2018
+    ],
+    [
+      "27",
+      2018
+    ],
+    [
+      "41",
+      2018
+    ],
+    [
+      "44",
+      2018
+    ],
+    [
+      "47",
+      2018
+    ],
+    [
+      "50",
+      2018
+    ],
+    [
+      "52",
+      2018
+    ],
+    [
+      "54",
+      2018
+    ],
+    [
+      "63",
+      2018
+    ],
+    [
+      "66",
+      2018
+    ],
+    [
+      "68",
+      2018
+    ],
+    [
+      "70",
+      2018
+    ],
+    [
+      "73",
+      2018
+    ],
+    [
+      "76",
+      2018
+    ],
+    [
+      "81",
+      2018
+    ],
+    [
+      "85",
+      2018
+    ],
+    [
+      "86",
+      2018
+    ],
+    [
+      "88",
+      2018
+    ],
+    [
+      "91",
+      2018
+    ],
+    [
+      "94",
+      2018
+    ],
+    [
+      "95",
+      2018
+    ],
+    [
+      "97",
+      2018
+    ],
+    [
+      "99",
+      2018
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "ElasticNet(alpha=0.01, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 0.01,
+    "modelo__copy_X": true,
+    "modelo__fit_intercept": true,
+    "modelo__l1_ratio": 0.8,
+    "modelo__max_iter": 20000,
+    "modelo__positive": false,
+    "modelo__precompute": false,
+    "modelo__random_state": 20261010,
+    "modelo__selection": "cyclic",
+    "modelo__tol": 0.0001,
+    "modelo__warm_start": false
+  },
+  "entradas": [
+    "ipm"
+  ],
+  "semilla": 20261010,
+  "origen": "real",
+  "panel_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "versiones_sha256": "9f8d49cd175740bd46f12796cd89331cbd30b8c55791452ec5ac9230b1747fe1",
+  "congelacion_sha256": "1d2abfeb0e86a962cc5963422ac3d04ded45952d48f1b4d7507d6dc194520303",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      27.912121212121214
+    ],
+    "scale": [
+      15.98864668360604
+    ],
+    "var": [
+      255.63682277318642
+    ],
+    "n_samples_seen": 33
+  },
+  "modelo_sha256": "e859ad6cc0632423e8e5620039f5025be7fcbbeb82cd901f0919f8d10098dbdc",
+  "tiempo": {
+    "etiqueta": "e2025_i2019_elastic_net_ipm_01_intento1",
+    "estado": "ok",
+    "segundos": 0.9598163080008817
+  },
+  "intento": 1,
+  "predicciones_sha256": "d98ad7d08015da2a2e9b1f6610ab230b3424ba7e5f0e2211741e80f4b6af8d7a",
+  "fuera_0_500": 0
+}

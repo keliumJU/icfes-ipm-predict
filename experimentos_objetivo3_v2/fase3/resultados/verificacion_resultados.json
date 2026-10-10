@@ -1,0 +1,94 @@
+{
+  "aprobado": true,
+  "completo": true,
+  "ajustes": 1552,
+  "segundos_consumidos": 1540.906905419055,
+  "segundos_observados": 1540.906905419055,
+  "saldo": 5659.093094580945,
+  "cobertura": {
+    "media": 165,
+    "ols_ambas_00": 165,
+    "ols_ipm_00": 165,
+    "ols_tasas_00": 165,
+    "procedimiento_ambas": 165,
+    "procedimiento_ipm": 165,
+    "procedimiento_tasas": 165,
+    "procedimiento_v2": 165,
+    "referencia_v1": 165
+  },
+  "metricas_conjuntas": {
+    "media": {
+      "n": 165,
+      "mae": 14.642482640334222,
+      "rmse": 17.55592741338506,
+      "sesgo": -2.808165371154866,
+      "r2": -0.020532921973687834
+    },
+    "ols_ambas_00": {
+      "n": 165,
+      "mae": 8.097991321094774,
+      "rmse": 10.138071897479104,
+      "sesgo": -1.8116551361739601,
+      "r2": 0.6596778627036145
+    },
+    "ols_ipm_00": {
+      "n": 165,
+      "mae": 9.493906856300677,
+      "rmse": 12.251515978188971,
+      "sesgo": 1.1210047277695108,
+      "r2": 0.5029968653655981
+    },
+    "ols_tasas_00": {
+      "n": 165,
+      "mae": 7.36157204452346,
+      "rmse": 8.975052323917225,
+      "sesgo": -2.413729854081822,
+      "r2": 0.7332813129218823
+    },
+    "procedimiento_ambas": {
+      "n": 165,
+      "mae": 4.821934448903931,
+      "rmse": 6.122265920292194,
+      "sesgo": -0.7584137822490579,
+      "r2": 0.8758908375458443
+    },
+    "procedimiento_ipm": {
+      "n": 165,
+      "mae": 9.304227621483287,
+      "rmse": 11.79901233374882,
+      "sesgo": 2.251462739720403,
+      "r2": 0.5390320016206946
+    },
+    "procedimiento_tasas": {
+      "n": 165,
+      "mae": 4.939188123900286,
+      "rmse": 6.201588823342707,
+      "sesgo": -0.9669516398976581,
+      "r2": 0.8726539721687093
+    },
+    "procedimiento_v2": {
+      "n": 165,
+      "mae": 4.879557188161031,
+      "rmse": 6.194961008561882,
+      "sesgo": -0.9758642686030827,
+      "r2": 0.8729260233776192
+    },
+    "referencia_v1": {
+      "n": 165,
+      "mae": 5.979303244989078,
+      "rmse": 7.31238747219388,
+      "sesgo": -0.6682847841766807,
+      "r2": 0.8229492143632028
+    }
+  },
+  "mejora_porcentaje": 18.392545281085766,
+  "umbral_futuro_satisfecho": true,
+  "notebook_personal_entregado": false,
+  "predicciones_artefactos_verificadas": 51216,
+  "fallos": 0,
+  "pdf_leidos": [],
+  "procedimiento_calculo": "biblioteca estándar math.fsum, e=pred-y; grupos CSV, sin medias de métricas parciales",
+  "particiones_exactas_y_roles_verificados": true,
+  "filas_predicciones_internas": 49500,
+  "enmienda_reporte": "Regex etiqueta temporal completa; no selección ni evaluación alteradas."
+}

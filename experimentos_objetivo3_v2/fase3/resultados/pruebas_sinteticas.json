@@ -1,0 +1,20 @@
+{
+  "terminacion_proceso_sintetico_segundos": 1.5119834220022312,
+  "aprobado": true,
+  "origen": "datos_sinteticos_y_dobles",
+  "controles": [
+    "orquestacion ventanas y selección",
+    "extremo externo sin influencia en selección",
+    "selección persistida antes de externos",
+    "artefactos y huellas",
+    "reanudación sin ajustes duplicados",
+    "presupuesto global persistente y límite",
+    "caída pendiente agota saldo",
+    "worker real con Pipeline y entrenamiento exclusivo"
+  ],
+  "ajustes_panel_real": 0,
+  "segundos_presupuesto_panel": 0,
+  "ajustes_dobles": 16,
+  "worker_sintetico_segundos": 1.0685491770018416,
+  "pdf_leidos": []
+}

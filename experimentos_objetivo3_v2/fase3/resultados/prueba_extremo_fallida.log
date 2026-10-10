@@ -1,0 +1,32 @@
+Externo 2021 completado; ajustes acumulados 5; 0.1s.
+Externo 2022 completado; ajustes acumulados 12; 0.1s.
+Externo 2021 completado; ajustes acumulados 16; 0.2s.
+Externo 2022 completado; ajustes acumulados 16; 0.2s.
+/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/utils/_array_api.py:983: RuntimeWarning: overflow encountered in cast
+  array = numpy.asarray(array, order=order, dtype=dtype)
+Traceback (most recent call last):
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase3/fuentes/probar.py", line 43, in <module>
+    if __name__=='__main__':test()
+                            ^^^^^^
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase3/fuentes/probar.py", line 25, in test
+    other=Path(temp)/'extreme';rr=Runner(other,changed,conf,double);rr.window(conf['ventanas'][0]);after=read(other/'seleccion_2021.json')
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase3/fuentes/piloto.py", line 101, in window
+    p=self.predict(f'e{year}_externo_{ident}',self.byid[ident],tr,te)
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v2/fase3/fuentes/piloto.py", line 75, in predict
+    pred=model.predict(inputs(test,c))
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/ensemble/_gb.py", line 2165, in predict
+    X = validate_data(
+        ^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/utils/validation.py", line 3041, in validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/utils/validation.py", line 1090, in check_array
+    _assert_all_finite(
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/utils/validation.py", line 137, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/utils/validation.py", line 186, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input X contains infinity or a value too large for dtype('float32').

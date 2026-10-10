@@ -1,0 +1,17 @@
+{
+  "aprobado": true,
+  "commit_partida": "0664ac21100982006d1a20670c7e987879444dc6",
+  "archivos_versionados_intactos": 386,
+  "fuentes_originales_intactas": 7,
+  "excepcion_autorizada": {
+    "archivo": "experimentos_objetivo3_v2/CONTINUIDAD_V2.md",
+    "antes": "5cf79f7c765eee738fb5c44172d8a65545134ab5ac81a85b49ba05080bddcea5",
+    "despues": "aef2c12e6f5adbac45e7dccf2de6eb37b2956607faacc9e7e1f4ed1f65c99713"
+  },
+  "fase1_intacta": true,
+  "fase2_intacta": true,
+  "originales_intactos": true,
+  "congelacion_operativa_intacta": true,
+  "pdf_leidos": [],
+  "push": false
+}
