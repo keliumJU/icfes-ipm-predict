@@ -1,4 +1,6 @@
 """Generación nbformat y ejecución real Python exec del modo verificar."""
+import sys
+sys.dont_write_bytecode=True
 from revision import *
 import nbformat,contextlib,io,base64
 

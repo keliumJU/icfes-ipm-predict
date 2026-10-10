@@ -1,4 +1,6 @@
 """Tablas comparativas y gráficos descriptivos, sin modelos adicionales."""
+import sys
+sys.dont_write_bytecode=True
 from revision import *
 import os,tempfile
 os.environ.setdefault('MPLCONFIGDIR',str(Path(tempfile.gettempdir())/'icfes-fase4-matplotlib'))

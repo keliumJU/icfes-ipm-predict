@@ -1,3 +1,5 @@
+import sys
+sys.dont_write_bytecode=True
 from revision import *
 
 def table(frame):

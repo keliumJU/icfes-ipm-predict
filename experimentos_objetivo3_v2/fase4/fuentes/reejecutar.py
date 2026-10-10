@@ -1,4 +1,6 @@
 """Reejecución VOLUNTARIA completa: solo nuevos artefactos en fase4/reproducciones."""
+import sys
+sys.dont_write_bytecode=True
 from revision import *
 import piloto as motor
 from datetime import datetime,timezone
