@@ -1,6 +1,6 @@
 # Continuidad del objetivo 3
 
-Actualización: 2026-10-09 (America/Bogota). Alcance vigente: **fase 4 cerrada**, contraste territorial, robustez y explicaciones ejecutados; sin simulaciones.
+Actualización: 2026-10-09 (America/Bogota). Alcance vigente: **fase 5 cerrada**, informe para tesis redactado y verificado a partir de resultados congelados; sin nuevos ajustes ni simulaciones.
 Estado: protocolo v1.0 conservado, ganador y artefactos congelados hasta 2022 intactos; salvedades históricas conservadas. Cualquier fase posterior requiere autorización nueva. Las secciones anteriores conservan su registro histórico; el cierre vigente está al final.
 
 ## Partida y conservación
@@ -225,3 +225,33 @@ No quedan controles indispensables activos de fase4. Permanecen selección previ
 Condición de avance: nueva autorización de fase posterior y definición prospectiva de escenarios/pregunta/soporte sin alterar ganador o estimando por métricas. No se avanzó ni simuló. No push.
 
 **Prompt siguiente preparado, no ejecutado:** Continúa en el proyecto y ejecuta únicamente la fase posterior que autorice expresamente el usuario. Lee AGENTS, continuidad vigente, protocolo/decisiones y README/informe de fase4; consulta solamente la sección correspondiente del plan. Verifica huellas de base/protocolo/fases3–4 y Git, conserva originales y cambios existentes. Documenta cualquier diferencia antes de cálculos. Si se autorizan escenarios, define previamente entradas plausibles y controles de soporte con modelos congelados, sin reselección ni afirmaciones causales; consulta solo decisiones materiales no resolubles con evidencia. Genera notebooks desde Python editable, verifica ejecuciones reales y registra resultados desfavorables. Cierra con entregables/continuidad/commit local; no push.
+
+
+## Cierre vigente de fase 5 — 2026-10-09
+
+**Usuario:** autorizó únicamente redactar el informe para tesis, figuras a partir de resultados existentes, controles, continuidad y commit local; sin push. Partida comprobada `da48e1a4f85d206e8753fbad85b78ba2e3858b1a`, coincidente con cierre4 indicado; Git limpio, sin cambios existentes que apartar. Se leyeron AGENTS, continuidad, protocolo v1.0/decisiones/README y README/decisiones/informes fases3–4. Del plan solamente fase5 líneas110–128. No se consultaron secciones posteriores ni se leyeron PDF nuevos. Las páginas de exposición histórica son referencias verificadas previamente, registradas como tales.
+
+### Decisiones y conservación
+
+- **Usuario/conservado:** base198, media global recibida, filtros/población, Bogotá/2021, peso igual, entradas1/15/16 y exclusiones; selección global y reevaluación cerradas. No cambios de protocolo ni originales/evidencias/fases3–4/.gitignore.
+- **Comprobación actual:** base SHA256 `609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866`; manifiestos protocolo/fases3–4 y siete artefactos congelados coinciden. Las huellas históricas de continuidad de cierres2–3 se identifican como sustituidas documentadamente; antes de editar, la continuidad vigente coincidió con cierre4. Snapshot inicial de todos los archivos versionados y comprobación final preservan cada archivo previo salvo actualización intencional de continuidad. Evidencia: `fase5/resultados/integridad_inicial.json`, `conservacion_final.json`.
+- **Decisión documental nueva previa:** `fase5/decisiones_previas.md` distingue plan y ejecución. Persistencia no se evaluó: pregunta no respondida, sin nueva referencia. Prevalecen diferencias prospectivas ya registradas en fases3–4; no se realizan sensibilidades que cambien decisiones congeladas.
+- **Decisión de figuras:** configuración ganadora en tres diseños separados; artefacto final congelado únicamente para reevaluación. Estabilidad interpretativa describe asociaciones entre/dentro/doble centrado y coeficientes OLS congelados, no importancia GBR, efecto causal o bootstrap de coeficientes.
+
+### Entregables y comprobaciones ejecutadas
+
+`informe_objetivo_3.md` contiene las ocho secciones solicitadas, diez tablas, cuatro figuras, discusión desfavorable y referencias verificadas. `fase5/fuentes/informe_plantilla.md` y `documentar.py` son fuentes editables compartidas; diez CSV en resultados y cuatro figuras PNG/SVG en `fase5/figuras/`. Contextos y huellas de fuentes en generacion.json. README documenta entradas/orden/salidas/entorno y reproducción documental en copia. Referencias y páginas efectivamente revisadas en referencias_verificadas.md: ninguna lectura PDF nueva; tres páginas web primarias comprobadas.
+
+Se recalcularon desde predicciones existentes las91 filas de métricas:67 de selección,21 de reevaluación y3 territoriales agrupadas. El control coteja cifras narrativas, asociaciones, coeficientes, soporte, extremos, rangos/limitaciones de robustez y conteos. No modelos cargados/aplicados/ajustados, predicciones nuevas, remuestreos nuevos ni simulaciones. Ganador `gradient_boosting_ambas_07` y su reevaluación conservados. MAE temporal conjunto6.345582; selección6.332499; diagnóstico territorial ambas8.067691 frente tasas7.825903. OLS IPM mejor que GBR IPM en MAE de ambos años y conjunto, aunque RMSE conjunto favorece ligeramente GBR IPM: contraste explicado sin universalizar la conclusión.
+
+`fase5/notebooks/07_informe_tesis.ipynb` se generó desde fuente Python con nbformat, se validó y ejecutó realmente mediante compile/exec secuencial (dos celdas), con salidas reales. No se afirma kernel Jupyter. Notebook de documentación, sin nuevos notebooks de modelos/simulación ni cambios en notebooks congelados. Entorno de documentación: Python3.12.14, pandas2.2.3, numpy2.5.3, matplotlib3.10.7, nbformat5.10.4; no instalaciones nuevas. Semilla nueva no aplica: resúmenes/gráficos deterministas, semilla20261008 citada solo para ejecuciones previas.
+
+Cuatro figuras inspeccionadas visualmente. Se corrigieron pie/leyenda y el título que podía confundir configuración con artefacto congelado, sin cambiar datos. Registro de evidencia/impacto/alternativa/decisión/comprobación en registro_problemas.md. Aviso inicial de caché matplotlib resuelto usando /tmp, sin impacto analítico. `verificacion_informe.json` y manifiesto_cierre.json documentan controles. No se ejecutó segunda búsqueda completa ni nueva reproducción de ajustes.
+
+### Pendientes, límites y condición de avance
+
+No quedan controles indispensables activos de fase5. Persisten selección optimista, reserva previamente expuesta, selección previa territorial, dependencia/pocos años, enlace ecológico, colinealidad, medición IPM/procedencia local y regla global desconocida. El remuestreo previo es condicional a errores fijos, sin incertidumbre de selección/ajuste/años futuros. No causa identificada de deterioro2024 ni inferencias individuales o causales. Persistencia no evaluada no se completa sin nueva autorización y diseño prospectivo. Antecedentes59/20212/descargas/entorno histórico siguen archivados; revisión y adopción editorial por el grupo continúan externas.
+
+Condición de avance: autorización expresa de la fase siguiente. El puente al objetivo4 define condiciones y límites, sin escenarios ni efectos anticipados. Cierre local con asunto `fase 5: redactar informe de tesis con evidencia congelada y figuras verificadas`; identificador comprobable en Git y respuesta de cierre. No push.
+
+**Prompt siguiente preparado, no ejecutado:** Continúa en el proyecto y ejecuta únicamente la fase6 de revisión y entrega si el usuario la autoriza expresamente. Lee AGENTS, esta continuidad, protocolo v1.0 y decisiones, fase5/README.md, informe_objetivo_3.md, registros y controles; consulta solo fase6 del plan. Comprueba Git y huellas de base/protocolo/artefactos congelados/fase5, conserva cambios existentes y originales. Revisa coherencia editorial y trazabilidad, conserva resultados desfavorables y límites de selección/reevaluación/diagnóstico territorial. No entrenes, reselecciones, amplíes búsquedas, inventes persistencia o citas ni simules. Mantén ganador y reevaluación cerrados. Resuelve hallazgos verificables dentro de alcance; consulta únicamente decisiones materiales no resolubles. Actualiza continuidad y cierra con commit descriptivo local, estado Git y rutas; sin push. Este prompt no autoriza escenarios u objetivo4.

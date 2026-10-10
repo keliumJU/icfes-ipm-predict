@@ -1,0 +1,15 @@
+{
+  "aprobado": true,
+  "secciones": 8,
+  "tablas": 10,
+  "figuras_png": 4,
+  "figuras_svg": 4,
+  "filas_metricas_contrastadas": 91,
+  "cifras_narrativas_contrastadas": true,
+  "notebook_validado": true,
+  "sin_ajustes_nuevos": true,
+  "sin_simulacion": true,
+  "huellas_artefactos_congelados_coinciden": true,
+  "revision_visual": "Cuatro figuras inspeccionadas; solapamientos de leyenda/pie corregidos; sin truncar coordenadas",
+  "limites": "No segunda reproducción de entrenamiento ni nueva lectura PDF; verificaciones documentales y aritméticas"
+}

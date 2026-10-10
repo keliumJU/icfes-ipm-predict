@@ -1,0 +1,9 @@
+{
+  "fuente": "fase5/fuentes/07_informe_tesis.py",
+  "sha256_fuente": "b589d3b440fed1881f58f6a2e2710559d44f22c504f414849a0af86c85c11b3a",
+  "notebook": "fase5/notebooks/07_informe_tesis.ipynb",
+  "validado_nbformat": true,
+  "celdas_codigo_ejecutadas": 2,
+  "modo": "Python secuencial compile/exec; sin kernel Jupyter",
+  "salidas_reales": true
+}

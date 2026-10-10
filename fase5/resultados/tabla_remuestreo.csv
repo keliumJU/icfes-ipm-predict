@@ -1,0 +1,8 @@
+contexto,a,b,delta_mae,percentil_2_5,percentil_97_5,replicas
+territorial_desarrollo,gradient_boosting_ipm_02,gradient_boosting_tasas_07,1.4902291914177885,0.026352029507492606,3.191830978019352,2000
+territorial_desarrollo,gradient_boosting_ipm_02,gradient_boosting_ambas_07,1.2484411677439409,-0.10160363780610794,2.819497838904591,2000
+territorial_desarrollo,gradient_boosting_tasas_07,gradient_boosting_ambas_07,-0.2417880236738477,-0.5695291787598398,0.045591189209091026,2000
+temporal_cerrado_2023_2024,gradient_boosting_ambas_07,media,-8.55830501566883,-11.930378994079085,-5.464742239177212,2000
+temporal_cerrado_2023_2024,gradient_boosting_ambas_07,ols_ipm,-3.2066759657683335,-5.66948990231966,-0.962578822344816,2000
+temporal_cerrado_2023_2024,gradient_boosting_ambas_07,ols_tasas,-1.8103034587794027,-3.022922150311104,-0.568941921383228,2000
+temporal_cerrado_2023_2024,gradient_boosting_ambas_07,ols_ambas,-1.9065308698315773,-3.1665947442834264,-0.6169598797846831,2000

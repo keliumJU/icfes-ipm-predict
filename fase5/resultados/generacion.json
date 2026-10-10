@@ -1,0 +1,686 @@
+{
+  "fecha_cliente": "2026-10-09",
+  "versiones_documentacion": {
+    "python": "3.12.14",
+    "pandas": "2.2.3",
+    "numpy": "2.5.3",
+    "matplotlib": "3.10.7"
+  },
+  "fuentes_sha256": {
+    "auditoria/base_analitica_departamento_anio.csv": "609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866",
+    "fase3/resultados/comparacion_desarrollo.csv": "04501f8a6ab6ff491798c4027b0e645a53c6ae6070d3352931b4f0fdbc98af2c",
+    "fase3/resultados/metricas_reevaluacion.csv": "7229b6b5e752e8775d43215f17deaced8bd8647b753f7d18af8d38e64399e35d",
+    "fase4/resultados/metricas_agrupadas.csv": "e29ef461b238309190150aa33438249b03148ee44d9a8e84b10e7219a7cbc2c1",
+    "fase4/resultados/bootstrap_resumen.csv": "dc2046c56f66ac2f65c9e9db84d4acb14e620a4bfd845dc721e09a178cdaed14",
+    "fase4/resultados/asociaciones_longitudinales.csv": "657f64f3d6b96b714e5202f0978759018f5e0a73dbdb89901f90e3dc24d7fbdd",
+    "fase4/resultados/coeficientes_ols_congelados.csv": "eef20f3d9fcd08ab592e86a8b215fd7d26aa7ce122cfbac365d526fbf8eaa3fe",
+    "fase3/resultados/predicciones_desarrollo.csv": "b58c43b68a3b7dc5e4b05682032d883575a065c41542e7a428909465e84e793b",
+    "fase3/resultados/predicciones_reevaluacion.csv": "778ad1e325fa077cabd35318c1165cc6b0b8076a3e1b6c88c68c8171115963f4",
+    "fase4/resultados/predicciones_territoriales.csv": "51e4be4e8cb10f8a89f274ce375a4aca8f52083218adfa1360f9c54f734ab9fc",
+    "fase4/resultados/metricas_territorio.csv": "cbe3918ee1f52d284f3ef32f0c579557cd799f361d0436e65732a3281084e007",
+    "fase4/resultados/colinealidad.csv": "1e3e3e071ed1e262f8b3b7f3bdafeb638c4c82c2eaf2394eda2f826e93e4bc99",
+    "fase4/resultados/influencia_grupos_errores.csv": "50e8c057510f1a7427716e587ea3419ecd06150771675ca0ecdf93293d09776b",
+    "fase4/resultados/diagnostico_tamanos.csv": "0e03b02d0a8540577eace13c659cc4a42a0b957d40c15121e5b69aadcf5f5a35"
+  },
+  "comprobaciones_metricas": [
+    {
+      "contexto": "seleccion",
+      "id": "media",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ols_ipm",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ipm_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ipm_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ipm_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ipm_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ipm_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_05",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_06",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ipm_07",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_05",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_06",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ipm_07",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ols_tasas",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_tasas_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_tasas_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_tasas_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_tasas_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_tasas_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_05",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_06",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_tasas_07",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_05",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_06",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_tasas_07",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ols_ambas",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ambas_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ambas_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ambas_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ambas_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "ridge_ambas_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_05",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_06",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "random_forest_ambas_07",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_00",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_01",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_02",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_03",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_04",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_05",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_06",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "seleccion",
+      "id": "gradient_boosting_ambas_07",
+      "periodo": "agrupado",
+      "n": 99,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "media",
+      "periodo": "2023",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "media",
+      "periodo": "2024",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "media",
+      "periodo": "conjunto",
+      "n": 66,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_ipm",
+      "periodo": "2023",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_ipm",
+      "periodo": "2024",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_ipm",
+      "periodo": "conjunto",
+      "n": 66,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_ipm_02",
+      "periodo": "2023",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_ipm_02",
+      "periodo": "2024",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_ipm_02",
+      "periodo": "conjunto",
+      "n": 66,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_tasas",
+      "periodo": "2023",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_tasas",
+      "periodo": "2024",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_tasas",
+      "periodo": "conjunto",
+      "n": 66,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_tasas_07",
+      "periodo": "2023",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_tasas_07",
+      "periodo": "2024",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_tasas_07",
+      "periodo": "conjunto",
+      "n": 66,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_ambas",
+      "periodo": "2023",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_ambas",
+      "periodo": "2024",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "ols_ambas",
+      "periodo": "conjunto",
+      "n": 66,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_ambas_07",
+      "periodo": "2023",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_ambas_07",
+      "periodo": "2024",
+      "n": 33,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "temporal",
+      "id": "gradient_boosting_ambas_07",
+      "periodo": "conjunto",
+      "n": 66,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "territorial",
+      "id": "gradient_boosting_ambas_07",
+      "periodo": "agrupado",
+      "n": 132,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "territorial",
+      "id": "gradient_boosting_ipm_02",
+      "periodo": "agrupado",
+      "n": 132,
+      "metricas_coinciden": true
+    },
+    {
+      "contexto": "territorial",
+      "id": "gradient_boosting_tasas_07",
+      "periodo": "agrupado",
+      "n": 132,
+      "metricas_coinciden": true
+    }
+  ],
+  "modelos_ajustados": 0,
+  "predicciones_nuevas": 0,
+  "remuestreos_nuevos": 0,
+  "semilla": "No aplica: visualización y resumen deterministas de resultados existentes",
+  "tablas": [
+    "MUESTRA",
+    "ESPEC",
+    "FAMILIAS",
+    "SELECCION",
+    "RESERVA",
+    "ANUAL",
+    "TERRITORIAL",
+    "BOOT",
+    "ASOC",
+    "ROBUST"
+  ],
+  "figuras": {
+    "01_particion_temporal": "Protocolo§4; años y cardinalidades de base existente",
+    "02_observado_predicho": "GBR ambas; tres diseños separados; CSV de predicciones existentes",
+    "03_errores_territoriales": "GBR ambas; MAE temporal por grupo desde errores existentes y MAE territorial fase4",
+    "04_estabilidad_interpretativa": "Desarrollo; asociaciones fase4 y coeficientes OLS congelados, sin nuevos ajustes"
+  }
+}
