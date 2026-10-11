@@ -1,3 +1,98 @@
+# Continuidad v4 — etapa1 cerrada localmente; piloto no iniciado
+
+Fecha cliente2026-10-10, America/Bogota. Únicamente etapa1 autorizada/realizada:
+diagnóstico histórico, protocolo4.0.0, derivado, grilla29, controles y congelación.
+Preparación anterior íntegra al final, sin vigencia de sus pendientes ya comprobados.
+
+## Partida, lecturas y conservación
+
+HEAD real46193a5a97962abaef39c2c30e599a347731e45f, asunto documental verificado,
+descendiente15dcf122897d16bfde0e50da316d8f6c6dffdfd4; Git inicialmente limpio.
+Diferencia añade solo cuatro documentos v4. Rama codex/objetivo3-v4-correcciones creada
+con acceso Git requerido por aislamiento, sin reset/sobrescritura. Registro preparación:
+tres documentos/snapshot15349 intactos y propio registro cotejado en Git, no autorreferencia.
+Lecturas AGENTS/continuidades vigentes, protocolo completov3 y README/informe/controles/
+huellas/conservación/manifiestos; CSV históricos/selecciones. Plan§§1–3 autorizado;
+se incluyó accidentalmente texto posterior al§3, registrado sin ampliar alcance.
+PDF actuales0 páginas, no lecturas históricas presentadas como nuevas.
+Todas las escrituras de artefactos en v4; originales/v1/v2/v3/continuidades/.gitignore/
+atributos previos conservados por huella. Fuentes anteriores reutilizadas solo en lectura.
+Python3.12.14/54 paquetes/sklearn1.9.1/pip check realmente comprobados; sin instalación.
+
+## Decisiones del usuario y comprobaciones propias
+
+Población ESTUDIANTE/no libertadS/grado11/seis puntajes positivos presentes/sin calendario;
+media global recibida, colegio, peso igual territorio-año. Único panel SHA256
+6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3.
+2020 definitivamente excluido;2018historial; previo mismo territorio máximo anterior;
+2021 previo2019 sin anualizar. Derivado separado231 filas/198 cambios completos
+para16covariables cotejados por misma llave; matrices1/2/2/16/17. Negativos válidos,
+sin imputación/clipping/PCA/efectos territoriales/nuevos filtros/entradas no acordadas.
+Grilla29 orden1persistencia/3correccionesλ0.25/0.5/1/15Ridgeα1/10/100/10Huberα0.01/1.
+Grupos historico/nivel_ipm/cambio_ipm/cambio_tasas/cambio_ambas. Corrección mediana
+TODAS las filas de entrenamiento/igual peso/n par media dos centrales, estadística
+presupuestada; ninguna mediana real estimada. Scaler train/Pipeline completo, Ridge
+constructor heredado solver svd; Huber parámetros/defaults completos guardados.
+Semilla20261010. Ventanas v3 idénticas;2021 persistencia sin fit/selección candidatos.
+Bandas0.1MAE/RMSE/menos entradas ajustadas/familias/JSON; comunes elegibles en todos.
+Global y cinco grupos se conservan; solo IDs idénticos deduplicables por ventana.
+Futuro7200s propios, cota308 sin fallos=280+24+4; cinco comprobaciones globales,
+atol1e-10/rtol0, sin saldo previo. Meta FUTURA exacta≥5% frentepersistencia/v3 sobre
+165 externas completas con denominador finito/positivo recalculado; aún no evaluada.
+
+Implementación nueva: adaptadores comunes reutilizan constructor Ridge/métricas/bandas/
+presupuesto anterior en lectura. Interfaces validadas con sintéticos, no orquestador
+operativo; etapa2 probará/congelará su código nuevo antes de fit. Numerico/convergencia
+inelegible persistente, infraestructura máximo un reintento presupuestado; caída no medida
+agota conservadoramente. Integridad/cobertura/persistencia/límite detienen; sin meta parcial.
+
+## Resultados actuales y entregables
+
+Diagnóstico exclusivamente de CSV históricos guardados, previa huella/llaves/observados/
+selecciones y persistencia independiente. MAEv3=3.429267191379531,
+RMSE4.314920647368904,sesgo−2.0960105973100562. No resultado predictivov4.
+2022MAEv3=5.091966313567663 vs v2=3.8718846703591603; cinco territorios13/20/41/76/95
+y66 pares deterioran MAE. Tablas completas conjunto/años/territorios/cortes/territorio-corte,
+firmadas/absolutas/cuadráticas y todos deterioros. Sesgo negativo expresa observado
+mayor que previo en promedio, identidad descriptiva, sin atribución causal.
+Cero fits/correcciones/predicciones reales v4, cero consumo del piloto, sin ledger operativo.
+Siete grupos de controles sintéticos y tres celdas notebook realmente ejecutados/validados;
+spawn terminado por límite. Entregables etapa1: protocolo/README/informe/registro,
+fuentes editables/generador/notebook diagnóstico-controles, derivado/grilla/defaults/
+entorno/referencias/trazabilidad/diagnóstico/controles/congelación/conservación/manifiesto.
+Fuentes y referencias congeladas antes de futuro primer fit. Verificar cierre con
+etapa1/fuentes/cerrar.py --verificar (lectura). Commit local solo v4, asunto
+`etapa 1 v4: congelar correcciones y diagnostico historico sin piloto`; hash informado
+tras crearlo, fuera del manifiesto. Sin push.
+
+## Hallazgos, límites y pendientes
+
+Registro etapa1/registro_problemas.md: rutas Git con acentos corregidas mediante-z,
+lectura accidental registrada, entorno/cache comprobados, reanudación numérica persistente,
+deterioros y global/grupo distinto conservados. Importación spawn y espacios de Git corregidos;
+controles/notebook finales vinculados a huellas vigentes. Intentos fallidos conservados.
+Impactos/alternativas/resoluciones verificables.
+2021–2025 ya examinados: análisis exploratorio, sin confirmación independiente,
+causalidad ni pronóstico anticipado demostrado. Casos completos/Guainía238 frente404
+y21.012106 puntos: v2/fase1/resultados/diagnostico_medias_disponibles.csv.
+Procedencia local no autenticada independientemente; comparabilidad IPM, hogares/alumnos,
+geografía colegio/residencia/enlace ecológico, dependencia territorial/temporal y pocos años.
+Antecedentes59/esquema82/causa20212/fórmula global desconocida archivados con evidencia
+heredada: CONTINUIDAD_V2.md sección vigente “Hallazgos, límites y pendientes”,
+CONTINUIDAD_V3.md sección vigente “Hallazgos, límites y pendientes”,
+v2/fase4/registro_problemas.md. No nueva conexión: no se reabren.
+E3-01 regex completa y E3-02 cota1555v2: v2/fase3/ENMIENDAS_TECNICAS.md;
+se conserva el motivo histórico sin usarlo como cota v4. Ningún PDF leído ahora (0 páginas).
+
+Sin controles indispensables pendientes etapa1 tras cierre. Únicamente futura etapa2
+requiere autorización distinta: PROMPT_ETAPA2_NUEVA_SESION.md guardado, NO ejecutado.
+Etapa3v3 no ejecutada/cerrada, sin notebook personal, simulación, objetivo4,
+entrenamiento final, descargas, instalaciones o push. No progreso automático.
+
+---
+
+## Antecedente íntegro de preparación documental
+
 # Continuidad v4 — preparación documental; investigación no iniciada
 
 Fecha cliente:2026-10-10, America/Bogota. Solo cuatro documentos de preparación

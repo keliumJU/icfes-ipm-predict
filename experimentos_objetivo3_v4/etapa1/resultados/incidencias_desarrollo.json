@@ -1,0 +1,20 @@
+{
+  "origen": "incidencias reales de desarrollo de etapa1, sin ajustes panel",
+  "incidencias": [
+    {
+      "procedimiento": "preparar primer intento",
+      "fallo": "Git rutas citadas con acentos",
+      "resolucion": "git ls-files -z"
+    },
+    {
+      "procedimiento": "notebook control nuevo convergencia",
+      "fallo": "spawn importaba controles anterior; EOFError",
+      "resolucion": "prioridad modulo v4, controles completos reejecutados"
+    },
+    {
+      "procedimiento": "cerrar primer intento",
+      "fallo": "strip eliminó espacio inicial de git status",
+      "resolucion": "sin strip en control de rutas"
+    }
+  ]
+}

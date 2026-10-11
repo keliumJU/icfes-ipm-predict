@@ -1,0 +1,14 @@
+{
+  "origen": "recálculo actual de CSV históricos; no resultados v4",
+  "v3": {
+    "n": 165,
+    "mae": 3.429267191379531,
+    "rmse": 4.314920647368904,
+    "sesgo": -2.0960105973100562,
+    "r2": 0.9383511339117978
+  },
+  "deterioros_pares_vs_v2": 66,
+  "criterios_modificados": false,
+  "meta_v4_evaluada": false,
+  "ajustes_panel": 0
+}

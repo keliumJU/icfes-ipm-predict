@@ -1,0 +1,17 @@
+{
+  "aprobado": true,
+  "filas": 231,
+  "cambios_completos": 198,
+  "externas": 165,
+  "territorios": 33,
+  "matrices": [
+    1,
+    2,
+    2,
+    16,
+    17
+  ],
+  "trazabilidad_covariables": true,
+  "ajustes_panel": 0,
+  "correcciones_reales_estimadas": 0
+}

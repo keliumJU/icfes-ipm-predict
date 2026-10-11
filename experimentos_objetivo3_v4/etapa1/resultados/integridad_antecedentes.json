@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "cotejos": 20571,
+  "continuidad_historica": [
+    {
+      "archivo": "experimentos_objetivo3_v3/CONTINUIDAD_V3.md",
+      "commit": "45fa051ffadc0fc25a326605069dd2f93920898f",
+      "sha256": "87eedafe298acd3aab1127e3ff64e49e1dba4c11e4b8cb49ac44c3c48ef54885"
+    }
+  ],
+  "modelos_cargados": false,
+  "pdf_leidos": []
+}
