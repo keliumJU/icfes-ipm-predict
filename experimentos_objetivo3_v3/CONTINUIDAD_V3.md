@@ -105,6 +105,11 @@ notebook personal condicionado a meta, ahora satisfecha. Sin nuevas búsquedas/a
 comparadoresv2 ni selección retrospectiva/significancia nueva. No cambiar criterios
 para mejorar métricas ni avanzar automáticamente a simulación/objetivo4/ajuste final.
 
+Control Git adicional: cuatro modelos joblib fueron interpretados como texto;
+resuelto declarando binarios en etapa2/.gitattributes, sin alterar sus bytes ni
+.gitignore/atributos previos. Registro_problemas.md §10; cierre local6a10eef más
+complemento de clasificación/evidencia, sin nuevos ajustes ni push.
+
 ---
 
 ## Antecedente íntegro de etapa1 — pendiente de piloto superado por cierre actual

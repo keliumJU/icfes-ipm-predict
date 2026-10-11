@@ -1,0 +1,2 @@
+# Los estimadores serializados se conservan byte a byte como artefactos binarios.
+*.joblib binary

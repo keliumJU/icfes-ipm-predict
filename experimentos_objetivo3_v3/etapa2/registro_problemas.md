@@ -69,3 +69,12 @@ con evidencia/motivo heredados en continuidadv2; sin información nueva, no reap
 Cierre actual:990 ajustes reales,0 fallos/advertencias,165 externas por procedimiento,
 cinco repeticiones diferencia0; auditoría independiente aprobada. No quedan controles
 indispensables pendientes de etapa2. Presupuesto y criterios intactos.
+
+10. **Git interpretó cuatro modelos comprimidos como texto.** El control de espacios
+    marcó bytes de cuatro modelo.joblib como espacios finales; son artefactos binarios,
+    no líneas de fuente. Impacto: falsos positivos en revisión del diff, sin diferencia
+    numérica ni corrupción (huellas comprobadas). Alternativa: declarar *.joblib binary
+    mediante .gitattributes exclusivamente dentro de etapa2. Resuelto sin tocar modelos,
+    .gitignore ni atributos externos; volver a verificar diff/conservación/manifiesto.
+    El primer commit local6a10eef conservó íntegros los artefactos; el complemento local
+    clasifica binarios y actualiza la evidencia, sin push ni nuevos ajustes.

@@ -143,3 +143,9 @@ Meta satisfecha habilita considerar notebook personal únicamente tras autorizac
 separada de etapa3. PROMPT_ETAPA3_NUEVA_SESION.md guardado, no ejecutado. Pendiente
 solo revisión/entrega de etapa3 si se autoriza; no entrenamiento final, objetivo4,
 simulación ni push. No modificar criterios para mejorar métricas.
+
+Control Git de cierre: cuatro artefactos joblib comprimidos fueron interpretados como
+texto por heurística de Git. Se declararon binarios con etapa2/.gitattributes; ningún
+byte de modelos ni archivo congelado cambió. Registro_problemas.md §10 explica impacto,
+alternativa y resolución. El primer commit local de etapa2 fue6a10eef; complemento
+posterior únicamente de clasificación y evidencia, sin ajuste adicional ni push.
