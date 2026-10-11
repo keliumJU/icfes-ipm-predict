@@ -1,0 +1,205 @@
+{
+  "id": "delta_gradient_boosting_ambas_04",
+  "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_04",
+  "entrenamiento": [
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "99",
+      2019
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "alpha": 0.9,
+    "ccp_alpha": 0.0,
+    "criterion": "deprecated",
+    "init": null,
+    "learning_rate": 0.03,
+    "loss": "squared_error",
+    "max_depth": 1,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 3,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "n_estimators": 300,
+    "n_iter_no_change": null,
+    "random_state": 20261010,
+    "subsample": 1.0,
+    "tol": 0.0001,
+    "validation_fraction": 0.1,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "entradas": [
+    "puntaje_previo",
+    "ipm",
+    "Analfabetismo",
+    "Bajo logro educativo",
+    "Barreras a servicios para cuidado de la primera infancia",
+    "Inasistencia escolar",
+    "Rezago escolar",
+    "Trabajo infantil",
+    "Desempleo de larga duracion",
+    "Trabajo informal",
+    "Barreras de acceso a servicios de salud",
+    "Sin aseguramiento en salud",
+    "Hacinamiento critico",
+    "Inadecuada eliminacion de excretas",
+    "Material inadecuado de paredes exteriores",
+    "Material inadecuado de pisos",
+    "Sin acceso a fuente de agua mejorada"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "sintetico_doble",
+  "datos_X_sha256": "1735ab426f1c860055be7f724578b1c36c17bcfed15fad331b58adec0dec2234",
+  "datos_y_sha256": "25a49a43fba0064da8be76f1a1297d3b70f10d762ff7722c567a2f7bbca32786",
+  "panel_sha256": "3873cbffe7a15bf96b306aa176abf33bbc7a34ff12618030e5ee7f06ddd0d82e",
+  "entorno_sha256": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+  "congelacion_sha256": null,
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {},
+  "modelo_sha256": "bc1c9bbc454a26f1cf343d990c4165504fab29c8714a68d094b37347ce898c68",
+  "tiempo": {
+    "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_04_intento1",
+    "estado": "ok",
+    "segundos": 0.001
+  },
+  "intento": 1,
+  "predicciones_sha256": "eed2055b384de91db67cc5e203d2e8647c90b40b0b03b25a0e0dcffdce1c1f50",
+  "segundos_prediccion": 0.010041434004961047,
+  "fuera_0_500": 0
+}

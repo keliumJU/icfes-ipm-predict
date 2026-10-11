@@ -1,0 +1,20 @@
+{
+  "aprobado": true,
+  "completo": true,
+  "internos_requeridos": 990,
+  "internos_documentados": 990,
+  "predicciones_internas": 33000,
+  "ajustes_documentados": 990,
+  "intentos_ledger": 990,
+  "segundos_ajustes": 971.5884660900265,
+  "segundos_persistencia": 0.0003722910114447586,
+  "cinco_repeticiones": true,
+  "referencias_guardadas_verificadas": true,
+  "metricas_independientes": "math.fsum desde CSV de precisión round_trip",
+  "regex_E3_01": "fullmatch temporal completa; no subcadena _i",
+  "E3_02_antecedente_v2": 1555,
+  "cota_v3_sin_fallos": 1010,
+  "fallos": 0,
+  "advertencias": 0,
+  "sin_ajustes_nuevos": true
+}

@@ -1,0 +1,913 @@
+{
+  "global_id": "delta_ols_ipm_00",
+  "especificaciones": {
+    "ipm": "delta_ridge_ipm_00",
+    "tasas": "delta_ols_tasas_00",
+    "ambas": "delta_ols_ambas_00"
+  },
+  "externo": 2022,
+  "metricas_internas": [
+    {
+      "id": "persistencia",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 5.0,
+      "rmse": 5.0
+    },
+    {
+      "id": "delta_ols_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_06",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_07",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_06",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ipm_07",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ols_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_tasas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ols_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_ridge_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_elastic_net_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_svr_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    },
+    {
+      "id": "delta_extra_trees_ambas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021
+      ],
+      "mae": 0.0,
+      "rmse": 0.0
+    }
+  ],
+  "instante_antes_externo": "2026-10-11T01:43:52.021672+00:00",
+  "origen": "sintetico_doble"
+}

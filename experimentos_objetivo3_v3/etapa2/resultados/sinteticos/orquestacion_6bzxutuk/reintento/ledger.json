@@ -1,0 +1,17 @@
+{
+  "limite": 7200.0,
+  "consumido": 0.0010045870037865825,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "doble_intento1",
+      "estado": "error",
+      "segundos": 4.5870037865825e-06
+    },
+    {
+      "etiqueta": "doble_intento2",
+      "estado": "ok",
+      "segundos": 0.001
+    }
+  ]
+}

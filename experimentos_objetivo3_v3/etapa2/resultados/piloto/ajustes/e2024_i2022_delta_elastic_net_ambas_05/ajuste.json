@@ -1,0 +1,405 @@
+{
+  "id": "delta_elastic_net_ambas_05",
+  "etiqueta": "e2024_i2022_delta_elastic_net_ambas_05",
+  "entrenamiento": [
+    2019,
+    2021
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "05",
+      2021
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "08",
+      2021
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "11",
+      2021
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "13",
+      2021
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "15",
+      2021
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "17",
+      2021
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "18",
+      2021
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "19",
+      2021
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "20",
+      2021
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "23",
+      2021
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "25",
+      2021
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "27",
+      2021
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "41",
+      2021
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "44",
+      2021
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "47",
+      2021
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "50",
+      2021
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "52",
+      2021
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "54",
+      2021
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "63",
+      2021
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "66",
+      2021
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "68",
+      2021
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "70",
+      2021
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "73",
+      2021
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "76",
+      2021
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "81",
+      2021
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "85",
+      2021
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "86",
+      2021
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "88",
+      2021
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "91",
+      2021
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "94",
+      2021
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "95",
+      2021
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "97",
+      2021
+    ],
+    [
+      "99",
+      2019
+    ],
+    [
+      "99",
+      2021
+    ]
+  ],
+  "n": 66,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "ElasticNet(alpha=1, l1_ratio=0.8, max_iter=20000, random_state=20261010)",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 1,
+    "modelo__copy_X": true,
+    "modelo__fit_intercept": true,
+    "modelo__l1_ratio": 0.8,
+    "modelo__max_iter": 20000,
+    "modelo__positive": false,
+    "modelo__precompute": false,
+    "modelo__random_state": 20261010,
+    "modelo__selection": "cyclic",
+    "modelo__tol": 0.0001,
+    "modelo__warm_start": false
+  },
+  "entradas": [
+    "puntaje_previo",
+    "ipm",
+    "Analfabetismo",
+    "Bajo logro educativo",
+    "Barreras a servicios para cuidado de la primera infancia",
+    "Inasistencia escolar",
+    "Rezago escolar",
+    "Trabajo infantil",
+    "Desempleo de larga duracion",
+    "Trabajo informal",
+    "Barreras de acceso a servicios de salud",
+    "Sin aseguramiento en salud",
+    "Hacinamiento critico",
+    "Inadecuada eliminacion de excretas",
+    "Material inadecuado de paredes exteriores",
+    "Material inadecuado de pisos",
+    "Sin acceso a fuente de agua mejorada"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "real",
+  "datos_X_sha256": "3462d3cdc8ec8258d1056ea65d76cc0e12330ed3390dc75bfa405c5d0a07593c",
+  "datos_y_sha256": "3ab01893af2dbe8c02f00c7eef12b840bbe9fb605323fd3d49bae19bde3727c5",
+  "panel_sha256": "3873cbffe7a15bf96b306aa176abf33bbc7a34ff12618030e5ee7f06ddd0d82e",
+  "entorno_sha256": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+  "congelacion_sha256": "438b1bef2f19b6581404227d1d0197a7fd89fe4f80420f20e23a426a251b2ca7",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      247.0745615084241,
+      24.91060606060606,
+      11.636363636363638,
+      51.234848484848484,
+      8.893939393939394,
+      5.368181818181819,
+      28.310606060606062,
+      1.671212121212121,
+      14.425757575757574,
+      80.66060606060609,
+      3.4015151515151514,
+      10.251515151515152,
+      10.916666666666668,
+      22.90909090909091,
+      7.325757575757576,
+      11.998484848484848,
+      25.457575757575754
+    ],
+    "scale": [
+      16.76186017830466,
+      15.576274973719903,
+      6.436134647527345,
+      11.726937294552934,
+      2.904848548071998,
+      3.0798051439202943,
+      6.3322198890752075,
+      0.8920125613185309,
+      6.875897971241826,
+      10.406435636806368,
+      2.560332153182262,
+      4.7273941320851876,
+      6.887726971090159,
+      23.481764215848543,
+      8.890858611535862,
+      15.213914010618625,
+      23.439387083503732
+    ],
+    "var": [
+      280.95995663703553,
+      242.62034205693297,
+      41.42382920110194,
+      137.5210583103765,
+      8.438145087235995,
+      9.485199724517905,
+      40.097008723599636,
+      0.7956864095500459,
+      47.27797291092746,
+      108.29390266299356,
+      6.555300734618917,
+      22.348255280073463,
+      47.44078282828282,
+      551.3932506887052,
+      79.0473668503214,
+      231.46317952249768,
+      549.4048668503216
+    ],
+    "n_samples_seen": 66
+  },
+  "modelo_sha256": "b3c7b49575cb03e74fca70a27758fd923e7b28b592593670eae95af06dbad161",
+  "tiempo": {
+    "etiqueta": "e2024_i2022_delta_elastic_net_ambas_05_intento1",
+    "estado": "ok",
+    "segundos": 1.0148932129959576
+  },
+  "intento": 1,
+  "predicciones_sha256": "d4e8faab0b0d4ce1e26801121a67d89665ca86624a28f63b266fe0e8fe948ea9",
+  "segundos_prediccion": 1.0269011220007087,
+  "fuera_0_500": 0
+}

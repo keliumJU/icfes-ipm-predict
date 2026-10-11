@@ -1,0 +1,22 @@
+{
+  "instante": "2026-10-11T01:44:21.337528+00:00",
+  "artefactos_sha256": {
+    "experimentos_objetivo3_v3/etapa2/fuentes/01_resultados_piloto.py": "2577e52d176de8e518487ff99e452d3dcb4013ed3a1c241ca797072fb988f6db",
+    "experimentos_objetivo3_v3/etapa2/fuentes/cerrar.py": "d53b6245b081efe34f1ddf9d332baa4a3040938b79a3b4743f0fabec6c6ae6ac",
+    "experimentos_objetivo3_v3/etapa2/fuentes/generar_notebook.py": "1f3959fd52ae5186a4b31a5fd3182005a8685ff38795ff7ee1eb243d2c004155",
+    "experimentos_objetivo3_v3/etapa2/fuentes/piloto.py": "02a004903fa6fcd456eb5388014007cc57a7e160c4f7cb225e2d0c240d56b2ef",
+    "experimentos_objetivo3_v3/etapa2/fuentes/probar.py": "78d62120de7abb11d2bf34dfe3b130ad1a40e1257e6de064bccef44db4880c51",
+    "experimentos_objetivo3_v3/etapa2/fuentes/verificar.py": "6958fa7714bb55933df78a2b24bddea3400dd291e56cf16af8d49d017a14400c",
+    "experimentos_objetivo3_v3/etapa2/resultados/entorno.json": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+    "experimentos_objetivo3_v3/etapa2/resultados/pruebas_sinteticas.json": "4d7518d9a2456e06ab325af830c6478ccb900ef1e0a93f10eff505d77dd4d7be",
+    "experimentos_objetivo3_v3/etapa1/resultados/configuraciones_congeladas.json": "b3a7ad93c97a0e5a68f01b298b25317c36163a0320bb5b91c61ae958dd8f37cc",
+    "experimentos_objetivo3_v3/etapa1/reconstrucciones/panel_historial.csv": "3873cbffe7a15bf96b306aa176abf33bbc7a34ff12618030e5ee7f06ddd0d82e",
+    "experimentos_objetivo3_v3/etapa1/resultados/congelacion_previa.json": "e0ee08520829d585fcacc54a7cb0bcbc295c0ddb88120a2ce8a6c1ba5c29d996"
+  },
+  "semilla": 20261010,
+  "limite": 7200,
+  "cota_sin_fallos": 1010,
+  "ajustes_antes": 0,
+  "orden": "externos crecientes; candidatos JSON; internas crecientes; selección antes de externos; IDs externos por JSON; cinco repeticiones globales",
+  "motor": "comun_v3.Presupuesto/comun.Presupuesto: Pipeline completo, spawn serial terminable"
+}

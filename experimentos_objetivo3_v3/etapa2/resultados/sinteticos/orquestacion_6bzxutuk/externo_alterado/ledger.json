@@ -1,0 +1,517 @@
+{
+  "limite": 7200.0,
+  "consumido": 0.10200000000000008,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "e2022_i2021_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "global_id": "persistencia",
+  "especificaciones": {
+    "ipm": "persistencia",
+    "tasas": "persistencia",
+    "ambas": "persistencia"
+  },
+  "externo": 2021,
+  "metricas_internas": [],
+  "instante_antes_externo": "2026-10-11T01:42:16.141398+00:00",
+  "origen": "sintetico_doble"
+}

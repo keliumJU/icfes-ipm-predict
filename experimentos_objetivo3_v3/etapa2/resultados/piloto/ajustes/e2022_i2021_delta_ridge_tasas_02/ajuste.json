@@ -1,0 +1,265 @@
+{
+  "id": "delta_ridge_tasas_02",
+  "etiqueta": "e2022_i2021_delta_ridge_tasas_02",
+  "entrenamiento": [
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "99",
+      2019
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "Ridge(alpha=10, solver='svd')"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "Ridge(alpha=10, solver='svd')",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 10,
+    "modelo__copy_X": true,
+    "modelo__fit_intercept": true,
+    "modelo__max_iter": null,
+    "modelo__positive": false,
+    "modelo__random_state": null,
+    "modelo__solver": "svd",
+    "modelo__tol": 0.0001
+  },
+  "entradas": [
+    "puntaje_previo",
+    "Analfabetismo",
+    "Bajo logro educativo",
+    "Barreras a servicios para cuidado de la primera infancia",
+    "Inasistencia escolar",
+    "Rezago escolar",
+    "Trabajo infantil",
+    "Desempleo de larga duracion",
+    "Trabajo informal",
+    "Barreras de acceso a servicios de salud",
+    "Sin aseguramiento en salud",
+    "Hacinamiento critico",
+    "Inadecuada eliminacion de excretas",
+    "Material inadecuado de paredes exteriores",
+    "Material inadecuado de pisos",
+    "Sin acceso a fuente de agua mejorada"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "real",
+  "datos_X_sha256": "4e715a09993e0f521150974774219fd947a255965e178b563065e6981a46d402",
+  "datos_y_sha256": "e4406b59b9c922e0a726e43d013c752c897659f235b1324fd15d04db509d42e6",
+  "panel_sha256": "3873cbffe7a15bf96b306aa176abf33bbc7a34ff12618030e5ee7f06ddd0d82e",
+  "entorno_sha256": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+  "congelacion_sha256": "438b1bef2f19b6581404227d1d0197a7fd89fe4f80420f20e23a426a251b2ca7",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      249.98243979804477,
+      12.342424242424244,
+      52.833333333333336,
+      8.860606060606061,
+      4.136363636363637,
+      28.71515151515151,
+      1.803030303030303,
+      14.375757575757575,
+      80.31818181818181,
+      4.827272727272728,
+      10.724242424242423,
+      11.663636363636362,
+      23.690909090909088,
+      7.509090909090909,
+      12.18787878787879,
+      25.97878787878788
+    ],
+    "scale": [
+      16.431616384400066,
+      6.57663588604342,
+      11.692361315462037,
+      3.113405948858502,
+      2.589350940295853,
+      6.238449749743398,
+      0.9100399087102514,
+      7.882586496869186,
+      10.45230015414773,
+      2.613748350697012,
+      4.616441650989219,
+      7.684057410770108,
+      24.027715860576176,
+      9.114369727918112,
+      14.978909568593286,
+      23.468312066657774
+    ],
+    "var": [
+      269.9980170040847,
+      43.25213957759413,
+      136.71131313131312,
+      9.69329660238751,
+      6.704738292011019,
+      38.91825528007347,
+      0.8281726354453628,
+      62.135169880624424,
+      109.25057851239667,
+      6.8316804407713505,
+      21.311533516988064,
+      59.04473829201102,
+      577.331129476584,
+      83.07173553719008,
+      224.3677318640955,
+      550.7616712580349
+    ],
+    "n_samples_seen": 33
+  },
+  "modelo_sha256": "87915975d5ce63a3bd2d6ee57d78bd028804785108e854685709f3640f7972d5",
+  "tiempo": {
+    "etiqueta": "e2022_i2021_delta_ridge_tasas_02_intento1",
+    "estado": "ok",
+    "segundos": 0.8973468999975012
+  },
+  "intento": 1,
+  "predicciones_sha256": "d911958b734163b006d2cf086d16e6055510b17a93fc513b1847fc6aba6339ac",
+  "segundos_prediccion": 0.9040490400002454,
+  "fuera_0_500": 0
+}

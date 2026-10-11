@@ -1,0 +1,342 @@
+{
+  "id": "delta_ridge_ipm_02",
+  "etiqueta": "e2023_i2022_delta_ridge_ipm_02",
+  "entrenamiento": [
+    2019,
+    2021
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "05",
+      2021
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "08",
+      2021
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "11",
+      2021
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "13",
+      2021
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "15",
+      2021
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "17",
+      2021
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "18",
+      2021
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "19",
+      2021
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "20",
+      2021
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "23",
+      2021
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "25",
+      2021
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "27",
+      2021
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "41",
+      2021
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "44",
+      2021
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "47",
+      2021
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "50",
+      2021
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "52",
+      2021
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "54",
+      2021
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "63",
+      2021
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "66",
+      2021
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "68",
+      2021
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "70",
+      2021
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "73",
+      2021
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "76",
+      2021
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "81",
+      2021
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "85",
+      2021
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "86",
+      2021
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "88",
+      2021
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "91",
+      2021
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "94",
+      2021
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "95",
+      2021
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "97",
+      2021
+    ],
+    [
+      "99",
+      2019
+    ],
+    [
+      "99",
+      2021
+    ]
+  ],
+  "n": 66,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "Ridge(alpha=10, solver='svd')"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "Ridge(alpha=10, solver='svd')",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 10,
+    "modelo__copy_X": true,
+    "modelo__fit_intercept": true,
+    "modelo__max_iter": null,
+    "modelo__positive": false,
+    "modelo__random_state": null,
+    "modelo__solver": "svd",
+    "modelo__tol": 0.0001
+  },
+  "entradas": [
+    "puntaje_previo",
+    "ipm"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "real",
+  "datos_X_sha256": "9746e1272bfa656dfed337a24ba4f48259489b0564a12e4866ddd4e2df67a19b",
+  "datos_y_sha256": "3ab01893af2dbe8c02f00c7eef12b840bbe9fb605323fd3d49bae19bde3727c5",
+  "panel_sha256": "3873cbffe7a15bf96b306aa176abf33bbc7a34ff12618030e5ee7f06ddd0d82e",
+  "entorno_sha256": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+  "congelacion_sha256": "438b1bef2f19b6581404227d1d0197a7fd89fe4f80420f20e23a426a251b2ca7",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      247.0745615084241,
+      24.91060606060606
+    ],
+    "scale": [
+      16.76186017830466,
+      15.576274973719903
+    ],
+    "var": [
+      280.95995663703553,
+      242.62034205693297
+    ],
+    "n_samples_seen": 66
+  },
+  "modelo_sha256": "73e23c11caf51eea10f9ab998d09d3edd62969b70c090aabb427f035161f8842",
+  "tiempo": {
+    "etiqueta": "e2023_i2022_delta_ridge_ipm_02_intento1",
+    "estado": "ok",
+    "segundos": 0.8960106629965594
+  },
+  "intento": 1,
+  "predicciones_sha256": "fdb8d34b35a0d38c226fe5d69cc584009b2c8b9402f0bfd1bcdc65e9cab90c89",
+  "segundos_prediccion": 0.9027342999979737,
+  "fuera_0_500": 0
+}

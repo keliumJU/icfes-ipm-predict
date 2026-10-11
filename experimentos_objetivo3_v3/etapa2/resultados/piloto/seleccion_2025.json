@@ -1,0 +1,1213 @@
+{
+  "global_id": "persistencia",
+  "especificaciones": {
+    "ipm": "persistencia",
+    "tasas": "persistencia",
+    "ambas": "persistencia"
+  },
+  "externo": 2025,
+  "metricas_internas": [
+    {
+      "id": "persistencia",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 3.7249352319645874,
+      "rmse": 4.567922098400615
+    },
+    {
+      "id": "delta_ols_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.952832534249065,
+      "rmse": 5.922376529295202
+    },
+    {
+      "id": "delta_ridge_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.954014365565229,
+      "rmse": 5.923247174130558
+    },
+    {
+      "id": "delta_ridge_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.963953740530916,
+      "rmse": 5.930676304667187
+    },
+    {
+      "id": "delta_ridge_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.033077179275462,
+      "rmse": 5.981426303178726
+    },
+    {
+      "id": "delta_ridge_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.196068680027458,
+      "rmse": 6.102102232504754
+    },
+    {
+      "id": "delta_elastic_net_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.958417408400897,
+      "rmse": 5.925202228179294
+    },
+    {
+      "id": "delta_elastic_net_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.960360270980788,
+      "rmse": 5.928277039250037
+    },
+    {
+      "id": "delta_elastic_net_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.010218179663353,
+      "rmse": 5.95439731629786
+    },
+    {
+      "id": "delta_elastic_net_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.00721958228012,
+      "rmse": 5.961618815877806
+    },
+    {
+      "id": "delta_elastic_net_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.200807872755485,
+      "rmse": 6.101322723071522
+    },
+    {
+      "id": "delta_elastic_net_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.262561075904625,
+      "rmse": 6.161460910181002
+    },
+    {
+      "id": "delta_svr_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.945361498907079,
+      "rmse": 5.91628900684376
+    },
+    {
+      "id": "delta_svr_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.993510298782963,
+      "rmse": 5.998795970202807
+    },
+    {
+      "id": "delta_svr_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.625041638766577,
+      "rmse": 5.8109489827354865
+    },
+    {
+      "id": "delta_svr_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.645433360424507,
+      "rmse": 5.80929344804225
+    },
+    {
+      "id": "delta_svr_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.719033125711217,
+      "rmse": 5.968288800905014
+    },
+    {
+      "id": "delta_svr_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.622794131857661,
+      "rmse": 5.837170832655853
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.989106029709917,
+      "rmse": 5.9518296271443525
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.623534689368068,
+      "rmse": 5.671697323573891
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.779417243848662,
+      "rmse": 5.797759268112583
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.6181233138346425,
+      "rmse": 5.64989597598932
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.7907404449290825,
+      "rmse": 5.806704071315217
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.581359615538454,
+      "rmse": 5.620169434947125
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_06",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.687010333959176,
+      "rmse": 5.721214011127028
+    },
+    {
+      "id": "delta_gradient_boosting_ipm_07",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.6315943160873925,
+      "rmse": 5.639141747027676
+    },
+    {
+      "id": "delta_extra_trees_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.548359211226781,
+      "rmse": 5.56775371454798
+    },
+    {
+      "id": "delta_extra_trees_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.09214004818026,
+      "rmse": 6.017773136258127
+    },
+    {
+      "id": "delta_extra_trees_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.192004703165836,
+      "rmse": 6.100516317398117
+    },
+    {
+      "id": "delta_extra_trees_ipm_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.235362423721078,
+      "rmse": 6.139803998762751
+    },
+    {
+      "id": "delta_extra_trees_ipm_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.457093117870539,
+      "rmse": 5.558255134258557
+    },
+    {
+      "id": "delta_extra_trees_ipm_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.802971489024884,
+      "rmse": 5.80180045095155
+    },
+    {
+      "id": "delta_extra_trees_ipm_06",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.0011969460251455,
+      "rmse": 5.975902709120606
+    },
+    {
+      "id": "delta_extra_trees_ipm_07",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.146191775856764,
+      "rmse": 6.08657103725021
+    },
+    {
+      "id": "delta_ols_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.767696183092575,
+      "rmse": 5.975376230164531
+    },
+    {
+      "id": "delta_ridge_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.689036264816857,
+      "rmse": 5.8794163201526315
+    },
+    {
+      "id": "delta_ridge_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.452143475171314,
+      "rmse": 5.691662695965758
+    },
+    {
+      "id": "delta_ridge_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.511665136856987,
+      "rmse": 5.782264029672201
+    },
+    {
+      "id": "delta_ridge_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.817459797175339,
+      "rmse": 5.926391210503334
+    },
+    {
+      "id": "delta_elastic_net_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.5756769712023075,
+      "rmse": 5.76680651981567
+    },
+    {
+      "id": "delta_elastic_net_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.6250002049133485,
+      "rmse": 5.8129661238014325
+    },
+    {
+      "id": "delta_elastic_net_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.4356246773045855,
+      "rmse": 5.7383934308012305
+    },
+    {
+      "id": "delta_elastic_net_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.61638616456846,
+      "rmse": 5.854970139608156
+    },
+    {
+      "id": "delta_elastic_net_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.9067904226006505,
+      "rmse": 5.979986426438509
+    },
+    {
+      "id": "delta_elastic_net_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.070038732374798,
+      "rmse": 6.062105134164309
+    },
+    {
+      "id": "delta_svr_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.90601478397855,
+      "rmse": 6.045484274034595
+    },
+    {
+      "id": "delta_svr_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.833297116906979,
+      "rmse": 5.970575489202919
+    },
+    {
+      "id": "delta_svr_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.5258384676097325,
+      "rmse": 6.0023998810189445
+    },
+    {
+      "id": "delta_svr_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.4684028038228565,
+      "rmse": 5.881085987990167
+    },
+    {
+      "id": "delta_svr_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.874908858219275,
+      "rmse": 6.383396683405491
+    },
+    {
+      "id": "delta_svr_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.740657004620067,
+      "rmse": 6.1594225906431745
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.820980869454544,
+      "rmse": 5.931501347609414
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.6323562798333695,
+      "rmse": 5.90028956738717
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.741053290257385,
+      "rmse": 6.037027795129274
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.651228869136077,
+      "rmse": 5.96864912530565
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.724967186029731,
+      "rmse": 6.002760359078702
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.594293991375363,
+      "rmse": 5.8736541462771354
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.719021612946432,
+      "rmse": 6.106151738055163
+    },
+    {
+      "id": "delta_gradient_boosting_tasas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.6912482264315,
+      "rmse": 6.0263992495598995
+    },
+    {
+      "id": "delta_extra_trees_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.54359052539553,
+      "rmse": 5.884112718740768
+    },
+    {
+      "id": "delta_extra_trees_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.595509149886933,
+      "rmse": 5.886452771368497
+    },
+    {
+      "id": "delta_extra_trees_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.761454862908104,
+      "rmse": 5.937782462500575
+    },
+    {
+      "id": "delta_extra_trees_tasas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.926557917382177,
+      "rmse": 6.018783457988038
+    },
+    {
+      "id": "delta_extra_trees_tasas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.59020603968552,
+      "rmse": 5.963907813677833
+    },
+    {
+      "id": "delta_extra_trees_tasas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.58911792487511,
+      "rmse": 5.908547046800246
+    },
+    {
+      "id": "delta_extra_trees_tasas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.687624601401566,
+      "rmse": 5.932482251506813
+    },
+    {
+      "id": "delta_extra_trees_tasas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.8156569399097435,
+      "rmse": 5.972912098271253
+    },
+    {
+      "id": "delta_ols_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.806689408596694,
+      "rmse": 6.0153796369567285
+    },
+    {
+      "id": "delta_ridge_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.718588950807364,
+      "rmse": 5.903379938418739
+    },
+    {
+      "id": "delta_ridge_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.4570449633535505,
+      "rmse": 5.69232078448394
+    },
+    {
+      "id": "delta_ridge_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.507235624593091,
+      "rmse": 5.777778460357646
+    },
+    {
+      "id": "delta_ridge_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.810689895981164,
+      "rmse": 5.922499942316689
+    },
+    {
+      "id": "delta_elastic_net_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.586927688458243,
+      "rmse": 5.771256864938267
+    },
+    {
+      "id": "delta_elastic_net_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.638289469257951,
+      "rmse": 5.816750829214884
+    },
+    {
+      "id": "delta_elastic_net_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.437076099029644,
+      "rmse": 5.739808312684299
+    },
+    {
+      "id": "delta_elastic_net_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.636082033624139,
+      "rmse": 5.87577159433929
+    },
+    {
+      "id": "delta_elastic_net_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.904391484200512,
+      "rmse": 5.9791084744107055
+    },
+    {
+      "id": "delta_elastic_net_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 5.067703788635921,
+      "rmse": 6.061263575736211
+    },
+    {
+      "id": "delta_svr_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.892142691913694,
+      "rmse": 6.03507927962007
+    },
+    {
+      "id": "delta_svr_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.829769751621385,
+      "rmse": 5.971877527591819
+    },
+    {
+      "id": "delta_svr_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.511314661715227,
+      "rmse": 5.98765884154357
+    },
+    {
+      "id": "delta_svr_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.446048521601994,
+      "rmse": 5.854362605165386
+    },
+    {
+      "id": "delta_svr_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.842934800043745,
+      "rmse": 6.348495499813842
+    },
+    {
+      "id": "delta_svr_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.717648239090394,
+      "rmse": 6.127240716057615
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.8473407529075985,
+      "rmse": 5.955908477233171
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.7217292398081785,
+      "rmse": 5.951010831399427
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.750254916803893,
+      "rmse": 6.023905348129568
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.709520274091339,
+      "rmse": 6.0746807463653845
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.751734926026598,
+      "rmse": 6.014873788418361
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.6731522246329025,
+      "rmse": 5.971212349182986
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.716949643057782,
+      "rmse": 6.07737605116144
+    },
+    {
+      "id": "delta_gradient_boosting_ambas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.754530430575275,
+      "rmse": 6.102513580621031
+    },
+    {
+      "id": "delta_extra_trees_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.532421367654176,
+      "rmse": 5.856640238476742
+    },
+    {
+      "id": "delta_extra_trees_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.592774789223403,
+      "rmse": 5.883237661802379
+    },
+    {
+      "id": "delta_extra_trees_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.7418004772895195,
+      "rmse": 5.935851529939974
+    },
+    {
+      "id": "delta_extra_trees_ambas_03",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.916661699604243,
+      "rmse": 6.015264037620209
+    },
+    {
+      "id": "delta_extra_trees_ambas_04",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.525842625091288,
+      "rmse": 5.886711018318535
+    },
+    {
+      "id": "delta_extra_trees_ambas_05",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.574743590741812,
+      "rmse": 5.858042226637817
+    },
+    {
+      "id": "delta_extra_trees_ambas_06",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.686395584223311,
+      "rmse": 5.905717762094339
+    },
+    {
+      "id": "delta_extra_trees_ambas_07",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "mae": 4.814821648653698,
+      "rmse": 5.9771968069447174
+    }
+  ],
+  "instante_antes_externo": "2026-10-11T02:01:01.661063+00:00",
+  "origen": "real"
+}

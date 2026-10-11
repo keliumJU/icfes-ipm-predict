@@ -1,0 +1,4957 @@
+{
+  "limite": 7200.0,
+  "consumido": 971.5884660900265,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "e2022_i2021_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9040254349965835
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9040738530020462
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8907418250018964
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8854047639979399
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8947028929978842
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8868204160025925
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8919560799986357
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8800307429992245
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9030629170010798
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9046998150006402
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9026996659958968
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8877702559984755
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8977842239983147
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8827745550006512
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8948300019983435
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.886928457999602
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9004448179985047
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.951901407999685
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9616056239974569
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9601802759934799
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9507130349957151
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0121294050040888
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0315191210029298
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0203331189986784
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0213250810047612
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0280012820003321
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.039934637999977
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0417146459949436
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0280483750029816
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0324839499953669
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0288942100014538
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0291656400004285
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0269381949983654
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8896362300001783
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9022415210056351
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.88861488999828
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8973468999975012
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.878016636997927
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.887542989999929
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.878718302003108
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8837056810007198
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9065830730032758
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8951021059983759
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9147210000010091
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.917347479997261
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.908710367999447
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9053935740012093
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8796896210042178
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8952922219978063
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8901554029944236
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9884214619960403
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9571408639967558
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9545403509982862
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9580995939977583
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.018832605004718
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.022135507002531
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0082485739985714
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.005590580003627
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0354772930004401
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0079565209962311
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0108787549979752
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0323940439993748
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0325495090000913
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0185653579974314
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0257417819957482
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0126048609963618
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8877826739990269
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8853515820010216
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.892457492001995
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.879169683001237
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8898330060037551
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8738526410015766
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.882155781997426
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8794883849986945
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8822684470069362
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8742289879955933
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8890849070012337
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9023739939948427
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9040594760008389
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9055572430006578
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9059915679972619
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8995406019967049
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8905674990019179
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9505575729999691
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9782093659960083
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0941737559987814
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9738689880032325
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0298292860024958
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0180050729977665
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0053197800007183
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.018018013004621
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0753717090046848
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0270157199993264
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0255021400007536
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0313120589999016
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0580454809969524
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0319390679942444
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0426401090007857
+    },
+    {
+      "etiqueta": "e2022_i2021_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0311883710019174
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8857595340014086
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9304049660058809
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.903111268999055
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8817794749993482
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9110079940001015
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8920405550015857
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9084004909964278
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8960106629965594
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8954609880020143
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8908189860012499
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9020740729974932
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8971074889996089
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.902949934003118
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8917386199973407
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8963237919961102
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8873893060008413
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.894296315003885
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.916307797000627
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9055349050031509
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8897808519977843
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8958879290003097
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8868359459956991
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8945640359961544
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8870808349965955
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9071883470023749
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8915320170053747
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9306952340048156
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.896748678998847
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8645414429993252
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8904582699979073
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8214093069982482
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8414493460004451
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9578300810026121
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9073305349957081
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0149790930008749
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0833901160003734
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0698731990050874
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0305660209996859
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.997531730994524
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9663780089977081
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.982491940005275
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0556257450007251
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0823462979969918
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0627841539971996
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0307778909991612
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0115214359975653
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0229374870032188
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0375895830002264
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 0.9892842340050265
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 0.9983366219967138
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0392355450021569
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0658503950035083
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.022363536998455
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0155834010001854
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0222942070031422
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0291900289957994
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0109480819955934
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0111327999984496
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0148275240062503
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0220595209975727
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.013104427001963
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0204924019999453
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0088139459985541
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0093994189955993
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0188879320048727
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0206165870040422
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8781152669980656
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9029181570003857
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8975557160010794
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9119207629992161
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8950457019964233
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.902823870004795
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8852471580030397
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8856666370047606
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8907568330032518
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8838659379980527
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8773384320011246
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8786985949991504
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8800620979964151
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8845201790027204
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8827135110041127
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8869604389983579
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9094319680007175
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9010258429989335
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.879403495004226
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8852100700023584
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8747792680005659
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8820132320033736
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8853543099976378
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8818262269996922
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8789103399976739
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8829745779949008
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.881274946994381
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8879918169986922
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8845995220035547
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8929676810003002
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8951175510010216
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8880277700009174
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8818930699999328
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9005665610020515
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.950621215000865
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9552248140025767
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9588169690032373
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9561347019989626
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9605904339987319
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9628499480022583
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9534647290056455
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.959786676998192
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0124255610062391
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.011025553001673
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0032432730004075
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.014916997999535
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 0.9961503129961784
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0331711309991078
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.045110184000805
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0588516920033726
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1067974409961607
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0649800440005492
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0362359659993672
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0323016820038902
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0117697980022058
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0455048649964738
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.014955207996536
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.010581145004835
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0475364930025535
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.073397929998464
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0326872380028362
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0454333110028529
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0235689420005656
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.029766635998385
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.022281732999545
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0402710880007362
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8845687069988344
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8873403370016604
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.901898809002887
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.894717800001672
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9062409720063442
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9169898260006448
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8889492599992082
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8824443880002946
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8926916909986176
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8881285109964665
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9095668230002047
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8902542399955564
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8978745290005463
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.886401936004404
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8897739339954569
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8871275560013601
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8940430759976152
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.888406006997684
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8902803649980342
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8793036119968747
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8960669459993369
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8881498470000224
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.89483230800397
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8836782159996801
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8725846110028215
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8735025630012387
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8867998249988887
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8924871400013217
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.887588115001563
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8946691729943268
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8970948779970058
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9035876839989214
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8988914770015981
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8883673230011482
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9635791190012242
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9571184960004757
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9636457239976153
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9813331089972053
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.970712166003068
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9744433430023491
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9620177220058395
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9652486749982927
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0224723189967335
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0205249569989974
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0255198029990424
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0378257340053096
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0231012880030903
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.024564901003032
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0330546449986286
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0662754509976367
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0303275879996363
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0422176930005662
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0162076279957546
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0189972529988154
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0086043159972178
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0176796699961415
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0125201920018299
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0117587619970436
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.032771750993561
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0596348789986223
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0114251539998804
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0713252529967576
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0101819830015302
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0236226849956438
+    },
+    {
+      "etiqueta": "e2023_i2021_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0085248800023692
+    },
+    {
+      "etiqueta": "e2023_i2022_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.017888860005769
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8770796730022994
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8978791600020486
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8939261679988704
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.878040539995709
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8786303599990788
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8688785339982132
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8786778270005016
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8715110100019956
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9016188419991522
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8850828930007992
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.898937919002492
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9097403870036942
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9018798210017849
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9084155169985024
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8944478050034377
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8902671700052451
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8994488300013472
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8923423720043502
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8992458779976005
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8837583219938097
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.893036821995338
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8775682139967103
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8900759519965504
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9623070230009034
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9648057280064677
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9021828499971889
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9156044549963553
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8946635769971181
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9117845950022456
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8915166189981392
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8780663649959024
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8861272349968203
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8778227739967406
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8933561539961374
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8776138100001845
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8805649940040894
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8753120229957858
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8786062739964109
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8754111779999221
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8803322890016716
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8912229359993944
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8914366859971778
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8782176630047616
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8939060109987622
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8779126520021237
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8824032440024894
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.883440817000519
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.889356528998178
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8816578680052771
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8990091999949072
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8839488039957359
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9621463339935872
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9547028350061737
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9501477250014432
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9650286280011642
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9554909549988224
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9718678549979813
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9594531969996751
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9583606369997142
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9707192900023074
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.964832056000887
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9542819010021049
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9547625129998778
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9982359529967653
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9804529130051378
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9978935769977397
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9978813280031318
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9922319309989689
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0017232589962077
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 0.9927971800061641
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 0.9896506279983441
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.013924106999184
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0043551060007303
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 0.998704131001432
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 0.9910311029962031
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0120005700009642
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0262044970004354
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0410807840016787
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0104439990027458
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0095175340029527
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.015234149999742
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.051511527999537
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0111922420037445
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.049527881994436
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0736704179944354
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0780379970019567
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1228429559996584
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0927887849975377
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1261974239969277
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.166198674000043
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0979631599984714
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0726907050047885
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.111840329002007
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0759833650008659
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0654286950011738
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0882926170015708
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.101504742000543
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0898377990015433
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0520940300048096
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.954105178003374
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9437678100002813
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9404078630032018
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9355063720067847
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9371242769993842
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.985328324000875
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9718140589975519
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0067914329993073
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9681707779964199
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.932902788001229
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9288327899994329
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.920839889004128
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9468356100042001
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9277232759995968
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9213579290008056
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9374137269987841
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.007661827999982
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.047237735001545
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0106294309953228
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9800542820012197
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.94793581799604
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9619073849971755
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9267824290000135
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9215284750025603
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9259161500012851
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9310987429998931
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9699153149995254
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9483158820003155
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9169929310010048
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9332943300032639
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9298414989971207
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9116625450042193
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9145023090022733
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.912866037004278
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9922680149975349
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9925506389990915
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0019054340009461
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9979764610034181
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0047094709952944
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.974271391001821
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9945886360001168
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9892139759976999
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9841198649955913
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0532056089941761
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1581496989965672
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9344187530005001
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9250812850004877
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9689507119983318
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9371417729998939
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9604224780050572
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9438184020036715
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9916429110016907
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9952756540005794
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9882678339999984
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9840552459936589
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0336264790021232
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0642552699937369
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.01641064100113
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0161825379982474
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0200001619959949
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0258100560022285
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9851284109972767
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9857077230044524
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0280946229977417
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0548286849953001
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.057569438999053
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0363322630000766
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0724270869977772
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0923275669993018
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0436524789984105
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0440212019966566
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.057692816000781
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.046921499997552
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0473130009995657
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.091400010001962
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0782595060009044
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0761393850043532
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1019480749964714
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0624718850012869
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0722773439993034
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0668281389953336
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0867652189990622
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0902149460016517
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1409305909983232
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1275639460000093
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1326624279972748
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1553911279988824
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1667522200004896
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.184678575998987
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.199414971000806
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1766276370035484
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.177453902993875
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.2210817170052906
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.160949569006334
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.195104464997712
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.1180997699993895
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.1067925030001788
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.1176366889994824
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.112307219998911
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8668702290015062
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8602882129998761
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.906716013996629
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9471445289964322
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8986704040071345
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9306476380006643
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9091851109988056
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0164196600017021
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9925963929999853
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9804101049958263
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0377668279979844
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0306727139977738
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0122402150009293
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0581223289991613
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9885265799966874
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9800042080023559
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9648418190045049
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9853065060015069
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0570361970021622
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0257649380000657
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0245064679984353
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0218278559987084
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.051416643000266
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0252751130028628
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0355387600066024
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.036260635999497
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0519510119993356
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0013422420015559
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0432661369995913
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0623900330028846
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0374872509928537
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0148932129959576
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.045526552006777
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.025999021003372
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0571598900060053
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.032235913000477
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9675920709996717
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9796248439961346
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9353604659991106
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9502969379973365
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9304273450034088
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9425876650057035
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0036531779987854
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0472295330037014
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0064183750000666
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0186421000034898
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9692813100045896
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9687806319998344
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.030740494003112
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0950612819942762
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0769713449990377
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0939423470044858
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.050292209998588
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0763257799990242
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0370227730018087
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1005715920036891
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0999429970033816
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1709751579983276
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1492438080022112
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0584720659971936
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2130104530006065
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0068661730038002
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.049720488001185
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0830462199955946
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0800923600036185
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0706442439986859
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1085129300045082
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0742982669980847
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1214581820022431
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.093471200998465
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.111878385003365
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.035745338005654
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.02921327099466
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0250557999970624
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0403836780023994
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.027305415002047
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0442037619941402
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0790444180020131
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.03882315899682
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.035666851006681
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0282886770000914
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.011212040000828
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0231477319975966
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0234341090035741
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.018112582001777
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0220639930048492
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0298057260006317
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0374280730029568
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0562625079983263
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0900677320023533
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.021595106998575
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.049185657997441
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0494203889975324
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0233001520027756
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0278917590039782
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.082686316993204
+    },
+    {
+      "etiqueta": "e2024_i2021_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0179917560017202
+    },
+    {
+      "etiqueta": "e2024_i2022_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0205194619993563
+    },
+    {
+      "etiqueta": "e2024_i2023_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0201105989981443
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8819635999971069
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8960099659961998
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8815531059954083
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ols_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8767737489979481
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8843926990011823
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8864846500000567
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.889555105000909
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8821127690025605
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8897361600029399
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8765305760025512
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8828323390043806
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8777298459972371
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8897062890027883
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8812899229960749
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8828104880012688
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8880942780015175
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8837311710012727
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8798086380047607
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9010872919971007
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8794142589977127
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8778369229985401
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8824179660005029
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8869291789960698
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8903198830012116
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8821742220025044
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8803419300020323
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8837697990020388
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8889722579988302
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9106483630021103
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8901774140031193
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8836083900023368
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8740536190016428
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8820451670035254
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8819654819963034
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.88626146200113
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8850201630048105
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8913768679994973
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8814404889999423
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8852560020022793
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8736851249996107
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8855845549987862
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8767597069963813
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8914860080039944
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8739249589998508
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8900160090051941
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.875063819999923
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8758048239978962
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8691553800017573
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8755796260011266
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8774410110054305
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8800567500002217
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8693042619997868
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8754277650004951
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8721176920007565
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9044516590001876
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8877707170031499
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9524225189961726
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9624088109994773
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8691922950019944
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 0.873835729995335
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.828693032002775
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9070261169981677
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0182582950001233
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9837658450051094
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.974178351003502
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9101391229996807
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8669455210037995
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9647837220036308
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9841851699966355
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0136284079999314
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.043042637000326
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0353656509978464
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.047351394998259
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.029635591999977
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0454087929974776
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0170990350015927
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9889823510020506
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.969547013999545
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1113135470004636
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0336455080032465
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.132426515003317
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2028474940016167
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0415266850031912
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1451900440006284
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0663058810023358
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.055661095000687
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1196849339976325
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.133250656996097
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1227130240004044
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1185767109927838
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0911562640030752
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1608975190029014
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0319449630042072
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0695679139971617
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.05151059399941
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.027909410004213
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0472224709956208
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0672343999976874
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.2175089459997253
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0891251060020295
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1193786970034125
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1219811620030669
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1194172780014924
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1890868670016062
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1015792039979715
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0345160190045135
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0418943730037427
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0331696840003133
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0802507320040604
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0683997919986723
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1403043620011886
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2628678029941511
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1229729119950207
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0553459849979845
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0378495580007439
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0306804510037182
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0446054029962397
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0451690569971106
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1065674450001097
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_04_intento1",
+      "estado": "ok",
+      "segundos": 1.176335965996259
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1445377339987317
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0695694329988328
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1213084280025214
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0561252160041477
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0608523939954466
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0742611270034104
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0453815590008162
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0526906529994449
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0448919120026403
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.063297232001787
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.1360512739993283
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ipm_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0271859290005523
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9007395879962132
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.891439642997284
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8880372339990572
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ols_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9028021119956975
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9427083800037508
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8894840210050461
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9148520590024418
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9137922449954203
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9165673789975699
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8815613979968475
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8997177339988411
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8959287619945826
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9088986499991734
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.024341689000721
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9183538860015688
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9174421900024754
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9226420009945286
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9648474690038711
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.959699320999789
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8940748969980632
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8970798109949101
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.943578646001697
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9818384049940505
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9209822310003801
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8962373890026356
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8918518450009287
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8887158700017608
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9180987899962929
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8778311889982433
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9075407499985886
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8832681499989121
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9203897170009441
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.883444122999208
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8921697529949597
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8808021360018756
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8976304259995231
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9003429920048802
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.886452716003987
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9034469010002795
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9169853140047053
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9228102339984616
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9071062840012019
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9028116119952756
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8937025619961787
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.019796328000666
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9393124690031982
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.906541838994599
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.911121033001109
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9115145760006271
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.963810740999179
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9746469129968318
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.907628824999847
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9126981689987588
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9176360339988605
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9100566120032454
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8993825869983993
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8971411860038643
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.977275279998139
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9155373590037925
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9019131179957185
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.881862750997243
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9552932459992007
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9181474349970813
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9209750500012888
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.911127232000581
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9009006959968247
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9002368910005316
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8826749319996452
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9841007969953353
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0368531529966276
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0087542409964954
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9859915529959835
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9705458950047614
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0288326470035827
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0346857810000074
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0509461909969104
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9715157499958877
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9779931429948192
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9909409920001053
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.968793045001803
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9647507940026117
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9933579680000548
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9907815330006997
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9750211319988011
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0224356690014247
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0204082029958954
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1475324659986654
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0657355770017602
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0136569050009712
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0558686450021924
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0646941430022707
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0897997400024906
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0145694899983937
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0107851259963354
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.199535122999805
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0962122560013086
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.037827902000572
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0421495499977027
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0800684610003373
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0567594960011775
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.0505691970029147
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1352329689980252
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.089280850996147
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1030413980042795
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.050313665997237
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1094179569990956
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0432475620036712
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0822188870006357
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0400652129974333
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.046274814994831
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.057257191001554
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.062608590000309
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.052882779003994
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0197453489963664
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0405458239984
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.075006515995483
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1001928379992023
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1584155439995811
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1353231009998126
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.159052667004289
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0257302030004212
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0300315399945248
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.097488562001672
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0849184289982077
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0249578079965431
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0214892069998314
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0545409039987135
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0499247030020342
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0519361650003702
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0411494459985988
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0629153129993938
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_tasas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0263251770011266
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9043930069965427
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9160404229987762
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9135675500001526
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ols_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8898882099965704
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8967511720038601
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8960434639957384
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9246382780038402
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9055143299992778
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9091678979966673
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9370011579958373
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9707562760013388
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.918657918999088
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8897434879982029
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9009030439992785
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9174415210000006
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9304378579981858
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9047707920035464
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9036917519988492
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9079746850038646
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_ridge_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9106052780043683
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9158818969954154
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9015186459946563
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9091327479982283
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.919330118005746
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9235434270012775
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9088553960027639
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9005390780002926
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9149793859978672
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.899215835997893
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8992003189996467
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9066086849998101
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8772174280020408
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9069538090043352
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8967498660058482
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8937280259997351
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9242145700045512
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9247194590061554
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9028268589972868
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9156851219959208
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8663258529995801
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9021055889970739
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9172298120029154
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.8712478880042909
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_elastic_net_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9051917600008892
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8888114069995936
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.8960222030000295
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9023955740049132
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9015120170006412
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9042644069995731
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9060396019995096
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9058967559976736
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.8939789500000188
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8926540220054449
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8887278020047233
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.9173046029973193
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.8835297929981607
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9292299389999243
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.8878589380037738
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.9418377809997764
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 0.921089640003629
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8965418299994781
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8930971660010982
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.8826534220061149
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 0.9245282549964031
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9137086170012481
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9353874849985004
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.88660737000464
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_svr_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 0.9146185429999605
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9342984300019452
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9752000719963689
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.975061190998531
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.9824748989994987
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.9904710129994783
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1160118100015097
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.0367147689976264
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1996459840011084
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0475277270015795
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0385205450002104
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0481184610034688
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1464675409952179
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0006209159982973
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0393159099985496
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0168288959976053
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0087745980054024
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0373600630045985
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0400183870006003
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.057012866003788
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.0497378410000238
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0184216480047326
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.059850562000065
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0920120959999622
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0725930749977124
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.078809992002789
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.093660081998678
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.1681441769978846
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.114333972996974
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0601279819966294
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0572379450022709
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.1471117149994825
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_gradient_boosting_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0756710600035149
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.131909039002494
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2486007080005948
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2153131140003097
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2019665549960337
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2153639059979469
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2013504380011
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2690159960038727
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2000283869929262
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.296170596004231
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.453601446999528
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1927235089970054
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.0851307869961602
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0509871230024146
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.059706718995585
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.0400187999985064
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.1169072830016376
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.068108988001768
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.184935218996543
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1742759870030568
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_04_intento1",
+      "estado": "ok",
+      "segundos": 1.1878083539995714
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0262537550006527
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.0396154029949685
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.2039689679950243
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_05_intento1",
+      "estado": "ok",
+      "segundos": 1.1443941639954573
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.0939260619998095
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.1801074289978715
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.1835310730020865
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_06_intento1",
+      "estado": "ok",
+      "segundos": 1.1309996679992764
+    },
+    {
+      "etiqueta": "e2025_i2021_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0785800200028461
+    },
+    {
+      "etiqueta": "e2025_i2022_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0759034259972395
+    },
+    {
+      "etiqueta": "e2025_i2023_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.1109617490001256
+    },
+    {
+      "etiqueta": "e2025_i2024_delta_extra_trees_ambas_07_intento1",
+      "estado": "ok",
+      "segundos": 1.0794325640017632
+    }
+  ]
+}

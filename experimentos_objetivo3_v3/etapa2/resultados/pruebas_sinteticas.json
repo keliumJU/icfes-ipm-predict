@@ -1,0 +1,20 @@
+{
+  "aprobado": true,
+  "origen": "inventados/dobles/worker_sintetico",
+  "ruta": "experimentos_objetivo3_v3/etapa2/resultados/sinteticos/orquestacion_6bzxutuk",
+  "ajustes_panel_real": 0,
+  "consumo_piloto_real": 0,
+  "ajustes_dobles_completo": 1006,
+  "grupos": [
+    "cinco ventanas/2021 sin fit ni métricas candidatos",
+    "990 internos independientes por ventana",
+    "selección guardada antes externo; global/especificación",
+    "deduplicación ID externo; cinco repeticiones",
+    "reanudación sin duplicar ajustes/saldo",
+    "externo alterado sin afectar selección",
+    "Pipeline spawn y escalador solo entrenamiento/cambio",
+    "fallos/reintentos persistentes y límite",
+    "caída conservadora/terminación real de doble"
+  ],
+  "fallos_sinteticos_esperados": true
+}

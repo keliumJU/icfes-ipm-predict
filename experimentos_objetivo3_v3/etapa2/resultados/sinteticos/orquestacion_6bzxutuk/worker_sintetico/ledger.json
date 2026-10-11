@@ -1,0 +1,12 @@
+{
+  "limite": 30.0,
+  "consumido": 0.8955676530022174,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "worker_sintetico_intento1",
+      "estado": "ok",
+      "segundos": 0.8955676530022174
+    }
+  ]
+}
