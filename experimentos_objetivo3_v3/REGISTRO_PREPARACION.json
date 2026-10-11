@@ -1,0 +1,19 @@
+{
+  "fecha_cliente": "2026-10-10",
+  "commit_partida": "cc21529532668a966d500e435dca65ef11db09a3",
+  "rama": "codex/objetivo3-v2-piloto",
+  "estado": "Solo preparación documental; ninguna etapa v3 iniciada",
+  "rama_v3_creada": false,
+  "controles_experimentales_ejecutados": 0,
+  "ajustes_reales": 0,
+  "predicciones_reales_nuevas": 0,
+  "archivos_previos": "Sin diferencias de Git ni cambios preparados; únicamente carpeta nueva v3",
+  "validacion_documental": "Tres documentos presentes y acuerdos de presupuesto/ventana coherentes; no constituye control del diseño experimental",
+  "documentos_sha256": {
+    "PLAN_INVESTIGACION_V3.md": "1cbf3a439dcad730f591b66b780cdfb77e9d051688b9847df0e5a9ce3f389bfe",
+    "PROMPT_ETAPA1_NUEVA_SESION.md": "0dbd5d90dd6a7a22a537cfb3fd98c76c14ed1ffebd9e7dc452a30870fc34e8cb",
+    "CONTINUIDAD_V3.md": "63de73abd93bc80920289d99b791e8598c79f013a66408a8c89b5d9e2a020195"
+  },
+  "pdf_leidos": [],
+  "push": false
+}
