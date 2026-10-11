@@ -1,0 +1,126 @@
+{
+  "aprobado": true,
+  "commit_documental": "fa2b5ab1852f427549a9fd5e9a119a3ab4fdeb77",
+  "cuatro_archivos": [
+    "experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+    "experimentos_objetivo3_v5/PLAN_INVESTIGACION_V5.md",
+    "experimentos_objetivo3_v5/PROMPT_ETAPA1_NUEVA_SESION.md",
+    "experimentos_objetivo3_v5/REGISTRO_PREPARACION.json"
+  ],
+  "snapshot_preparacion_cotejado": 22671,
+  "cierre_v4_lectura": "Cierre etapa2 y conservación verificados en lectura.",
+  "manifiestos_leidos": [
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/configuraciones_congeladas.json",
+      "sha256": "55cfd40387a9b04abfd5807894bf21d8b915537df9619ef924935b213f9c0a01",
+      "campos": [
+        "version",
+        "semilla",
+        "configuraciones",
+        "grupos",
+        "ventanas",
+        "orden_familias",
+        "tolerancias",
+        "limite_futuro",
+        "cota_sin_fallos",
+        "panel_fuente_sha256",
+        "panel_derivado_sha256"
+      ]
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/congelacion_previa.json",
+      "sha256": "20e7fa748d8da98856b5d825d48d64da21ed0d93218c568098b7bb72e6d733ab",
+      "campos": [
+        "version",
+        "fecha_cliente",
+        "instante_utc",
+        "artefactos_sha256",
+        "semilla",
+        "ajustes_panel",
+        "correcciones_panel",
+        "ledger_operativo_creado",
+        "meta_v4_evaluada",
+        "requisito_etapa2"
+      ]
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/conservacion_final.json",
+      "sha256": "473351925824eee0ac59a9f24cb201731585e2d84cf5e76d34d6ee9101e775bb",
+      "campos": [
+        "aprobado",
+        "protegidos_sha256",
+        "preparacion_intacta_salvo_continuidad",
+        "continuidad_anterior_conservada",
+        "originales_no_escritos",
+        "pdf_leidos",
+        "push"
+      ]
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/manifiesto_cierre.json",
+      "sha256": "cd92652a4c5d6ece7230b8f02536a268e6aac5c67de58fbeed26664e042efba8",
+      "campos": [
+        "etapa",
+        "version",
+        "commit_partida",
+        "entregables_sha256",
+        "etapa1_completa",
+        "piloto_iniciado",
+        "push"
+      ]
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/congelacion_operativa.json",
+      "sha256": "8c620aed2270c3d5f1f2afb857de6656b9d19389cf6fa4450ac4a604a41bcb8d",
+      "campos": [
+        "instante",
+        "artefactos_sha256",
+        "semilla",
+        "limite",
+        "cota_sin_fallos",
+        "ajustes_antes",
+        "orden",
+        "motor"
+      ]
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/congelacion_extension_auditoria.json",
+      "sha256": "984c482a13ba2aba6b3db11c126c16d75bd08c8f9002f26116531dfb993040e3",
+      "campos": [
+        "instante_utc",
+        "criterios_modificados",
+        "ajustes_nuevos",
+        "congelacion_operativa_sha256",
+        "verificador_original_sha256",
+        "artefactos_sha256",
+        "pruebas"
+      ]
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/conservacion_final.json",
+      "sha256": "30d125b54d2080e2115de27fcf034666405e04629c8e5b26e32c8b1b2566de32",
+      "campos": [
+        "aprobado",
+        "protegidos_sha256",
+        "unica_modificacion_previa",
+        "pdf_leidos",
+        "push"
+      ]
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/manifiesto_cierre.json",
+      "sha256": "e5f937920652cbdf193014948a3e63a600a6768f400f052eba0a5a8ab2f2c5cd",
+      "campos": [
+        "etapa",
+        "completo",
+        "commit_partida",
+        "entregables_sha256",
+        "pendientes_indispensables",
+        "push"
+      ]
+    }
+  ],
+  "cotejos": 38430,
+  "registro_sha256": "67fc022fbaa35f816b1e66f4789694cfd02585726eda52308c9c667853869b8d",
+  "pdf_paginas": 0
+}

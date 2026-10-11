@@ -1,0 +1,195 @@
+{
+  "fecha_cliente": "2026-10-10",
+  "lecturas": [
+    {
+      "archivo": "AGENTS.md",
+      "seccion": "instrucciones completas",
+      "estado": "revisado"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v2/CONTINUIDAD_V2.md",
+      "seccion": "estado vigente y antecedente separado; continuidad v5 preparación leída antes de actualizar",
+      "estado": "revisado"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v3/CONTINUIDAD_V3.md",
+      "seccion": "estado vigente y antecedente separado; continuidad v5 preparación leída antes de actualizar",
+      "estado": "revisado"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/CONTINUIDAD_V4.md",
+      "seccion": "estado vigente y antecedente separado; continuidad v5 preparación leída antes de actualizar",
+      "estado": "revisado"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+      "seccion": "estado vigente y antecedente separado; continuidad v5 preparación leída antes de actualizar",
+      "estado": "revisado"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/PLAN_INVESTIGACION_V5.md",
+      "seccion": "§§1–2 y §3",
+      "estado": "revisado",
+      "incidencia": "Consulta inicial pidió sed1–240 (107 líneas totales) excediendo§3; salida conjunta truncada. Corregida consulta con corte antes§4. Ninguna fase posterior ejecutada."
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/PROTOCOLO_V4.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "d702d6703dd35184bdb8a9cefe2a9ff70e1d6bcf1d0c347000ad9286d0a3ec54"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/README.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "7cf771d3fb7d88439afcd5d17876a1563ef56a6da796b000c6ce254ed9d2693d"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/INFORME_CIERRE.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "72b0c5913a9ec7aea5de4546451684675cf81069e2a40c1cb6774ce19fed97eb"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/registro_problemas.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "50ed7a5f9ad0c78f37b53fabdd4a6c7c48334d47e1907cb970452a0bbcd84f63"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/configuraciones_congeladas.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "55cfd40387a9b04abfd5807894bf21d8b915537df9619ef924935b213f9c0a01"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/congelacion_previa.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "20e7fa748d8da98856b5d825d48d64da21ed0d93218c568098b7bb72e6d733ab"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/conservacion_final.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "473351925824eee0ac59a9f24cb201731585e2d84cf5e76d34d6ee9101e775bb"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/manifiesto_cierre.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "cd92652a4c5d6ece7230b8f02536a268e6aac5c67de58fbeed26664e042efba8"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/PROTOCOLO_OPERATIVO.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "a79d7c9ae375c56d7d279c27472248d30b00dae5e237c6c8504bbbe3f3cbf199"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/README.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "2d00024fb50e5a6160ffac452bd16fed67482f3a1cf4f025d5473d4231429bac"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/INFORME_PILOTO.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "1e019ec1c4647cbed48e460df273047a53f2152b2db80e104736f8f4faa05f9c"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/registro_problemas.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "e357faf0b7e81b4093c31d9f8b9c5887785f7534e209423ee2d54bbac7c3a621"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/ENMIENDA_AUDITORIA_E2_01.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "047680f610bb845d57b187f6524f19f5d7d46347b182a67df151a5f8313640f9"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/FE_DE_ERRATAS_E2_01.md",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "0bae2bb40cc66cb5d4824de559c179810fe6eb73f055f66e0ff4886c65aa6da8"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/congelacion_operativa.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "8c620aed2270c3d5f1f2afb857de6656b9d19389cf6fa4450ac4a604a41bcb8d"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/congelacion_extension_auditoria.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "984c482a13ba2aba6b3db11c126c16d75bd08c8f9002f26116531dfb993040e3"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/diagnostico_tipos_csv.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "c556833eaa43ddecfdc399ab1ca4b5482f2f6c0bc3f9400ff7a59c598cabdf91"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/conservacion_final.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "30d125b54d2080e2115de27fcf034666405e04629c8e5b26e32c8b1b2566de32"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/resultados/manifiesto_cierre.json",
+      "seccion": "estructura completa y huellas; procedimientos preparar.antecedentes/cierre v4 en lectura",
+      "estado": "revisado",
+      "sha256": "e5f937920652cbdf193014948a3e63a600a6768f400f052eba0a5a8ab2f2c5cd"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/fuentes/comun_v4.py",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "82e64c28e7dd9150a04f09e017440da1109dc02210978ceca39980cd4e3c3361"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/fuentes/controles.py",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "7333da68d8a0af76a612337e18d57433c685ec52fdf61c64ff3c1304ba877af8"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa1/resultados/sinteticos/controles.json",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "ce6eb1449b8d8cba7cb29ec9369dc83d48f56fbf12a170969b0a3a0d3aa4f6fb"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/fuentes/cerrar.py",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "511717bf6bc74e2593cf963fd99449314fa13a39d4c2f31c9e773904541d6119"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v4/etapa2/fuentes/verificar_extension.py",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "ee757de1d2c0f49560a4851bc34429b8cdf985a673e297ece9bea3159241e5f9"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v3/etapa1/fuentes/comun_v3.py",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "b815e173de3250860f5dcc57640073b44e4fd29d19320c6c61a1ab6d719e14cb"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v2/fase2/fuentes/comun.py",
+      "seccion": "completo",
+      "estado": "revisado",
+      "sha256": "5a93b636daaac72f07e6dc0d1128e8646686b75affd1564d651feebe5180d659"
+    }
+  ],
+  "pdf_actuales": [],
+  "pdf_paginas_actuales": 0,
+  "pendiente": "Lecturas operativas de etapas futuras requieren nueva autorización; PDFs no necesarios para diseño; referencias heredadas históricas"
+}

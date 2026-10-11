@@ -1,0 +1,20 @@
+{
+  "aprobado": true,
+  "workers": [
+    {
+      "familia": "mediana",
+      "segundos": 1.0506031469994923,
+      "importacion_hijo": true,
+      "datos": "inventados"
+    },
+    {
+      "familia": "boosting",
+      "segundos": 1.0687215050056693,
+      "importacion_hijo": true,
+      "datos": "inventados"
+    }
+  ],
+  "terminacion_real": true,
+  "hijos_restantes": [],
+  "highs_fallo_convergencia_rechazados": true
+}

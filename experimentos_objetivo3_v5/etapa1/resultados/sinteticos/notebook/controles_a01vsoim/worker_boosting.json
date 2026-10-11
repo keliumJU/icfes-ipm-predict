@@ -1,0 +1,12 @@
+{
+  "limite": 20.0,
+  "consumido": 1.0662437299979501,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "boosting#1",
+      "estado": "ok",
+      "segundos": 1.0662437299979501
+    }
+  ]
+}

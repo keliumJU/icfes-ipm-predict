@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "filas": 231,
+  "territorios": 33,
+  "cambios_completos": 198,
+  "cotejo_integral_exacto": true,
+  "trazabilidad_misma_llave": true,
+  "fuente_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "derivado_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "ajustes_panel": 0,
+  "estadisticas_aprendidas": 0,
+  "predicciones_nuevas": 0
+}

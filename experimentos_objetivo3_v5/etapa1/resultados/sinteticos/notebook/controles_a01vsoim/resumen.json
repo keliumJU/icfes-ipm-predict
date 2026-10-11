@@ -1,0 +1,23 @@
+{
+  "aprobado": true,
+  "origen": "exclusivamente datos inventados/dobles",
+  "controles": [
+    "historial misma llave/futuro/anterioridad/2021 previo2019/salto/diferencias negativas/reconstrucción/metricas en puntos",
+    "grilla36 IDs/orden/grupos íntegros/defaults completos/matrices1-2-2-16-17/ventanas/cota378",
+    "mediana condicional no media/regularización L1/scaler solo train/Pipeline objetivo no escalado",
+    "boosting absoluto/defaults íntegros/semilla fija/sin escalado ni parada temprana",
+    "bandas MAE/RMSE/entradas/familia/JSON/36 registros y razones/2021 fijo/global distinto del grupo/ID deduplicado solo en ventana",
+    "cobertura1155/7×165/llaves y observados/CSV igualdad exacta cero int-float/rechazo1e-11 llaves campos orden",
+    "rutas propias y symlink/artefactos huellas/contexto/reanudación/intentos consumidos/un retry/numérico persistente/caída sin tiempo agota/sin saldo no intento",
+    "imports procesos hijos reales/Pipeline entero/HiGHS fallo y convergencia/inelegibilidad reanudada/terminación real/límite/interrupción"
+  ],
+  "pruebas": "experimentos_objetivo3_v5/etapa1/resultados/sinteticos/notebook/controles_a01vsoim",
+  "ajustes_panel": 0,
+  "ledger_operativo_creado": false,
+  "meta_v5_evaluada": false,
+  "semilla": 20261010,
+  "fuentes_sha256": {
+    "experimentos_objetivo3_v5/etapa1/fuentes/controles.py": "10d0585a5f68d2a7c749b5a6f321e8cf364f04908484a0d133df3bfa75ca0fe4",
+    "experimentos_objetivo3_v5/etapa1/fuentes/comun_v5.py": "fe4f6b0d1a1dc7e91fe9f3e9d9cab461fa3cf22ede420de953c1afb798b0fdc3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "limite": 10.0,
+  "consumido": 3.29299655277282e-06,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "a#1",
+      "estado": "error",
+      "segundos": 1.8419959815219045e-06,
+      "clase_fallo": "infraestructura"
+    },
+    {
+      "etiqueta": "a#2",
+      "estado": "error",
+      "segundos": 1.4510005712509155e-06,
+      "clase_fallo": "infraestructura"
+    }
+  ]
+}
