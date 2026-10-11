@@ -1,0 +1,36 @@
+{
+  "aprobado": true,
+  "cotejos_manifiestos": 4779,
+  "continuidades_en_commits": [
+    {
+      "archivo": "experimentos_objetivo3_v2/CONTINUIDAD_V2.md",
+      "commit": "0664ac21100982006d1a20670c7e987879444dc6",
+      "sha256": "5cf79f7c765eee738fb5c44172d8a65545134ab5ac81a85b49ba05080bddcea5"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v2/CONTINUIDAD_V2.md",
+      "commit": "b37a2f338f0708958a412f5a0efa09f33861322b",
+      "sha256": "aef2c12e6f5adbac45e7dccf2de6eb37b2956607faacc9e7e1f4ed1f65c99713"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v2/CONTINUIDAD_V2.md",
+      "commit": "cc21529532668a966d500e435dca65ef11db09a3",
+      "sha256": "2565abc335ea6a6d7ce18b48310123bef867f71b11e4820e336fb86664061174"
+    }
+  ],
+  "fuentes_sha256": {
+    "auditoria/base_analitica_departamento_anio.csv": "609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866",
+    "raw_data/Examen_Saber_11_20251.txt": "d4f902d9a47233a7549ff8d411618bebea2626b820476c31bfa8e18efb2ee484",
+    "raw_data/Examen_Saber_11_20252.txt": "f0084bf19b9c980d90f350be5567eb83fea34118ad1db924dd9c3d9adc06b039",
+    "Fuente del IPM/anex-PMultidimensional-Departamental-2025.xlsx": "73caab08046d6b35f80326b1b6f2e9b1cb8ad75a2ac4946515fda320ffaaf447",
+    "Fuente del IPM/anex-PMultidimensional-Departamental-2024.xlsx": "22ed318b6dc8b6f679c6fed59c2ab6da4a592de7de4f8c0b1607233878283381",
+    "panel_departamento_anio_unido_2025.csv": "d60fa8ac1d42232836e0343993f56ae9bd681aa9041db3ba106861da2ebb8ee3",
+    "panel_departamento_anio_unido.csv": "38ea5e108ea52547791fbea7a24217b73141736c807cb349f7f46de0c296939b"
+  },
+  "ledger_v2_sha256": "01a8e770080ce987c177c4ff9a12acb9fec575828b70a0d1dd320381f4cf5883",
+  "consumo_v2_historico": 1540.906905419055,
+  "repeticiones_v2_historicas": 10,
+  "conservacion_v2_consultada": true,
+  "verificacion_fase4_consultada": true,
+  "pdf_leidos": []
+}

@@ -1,0 +1,45 @@
+{
+  "roles": {
+    "procedimiento_v2": {
+      "filas": 165,
+      "llaves_identicas": true,
+      "observados_identicos": true
+    },
+    "referencia_v1": {
+      "filas": 165,
+      "llaves_identicas": true,
+      "observados_identicos": true
+    },
+    "media": {
+      "filas": 165,
+      "llaves_identicas": true,
+      "observados_identicos": true
+    },
+    "ols_ipm_00": {
+      "filas": 165,
+      "llaves_identicas": true,
+      "observados_identicos": true
+    },
+    "ols_tasas_00": {
+      "filas": 165,
+      "llaves_identicas": true,
+      "observados_identicos": true
+    },
+    "ols_ambas_00": {
+      "filas": 165,
+      "llaves_identicas": true,
+      "observados_identicos": true
+    }
+  },
+  "selecciones_sha256": {
+    "2021": "aebd6c17fbe538c479ced6034adfcc67b847fab0c9cc406fb40e890f48e7c143",
+    "2022": "24219174b37a852cc7ebad4e06e3e4fb45fa7152db7a55797c0ed397e1ca4e31",
+    "2023": "654b183e4228809583ca55f4c9f80a94ba88da438ec8c41717c4058be85b630e",
+    "2024": "1b331e1ada48aef4c161ba2a8cb2cffe9fb837628c88ea3d4602063c91f1e78b",
+    "2025": "c1e6c53da32c6c92640e84e3a6e7618efcc537293c71dc2f0e2be9f2fc192351"
+  },
+  "archivo": "experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv",
+  "sha256": "a28a401e1005ff17aad45540d3a426baca0d0e6fe201f92df2423321920e70c9",
+  "errores_o_metricas_recalculados": false,
+  "modelos_cargados": false
+}

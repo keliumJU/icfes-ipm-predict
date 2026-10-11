@@ -1,0 +1,11 @@
+{
+  "aprobado": true,
+  "celdas_codigo_ejecutadas": 3,
+  "modo": "Python exec de cada celda, realmente ejecutado; sin kernel Jupyter",
+  "fuente_sha256": "11d9198c8dcacb1522186ad65d6184d94ae0cdea9f70dbd8a6acd8ea43022b0f",
+  "generador_sha256": "5f11674dd6f5c40a2e4778f089de3b43be31507c4b0022fb3de21408005ddb3f",
+  "notebook_sha256": "3e4987682d469d04b02d8a8bd582c15d8179c5deee46b2a41b05c913700ac723",
+  "ajustes_reales": 0,
+  "predicciones_reales": 0,
+  "semilla": 20261010
+}

@@ -1,0 +1,12 @@
+{
+  "limite": 0.4,
+  "consumido": 0.4,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "lento_sintetico",
+      "estado": "limite",
+      "segundos": 0.4044215920002898
+    }
+  ]
+}

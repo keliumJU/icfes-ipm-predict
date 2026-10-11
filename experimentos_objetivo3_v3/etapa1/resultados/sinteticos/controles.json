@@ -1,0 +1,28 @@
+{
+  "aprobado": true,
+  "origen": "exclusivamente sintético/dobles",
+  "controles": [
+    "historial aislado por territorio; anterioridad; 2018; salto sin anualizar; futuro no altera pasado",
+    "ventanas exactas; 2021 persistencia fija sin candidatos puntuados",
+    "reconstrucción original sin clipping; métricas independientes; umbral exacto/finito/completo",
+    "persistencia sin ajuste y repetición recalculada",
+    "100 entradas/parámetros/defaults exactos; cuatro escaladores solo entrenamiento; árboles sin escalado",
+    "bandas MAE/RMSE; cero entradas ajustadas; familia/JSON; elegibilidad; fuga rechazada; deduplicación por ID",
+    "E3-01 regex temporal completa; E3-02 antecedente separado; cota nueva 1010",
+    "rutas restringidas a v3; huellas y llaves incorrectas detectadas",
+    "presupuesto persistente/reanudación; saldo no ampliable; caída/interrupción/fallo; límite spawn y terminación real"
+  ],
+  "ajustes_panel_real": 0,
+  "predicciones_panel_real": 0,
+  "consumo_piloto_real": 0,
+  "ledger_operativo_creado": false,
+  "metricas_sinteticas": {
+    "n": 3,
+    "mae": 2.3333333333333335,
+    "rmse": 2.3804761428476167,
+    "sesgo": -0.3333333333333333,
+    "r2": 0.9996781319028084
+  },
+  "semilla": 20261010,
+  "pruebas_presupuesto": "experimentos_objetivo3_v3/etapa1/resultados/sinteticos/prueba_qf7e4gxl"
+}

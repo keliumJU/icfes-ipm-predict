@@ -1,0 +1,12 @@
+{
+  "limite": 10.0,
+  "consumido": 0.28860536299907835,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "falla_sintetica",
+      "estado": "error",
+      "segundos": 0.28860536299907835
+    }
+  ]
+}

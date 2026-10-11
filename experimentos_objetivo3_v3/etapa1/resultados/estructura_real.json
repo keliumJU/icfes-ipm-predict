@@ -1,0 +1,16 @@
+{
+  "aprobado": true,
+  "registros_fuente": 231,
+  "cambios": 198,
+  "externas": 165,
+  "territorios": 33,
+  "anio_previo_2021": 2019,
+  "objetivos_2018": 0,
+  "anio_2020": false,
+  "igualdad_columnas_fuente": true,
+  "trazabilidad_previo": true,
+  "ajustes": 0,
+  "predicciones": 0,
+  "metricas": 0,
+  "panel_derivado_sha256": "3873cbffe7a15bf96b306aa176abf33bbc7a34ff12618030e5ee7f06ddd0d82e"
+}

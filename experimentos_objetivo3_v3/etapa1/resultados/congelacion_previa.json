@@ -1,0 +1,31 @@
+{
+  "version": "3.0.0",
+  "fecha_cliente": "2026-10-10",
+  "momento_utc": "2026-10-11T01:38:21.411198+00:00",
+  "artefactos_sha256": {
+    "experimentos_objetivo3_v3/etapa1/fuentes/01_controles.py": "11d9198c8dcacb1522186ad65d6184d94ae0cdea9f70dbd8a6acd8ea43022b0f",
+    "experimentos_objetivo3_v3/etapa1/fuentes/cerrar.py": "dd798c8a3f01c64766fa69864ccb04b9c39790fbb973e8f660253e30cd296b47",
+    "experimentos_objetivo3_v3/etapa1/fuentes/comun_v3.py": "b815e173de3250860f5dcc57640073b44e4fd29d19320c6c61a1ab6d719e14cb",
+    "experimentos_objetivo3_v3/etapa1/fuentes/controles.py": "d3f594508295af2b7d6d6c1a7641485f8f6f19ba3a28871b67f398f856efd145",
+    "experimentos_objetivo3_v3/etapa1/fuentes/generar_notebook.py": "5f11674dd6f5c40a2e4778f089de3b43be31507c4b0022fb3de21408005ddb3f",
+    "experimentos_objetivo3_v3/etapa1/fuentes/preparar.py": "23f5a1bd3bfa2d90a2146a961b05ff81e3ad67a46d5eda9a3ff5077b675e70c5",
+    "experimentos_objetivo3_v3/etapa1/PROTOCOLO_V3.md": "8152a1662460bb33127e001798edacce9980c44eb96115661a5295504221013a",
+    "experimentos_objetivo3_v3/etapa1/requirements.lock.txt": "1f01b6806e77991eb2b544102503398fd7b27fe097d4ef650fdaa7377ef5ff6d",
+    "experimentos_objetivo3_v3/etapa1/resultados/configuraciones_congeladas.json": "b3a7ad93c97a0e5a68f01b298b25317c36163a0320bb5b91c61ae958dd8f37cc",
+    "experimentos_objetivo3_v3/etapa1/resultados/entorno.json": "fe5e080db36e3b898863af397d3eb984efcb91e199ea329b5fa4839e85306675",
+    "experimentos_objetivo3_v3/etapa1/reconstrucciones/panel_historial.csv": "3873cbffe7a15bf96b306aa176abf33bbc7a34ff12618030e5ee7f06ddd0d82e",
+    "experimentos_objetivo3_v3/etapa1/resultados/referencias_guardadas.json": "bfe4834f3f0086aca86a76fae3df9ec737ceebda26b2aaa3f6613bf5062829ee",
+    "experimentos_objetivo3_v2/fase2/fuentes/configuracion.py": "65ded47bad7fcde118473332d85db33cc79347bdb400962aaaedce65496ade35",
+    "experimentos_objetivo3_v2/fase2/fuentes/comun.py": "5a93b636daaac72f07e6dc0d1128e8646686b75affd1564d651feebe5180d659",
+    "experimentos_objetivo3_v2/fase2/fuentes/congelar.py": "64afb0586cd317519c3c22c5119409f1c2a527a159541e8df12e3cf3e03a5cec",
+    "protocolo/fuentes/configuracion.py": "d4cd0c59f94d01316adfe2ab1a0ebddaa3630679344bc520296e80c78e41cab1"
+  },
+  "congelacion_v2_sha256": "366012873fac5cd13bcae021bdea2bc9e3186f2efb56e7745c011dc77ac82991",
+  "panel_fuente_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "semilla": 20261010,
+  "ajustes_reales": 0,
+  "predicciones_reales": 0,
+  "piloto_iniciado": false,
+  "ledger_operativo_creado": false,
+  "requisito_futuro": "Verificar estas huellas y congelar orquestación etapa2 antes del primer ajuste real."
+}

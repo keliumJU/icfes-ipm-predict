@@ -1,0 +1,11 @@
+{
+  "limite": 1.0,
+  "consumido": 1.0,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "estado": "interrupcion_no_medida",
+      "segundos": null
+    }
+  ]
+}

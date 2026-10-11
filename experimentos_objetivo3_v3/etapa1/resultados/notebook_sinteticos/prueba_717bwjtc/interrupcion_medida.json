@@ -1,0 +1,12 @@
+{
+  "limite": 2.0,
+  "consumido": 1.6289995983242989e-06,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "interrumpido",
+      "estado": "error",
+      "segundos": 1.6289995983242989e-06
+    }
+  ]
+}
