@@ -1,0 +1,326 @@
+{
+  "id": "boosting_absoluto_historico_01",
+  "etiqueta": "e2024_i2022_boosting_absoluto_historico_01",
+  "entrenamiento": [
+    2019,
+    2021
+  ],
+  "llaves_entrenamiento": [
+    [
+      "00",
+      2019
+    ],
+    [
+      "00",
+      2021
+    ],
+    [
+      "01",
+      2019
+    ],
+    [
+      "01",
+      2021
+    ],
+    [
+      "02",
+      2019
+    ],
+    [
+      "02",
+      2021
+    ],
+    [
+      "03",
+      2019
+    ],
+    [
+      "03",
+      2021
+    ],
+    [
+      "04",
+      2019
+    ],
+    [
+      "04",
+      2021
+    ],
+    [
+      "05",
+      2019
+    ],
+    [
+      "05",
+      2021
+    ],
+    [
+      "06",
+      2019
+    ],
+    [
+      "06",
+      2021
+    ],
+    [
+      "07",
+      2019
+    ],
+    [
+      "07",
+      2021
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "08",
+      2021
+    ],
+    [
+      "09",
+      2019
+    ],
+    [
+      "09",
+      2021
+    ],
+    [
+      "10",
+      2019
+    ],
+    [
+      "10",
+      2021
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "11",
+      2021
+    ],
+    [
+      "12",
+      2019
+    ],
+    [
+      "12",
+      2021
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "13",
+      2021
+    ],
+    [
+      "14",
+      2019
+    ],
+    [
+      "14",
+      2021
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "15",
+      2021
+    ],
+    [
+      "16",
+      2019
+    ],
+    [
+      "16",
+      2021
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "17",
+      2021
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "18",
+      2021
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "19",
+      2021
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "20",
+      2021
+    ],
+    [
+      "21",
+      2019
+    ],
+    [
+      "21",
+      2021
+    ],
+    [
+      "22",
+      2019
+    ],
+    [
+      "22",
+      2021
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "23",
+      2021
+    ],
+    [
+      "24",
+      2019
+    ],
+    [
+      "24",
+      2021
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "25",
+      2021
+    ],
+    [
+      "26",
+      2019
+    ],
+    [
+      "26",
+      2021
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "27",
+      2021
+    ],
+    [
+      "28",
+      2019
+    ],
+    [
+      "28",
+      2021
+    ],
+    [
+      "29",
+      2019
+    ],
+    [
+      "29",
+      2021
+    ],
+    [
+      "30",
+      2019
+    ],
+    [
+      "30",
+      2021
+    ],
+    [
+      "31",
+      2019
+    ],
+    [
+      "31",
+      2021
+    ],
+    [
+      "32",
+      2019
+    ],
+    [
+      "32",
+      2021
+    ]
+  ],
+  "n": 66,
+  "parametros_completos": {
+    "alpha": 0.9,
+    "ccp_alpha": 0.0,
+    "criterion": "deprecated",
+    "init": null,
+    "learning_rate": 0.03,
+    "loss": "absolute_error",
+    "max_depth": 2,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 3,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "n_estimators": 100,
+    "n_iter_no_change": null,
+    "random_state": 20261010,
+    "subsample": 1.0,
+    "tol": 0.0001,
+    "validation_fraction": 0.1,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "entradas": [
+    "puntaje_previo"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "sintetico_doble",
+  "datos_X_sha256": "a10fce481213154036cc46dab0e6ace1865fd567792fe8e532ea871911c988c0",
+  "datos_y_sha256": "2e80eaafdf4b02fabab0d17ad05d94bac7a5490ebe2fa315b96ab7ee17f00817",
+  "panel_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "3f61c297b941d2ec67a7b9dfef90e808ca0c9cbf94e7ce767a8b85f27fe6f8c5",
+  "congelacion_sha256": null,
+  "instante_inicio": "2026-10-11T03:49:39.179721+00:00",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {},
+  "modelo_sha256": "983859f4a7e8129e64b2994233b725957039247e4adda36c153c8012f9b8d3c2",
+  "tiempo": {
+    "etiqueta": "e2024_i2022_boosting_absoluto_historico_01_intento1",
+    "estado": "ok",
+    "segundos": 0.001
+  },
+  "intento": 1,
+  "entradas_entrenamiento_sha256": "92f33e0ab8b3e211978440c54b1a2519ef5cc2504b831394895289470dd67347",
+  "mediana_train": null,
+  "predicciones_sha256": "f6cb757e950323a4d94e5615e9ab09234eac349a77f6e60e03437ee278320d08",
+  "segundos_prediccion": 0.4324838999964413,
+  "fuera_0_500": 0,
+  "entradas_prediccion_sha256": "68b5f6300df273d7a0d4c1be81dfeb55e34da67a31757fad953c4afcc499eed7"
+}

@@ -1,0 +1,27 @@
+{
+  "aprobado": true,
+  "ajustes_panel": 0,
+  "origen": "inventados/dobles exclusivamente",
+  "grupos": [
+    "orquestación completa36/350 internos/7×165/selecciones antes externo/repeticiones/orden/artefactos/transforms; reanudar sin fits",
+    "contexto/matrices/artefactos/modelos/huellas/ledger alterado; saldo no ampliable",
+    "un retryinfra/segundo detiene/numérico inelegible persistente/caída pendiente agota",
+    "global distinto de grupo/6IDs/dedup solo identidad/registro36/regex temporal completa",
+    "cobertura incompleta/no finitos/observados/CSV int-float exacto rechaza1e-11 llaves campos orden/rutas y symlink",
+    "worker propios imports/Pipeline/boosting real inventado/HiGHS fallo y convergencia/terminación límite e interrupción/sin proceso restante/sin intento ficticio"
+  ],
+  "pruebas": "experimentos_objetivo3_v5/etapa2/resultados/sinteticos/orquestacion_um4la86w",
+  "fuentes_sha256": {
+    "experimentos_objetivo3_v5/etapa2/fuentes/01_resultados_piloto.py": "8de819b36f8466c347e642f7dce0f09894f0217e3a435dee45e0fc7efa4cd579",
+    "experimentos_objetivo3_v5/etapa2/fuentes/cerrar.py": "4f47b3229ad0be4752a359bcf452970c548a39b488ddef51b6af5d7d6157c3c0",
+    "experimentos_objetivo3_v5/etapa2/fuentes/generar_notebook.py": "0fba64930832fa7e6d219ca67110002a7e2b1da4e688e2279e102bad993e58c1",
+    "experimentos_objetivo3_v5/etapa2/fuentes/motor.py": "4caa38038f38588e5cb79267e35331dbae828c4c3068162b0974a97e4e2fa6a3",
+    "experimentos_objetivo3_v5/etapa2/fuentes/piloto.py": "809de874909dde6d726b39936fd04b80f2382dd9327b817184a11fad3b616c09",
+    "experimentos_objetivo3_v5/etapa2/fuentes/probar.py": "a06ebdb8ffb7d145ae7fc55441e66ec12f0a916b958e5c9f1cb120b32cc418fb",
+    "experimentos_objetivo3_v5/etapa2/fuentes/verificar.py": "d5bb869927ced98946cad155d0d83f35aa770558996234d21f1b36b5f1d4c205",
+    "experimentos_objetivo3_v5/etapa2/fuentes/worker.py": "80703df73b94a6413c43cf8af19c7e6962e5f71f00231101edacecf71f26a943"
+  },
+  "defaults_sha256": "8607da5b380d3d86466c106befeda8974e11a14dfaa7b5ab49429aafbe255860",
+  "panel_entrada_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "3f61c297b941d2ec67a7b9dfef90e808ca0c9cbf94e7ce767a8b85f27fe6f8c5"
+}

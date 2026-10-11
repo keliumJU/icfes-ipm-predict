@@ -1,0 +1,21 @@
+{
+  "ensayos": [
+    {
+      "directorio": "experimentos_objetivo3_v5/etapa2/resultados/sinteticos/orquestacion_9_a50wo7",
+      "intentos": 374,
+      "metas_sin_huella_entorno": 65,
+      "completo": true
+    },
+    {
+      "directorio": "experimentos_objetivo3_v5/etapa2/resultados/sinteticos/orquestacion_um4la86w",
+      "intentos": 326,
+      "metas_sin_huella_entorno": 0,
+      "completo": false
+    }
+  ],
+  "incidencias": [
+    "Primer preflight rechazó nombre de rama arrastrado de v4; corregido antes fit real.",
+    "Primer ensayo sintético empezó antes de finalizar preflight y cambios de fuentes; auditor rechazó meta sin SHA entorno. Se conserva; suite nueva solo después de preflight y con fuentes finales."
+  ],
+  "ajustes_panel": 0
+}

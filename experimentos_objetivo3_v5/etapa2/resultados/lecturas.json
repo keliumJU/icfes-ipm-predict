@@ -1,0 +1,164 @@
+{
+  "fecha_cliente": "2026-10-10",
+  "archivos_sha256": {
+    "AGENTS.md": "4f021b7d45e2b61951c2c2b3e939482f47882f12d52c3ba62f9db1482e58f466",
+    "experimentos_objetivo3_v2/CONTINUIDAD_V2.md": "2565abc335ea6a6d7ce18b48310123bef867f71b11e4820e336fb86664061174",
+    "experimentos_objetivo3_v3/CONTINUIDAD_V3.md": "52a8a0ac8a69ef1a38a460c4f83482b418368737b045ab8e0e89e7863d651d20",
+    "experimentos_objetivo3_v4/CONTINUIDAD_V4.md": "ea15da65f236cfb33bdbb6cbe26869227e66137bc451544caaa333915889ad6a",
+    "experimentos_objetivo3_v5/CONTINUIDAD_V5.md": "33bbdce75635733eae8bad9e14d1900999fd8af6318a55842382b5d2544e13fd",
+    "experimentos_objetivo3_v5/etapa1/README.md": "9fb5fd90b0217ebda870bc1e69fea289c7cac94c6dedba376e78299883ca3a01",
+    "experimentos_objetivo3_v5/etapa1/INFORME_CIERRE.md": "5a9573100131ccd2625b2d511b7003d17731b73af7f6f3b5a04aa08f862f6ef8",
+    "experimentos_objetivo3_v5/etapa1/registro_problemas.md": "d71db579fbbe174073ac415f906de5c944c31b121728a88ee195662b977c8749",
+    "experimentos_objetivo3_v5/etapa1/PROTOCOLO_V5.md": "e73aecd44c03f57299b1ed740bf8d656b729f38d974ea11d6e33baca8076a1b8",
+    "experimentos_objetivo3_v5/etapa1/requirements.lock.txt": "1f01b6806e77991eb2b544102503398fd7b27fe097d4ef650fdaa7377ef5ff6d",
+    "experimentos_objetivo3_v5/etapa1/resultados/controles.json": "c6a27fd0b7eba0b73f4fa9247cd718ef20adbc0a8dd9d4005ec7b3ce4b04cfc8",
+    "experimentos_objetivo3_v5/etapa1/resultados/configuraciones_congeladas.json": "8607da5b380d3d86466c106befeda8974e11a14dfaa7b5ab49429aafbe255860",
+    "experimentos_objetivo3_v5/etapa1/resultados/entorno.json": "3f61c297b941d2ec67a7b9dfef90e808ca0c9cbf94e7ce767a8b85f27fe6f8c5",
+    "experimentos_objetivo3_v5/etapa1/resultados/congelacion_previa.json": "1b8ad54d1d44d757956e2d4ab92e2243c12cb3d51df1445da053210012f4e21b",
+    "experimentos_objetivo3_v5/etapa1/resultados/manifiesto_cierre.json": "756746541d9450c2106c0a9a2bab1d481daf101564f55ca472cc9ad444182946",
+    "experimentos_objetivo3_v5/etapa1/resultados/conservacion_final.json": "20778d4d647df79fb0ab8aea86ca570af1052ab7e984d7ab5231163862b0bc23",
+    "experimentos_objetivo3_v5/etapa1/resultados/referencias_guardadas.json": "a45a9fb433e4dc94a3eadda869cbf7379ec3be61eadde804d33dfc83705c228b"
+  },
+  "json_estructuras_completas": [
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/controles.json",
+      "campos": [
+        "aprobado",
+        "origen",
+        "controles",
+        "pruebas",
+        "ajustes_panel",
+        "ledger_operativo_creado",
+        "meta_v5_evaluada",
+        "semilla",
+        "fuentes_sha256"
+      ],
+      "sha256": "c6a27fd0b7eba0b73f4fa9247cd718ef20adbc0a8dd9d4005ec7b3ce4b04cfc8"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/configuraciones_congeladas.json",
+      "campos": [
+        "version",
+        "configuraciones",
+        "grupos",
+        "ventanas",
+        "orden_familias",
+        "semilla",
+        "tolerancias",
+        "limite_futuro",
+        "cota_sin_fallos",
+        "panel_fuente_sha256",
+        "panel_derivado_sha256"
+      ],
+      "sha256": "8607da5b380d3d86466c106befeda8974e11a14dfaa7b5ab49429aafbe255860"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/entorno.json",
+      "campos": [
+        "python",
+        "ejecutable",
+        "paquetes",
+        "sklearn",
+        "pip_check",
+        "advertencias",
+        "semilla",
+        "instalaciones",
+        "lock_sha256"
+      ],
+      "sha256": "3f61c297b941d2ec67a7b9dfef90e808ca0c9cbf94e7ce767a8b85f27fe6f8c5"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/congelacion_previa.json",
+      "campos": [
+        "version",
+        "fecha_cliente",
+        "instante_utc",
+        "artefactos_sha256",
+        "fuentes_reutilizadas_lectura",
+        "ajustes_panel",
+        "ledger_operativo_creado",
+        "presupuesto_real_iniciado",
+        "meta_v5_evaluada",
+        "requisito_etapa2"
+      ],
+      "sha256": "1b8ad54d1d44d757956e2d4ab92e2243c12cb3d51df1445da053210012f4e21b"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/manifiesto_cierre.json",
+      "campos": [
+        "etapa",
+        "version",
+        "commit_partida",
+        "etapa1_completa",
+        "entregables_sha256",
+        "ajustes_panel",
+        "presupuesto_real_iniciado",
+        "meta_v5_evaluada",
+        "pendientes_indispensables",
+        "pendientes_autorizacion",
+        "push"
+      ],
+      "sha256": "756746541d9450c2106c0a9a2bab1d481daf101564f55ca472cc9ad444182946"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/conservacion_final.json",
+      "campos": [
+        "aprobado",
+        "protegidos_sha256",
+        "continuidad_previa_conservada",
+        "unica_modificacion_previa",
+        "pdf_paginas",
+        "push"
+      ],
+      "sha256": "20778d4d647df79fb0ab8aea86ca570af1052ab7e984d7ab5231163862b0bc23"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/referencias_guardadas.json",
+      "campos": [
+        "aprobado",
+        "origen",
+        "archivos_sha256",
+        "selecciones_sha256",
+        "roles",
+        "mae_persistencia_v3",
+        "persistencia_independiente",
+        "modelos_cargados",
+        "meta_v5_evaluada"
+      ],
+      "sha256": "a45a9fb433e4dc94a3eadda869cbf7379ec3be61eadde804d33dfc83705c228b"
+    }
+  ],
+  "plan_secciones": [
+    "1",
+    "2",
+    "4"
+  ],
+  "plan_lineas": [
+    [
+      1,
+      81
+    ],
+    [
+      93,
+      98
+    ]
+  ],
+  "continuidades": "vigentes v2 líneas1–110; v3 1–115; v4 1–113; v5 completa. Salida conjunta truncada: no se atribuye lectura de antecedentes truncados.",
+  "protocolo": "5.0.0 completo",
+  "pdf_paginas": 0,
+  "cierre_etapa1_lectura_aprobado": true,
+  "git": {
+    "cierre_real": "109797407d75d2097e5b71f8bcef3fc266bc61d2",
+    "head": "109797407d75d2097e5b71f8bcef3fc266bc61d2",
+    "sin_trabajo_posterior": true,
+    "rama": "codex/objetivo3-v5-mae"
+  },
+  "fuentes_operativas_previas": "v4/piloto.py y verificar.py leídos para adaptación explícita propia; no importados ni ejecutados",
+  "fuentes_cotejo": [
+    "v4/etapa2/FE_DE_ERRATAS_E2_01.md",
+    "v5/etapa1/fuentes/comun_v5.py",
+    "v5/etapa1/fuentes/preparar.py",
+    "v5/etapa1/fuentes/controles.py",
+    "v5/etapa1/fuentes/cerrar.py"
+  ]
+}

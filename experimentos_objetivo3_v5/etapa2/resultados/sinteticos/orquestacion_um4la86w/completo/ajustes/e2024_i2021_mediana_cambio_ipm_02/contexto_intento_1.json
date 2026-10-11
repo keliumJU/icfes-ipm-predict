@@ -1,0 +1,179 @@
+{
+  "id": "mediana_cambio_ipm_02",
+  "etiqueta": "e2024_i2021_mediana_cambio_ipm_02",
+  "entrenamiento": [
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "00",
+      2019
+    ],
+    [
+      "01",
+      2019
+    ],
+    [
+      "02",
+      2019
+    ],
+    [
+      "03",
+      2019
+    ],
+    [
+      "04",
+      2019
+    ],
+    [
+      "05",
+      2019
+    ],
+    [
+      "06",
+      2019
+    ],
+    [
+      "07",
+      2019
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "09",
+      2019
+    ],
+    [
+      "10",
+      2019
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "12",
+      2019
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "14",
+      2019
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "16",
+      2019
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "21",
+      2019
+    ],
+    [
+      "22",
+      2019
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "24",
+      2019
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "26",
+      2019
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "28",
+      2019
+    ],
+    [
+      "29",
+      2019
+    ],
+    [
+      "30",
+      2019
+    ],
+    [
+      "31",
+      2019
+    ],
+    [
+      "32",
+      2019
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "QuantileRegressor()"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "QuantileRegressor()",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 1.0,
+    "modelo__fit_intercept": true,
+    "modelo__quantile": 0.5,
+    "modelo__solver": "highs",
+    "modelo__solver_options": null
+  },
+  "entradas": [
+    "puntaje_previo",
+    "cambio_ipm"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "sintetico_doble",
+  "datos_X_sha256": "94eda27b3bd3aad7400ab9684b4459004d990b4e90d201e6eeb4c3d409a11490",
+  "datos_y_sha256": "9b0012dbdae4fe2173e40141282cf1537b1dd545b79472812d348a67e9c2dff9",
+  "panel_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "3f61c297b941d2ec67a7b9dfef90e808ca0c9cbf94e7ce767a8b85f27fe6f8c5",
+  "congelacion_sha256": null
+}

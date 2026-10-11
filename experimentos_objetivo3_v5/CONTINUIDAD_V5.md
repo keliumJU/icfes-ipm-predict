@@ -1,3 +1,123 @@
+# Continuidad v5 — etapas1–2 cerradas localmente; meta no satisfecha
+
+Fecha cliente2026-10-10,America/Bogota. Exclusivamente etapa2 autorizada por prompt
+enviado y realizada: orquestación propia/probar/congelar/piloto36/auditar/notebook
+resultados/cierre local. No etapa3/notebook personal/simulación/objetivo4/modelo final/
+instalación/descarga/push. Antecedente etapa1 íntegro abajo, sin vigencia de su
+pendiente de autorización etapa2.
+
+## Partida, lecturas y conservación
+
+HEAD real109797407d75d2097e5b71f8bcef3fc266bc61d2 y asunto exacto cierreetapa1
+comprobados; rama codex/objetivo3-v5-mae limpia/sin trabajo posterior/ascendencia,
+sin reset/sobrescritura. Etapa1 cerrar.py --verificar en lectura ANTES crear etapa2.
+Luego huellas/manifiesto/congelación/conservación en lectura; única continuidad
+histórica comprobada en commitreal, sin excepción para otras rutas.
+AGENTS/continuidades vigentesv2/v3/v4/v5 primero; plan solo§§1–2/§4; protocolo5.0.0
+completo,README/informe/registro/controles/grilla/defaults/lock/congelación/manifiesto/
+conservación. Primera consulta conjunta truncada corregida; lecturas.json distingue
+vigentes leídos de antecedentes no atribuidos. PDF actuales0páginas. Python3.12.14/
+sklearn1.9.1/54paquetes exactos lock/pip check revalidados antes uso, sin instalar.
+Snapshot/partida/entorno/lecturas en etapa2/resultados; fuente/derivado/referencias/
+selecciones/huellas revalidadas en memoria antes piloto. Escrituras soloetapa2 y
+esta continuidad; originales/v1/v2/v3/v4/continuidades/etapa1/atributos/.gitignore/
+modelos/ledgers previos intactosSHA, sin excepción fuera de continuidad propia.
+
+## Decisiones del usuario y nuevas antes de evaluación
+
+Protocolo5.0.0 intacto: ESTUDIANTE/no libertadS/grado11/seis puntajes presentes
+positivos/sin calendario;media global recibida sin recalcular/redondear/geografía
+colegio/peso igual territorio-año/conteos trazabilidad. Fuenteúnicav2SHA
+6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3;
+derivadov4/copiav5SHAaa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc,
+231filas/33territorios/198cambios.2020excluido/2018historial/previo máximo anterior
+mismo territorio/2021previo2019/sin anualizar. Cambiosobjetivo sin escalar,
+reconstrucción previo+predicho/métricas originales;sin filtros/predictores nuevos.
+
+Grilla36=1persistencia sin fit+15medianas(5grupos×α0.01/0.1/1)+20boosting
+absoluto(5grupos×learning_rate0.03/0.1×depth1/2),defaults íntegros sklearn1.9.1,
+semilla20261010. MedianaPipelineStandardScalertrain→QuantileRegressor0.5/L1/highs;
+boostinglossabsolute_error/100estimadores/hoja3/subsample1/sin scaler/parada temprana.
+Grupos/nombres/orden15tasas intactosv4,entradas1/2/2/16/17. JSON/IDs fijos.
+2021persistencia fija sin fit/puntuar/seleccionar candidatos;2022–2025internas
+expansivas2021..añoanterior,train cambios anteriores desde2019,sin validar2019/cache
+entre ventanas. BandasMAE/RMSE0.1/menos entradas ajustadas (persistencia0)/familia/
+JSON;global puede diferir de ganadorgrupo;dedup soloIDigual,selecciones antesexterno.
+Meta exacta≥5%global frente persistencia/v3/165llaves y observados iguales,
+denominador positivo/finito,sin redondeo/tres-de-cinco/sustitución por mejorgrupo.
+
+Implementación nueva antesfit: piloto.py/verificar.py adaptados explícitamente a v5,
+no import/ejecuciónrunner v4 ni29candidatos;motor.py/worker.py propios y comunesv5
+sololectura. Destinosetapa2,serial/spawn terminable/7200s propios persistentes,
+arranque/Pipeline/comunicación/fallos/retries/repeticiones incluidos, persistencia
+aparte sinfit. Contexto/índice/huellas/intento antesproceso; reanudar artefactos/
+matrices/llaves/observados/años/parámetros/transforms/semilla/versiones. Numérico/
+convergencia inelegible persistente;infra máximo1retry/segundo detiene;caída pendiente
+agota conservadoramente;integridad/cobertura/persistencia/límite detienen incompleto,
+sin meta parcial/reinicio/ampliación. Cota378=350+≤24+≤4 sinfallos/reintentos intacta.
+Pruebas inventadas/dobles propias completas, reanudación sinfits/adaptación,
+36candidatos/selecciones/globaldistinto/dedup/7roles/fallos/rutas/CSVexacto/HiGHS/
+convergencia/imports/terminaciónreal. Suite válida ligada a mismasfuentes/defaults/
+entradas/entorno;congelacion_operativa NUEVA antesprimerfit, no interfazetapa1.
+Ensayo preliminar rechazado conservado sin acreditarlo como aprobación final.
+
+## Resultados realmente ejecutados y auditados
+
+Piloto íntegro350ajustes/350intentos=350internos+0externos+0repeticiones ajustadas,
+0fallos/retries/advertencias reales.11880predicciones internas/350internos potenciales
+íntegros/144registros de36candidatos en cuatro selecciones;7procedimientos×165externas
+=1155,33territorios×5años,observados/llaves exactos sin duplicados/no finitos.
+Global/cincogrupos seleccionan persistencia en cincoaños;cinco comprobacionesglobales
+recalculadas sin fit, diferencia máxima0,atol1e-10/rtol0. No ganadorajustado que repetir.
+Ledger propio 460.98687669297215s/7200;saldo 6739.013123307028s;
+persistencia 0.0005300240081851371s aparte. Auditoría integral modelos porhash/
+parámetros/inputs/transforms/semilla/versiones/años/roles/orden/consumo/repeticiones/
+CSVhistóricosv1/v2/v3/v4/media/tresOLS, sincargar modeloscomparadores/nuevosfits/
+búsquedas; complemento verifica150escalas mediante aritmética y sin procesosrestantes.
+
+MAEglobalv5=MAEreferencia=3.429267191379531;mejoraexacta0.0%,metaNOsatisfecha.
+RMSEglobal4.3149206473689041,sesgo−2.0960105973100562,R²0.93835113391179781.
+Cero deterioros frentepersistencia porqueidéntico,sin eliminar error ni sesgo;
+165pares/33territorios/5años/tablas completas y deteriorosvacíos con encabezados.
+No beneficioincremental del aprendizaje/covariables demostrado;sin rescate.
+Recálculos actuales desdeCSVguardados,no reproducción deajustes históricos.
+
+Notebookútil01_resultados_piloto.ipynb desde fuenteeditable/generadorPython,
+nbformatvalida/3celdas realmenteejecutadas conPythonexec/soloresultadosguardados;
+salidas reales,sin kernel/ajustes/notebookpersonal/simulación. README/INFORME_PILOTO/
+registro/controles/auditorías/congelación/CSV/ledger/modelos propios/parámetros/
+inputs/transforms/predicciones/selecciones/repeticiones/notebook/conservación/
+manifiesto/continuidad/promptetapa3 en etapa2. Commitlocal únicamentev5 por asunto
+`etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora`;hash obtener tras crear,
+fuera manifiesto/sin autorreferencia/push.
+
+## Hallazgos y pendientes
+
+Impacto/alternativa/resolución en registro_problemas.md: rama inicial arrastrada,
+ensayo sintético anteshuella entorno rechazado/65metas y repeticiónfinalválida,
+FutureWarning del controlnegativo separado depiloto,orquestación propia/congelación,
+E2-01 antecedente/errata intacta/externo2022persistencia cambio_predicho int/float0
+exacto/rechazo1e-11/llaves/campos/orden,metafalsa/deterioros nulosconerrorconservado.
+La generación documental final detuvo por conteo escrito105escalas frente150reales,
+y un cierre preliminar no incluía actualización decontinuidad. Ambos documentos de
+cierre se archivaron en resultados/antecedentes_cierre_precontinuidad antes corregir
+texto y completar continuidad; cierre actual se genera después, sin modificar
+fuentescongeladas/piloto/criterios/ledger ni añadirfits. Registro evidencia/resolución.
+No contradicciónmaterial irresoluble ni controlesindispensables pendientesetapa2.
+Casoscompletos/Guainía238vs404/21.012106puntos (v2/fase1/resultados/diagnostico_medias_disponibles.csv),
+procedencialocal/comparabilidadIPM/hogares-alumnos/residencia-colegio/enlaceecológico/
+dependencia territorial-temporal/pocosaños siguen activos.2021–2025examinados:
+exploratorio,sin confirmaciónindependiente/causalidad/pronósticoanticipadodemostrado.
+Antecedentes archivados no reabiertos sin conexiónnueva;E3-01/E3-02cota1555v2 nocotasv5.
+Condiciónetapa3 pendiente porque metaNOsatisfecha;promptetapa3guardadoNOejecutado,
+solo otraautorización y metaglobal satisfecha permitirían revisión/notebookpersonal.
+Nunca avanzar automáticamente ni rescatar resultados. Sin instalación/descarga/push,
+simulación/objetivo4/entrenamientofinal.
+
+---
+
+## Antecedente íntegro etapa1 — autorización pendiente de etapa2 ya superada
+
 # Continuidad v5 — etapa1 cerrada localmente; piloto no iniciado
 
 Fecha cliente2026-10-10,America/Bogota. Autorizada y realizada exclusivamente etapa1:

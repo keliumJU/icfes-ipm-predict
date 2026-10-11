@@ -1,0 +1,1 @@
+Auditoría completa aprobada: {'completo': True, 'n': 165, 'mae_v5': 3.429267191379531, 'mae_referencia': 3.429267191379531, 'mejora_porcentual_exacta': 0.0, 'meta_satisfecha': False, 'umbral': 5, 'notebook_personal_entregado': False, 'exploratorio': True}

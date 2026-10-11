@@ -1,0 +1,208 @@
+{
+  "id": "boosting_absoluto_cambio_tasas_03",
+  "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_03",
+  "entrenamiento": [
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "99",
+      2019
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "alpha": 0.9,
+    "ccp_alpha": 0.0,
+    "criterion": "deprecated",
+    "init": null,
+    "learning_rate": 0.1,
+    "loss": "absolute_error",
+    "max_depth": 2,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 3,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "n_estimators": 100,
+    "n_iter_no_change": null,
+    "random_state": 20261010,
+    "subsample": 1.0,
+    "tol": 0.0001,
+    "validation_fraction": 0.1,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "entradas": [
+    "puntaje_previo",
+    "cambio_Analfabetismo",
+    "cambio_Bajo logro educativo",
+    "cambio_Barreras a servicios para cuidado de la primera infancia",
+    "cambio_Inasistencia escolar",
+    "cambio_Rezago escolar",
+    "cambio_Trabajo infantil",
+    "cambio_Desempleo de larga duracion",
+    "cambio_Trabajo informal",
+    "cambio_Barreras de acceso a servicios de salud",
+    "cambio_Sin aseguramiento en salud",
+    "cambio_Hacinamiento critico",
+    "cambio_Inadecuada eliminacion de excretas",
+    "cambio_Material inadecuado de paredes exteriores",
+    "cambio_Material inadecuado de pisos",
+    "cambio_Sin acceso a fuente de agua mejorada"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "real",
+  "datos_X_sha256": "df4c2d249b74262824813ab86067d571348fc227d6008f7d26187d3867a50bdd",
+  "datos_y_sha256": "e4406b59b9c922e0a726e43d013c752c897659f235b1324fd15d04db509d42e6",
+  "panel_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "3f61c297b941d2ec67a7b9dfef90e808ca0c9cbf94e7ce767a8b85f27fe6f8c5",
+  "congelacion_sha256": "705adafe217abec19541379837d43989503573950d6b4c46a2e915adc3f9ba90",
+  "instante_inicio": "2026-10-11T04:01:22.612327+00:00",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {},
+  "modelo_sha256": "87cbe52c807063562bb8c4bd6ff8652e395d42a144800c07d1953a716011d960",
+  "tiempo": {
+    "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_03_intento1",
+    "estado": "ok",
+    "segundos": 1.3508246519995737
+  },
+  "intento": 1,
+  "entradas_entrenamiento_sha256": "7b29f823cfe07cb96d0a57aa273d7210b2cdce7095159eb13f0ecaee20db1427",
+  "mediana_train": null,
+  "predicciones_sha256": "76816bfd7099548aebb8394c483d1da196097b886d2ea3047ba1ebd911c0e7c8",
+  "segundos_prediccion": 1.757466180002666,
+  "fuera_0_500": 0,
+  "entradas_prediccion_sha256": "7b316c40f42f4fcd9ef1fc1a152870ecb29aef0adf5c69907cff1b9094e3bbd5"
+}

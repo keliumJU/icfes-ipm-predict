@@ -1,0 +1,210 @@
+{
+  "id": "mediana_nivel_ipm_00",
+  "etiqueta": "e2023_i2021_mediana_nivel_ipm_00",
+  "entrenamiento": [
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "00",
+      2019
+    ],
+    [
+      "01",
+      2019
+    ],
+    [
+      "02",
+      2019
+    ],
+    [
+      "03",
+      2019
+    ],
+    [
+      "04",
+      2019
+    ],
+    [
+      "05",
+      2019
+    ],
+    [
+      "06",
+      2019
+    ],
+    [
+      "07",
+      2019
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "09",
+      2019
+    ],
+    [
+      "10",
+      2019
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "12",
+      2019
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "14",
+      2019
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "16",
+      2019
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "21",
+      2019
+    ],
+    [
+      "22",
+      2019
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "24",
+      2019
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "26",
+      2019
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "28",
+      2019
+    ],
+    [
+      "29",
+      2019
+    ],
+    [
+      "30",
+      2019
+    ],
+    [
+      "31",
+      2019
+    ],
+    [
+      "32",
+      2019
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "QuantileRegressor(alpha=0.01)"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "QuantileRegressor(alpha=0.01)",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 0.01,
+    "modelo__fit_intercept": true,
+    "modelo__quantile": 0.5,
+    "modelo__solver": "highs",
+    "modelo__solver_options": null
+  },
+  "entradas": [
+    "puntaje_previo",
+    "ipm"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "sintetico_doble",
+  "datos_X_sha256": "08d90764182d2ab60267d3c156da5fa31c9a5d877cc854439cedaf521ac72bff",
+  "datos_y_sha256": "9b0012dbdae4fe2173e40141282cf1537b1dd545b79472812d348a67e9c2dff9",
+  "panel_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "3f61c297b941d2ec67a7b9dfef90e808ca0c9cbf94e7ce767a8b85f27fe6f8c5",
+  "congelacion_sha256": null,
+  "instante_inicio": "2026-10-11T03:49:02.343714+00:00",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      216.0,
+      12.179
+    ],
+    "scale": [
+      9.521904571390467,
+      0.09521904571390473
+    ],
+    "var": [
+      90.66666666666667,
+      0.00906666666666668
+    ],
+    "n_samples_seen": 33
+  },
+  "modelo_sha256": "4991ff6a20586222a13be5db5e8276a04ea73f692dd1a4788929f3c36cf4eaaf",
+  "tiempo": {
+    "etiqueta": "e2023_i2021_mediana_nivel_ipm_00_intento1",
+    "estado": "ok",
+    "segundos": 0.001
+  },
+  "intento": 1,
+  "entradas_entrenamiento_sha256": "277b144cd20767ffa4a30c317405d00c9fe4919f2f47b13495f5732d87c90fb5",
+  "mediana_train": null,
+  "predicciones_sha256": "6727da1a013f81fad8ad191649030cc5e06eb4974dc0a6aa804e1898961c13c8",
+  "segundos_prediccion": 0.1251109489967348,
+  "fuera_0_500": 0,
+  "entradas_prediccion_sha256": "d58905f44f4c47685cbed54aa75106f3c4c42c8202636b01b42034e717852727"
+}

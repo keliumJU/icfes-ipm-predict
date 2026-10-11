@@ -1,0 +1,13 @@
+Externo 2021 completo; 0 ajustes; 0.0s acumulados.
+Externo 2022 completo; 40 ajustes; 0.0s acumulados.
+Externo 2023 completo; 115 ajustes; 0.1s acumulados.
+Externo 2024 completo; 225 ajustes; 0.2s acumulados.
+Externo 2025 completo; 370 ajustes; 0.4s acumulados.
+Externo 2021 completo; 374 ajustes; 0.4s acumulados.
+Externo 2022 completo; 374 ajustes; 0.4s acumulados.
+Externo 2023 completo; 374 ajustes; 0.4s acumulados.
+Externo 2024 completo; 374 ajustes; 0.4s acumulados.
+Externo 2025 completo; 374 ajustes; 0.4s acumulados.
+/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_objetivo3_v5/etapa2/fuentes/probar.py:74: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '203.00000000001' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  corrupt=frames.copy();corrupt.loc[33,'observado']+=1e-11;rechaza(lambda:cobertura(corrupt,p.codigo_departamento.unique()))
+Pruebas propias etapa2 aprobadas 6

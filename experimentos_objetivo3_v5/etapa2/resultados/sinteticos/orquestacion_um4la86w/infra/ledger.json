@@ -1,0 +1,19 @@
+{
+  "limite": 7200,
+  "consumido": 0.0016702390057616867,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_00_intento1",
+      "estado": "error",
+      "segundos": 0.0008367650007130578,
+      "clase_fallo": "infraestructura"
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_00_intento2",
+      "estado": "error",
+      "segundos": 0.0008334740050486289,
+      "clase_fallo": "infraestructura"
+    }
+  ]
+}

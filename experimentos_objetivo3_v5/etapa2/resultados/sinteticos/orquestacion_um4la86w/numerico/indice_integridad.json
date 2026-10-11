@@ -1,0 +1,9 @@
+{
+  "archivos_sha256": {
+    "ajustes/e2022_i2021_mediana_historico_00/ajuste.json": "abcc896309d219d65b0c2562f6d60454d0c90b642325c57574d3ad3bf289f197",
+    "ajustes/e2022_i2021_mediana_historico_00/contexto_intento_1.json": "aaed17e4c6133ef60d24138166a4367acd40bc31263855dca3cf75b5e71932ec",
+    "ajustes/e2022_i2021_mediana_historico_00/fallo_1.json": "abcc896309d219d65b0c2562f6d60454d0c90b642325c57574d3ad3bf289f197",
+    "contexto.json": "65e8588a58ac333adc321fb5c0917d1ad783fb99e2efaaa5e964edc92b5891cb",
+    "ledger.json": "959a60e3ed55430eb25e117aba8278455445c40aff884cdd00da2efcecec2e33"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "aprobado": true,
+  "escalas_aritmeticas_verificadas": 150,
+  "procedimiento": "scale=sqrt(var); constantes según umbral numérico de StandardScaler sklearn1.9.1; solo aritmética sobre metadatos; semillas exactas",
+  "modelos_cargados": false,
+  "ajustes_nuevos": 0,
+  "hijos_restantes": [],
+  "comparaciones_por_periodo_filas": 273,
+  "deterioros_pares": 0,
+  "deterioros_territoriales": 0,
+  "deterioros_anuales": 0
+}

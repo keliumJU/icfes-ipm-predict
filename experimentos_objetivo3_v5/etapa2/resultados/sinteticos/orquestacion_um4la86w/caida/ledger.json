@@ -1,0 +1,12 @@
+{
+  "limite": 7200,
+  "consumido": 7200,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "perdido",
+      "estado": "interrupcion_no_medida",
+      "segundos": 7200.0
+    }
+  ]
+}

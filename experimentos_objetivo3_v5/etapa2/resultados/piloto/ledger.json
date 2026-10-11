@@ -1,0 +1,1757 @@
+{
+  "limite": 7200,
+  "consumido": 460.98687669297215,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1765209769946523
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1979829109986895
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2143174089942477
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.1830854579966399
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.178735802997835
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2144725049947738
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.199811566999415
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2233523870017962
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.207758513999579
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2242119110014755
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1876519860015833
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2016191289949347
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.199494593005511
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.204461185996479
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2003472540018265
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.291376371998922
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2653753049962688
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2419890649980516
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2876981290028198
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2376512789996923
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3098288100009086
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.248429423001653
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2535605739976745
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2444198559969664
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2877927480003564
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2453846170028555
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2808793939984753
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2726199790049577
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2783437670004787
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2583040150057059
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2977638270021998
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2369945320024271
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2774759009989793
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.270711144003144
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2992012800023076
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.197724682999251
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2220436570059974
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2119648700027028
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.1993363200017484
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2272012679968611
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.1914688559991191
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2292313680009102
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2436411779999617
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.190836532994581
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.211413987002743
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2368391130003147
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2189520549945883
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.209047233001911
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3062578569952166
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2117441189984675
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.207237691996852
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2411262870009523
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2178311630050302
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2197891140021966
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2460388760009664
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2120437760022469
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.307337407997693
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2141461560022435
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2231301689971588
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2453925369991339
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2412908209953457
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2247713990000193
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2191926010054885
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.207783397003368
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2216908949994831
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2764549300045474
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2793512060015928
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2928892929994618
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2963315289962338
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2546502600016538
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.272488691000035
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.29472602000169
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2949184230019455
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.285685465001734
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2807271529964055
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2762160130005213
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2972679710001103
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2837801619971287
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2840089980018092
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3040962019949802
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.291832805996819
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2769264090020442
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2819862459946307
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.29164014300477
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2951813540057628
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2923391000003903
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2795611949986778
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.305438415001845
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2993558000016492
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2771266949930578
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2938122679988737
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.301184910000302
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3130528799956664
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2912207120025414
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.285175083001377
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.318497655003739
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3204674500011606
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2926099319956847
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.285208221001085
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.327804529995774
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.317031414997473
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2863334370049415
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3061481400000048
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2909531469995272
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.322373435999907
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2347295399958966
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2310189480049303
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2292090150003787
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2212912589966436
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2220412669994403
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2463025079996441
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2295303840000997
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2640830099990126
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.225879461002478
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.280573784999433
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.257521995998104
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2475446890020976
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2523680619997322
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2371401549971779
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2684519489994273
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3974702869963949
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2420909289940028
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3754023420042358
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.247339073997864
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2536315629986348
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2734002150027663
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2538081599996076
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2433403949980857
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2530326499982039
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.241102227002557
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.23407037799916
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2212607559995377
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2211987159971613
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2599600209941855
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2577837050048402
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2348681840012432
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.279787772000418
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3168869569999515
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2987949819944333
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2447300810017623
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2544492510060081
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2945267350005452
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.308513096999377
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.241901763001806
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2674737239940441
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2706209850002779
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3045222359942272
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3876868539955467
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3672169179990306
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3457608980024816
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4271639630023856
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.440259151000646
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3905457419969025
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4665496399975382
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4794094059980125
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.424608723995334
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3145579089978128
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3160636209941003
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3507082309952239
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3845849569988786
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3461116719990969
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3630021490025683
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3072986359984498
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3395661920003477
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.325102347000211
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.311643439999898
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3977535869998974
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3242646949947812
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3026839660014957
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2981971510016592
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3045287370041478
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3528104169963626
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.338650513003813
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3023089700000128
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2792216270026984
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.253222323000955
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.260502664001251
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2582517019982333
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.269862182001816
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2841450729974895
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2357559169977321
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2441378440053086
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2498402630008059
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2651290010035154
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2792049609997775
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2644676130003063
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.285395534003328
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2434470540028997
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.256395803000487
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2935107950033853
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2677494910021778
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3121412539985613
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2558207110050716
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2752925169988885
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2548743150036898
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2817197300028056
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.279287208999449
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.2679745909990743
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2651097169946297
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2348514289988088
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.264975712998421
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.261934314003156
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2850601469981484
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3063347800052725
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2687183520029066
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2624921540045762
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2528705330041703
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.270237687996996
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.304097908003314
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.269160058000125
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2572697389987297
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.222078929997224
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2183879400035948
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2244799479958601
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2104533829988213
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2277726580068702
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.207157514996652
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2132793519995175
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2053619189973688
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.205660937994253
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2413069809990702
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.218301615997916
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.5092045589990448
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4045201359986095
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3518347370045376
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2707711029943312
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2820612610012176
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2719371760031208
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2864748560023145
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.275976264005294
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3228177209966816
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3227906249958323
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2808565140003338
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2945715230016503
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.311328946998401
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.296884532996046
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2906990539995604
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.293524607004656
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2954858009979944
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2745277869980782
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2749480759957805
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3254004409973277
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2753317850001622
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2993716369965114
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3148676060009166
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2906682410030044
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3285304700038978
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.271210767001321
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3160805340012303
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3281744689957122
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3310898979980266
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2898468940038583
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3235203469957924
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3207081860018661
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3254275810031686
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.34626099900197
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3196747949987184
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2960672799963504
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3075974300008966
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3084380549989874
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.275631771000917
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.2938414300006116
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.319257611001376
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3019236350010033
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2901227800030028
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.2846429429991986
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3076774459987064
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.2880286800063914
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3304410700002336
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3177630790014518
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.360632189003809
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3900091609975789
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3544848429955891
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3767926869986695
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4708228599993163
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4773974239942618
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.6492183719965396
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4082668120026938
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.5372556619986426
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.6723330759996315
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.5772239829966566
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 1.449445680998906
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4054644040006679
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4204719300032593
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4145931780003593
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3932078759971773
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3843215180022526
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.426835527003277
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4061765110018314
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.3585062179990928
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.399953081003332
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4109830689994851
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4087737769950763
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4101185239996994
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.352423254000314
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.394477873996948
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3615337060036836
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3928489340032684
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4797072549990844
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4782745970005635
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.581686183999409
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4800294360029511
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4349896530038677
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4390491910016863
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4466733279987238
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4146374670017394
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4383292600032291
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4478537060058443
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.470425907005847
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 1.497155703997123
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.4075056349975057
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.4238779070001328
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3717949630008661
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 1.475693489999685
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.442208414999186
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4186259609996341
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4087152869979036
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_03_intento1",
+      "estado": "ok",
+      "segundos": 1.5182796000008238
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4613203769986285
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4585787420000997
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4362472299981164
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4378980949986726
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.3982607450016076
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.437428015000478
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4300360109991743
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.5617813450007816
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.430635730001086
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.9339755800028797
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.4683769490002305
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.4348361560041667
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.3508246519995737
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4413890229989192
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4536164689998259
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.6107434339937754
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.5034399799988023
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.5425512279980467
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4061166230021627
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 1.4064207089977572
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4661001559943543
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4472473779969732
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.416048054001294
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 1.4555307480040938
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.3924899619960343
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.472613662997901
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.634159927998553
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 1.484363725001458
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4813120280014118
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4135253049971652
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4406998510021367
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_03_intento1",
+      "estado": "ok",
+      "segundos": 1.4630323099991074
+    }
+  ]
+}

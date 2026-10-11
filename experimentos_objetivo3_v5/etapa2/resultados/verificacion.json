@@ -1,0 +1,34 @@
+{
+  "aprobado": true,
+  "completo": true,
+  "internos_requeridos": 350,
+  "internos_documentados": 350,
+  "predicciones_internas": 11880,
+  "ajustes_documentados": 350,
+  "intentos_ledger": 350,
+  "segundos_ajustes": 460.98687669297215,
+  "orden_ledger": {
+    "aprobado": true,
+    "ajustes_distintos": 350,
+    "intentos": 350
+  },
+  "externas_por_procedimiento": {
+    "global": 165,
+    "historico": 165,
+    "nivel_ipm": 165,
+    "cambio_ipm": 165,
+    "cambio_tasas": 165,
+    "cambio_ambas": 165,
+    "persistencia": 165
+  },
+  "segundos_persistencia": 0.0005300240081851371,
+  "cinco_repeticiones": true,
+  "referencias_guardadas_verificadas": true,
+  "metricas_independientes": "math.fsum desde CSV de precisión round_trip",
+  "regex_E3_01": "fullmatch temporal completa; no subcadena _i",
+  "E3_02_antecedente_v2": 1555,
+  "cota_v5_sin_fallos": 378,
+  "fallos": 0,
+  "advertencias": 0,
+  "sin_ajustes_nuevos": true
+}

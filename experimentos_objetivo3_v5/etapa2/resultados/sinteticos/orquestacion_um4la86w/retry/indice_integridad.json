@@ -1,0 +1,14 @@
+{
+  "archivos_sha256": {
+    "ajustes/e2022_i2021_mediana_historico_00/ajuste.json": "bbc3c1da19903cea6d466284d95ad953006acc692eb20e45bdfef3e7cf05a004",
+    "ajustes/e2022_i2021_mediana_historico_00/contexto_intento_1.json": "aaed17e4c6133ef60d24138166a4367acd40bc31263855dca3cf75b5e71932ec",
+    "ajustes/e2022_i2021_mediana_historico_00/contexto_intento_2.json": "aaed17e4c6133ef60d24138166a4367acd40bc31263855dca3cf75b5e71932ec",
+    "ajustes/e2022_i2021_mediana_historico_00/entradas_entrenamiento.csv": "6798f66d8e4c231abb1790c19c2ccd43254b89d82b2678f4824cdf6bb7e075f1",
+    "ajustes/e2022_i2021_mediana_historico_00/entradas_prediccion.csv": "55e257a0a2c267c7c67a33ef3879dc1c08c3221575b6304ab73b80389c48a1ef",
+    "ajustes/e2022_i2021_mediana_historico_00/fallo_1.json": "2441e72e0949a9df9d05d94d5c7acf01986901d30f21da83a0668643c2dd4c0f",
+    "ajustes/e2022_i2021_mediana_historico_00/modelo.joblib": "d745ac4ef61674127d28103946a84bc0e0e4089005858b9b7df44e5f7f065061",
+    "ajustes/e2022_i2021_mediana_historico_00/predicciones.csv": "bc87391b335b75bf7a1138b1c86afc3d560ffeac6568e3593ac9a9e4518a6620",
+    "contexto.json": "65e8588a58ac333adc321fb5c0917d1ad783fb99e2efaaa5e964edc92b5891cb",
+    "ledger.json": "366efdf496c79d3089529d2c45ddd5b7e2ff5930fe89ecc4fb4cc17cf46da77f"
+  }
+}

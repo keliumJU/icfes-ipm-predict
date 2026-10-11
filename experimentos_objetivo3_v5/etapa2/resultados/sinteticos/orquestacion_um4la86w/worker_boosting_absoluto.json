@@ -1,0 +1,12 @@
+{
+  "limite": 20,
+  "consumido": 1.1964302310007042,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "boosting_absoluto_historico_00",
+      "estado": "ok",
+      "segundos": 1.1964302310007042
+    }
+  ]
+}
