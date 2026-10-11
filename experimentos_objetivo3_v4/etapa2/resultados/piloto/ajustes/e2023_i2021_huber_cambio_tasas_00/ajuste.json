@@ -1,0 +1,267 @@
+{
+  "id": "huber_cambio_tasas_00",
+  "etiqueta": "e2023_i2021_huber_cambio_tasas_00",
+  "entrenamiento": [
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "99",
+      2019
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "HuberRegressor(alpha=0.01, max_iter=2000)"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "HuberRegressor(alpha=0.01, max_iter=2000)",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 0.01,
+    "modelo__epsilon": 1.35,
+    "modelo__fit_intercept": true,
+    "modelo__max_iter": 2000,
+    "modelo__tol": 1e-05,
+    "modelo__warm_start": false
+  },
+  "entradas": [
+    "puntaje_previo",
+    "cambio_Analfabetismo",
+    "cambio_Bajo logro educativo",
+    "cambio_Barreras a servicios para cuidado de la primera infancia",
+    "cambio_Inasistencia escolar",
+    "cambio_Rezago escolar",
+    "cambio_Trabajo infantil",
+    "cambio_Desempleo de larga duracion",
+    "cambio_Trabajo informal",
+    "cambio_Barreras de acceso a servicios de salud",
+    "cambio_Sin aseguramiento en salud",
+    "cambio_Hacinamiento critico",
+    "cambio_Inadecuada eliminacion de excretas",
+    "cambio_Material inadecuado de paredes exteriores",
+    "cambio_Material inadecuado de pisos",
+    "cambio_Sin acceso a fuente de agua mejorada"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "real",
+  "datos_X_sha256": "df4c2d249b74262824813ab86067d571348fc227d6008f7d26187d3867a50bdd",
+  "datos_y_sha256": "e4406b59b9c922e0a726e43d013c752c897659f235b1324fd15d04db509d42e6",
+  "panel_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+  "congelacion_sha256": "8c620aed2270c3d5f1f2afb857de6656b9d19389cf6fa4450ac4a604a41bcb8d",
+  "instante_inicio": "2026-10-11T03:05:26.713535+00:00",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      249.98243979804477,
+      -0.8969696969696968,
+      -1.1212121212121215,
+      -0.6030303030303029,
+      -0.40909090909090917,
+      -2.3151515151515154,
+      -0.4454545454545454,
+      0.009090909090909328,
+      -0.18181818181818224,
+      -1.939393939393939,
+      -0.4393939393939396,
+      0.07575757575757576,
+      1.1939393939393936,
+      0.3727272727272727,
+      0.6181818181818177,
+      1.1393939393939396
+    ],
+    "scale": [
+      16.431616384400066,
+      1.8352581931285212,
+      2.4638916711425853,
+      1.788767113673693,
+      0.700373768767764,
+      2.343413880091777,
+      0.7257559941780705,
+      3.99130597874655,
+      1.4515309672068082,
+      4.5937994701645914,
+      2.1908818473514673,
+      2.7893770677480973,
+      5.238143286245231,
+      1.6769873289257171,
+      2.622912393025662,
+      5.751307592767922
+    ],
+    "var": [
+      269.9980170040847,
+      3.3681726354453643,
+      6.070762167125802,
+      3.1996877869605145,
+      0.49052341597796145,
+      5.4915886134067975,
+      0.5267217630853994,
+      15.930523415977955,
+      2.106942148760332,
+      21.10299357208448,
+      4.799963269054179,
+      7.7806244260789725,
+      27.438145087235984,
+      2.8122865013774114,
+      6.8796694214876055,
+      33.07753902662994
+    ],
+    "n_samples_seen": 33
+  },
+  "modelo_sha256": "ae447ffae729e07b4938b0423adeabbe732dde9e50019b6fff721b099eb4874a",
+  "tiempo": {
+    "etiqueta": "e2023_i2021_huber_cambio_tasas_00_intento1",
+    "estado": "ok",
+    "segundos": 0.9657209240031079
+  },
+  "intento": 1,
+  "entradas_entrenamiento_sha256": "7b29f823cfe07cb96d0a57aa273d7210b2cdce7095159eb13f0ecaee20db1427",
+  "mediana_train": null,
+  "predicciones_sha256": "31cc7eea5a2201a22b6b5ad9222e6a3663b476380ca7b8b2b321b7a61908df1a",
+  "segundos_prediccion": 1.0014892869949108,
+  "fuera_0_500": 0,
+  "entradas_prediccion_sha256": "7b316c40f42f4fcd9ef1fc1a152870ecb29aef0adf5c69907cff1b9094e3bbd5"
+}

@@ -1,0 +1,20 @@
+{
+  "aprobado": true,
+  "procedimiento": "comparar inferencia pandas de CSV individuales y por ventana en orden del verificador original",
+  "diferencias": [
+    {
+      "externo": 2022,
+      "procedimiento": "persistencia",
+      "columna": "cambio_predicho",
+      "tipo_conjunto": "float64",
+      "tipo_individual": "int64"
+    }
+  ],
+  "primer_punto": {
+    "externo": 2022,
+    "procedimiento": "persistencia",
+    "columna": "cambio_predicho",
+    "tipo_conjunto": "float64",
+    "tipo_individual": "int64"
+  }
+}

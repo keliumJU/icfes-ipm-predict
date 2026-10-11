@@ -1,0 +1,19 @@
+{
+  "instante_utc": "2026-10-11T03:10:05.663604+00:00",
+  "criterios_modificados": false,
+  "ajustes_nuevos": 0,
+  "congelacion_operativa_sha256": "8c620aed2270c3d5f1f2afb857de6656b9d19389cf6fa4450ac4a604a41bcb8d",
+  "verificador_original_sha256": "c8ef8094b7c100ac5a6fd3529f752fad87fbd4c135f4b85bd788abcdcd0cf534",
+  "artefactos_sha256": {
+    "experimentos_objetivo3_v4/etapa2/fuentes/verificar_extension.py": "ee757de1d2c0f49560a4851bc34429b8cdf985a673e297ece9bea3159241e5f9",
+    "experimentos_objetivo3_v4/etapa2/ENMIENDA_AUDITORIA_E2_01.md": "047680f610bb845d57b187f6524f19f5d7d46347b182a67df151a5f8313640f9"
+  },
+  "pruebas": {
+    "aprobado": true,
+    "ceros_int_float_iguales": true,
+    "rechaza_cambio_1e_11": true,
+    "rechaza_llaves_distintas": true,
+    "check_exact": true,
+    "ajustes_nuevos": 0
+  }
+}

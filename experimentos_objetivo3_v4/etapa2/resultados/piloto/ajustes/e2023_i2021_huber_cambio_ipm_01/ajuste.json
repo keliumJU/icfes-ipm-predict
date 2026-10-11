@@ -1,0 +1,211 @@
+{
+  "id": "huber_cambio_ipm_01",
+  "etiqueta": "e2023_i2021_huber_cambio_ipm_01",
+  "entrenamiento": [
+    2019
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "99",
+      2019
+    ]
+  ],
+  "n": 33,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "HuberRegressor(alpha=1, max_iter=2000)"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "HuberRegressor(alpha=1, max_iter=2000)",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 1,
+    "modelo__epsilon": 1.35,
+    "modelo__fit_intercept": true,
+    "modelo__max_iter": 2000,
+    "modelo__tol": 1e-05,
+    "modelo__warm_start": false
+  },
+  "entradas": [
+    "puntaje_previo",
+    "cambio_ipm"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "real",
+  "datos_X_sha256": "42e5e4dbd38849047e020c0b73213d40fb1773a91277afb74082e6156e08ffb9",
+  "datos_y_sha256": "e4406b59b9c922e0a726e43d013c752c897659f235b1324fd15d04db509d42e6",
+  "panel_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+  "congelacion_sha256": "8c620aed2270c3d5f1f2afb857de6656b9d19389cf6fa4450ac4a604a41bcb8d",
+  "instante_inicio": "2026-10-11T03:05:24.517538+00:00",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      249.98243979804477,
+      -1.7969696969696969
+    ],
+    "scale": [
+      16.431616384400066,
+      3.9812046942180137
+    ],
+    "var": [
+      269.9980170040847,
+      15.84999081726355
+    ],
+    "n_samples_seen": 33
+  },
+  "modelo_sha256": "b7c69cddeabf96a389b5b33212072ade98f6464002601acf2320808eb8b8bbb2",
+  "tiempo": {
+    "etiqueta": "e2023_i2021_huber_cambio_ipm_01_intento1",
+    "estado": "ok",
+    "segundos": 0.9761478970031021
+  },
+  "intento": 1,
+  "entradas_entrenamiento_sha256": "bbc9c9b3ac5ead4a2fcca1d5efd7c8076213987576ddb54bde8cc2919b23836b",
+  "mediana_train": null,
+  "predicciones_sha256": "eb11fe5363a6cd4e5d9472f7dd3d51d15d149a5e343e1c2f214f9b0d3c3f2711",
+  "segundos_prediccion": 1.0151585300045554,
+  "fuera_0_500": 0,
+  "entradas_prediccion_sha256": "a607318c0f99873d03e723e04569e53a3fccaab52bde2371ed894a452c446d88"
+}

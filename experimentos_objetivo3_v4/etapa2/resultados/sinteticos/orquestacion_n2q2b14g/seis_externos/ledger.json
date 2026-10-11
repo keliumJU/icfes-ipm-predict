@@ -1,0 +1,177 @@
+{
+  "limite": 7200.0,
+  "consumido": 0.03400000000000002,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "e2022_i2021_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    }
+  ]
+}

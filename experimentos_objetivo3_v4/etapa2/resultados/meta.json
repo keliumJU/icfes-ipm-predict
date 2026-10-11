@@ -1,0 +1,11 @@
+{
+  "completo": true,
+  "n": 165,
+  "mae_v4": 3.6091786595605684,
+  "mae_referencia": 3.429267191379531,
+  "mejora_porcentual_exacta": -5.246353175200156,
+  "meta_satisfecha": false,
+  "umbral": 5,
+  "notebook_personal_entregado": false,
+  "exploratorio": true
+}

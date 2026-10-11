@@ -1,0 +1,8 @@
+{
+  "aprobado": true,
+  "archivo": "experimentos_objetivo3_v4/CONTINUIDAD_V4.md",
+  "commit_historico": "7f25ad066386965a75058e96b4716cdd8a9adb52",
+  "sha256_antecedente": "3b65ca21d2e5bf37bfc8ab64b9d5aff4ea6fc47fa994a689a01432e23de0e48f",
+  "sufijo_integro": true,
+  "fuente": "git show; comparación byte a byte"
+}

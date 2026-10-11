@@ -1,0 +1,305 @@
+{
+  "global_id": "persistencia",
+  "especificaciones": {
+    "historico": "persistencia",
+    "nivel_ipm": "persistencia",
+    "cambio_ipm": "persistencia",
+    "cambio_tasas": "persistencia",
+    "cambio_ambas": "persistencia"
+  },
+  "externo": 2023,
+  "metricas_internas": [
+    {
+      "id": "persistencia",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 3.8660950033867016,
+      "rmse": 4.645423755437426
+    },
+    {
+      "id": "correccion_comun_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 4.159443337367388,
+      "rmse": 5.072169396529262
+    },
+    {
+      "id": "correccion_comun_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 4.7856304581411955,
+      "rmse": 5.741451416573381
+    },
+    {
+      "id": "correccion_comun_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.699830912901952,
+      "rmse": 7.530621004889199
+    },
+    {
+      "id": "ridge_historico_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.437242338872467,
+      "rmse": 7.211492656816982
+    },
+    {
+      "id": "ridge_historico_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.446078677694814,
+      "rmse": 7.21818660392354
+    },
+    {
+      "id": "ridge_historico_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.4835779530091235,
+      "rmse": 7.25172636710578
+    },
+    {
+      "id": "ridge_nivel_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.074503590342328,
+      "rmse": 6.807451406239643
+    },
+    {
+      "id": "ridge_nivel_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.2172143284981765,
+      "rmse": 6.949330697739077
+    },
+    {
+      "id": "ridge_nivel_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.445460944882305,
+      "rmse": 7.202521957212156
+    },
+    {
+      "id": "ridge_cambio_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.406577264554312,
+      "rmse": 7.20058452911915
+    },
+    {
+      "id": "ridge_cambio_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.419018712365792,
+      "rmse": 7.20471946590899
+    },
+    {
+      "id": "ridge_cambio_ipm_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.470511647180859,
+      "rmse": 7.238445949128344
+    },
+    {
+      "id": "ridge_cambio_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 7.231315452202822,
+      "rmse": 8.307428662729144
+    },
+    {
+      "id": "ridge_cambio_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.786129359050142,
+      "rmse": 7.930426052511998
+    },
+    {
+      "id": "ridge_cambio_tasas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.6376776386400005,
+      "rmse": 7.60057901407667
+    },
+    {
+      "id": "ridge_cambio_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 7.445678151511517,
+      "rmse": 8.589790298918995
+    },
+    {
+      "id": "ridge_cambio_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.831116550708783,
+      "rmse": 7.967938203638814
+    },
+    {
+      "id": "ridge_cambio_ambas_02",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.6153751232383025,
+      "rmse": 7.5757058136719
+    },
+    {
+      "id": "huber_historico_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.4055514110635015,
+      "rmse": 7.228481157323166
+    },
+    {
+      "id": "huber_historico_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.4153667845823135,
+      "rmse": 7.236779075184897
+    },
+    {
+      "id": "huber_nivel_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.039995373430212,
+      "rmse": 6.805032560489698
+    },
+    {
+      "id": "huber_nivel_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.116778209494875,
+      "rmse": 6.8805166356439456
+    },
+    {
+      "id": "huber_cambio_ipm_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.401287510584967,
+      "rmse": 7.24243013429251
+    },
+    {
+      "id": "huber_cambio_ipm_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 6.411264628321659,
+      "rmse": 7.247620369980812
+    },
+    {
+      "id": "huber_cambio_tasas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 8.250284231890195,
+      "rmse": 9.420697151207298
+    },
+    {
+      "id": "huber_cambio_tasas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 7.329929105497401,
+      "rmse": 8.424075791992417
+    },
+    {
+      "id": "huber_cambio_ambas_00",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 7.805653488512612,
+      "rmse": 8.783553694513259
+    },
+    {
+      "id": "huber_cambio_ambas_01",
+      "estado": "completo",
+      "ventanas": [
+        2021,
+        2022
+      ],
+      "mae": 7.253064216477546,
+      "rmse": 8.28986146365604
+    }
+  ],
+  "instante_antes_externo": "2026-10-11T03:05:35.677139+00:00",
+  "origen": "real"
+}

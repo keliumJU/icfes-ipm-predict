@@ -1,0 +1,406 @@
+{
+  "id": "ridge_cambio_ambas_02",
+  "etiqueta": "e2023_i2022_ridge_cambio_ambas_02",
+  "entrenamiento": [
+    2019,
+    2021
+  ],
+  "llaves_entrenamiento": [
+    [
+      "05",
+      2019
+    ],
+    [
+      "05",
+      2021
+    ],
+    [
+      "08",
+      2019
+    ],
+    [
+      "08",
+      2021
+    ],
+    [
+      "11",
+      2019
+    ],
+    [
+      "11",
+      2021
+    ],
+    [
+      "13",
+      2019
+    ],
+    [
+      "13",
+      2021
+    ],
+    [
+      "15",
+      2019
+    ],
+    [
+      "15",
+      2021
+    ],
+    [
+      "17",
+      2019
+    ],
+    [
+      "17",
+      2021
+    ],
+    [
+      "18",
+      2019
+    ],
+    [
+      "18",
+      2021
+    ],
+    [
+      "19",
+      2019
+    ],
+    [
+      "19",
+      2021
+    ],
+    [
+      "20",
+      2019
+    ],
+    [
+      "20",
+      2021
+    ],
+    [
+      "23",
+      2019
+    ],
+    [
+      "23",
+      2021
+    ],
+    [
+      "25",
+      2019
+    ],
+    [
+      "25",
+      2021
+    ],
+    [
+      "27",
+      2019
+    ],
+    [
+      "27",
+      2021
+    ],
+    [
+      "41",
+      2019
+    ],
+    [
+      "41",
+      2021
+    ],
+    [
+      "44",
+      2019
+    ],
+    [
+      "44",
+      2021
+    ],
+    [
+      "47",
+      2019
+    ],
+    [
+      "47",
+      2021
+    ],
+    [
+      "50",
+      2019
+    ],
+    [
+      "50",
+      2021
+    ],
+    [
+      "52",
+      2019
+    ],
+    [
+      "52",
+      2021
+    ],
+    [
+      "54",
+      2019
+    ],
+    [
+      "54",
+      2021
+    ],
+    [
+      "63",
+      2019
+    ],
+    [
+      "63",
+      2021
+    ],
+    [
+      "66",
+      2019
+    ],
+    [
+      "66",
+      2021
+    ],
+    [
+      "68",
+      2019
+    ],
+    [
+      "68",
+      2021
+    ],
+    [
+      "70",
+      2019
+    ],
+    [
+      "70",
+      2021
+    ],
+    [
+      "73",
+      2019
+    ],
+    [
+      "73",
+      2021
+    ],
+    [
+      "76",
+      2019
+    ],
+    [
+      "76",
+      2021
+    ],
+    [
+      "81",
+      2019
+    ],
+    [
+      "81",
+      2021
+    ],
+    [
+      "85",
+      2019
+    ],
+    [
+      "85",
+      2021
+    ],
+    [
+      "86",
+      2019
+    ],
+    [
+      "86",
+      2021
+    ],
+    [
+      "88",
+      2019
+    ],
+    [
+      "88",
+      2021
+    ],
+    [
+      "91",
+      2019
+    ],
+    [
+      "91",
+      2021
+    ],
+    [
+      "94",
+      2019
+    ],
+    [
+      "94",
+      2021
+    ],
+    [
+      "95",
+      2019
+    ],
+    [
+      "95",
+      2021
+    ],
+    [
+      "97",
+      2019
+    ],
+    [
+      "97",
+      2021
+    ],
+    [
+      "99",
+      2019
+    ],
+    [
+      "99",
+      2021
+    ]
+  ],
+  "n": 66,
+  "parametros_completos": {
+    "memory": null,
+    "steps": [
+      [
+        "escalado",
+        "StandardScaler()"
+      ],
+      [
+        "modelo",
+        "Ridge(alpha=100, solver='svd')"
+      ]
+    ],
+    "transform_input": null,
+    "verbose": false,
+    "escalado": "StandardScaler()",
+    "modelo": "Ridge(alpha=100, solver='svd')",
+    "escalado__copy": true,
+    "escalado__with_mean": true,
+    "escalado__with_std": true,
+    "modelo__alpha": 100,
+    "modelo__copy_X": true,
+    "modelo__fit_intercept": true,
+    "modelo__max_iter": null,
+    "modelo__positive": false,
+    "modelo__random_state": null,
+    "modelo__solver": "svd",
+    "modelo__tol": 0.0001
+  },
+  "entradas": [
+    "puntaje_previo",
+    "cambio_ipm",
+    "cambio_Analfabetismo",
+    "cambio_Bajo logro educativo",
+    "cambio_Barreras a servicios para cuidado de la primera infancia",
+    "cambio_Inasistencia escolar",
+    "cambio_Rezago escolar",
+    "cambio_Trabajo infantil",
+    "cambio_Desempleo de larga duracion",
+    "cambio_Trabajo informal",
+    "cambio_Barreras de acceso a servicios de salud",
+    "cambio_Sin aseguramiento en salud",
+    "cambio_Hacinamiento critico",
+    "cambio_Inadecuada eliminacion de excretas",
+    "cambio_Material inadecuado de paredes exteriores",
+    "cambio_Material inadecuado de pisos",
+    "cambio_Sin acceso a fuente de agua mejorada"
+  ],
+  "objetivo": "cambio_observado",
+  "semilla": 20261010,
+  "origen": "real",
+  "datos_X_sha256": "66ab3bb996b8025a3538e0d0fbc9d7157ae9d5c6feb962e8dde620e031b2d68b",
+  "datos_y_sha256": "3ab01893af2dbe8c02f00c7eef12b840bbe9fb605323fd3d49bae19bde3727c5",
+  "panel_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entorno_sha256": "430cb6dbdf07699a6da2fe51501caa2c99aabcaa32c5cae4166411c92c664e5d",
+  "congelacion_sha256": "8c620aed2270c3d5f1f2afb857de6656b9d19389cf6fa4450ac4a604a41bcb8d",
+  "instante_inicio": "2026-10-11T03:05:12.664270+00:00",
+  "estado": "ok",
+  "advertencias": [],
+  "transformacion_ajustada": {
+    "mean": [
+      247.0745615084241,
+      -2.1030303030303026,
+      -1.1545454545454545,
+      -2.159090909090909,
+      -0.26818181818181813,
+      1.0272727272727273,
+      -1.562121212121212,
+      -0.3545454545454545,
+      0.05454545454545446,
+      0.2515151515151506,
+      -2.3954545454545455,
+      -0.6924242424242426,
+      -0.709090909090909,
+      -0.1848484848484848,
+      0.003030303030302939,
+      0.11969696969696979,
+      0.04848484848484874
+    ],
+    "scale": [
+      16.76186017830466,
+      3.8831403137217984,
+      1.74730804366289,
+      2.7654238139069056,
+      1.9809822395995413,
+      2.4773853185422987,
+      3.0798349597416768,
+      0.6856056420557904,
+      4.951222127007047,
+      2.369135018233219,
+      3.718806904558024,
+      2.4176942813764075,
+      3.3280591883908115,
+      4.455410140772418,
+      2.224721276173149,
+      3.188483998893979,
+      5.5320072094061805
+    ],
+    "var": [
+      280.95995663703553,
+      15.078778696051426,
+      3.0530853994490363,
+      7.647568870523415,
+      3.9242906336088144,
+      6.137438016528926,
+      9.485383379247017,
+      0.4700550964187327,
+      24.51460055096419,
+      5.612800734618915,
+      13.82952479338843,
+      5.845245638200183,
+      11.075977961432507,
+      19.850679522497696,
+      4.9493847566574845,
+      10.166430211202938,
+      30.603103764921958
+    ],
+    "n_samples_seen": 66
+  },
+  "modelo_sha256": "ebfdadb44e1b07fa825970edda7013facd03202233a5a693be59e1a68c93d331",
+  "tiempo": {
+    "etiqueta": "e2023_i2022_ridge_cambio_ambas_02_intento1",
+    "estado": "ok",
+    "segundos": 0.9600455879990477
+  },
+  "intento": 1,
+  "entradas_entrenamiento_sha256": "868490ba11c45da3bac7a88d07ef3f90def4eeddd6adddcd924c2f11c7534f67",
+  "mediana_train": null,
+  "predicciones_sha256": "bd50f9ed2663cba221c26f07fc28b805926725714e38e4de3b579678363c193a",
+  "segundos_prediccion": 0.9945862070017029,
+  "fuera_0_500": 0,
+  "entradas_prediccion_sha256": "3f18094f2286e53354800bfae9246016d0972fd9f9c5eee297401c2794bb440b"
+}

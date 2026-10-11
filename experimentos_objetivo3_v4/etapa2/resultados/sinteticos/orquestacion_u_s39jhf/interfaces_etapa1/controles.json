@@ -1,0 +1,21 @@
+{
+  "aprobado": true,
+  "origen": "sintéticos/dobles exclusivamente",
+  "controles": [
+    "anterioridad/aislamiento territorial/futuro/salto/diferencias negativas y misma llave",
+    "grilla29/orden/defaults/matrices1-2-2-16-17/ventanas/cota308/persistencia sin fit",
+    "mediana todas las filas train/n par e impar/lambda fijo/validación extrema no interviene",
+    "scaler solo train ambos pipelines/reconstrucción sin clipping/métricas independientes/repetición/umbral sintético",
+    "bandas MAE/RMSE/entradas/familias/JSON/elegibilidad/campos externos/grupos comunes/global distinto/6 IDs",
+    "regex completa temporal/huellas alteradas/rutas rechazadas",
+    "presupuesto serial/reanudación/no ampliación/intentos/fallos/caída/interrupción/límite/terminación real spawn"
+  ],
+  "pruebas": "experimentos_objetivo3_v4/etapa2/resultados/sinteticos/orquestacion_u_s39jhf/interfaces_etapa1/prueba_d5g1y7rc",
+  "ajustes_panel": 0,
+  "ledger_operativo_creado": false,
+  "semilla": 20261010,
+  "fuentes_sha256": {
+    "experimentos_objetivo3_v4/etapa1/fuentes/controles.py": "7333da68d8a0af76a612337e18d57433c685ec52fdf61c64ff3c1304ba877af8",
+    "experimentos_objetivo3_v4/etapa1/fuentes/comun_v4.py": "82e64c28e7dd9150a04f09e017440da1109dc02210978ceca39980cd4e3c3361"
+  }
+}

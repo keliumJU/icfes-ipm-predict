@@ -1,0 +1,8 @@
+{
+  "archivos_sha256": {
+    "ajustes/doble/ajuste.json": "75bca74380f5af7138d133cb8cbf045891336ec7ae929000d2b0abf2aeeb6605",
+    "ajustes/doble/fallo_1.json": "75bca74380f5af7138d133cb8cbf045891336ec7ae929000d2b0abf2aeeb6605",
+    "contexto.json": "d8f093822ca513c57d05f11fe93fa28b59933ded5d3ef649a2caa7bf8bb48c57",
+    "ledger.json": "e7fac9fdb40e5e879c07fbad1834003f6f74401acabf181dac9dd2b04a608bbb"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "archivos_sha256": {
+    "ajustes/doble/ajuste.json": "8316e8ebeb42fb44464734bc769d1ff73efbcf9de6a24af007c1725ad5ffffde",
+    "ajustes/doble/entradas_entrenamiento.csv": "fd370a90f7df6ee782fdaeab946a1c8f42820b13d59ade2b117829049a50fec3",
+    "ajustes/doble/fallo_1.json": "73976054fc82071bb62863a844cc02460a91c745b951835fa1a7b4a0c1c914d3",
+    "ajustes/doble/modelo.joblib": "bc1c9bbc454a26f1cf343d990c4165504fab29c8714a68d094b37347ce898c68",
+    "contexto.json": "d8f093822ca513c57d05f11fe93fa28b59933ded5d3ef649a2caa7bf8bb48c57",
+    "ledger.json": "d02bb0866733476718f35e4e32048039bfe05fbcaf9b5abef1283b81dcb6a486"
+  }
+}

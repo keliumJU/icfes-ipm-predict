@@ -1,0 +1,17 @@
+{
+  "etapa": "auditoria_etapa2",
+  "codigo": "E2-01",
+  "primer_intento_exit": 1,
+  "archivo": "etapa2/fuentes/verificar.py",
+  "linea": 126,
+  "excepcion": "AssertionError: dtype cambio_predicho float64 en conjunto/int64 en persistencia individual",
+  "meta_emitida_en_intento_fallido": false,
+  "fuentes_congeladas_editadas": false,
+  "resolucion": "verificar_extension.py; ENMIENDA_AUDITORIA_E2_01.md",
+  "ajustes_adicionales": 0,
+  "ledger_intacto": true,
+  "externo": 2022,
+  "procedimiento": "persistencia",
+  "evidencia_ubicacion": "diagnostico_tipos_csv.json",
+  "fe_erratas": "FE_DE_ERRATAS_E2_01.md"
+}

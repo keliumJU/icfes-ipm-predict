@@ -1,0 +1,13 @@
+{
+  "limite": 10.0,
+  "consumido": 1.0191323070030194,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "numerico#1",
+      "estado": "error",
+      "segundos": 1.0191323070030194,
+      "clase_fallo": "numerico_convergencia"
+    }
+  ]
+}

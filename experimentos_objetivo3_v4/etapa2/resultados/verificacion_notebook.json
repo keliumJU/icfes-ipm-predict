@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "celdas_ejecutadas": [
+    1,
+    2,
+    3
+  ],
+  "metodo": "Python exec de celdas reales de lectura; no kernel Jupyter",
+  "fuente_sha256": "f96327e29497d6e963b38b58b1800f99349a8d4733f0b6a8c268589626ee14ea",
+  "notebook_sha256": "f3656d1376a8b75bea5d389c75a29b10a545219382ae116d26be6d7cf2fcbdbb",
+  "ajustes_adicionales": 0,
+  "notebook_personal": false
+}

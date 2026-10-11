@@ -1,0 +1,14 @@
+{
+  "global_id": "persistencia",
+  "especificaciones": {
+    "historico": "persistencia",
+    "nivel_ipm": "persistencia",
+    "cambio_ipm": "persistencia",
+    "cambio_tasas": "persistencia",
+    "cambio_ambas": "persistencia"
+  },
+  "externo": 2021,
+  "metricas_internas": [],
+  "instante_antes_externo": "2026-10-11T03:04:11.886204+00:00",
+  "origen": "real"
+}

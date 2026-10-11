@@ -1,0 +1,22 @@
+{
+  "limite": 30.0,
+  "consumido": 3.176698593000765,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "worker_correccion_comun_intento1",
+      "estado": "ok",
+      "segundos": 1.0587806300027296
+    },
+    {
+      "etiqueta": "worker_ridge_intento1",
+      "estado": "ok",
+      "segundos": 1.0366949800009024
+    },
+    {
+      "etiqueta": "worker_huber_intento1",
+      "estado": "ok",
+      "segundos": 1.081222982997133
+    }
+  ]
+}

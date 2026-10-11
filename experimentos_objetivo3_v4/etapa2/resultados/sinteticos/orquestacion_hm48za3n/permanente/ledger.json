@@ -1,0 +1,19 @@
+{
+  "limite": 7200.0,
+  "consumido": 9.308001608587801e-06,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "doble_intento1",
+      "estado": "error",
+      "segundos": 5.098998371977359e-06,
+      "clase_fallo": "infraestructura"
+    },
+    {
+      "etiqueta": "doble_intento2",
+      "estado": "error",
+      "segundos": 4.209003236610442e-06,
+      "clase_fallo": "infraestructura"
+    }
+  ]
+}

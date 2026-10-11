@@ -1,0 +1,21 @@
+{
+  "archivos_sha256": {
+    "ajustes/worker_correccion_comun/ajuste.json": "b193b65db12ca7223a99d6b95f77c6e31db33cc36f456b8c938ea5f5f0ee3d25",
+    "ajustes/worker_correccion_comun/entradas_entrenamiento.csv": "fd370a90f7df6ee782fdaeab946a1c8f42820b13d59ade2b117829049a50fec3",
+    "ajustes/worker_correccion_comun/entradas_prediccion.csv": "91f185253f27427506a776f2ea148ae987a56f05ec42c14daecb86827a9dea66",
+    "ajustes/worker_correccion_comun/modelo.joblib": "b3a4709c534eb9f1e66d77c32d3c0cc86aa4c68e3e51c28e73e218e50569ed45",
+    "ajustes/worker_correccion_comun/predicciones.csv": "7943af19f4ec6427e7c85ef748856994343f999974aaedd9b78ec423e06aed86",
+    "ajustes/worker_huber/ajuste.json": "d1ed6b0bc57dd6beedefa05b19783f4e67c1ce43b4c5a7ae3cae40b59f24ea8a",
+    "ajustes/worker_huber/entradas_entrenamiento.csv": "fd370a90f7df6ee782fdaeab946a1c8f42820b13d59ade2b117829049a50fec3",
+    "ajustes/worker_huber/entradas_prediccion.csv": "91f185253f27427506a776f2ea148ae987a56f05ec42c14daecb86827a9dea66",
+    "ajustes/worker_huber/modelo.joblib": "5f5b9e1b23c6878c333ab885a6c3802ec22f1ee09415288afa525a0e7af1321c",
+    "ajustes/worker_huber/predicciones.csv": "42cde23464bf46bf2f8ec4308cd7df8655842da66d6bc34ea670d33f789dc632",
+    "ajustes/worker_ridge/ajuste.json": "1b8154ba5deb59f0d66dea04d5ab52bb029646a5e12a2729dbb274c36be2c304",
+    "ajustes/worker_ridge/entradas_entrenamiento.csv": "fd370a90f7df6ee782fdaeab946a1c8f42820b13d59ade2b117829049a50fec3",
+    "ajustes/worker_ridge/entradas_prediccion.csv": "91f185253f27427506a776f2ea148ae987a56f05ec42c14daecb86827a9dea66",
+    "ajustes/worker_ridge/modelo.joblib": "968b275e1a4f03d6ea2ca0890e3dec69ad6750b79ba39020df0c989ae7d3369a",
+    "ajustes/worker_ridge/predicciones.csv": "8cde8531e9e5274d5f95dbb1448ba5b31c9bc7bcd15ef0e253f771f9b7a61d3f",
+    "contexto.json": "7b2eef91644d8a2a382d3813247eecb62b802f67578c7100785b6f9c6b6779c0",
+    "ledger.json": "5f3d7074115d8afd6e83436c458d634fefeffe0ed4d8f86b018ee155c43b4cab"
+  }
+}

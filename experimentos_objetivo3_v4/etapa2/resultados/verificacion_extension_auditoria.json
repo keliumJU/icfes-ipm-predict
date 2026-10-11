@@ -1,0 +1,15 @@
+{
+  "aprobado": true,
+  "pruebas": {
+    "aprobado": true,
+    "ceros_int_float_iguales": true,
+    "rechaza_cambio_1e_11": true,
+    "rechaza_llaves_distintas": true,
+    "check_exact": true,
+    "ajustes_nuevos": 0
+  },
+  "codigo_congelado_intacto": true,
+  "ledger_intacto": true,
+  "ajustes_nuevos": 0,
+  "extension_congelada_sha256": "984c482a13ba2aba6b3db11c126c16d75bd08c8f9002f26116531dfb993040e3"
+}

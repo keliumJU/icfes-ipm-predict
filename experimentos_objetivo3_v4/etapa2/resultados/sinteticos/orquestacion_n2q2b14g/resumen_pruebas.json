@@ -1,0 +1,29 @@
+{
+  "aprobado": true,
+  "origen": "inventados/dobles/worker_sintetico",
+  "ruta": "experimentos_objetivo3_v4/etapa2/resultados/sinteticos/orquestacion_n2q2b14g",
+  "ajustes_panel_real": 0,
+  "consumo_piloto_real": 0,
+  "ajustes_dobles_completo": 288,
+  "grupos": [
+    "29 candidatos/familias/defaults/cinco matrices/mediana par impar",
+    "cinco ventanas/2021 sin fit ni métricas candidatos/280 internos no reutilizados",
+    "selecciones anteriores a externos/global distinto de grupo/seis IDs externos",
+    "165 externas por cada uno de siete procedimientos/cinco comprobaciones",
+    "reanudación verifica contexto/huellas/cobertura/artefactos/intentos/saldo",
+    "externo alterado sin afectar selección",
+    "spawn importa corrección propia/Pipeline Ridge/Huber/escalador train",
+    "inelegible persistente/infraestructura máximo un reintento/advertencia convergencia hijo",
+    "caída conservadora/interrupción/límite/terminación real/interfaces congeladas",
+    "rutas exteriores/persistencia ausente/modelo alterado/presupuesto ampliado rechazados"
+  ],
+  "fallos_sinteticos_esperados": true,
+  "fuentes_sha256": {
+    "experimentos_objetivo3_v4/etapa2/fuentes/piloto.py": "d02a227a5c4a0c0a27e11a3a0d211811ae29cd70f86fe64d0b105e82e876904b",
+    "experimentos_objetivo3_v4/etapa2/fuentes/verificar.py": "cf80c014de0053882545aa04f7b7105f8025b1f492da68bfaeda16e7e70b2ca1",
+    "experimentos_objetivo3_v4/etapa2/fuentes/generar_notebook.py": "5f4e9d7591772d4b9f4f5c9f9f3eb8af7e2a400c334b530488b61f40d1179035",
+    "experimentos_objetivo3_v4/etapa2/fuentes/01_resultados_piloto.py": "f96327e29497d6e963b38b58b1800f99349a8d4733f0b6a8c268589626ee14ea",
+    "experimentos_objetivo3_v4/etapa2/fuentes/cerrar.py": "511717bf6bc74e2593cf963fd99449314fa13a39d4c2f31c9e773904541d6119",
+    "experimentos_objetivo3_v4/etapa2/fuentes/probar.py": "12e1386cdf39df655b00a1699bb0fe03b8d4702441f3bb803e7ed02ec45b5bdd"
+  }
+}

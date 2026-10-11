@@ -1,0 +1,1447 @@
+{
+  "limite": 7200.0,
+  "consumido": 0.2880000000000002,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "e2022_i2021_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_i2021_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_externo_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2021_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_i2022_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_externo_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2021_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2022_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_i2023_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_externo_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_correccion_comun_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_correccion_comun_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_historico_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_nivel_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_ipm_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_tasas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_ridge_cambio_ambas_02_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_historico_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_historico_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_nivel_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_nivel_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_cambio_ipm_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_cambio_ipm_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_cambio_tasas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_cambio_tasas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_cambio_ambas_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2021_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2022_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2023_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_i2024_huber_cambio_ambas_01_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_externo_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2022_repeticion_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2023_repeticion_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2024_repeticion_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    },
+    {
+      "etiqueta": "e2025_repeticion_correccion_comun_00_intento1",
+      "estado": "ok",
+      "segundos": 0.001
+    }
+  ]
+}

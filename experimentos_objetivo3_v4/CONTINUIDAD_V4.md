@@ -1,3 +1,117 @@
+# Continuidad v4 — etapas1–2 cerradas localmente
+
+Fecha cliente2026-10-10, America/Bogota. Únicamente etapa2 autorizada en esta sesión:
+orquestación propia/probar/congelar/piloto29/auditar/cerrar. No etapa3/notebook
+personal/modelos/simulación/objetivo4/ajuste final/descargas/instalaciones/push.
+Antecedente íntegro de etapa1 y preparación permanece al final, sin vigencia de
+su pendiente de autorización de etapa2.
+
+## Partida, lecturas y conservación
+
+GitHEAD7f25ad066386965a75058e96b4716cdd8a9adb52 coincidió con cierre conocido
+etapa1; rama codex/objetivo3-v4-correcciones limpia y sin trabajo posterior.
+AGENTS/continuidades vigentesv2/v3/v4 primero; plan solo §§1–2 y §4; protocolo
+completo/README/informe/registro/grilla/defaults/controles/congelación/conservación/
+manifiesto. Etapa1 cerrar.py --verificar ejecutado en lectura ANTES de crear etapa2.
+Luego verificar_etapa1 coteja huellas y continuidad histórica en Git7f25ad0, sin
+alterar su guardia histórica ni llamar cierres anteriores que escriban. PDF0 páginas.
+Python3.12.14/sklearn1.9.1/54 paquetes exactos lock/pip check comprobados de nuevo,
+sin instalar. Partida/snapshot/entorno en etapa2/resultados. Escrituras solo v4;
+originales/v1/v2/v3/continuidades/.gitignore/atributos/etapa1/modelos/ledgers intactos
+por SHA. Solo continuidad propia actualizada; texto anterior íntegro preservado.
+
+## Decisiones del usuario y comprobaciones actuales
+
+Protocolo4.0.0 intacto: poblaciónESTUDIANTE/no libertadS/grado11/seis puntajes
+positivos presentes/sin calendario;media global recibida/colegio/peso igual
+territorio-año. Fuente única SHA2566cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3;
+derivado231filas/198cambios SHA256aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc.
+Trazabilidad íntegra misma llave16covariables;2020excluido/2018historial/2021previo2019,
+sin anualizar. Grilla29 orden/defaults intactos: persistencia1 sin fit,corrección3
+λ0.25/0.5/1 medianaTODASfilas train/igualpeso/n par promedio centrales,Ridge15α1/10/100,
+Huber10α0.01/1. Grupos historico/nivel_ipm/cambio_ipm/cambio_tasas/cambio_ambas
+matrices1/2/2/16/17;scaler solo train/Pipeline fit completo presupuestado,modelos
+aprenden cambio/reconstruyen global. Sin imputación/clipping/PCA/efectos/nuevos filtros.
+Semilla20261010;2021persistencia fija sin puntuar/seleccionar candidatos;internas
+expansivas2021–2024, cambios anteriores desde2019,sin validar2019/reutilizar internos.
+BandasMAE/RMSE0.1/menos entradas ajustadas/familias/JSON;comunes0covariables,
+participan en todos grupos;global/cinco grupos guardados antes externo;solo ID
+idéntico deduplicable. Meta exacta≥5% global frentepersistencia/v3 sobre165llaves
+yobservados,denominador positivo/finito,sin redondeo/tres-de-cinco/sustitución por grupo.
+
+Decisiones nuevas antes de fit: Runner propio contexto/índice/huellas/artefactos/
+intentos/entradas/transforms/modelos/predicciones/selecciones/orden/tiempos;spawn
+serial terminable, imports de hijos y semilla,7200s propios acumulados. Numérico/
+convergencia inelegible persistente,infraestructura máximo1reintento;caída no medida
+agota,límite/integridad/cobertura/persistencia faltante detienen,sin meta parcial.
+Pruebas completas inventadas/dobles/worker sintético en directorios separados;
+suite final liga huellas iguales de fuentes; nueva orquestación congelada antes
+primer fit real. Código anterior reutilizado solo lectura,destinosv4.
+
+Extensión E2-01 después del piloto y ANTES de meta: dtype int/float de cero CSV
+detuvo auditor original, sin datos/métricas cambiados. Extensión independiente
+verificar_extension.py cambia solo comparación de CSV a valores exactos,todas
+las llaves/campos/orden intactos;fuentes congeladas sin editar. Congelación y
+pruebas propias rechazan perturbación1e-11/llaves;ledger intacto/cero fits nuevos.
+Ubicación: etapa2/ENMIENDA_AUDITORIA_E2_01.md/resultados/incidencias_auditoria.json.
+FE_DE_ERRATAS_E2_01.md precisa externo2022/persistencia mediante diagnóstico
+completo de tipos; mención2021 del documento congelado conservada y corregida
+explícitamente sin cambios de criterios/resultados/ledger.
+
+## Resultados reales y entregables verificables
+
+Piloto completo:282ajustes/282intentos=280internos+1externo+1repetición ajustada,
+0fallos/reintentos/advertencias,9570predicciones internas,siete procedimientos
+(global/cinco grupos/persistencia)×165externas. Cota308 sin fallos intacta.
+Ledger propio 259.8488030679364s/7200,saldo6940.151196932064s;
+persistencia0.0003405500028748065s aparte,cero fit ficticio. Cinco
+comprobaciones globales,2022 corrección reentrenada/resto persistencia recalculada,
+diferencia máxima0,atol1e-10/rtol0. Sin cargar modelos comparadores/ajustes/búsquedas
+v1/v2/v3/media/tresOLS;CSV históricos/selecciones/huellas/llaves/observados verificados.
+Recálculos actuales desde guardados,no reproducción nueva de entrenamientos históricos.
+
+MAEglobalv4=3.6091786595605684,RMSEnp.float64(4.546778998773351),sesgonp.float64(-2.300737440412616),R²np.float64(0.9315478399592954).
+MAEreferencia persistencia/v3=3.429267191379531,igual valor histórico,
+165llaves/observados idénticos y denominador positivo/finito. Mejoraexacta
+**-5.246353175200156%**,metaNOsatisfecha. No notebook personal.
+Global/cinco grupos:2022correccion_comun_00(λ0.25);2021/2023/2024/2025persistencia.
+2022deteriora externo;otros cuatro iguales a referencia,no aporte incremental
+Ridge/Huber demostrado por procedimiento. No rescate retrospectivo.
+
+Entregables etapa2: extensión operativa/README/INFORME_PILOTO/registro;fuentes
+Python editables comunes/orquestador/auditor/extensión/pruebas/generador;
+piloto(ledger/contexto/índice/modelos/entradas/transforms/defaults/medianas/advertencias/
+semilla/huellas/tiempos/predicciones/selecciones/repeticiones/estado);tablas
+predicciones_internas/externas/metricas_internas/metricas/ganadores/meta/fallos/
+verificación/partida/entorno/pruebas/congelaciones/conservación/manifiesto.
+Notebook útil01_resultados_piloto.ipynb desde fuente/generador;nbformat validado,
+tres celdas realmente ejecutadas mediante Python exec,solo CSV guardados/cero fits.
+Prompt exclusivo etapa3 guardado,NO ejecutado. Commit local por asunto
+`etapa 2 v4: cerrar piloto29 exploratorio y verificaciones`;hash informado fuera
+del manifiesto tras crearlo, sin autorreferencia/push.
+
+## Hallazgos, límites y pendientes
+
+Ubicación/impacto/alternativa/resolución en registro_problemas.md:guardia histórica
+etapa1,rescate indebido/saldo ficticio/orden temporal/imports/terminación/modelos
+binarios,E2-01,deterioro2022/meta falsa. Sin contradicción material irresoluble;
+criterios intactos. **Sin controles indispensables pendientes etapa2** tras cierre.
+2021–2025 ya examinados:exploratorio,sin confirmación independiente/causalidad/
+pronóstico anticipado demostrado. Casos completos/Guainía238vs404/21.012106puntos
+(v2/fase1/resultados/diagnostico_medias_disponibles.csv),procedencia local no
+autenticada independientemente,comparabilidadIPM/hogares-alumnos/residencia-colegio/
+enlace ecológico/dependencia temporal-territorial/pocos años. Antecedentes
+59/esquema82/causa20212/fórmula global desconocida archivados con evidencia/motivo
+heredados,sin nueva conexión;no reabrir. E3-01/E3-02cota1555v2 antecedentes,no cotasv4.
+
+Pendiente exclusivamente en otra autorización:etapa3/revisión detallada sin nuevos
+ajustes. Meta no satisfecha: no notebook personal. No cerrar etapa3v3,simulación,
+objetivo4,entrenamiento final,instalaciones/descargas/push o progreso automático.
+
+---
+
+## Antecedente íntegro de etapa1 — sin vigencia de autorización etapa2 pendiente
+
 # Continuidad v4 — etapa1 cerrada localmente; piloto no iniciado
 
 Fecha cliente2026-10-10, America/Bogota. Únicamente etapa1 autorizada/realizada:
