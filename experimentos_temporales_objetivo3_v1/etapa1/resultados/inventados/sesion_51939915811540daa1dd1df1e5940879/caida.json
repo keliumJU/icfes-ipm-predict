@@ -1,0 +1,18 @@
+{
+  "origen": "inventado",
+  "contexto": {
+    "origen": "inventado",
+    "semilla": 20261010
+  },
+  "limite": 2,
+  "consumido": 2,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "caida#1",
+      "estado": "interrupcion_no_medida",
+      "clase_fallo": "infraestructura",
+      "segundos": 2.0
+    }
+  ]
+}

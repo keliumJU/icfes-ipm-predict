@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "python": "3.14.7",
+  "filas": 134,
+  "referencias": 20,
+  "anios": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "tasas": [
+    "Analfabetismo",
+    "Bajo logro educativo",
+    "Barreras a servicios para cuidado de la primera infancia",
+    "Inasistencia escolar",
+    "Rezago escolar",
+    "Trabajo infantil",
+    "Desempleo de larga duracion",
+    "Trabajo informal",
+    "Barreras de acceso a servicios de salud",
+    "Sin aseguramiento en salud",
+    "Hacinamiento critico",
+    "Inadecuada eliminacion de excretas",
+    "Material inadecuado de paredes exteriores",
+    "Material inadecuado de pisos",
+    "Sin acceso a fuente de agua mejorada"
+  ],
+  "pares_objetivo_historico": 165,
+  "pares_certificados_historicos": 0,
+  "significado_cero": "No se certifican retrospectivamente, no significa datos inexistentes.",
+  "cortes": 15,
+  "metodo": "Fechas de productos anteriores estrictamente al corte, años 2020 excluidos; edición/celdas pendientes.",
+  "no_datos_externos_analiticos": true,
+  "ajustes": 0,
+  "objetivo4_ejecutado": false
+}

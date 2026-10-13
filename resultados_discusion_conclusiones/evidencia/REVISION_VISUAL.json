@@ -1,0 +1,13 @@
+{
+  "documentos": {
+    "01_RESULTADOS_OBJETIVO4": 5,
+    "02_RESULTADOS_TESIS": 4,
+    "03_DISCUSION": 5,
+    "04_CONCLUSIONES": 3
+  },
+  "paginas_inspeccionadas": 17,
+  "version": "Final tras corregir espacios y enlaces bibliográficos",
+  "procedimiento": "Renderizado DOCX con render_docx.py; inspección visual de todas las páginas PNG mediante view_image",
+  "resultado": "Sin recortes, superposición ni tablas partidas; títulos y fuentes legibles",
+  "qa_temporales": "/tmp/qa_tesis_final_*; no entregados como resultados"
+}

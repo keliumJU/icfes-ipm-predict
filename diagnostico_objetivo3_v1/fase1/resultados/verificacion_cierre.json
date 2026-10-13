@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "entregables_verificados": 101,
+  "protegidos_verificados": 29640,
+  "manifiesto_sha256": "fc4df4a4e6c60dff624c6c8608eecd5d70466db87ec069fc23cbc4d0233e105c",
+  "modo": "Solo lectura;sin análisis/fits/controles nuevos",
+  "fase_descriptiva_completa": true,
+  "nuevo_punto_partida_mejor_demostrado": false,
+  "fits": 0,
+  "modelos_cargados": 0,
+  "commits": 0,
+  "push": false
+}

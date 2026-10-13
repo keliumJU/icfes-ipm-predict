@@ -1,0 +1,1 @@
+{"fase": "Reconstrucci\u00f3n, antes de estad\u00edsticas", "error": "Comparaci\u00f3n de pd.NA requer\u00eda separar m\u00e1scara de ausencias", "resolucion": "Comparar m\u00e1scaras exactas y valores presentes exactos; sin tolerancia; no modificar datos", "fits": 0}

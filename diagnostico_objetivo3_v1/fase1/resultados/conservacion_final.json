@@ -1,0 +1,19 @@
+{
+  "aprobado": true,
+  "versionados_intactos": 29640,
+  "inventario_git_identico": true,
+  "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+  "rama": "codex/objetivo3-v5-mae",
+  "cambios_git_fuera_diagnostico": [],
+  "continuidad_propia_antecedente_integro": true,
+  "sha_antecedente_continuidad": "0845c450f5465c5af8d94cdb3597079079003d5693a732fafc783fea851bcab4",
+  "snapshot_incompleto_copias": 23,
+  "fuentes_panel_derivado_selecciones_modelos_ledgers_atributos_intactos": true,
+  "raw_ignorado": "No censo binario;ninguna escritura",
+  "fits": 0,
+  "modelos_deserializados": 0,
+  "entorno_y_wheels_tmp": "Única excepción de escritura fuera de diagnóstico autorizada por usuario",
+  "descargas_red": 0,
+  "commits": 0,
+  "push": false
+}

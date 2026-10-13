@@ -1,0 +1,9 @@
+# Diseño memoria temporal y componente común — fase1 documental completa
+
+2026-10-11. Empezar por CONTINUIDAD_DISENO.md, PROTOCOLO_FASE1.md, ESPECIFICACION_DOCUMENTAL.json y DECISIONES_FASE1.md. TRAZABILIDAD_TEMPORAL.csv contiene5externas+10internas y sus rezagos/unidades. Evidencia: PREFLIGHT_FASE1.json, ENTORNO_FASE1.json, SEMANTICA_FASE1.json, LECTURAS_FASE1.json, REGISTRO_FASE1.json, ACEPTACION_FASE1.json, CONSERVACION_FASE1.json, MANIFIESTO_FASE1.json. Trazabilidad y hallazgos documentan impacto/alternativas/resolución.
+
+Solo diseño documental: cero fits, modelos cargados, notebooks, ledger operativo, instalaciones, nuevas fuentes, commit/push. No congelación operativa ni eficacia demostrada. Todas2021–2025vistas; exploratorio sin causalidad/confirmación independiente. Continuidad/README anteriores íntegros en antecedentes_preparacion/. PLAN_FASES/PROMPT_FASE1/REGISTRO_PREPARACION permanecen originales.
+
+Scripts propios de documentación, no implementación de modelos: verificar_documental.py (cotejo byte/links/Git), verificar_semantica.py (reconstrucción en memoria y referencias exactas), generar_documentacion.py (textos/spec), cerrar_documentacion.py (conservación/aceptación/manifiesto). Ejecutados con PYTHONDONTWRITEBYTECODE=1 y /tmp/icfes-v2-fase2-venv/bin/python; versiones en ENTORNO_FASE1, semilla contractual20261010 sin aleatoriedad. Orden de esta sesión: entorno→preflight→semántica→documentación→cierre. No ejecutar automáticamente al retomar: primero autorización/continuidad/fase. La regeneración textual no constituye aprobación.
+
+Prompts independientes2implementación/controles,3piloto,4auditoría preparados, condicionados a fase previa válida y envío expreso. Próximo pendiente: aprobación del diseño y autorización fase2; no avance automático. No hay un modelo nuevo ni predicciones nuevas que entregar.

@@ -1,0 +1,39 @@
+{
+  "revisado": [
+    {
+      "archivo": "AGENTS.md",
+      "alcance": "completo"
+    },
+    {
+      "archivo": "experimento_pobreza_historia_objetivo3/PLAN.md",
+      "alcance": "completo, ejecución única autorizada"
+    },
+    {
+      "archivo": "experimento_final_objetivo3_v6/CONTINUIDAD_V6.md",
+      "alcance": "principal y referencia ejecucion_autorizada"
+    },
+    {
+      "archivo": "Tesis Vigente/ACA2.pdf",
+      "paginas": [
+        25,
+        58,
+        59,
+        60,
+        113,
+        114
+      ],
+      "modo": "extracción actual por secciones; revisión visual adicional58-60",
+      "contenido": "objetivos, diseño/validación, cautela condicional, conclusiones descriptivas; no adoptar métricas históricas como nuevas"
+    }
+  ],
+  "pendiente": [
+    {
+      "archivo": "Tesis Vigente/ACA2.pdf",
+      "alcance": "otras páginas no revisadas en esta sesión; no necesarias para este complemento"
+    }
+  ],
+  "tesis_sha256": "117af2fffbec938309b55a240aae727f1d108bb328077dec800b0fc4f133e61f",
+  "fuentes_nuevas": 0,
+  "red": 0,
+  "raw": 0
+}

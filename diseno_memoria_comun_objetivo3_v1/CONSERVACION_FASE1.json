@@ -1,0 +1,21 @@
+{
+  "aprobado": true,
+  "inventario_base": "REGISTRO_PREPARACION.json:inventario_protegido",
+  "protegidos": 30980,
+  "versionados": 29640,
+  "lista_versionados_identica": true,
+  "diferencias_antecedentes": [],
+  "ajenos_nuevos": [],
+  "diff_versionados": [],
+  "git_head_igual": true,
+  "originales_propios_preservados": {
+    "CONTINUIDAD_DISENO.md": true,
+    "README.md": true
+  },
+  "plan_prompt_intactos": {
+    "PLAN_FASES.md": true,
+    "PROMPT_FASE1_DISENO.md": true
+  },
+  "symlinks_propios": [],
+  "alcance": "Solo archivos propios nuevos/README y continuidad actualizados; originales íntegros archivados. Raw ignorado sin lectura/censo/escritura. Sin reset/checkout/commit/push."
+}

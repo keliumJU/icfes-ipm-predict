@@ -1,0 +1,11 @@
+{
+  "n_hipotesis": 7,
+  "n_alternativas": 4,
+  "estados": {
+    "apoyada descriptivamente": 3,
+    "contradicha": 2,
+    "insuficientemente evaluada": 2
+  },
+  "resultado": "Ningún punto de partida predictivo mejor demostrado;recencia/más historia como hipótesis, no experimento diseñado",
+  "nuevo_experimento_iniciado": false
+}

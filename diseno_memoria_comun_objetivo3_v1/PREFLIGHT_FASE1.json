@@ -1,0 +1,114 @@
+{
+  "aprobado": true,
+  "git": {
+    "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora",
+    "rama": "codex/objetivo3-v5-mae",
+    "base": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "ascendencia": true,
+    "trabajo_posterior": [],
+    "versionados": 29640,
+    "lista_versionados_igual": true,
+    "diff_versionados": [],
+    "status": [
+      "?? diagnostico_objetivo3_v1/",
+      "?? diseno_memoria_comun_objetivo3_v1/",
+      "?? diseno_temporal_objetivo3_v1/",
+      "?? experimentos_temporales_objetivo3_v1/"
+    ],
+    "ajenos_nuevos": []
+  },
+  "inventario_protegido": {
+    "entradas": 30980,
+    "diferencias": [],
+    "base": "REGISTRO_PREPARACION.json:inventario_protegido",
+    "raw": "ignorado sin lectura/censo/escritura"
+  },
+  "manifiestos": {
+    "diagnostico_objetivo3_v1/fase1/resultados/manifiesto_cierre.json": {
+      "huellas": 101,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": []
+    },
+    "diseno_temporal_objetivo3_v1/resultados/manifiesto_diseno.json": {
+      "huellas": 16,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": []
+    },
+    "experimentos_objetivo3_v5/etapa1/resultados/manifiesto_cierre.json": {
+      "huellas": 98,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": [
+        {
+          "archivo": "experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+          "commit": "109797407d75d2097e5b71f8bcef3fc266bc61d2",
+          "sha256": "33bbdce75635733eae8bad9e14d1900999fd8af6318a55842382b5d2544e13fd"
+        }
+      ]
+    },
+    "experimentos_objetivo3_v5/etapa2/resultados/manifiesto_cierre.json": {
+      "huellas": 6869,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": []
+    },
+    "experimentos_objetivo3_v5/etapa1/resultados/congelacion_previa.json": {
+      "huellas": 40,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": []
+    },
+    "experimentos_objetivo3_v5/etapa2/resultados/congelacion_operativa.json": {
+      "huellas": 55,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": []
+    },
+    "experimentos_objetivo3_v5/etapa2/resultados/piloto/indice_integridad.json": {
+      "huellas": 2174,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": []
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/resultados/manifiesto_cierre.json": {
+      "huellas": 1139,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": []
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/manifiesto_cierre.json": {
+      "huellas": 77,
+      "aprobado": true,
+      "diferencias": [],
+      "versiones_historicas": [
+        {
+          "archivo": "experimentos_temporales_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md",
+          "ubicacion": "etapa2/resultados/partida.json:continuidad_inicial",
+          "sha256": "fd3b963135e9e8233470ef36116d82e67ca4a88aae67b7c785d0a9185ba0b8bb"
+        }
+      ]
+    }
+  },
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": {
+      "esperado": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+      "actual": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+      "aprobado": true
+    },
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": {
+      "esperado": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+      "actual": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+      "aprobado": true
+    }
+  },
+  "huellas_preparacion": {
+    "README.md": true,
+    "PLAN_FASES.md": true,
+    "CONTINUIDAD_DISENO.md": true,
+    "PROMPT_FASE1_DISENO.md": true
+  },
+  "nota_huellas_propias": "En primera corrida, las cuatro huellas deben coincidir. El cierre actual sustituye solo continuidad propia; original preservado por separado."
+}

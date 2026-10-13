@@ -1,0 +1,31 @@
+{
+  "aprobado": true,
+  "controles_inventados": 9,
+  "notebook_celdas_reales": 6,
+  "graficos": 5,
+  "tablas": 25,
+  "cotejos_externos_historicos": 273,
+  "max_diferencia_externas": 0.0,
+  "entorno": "3.12.14",
+  "paquetes": 54,
+  "hipotesis": 7,
+  "alternativas": 4,
+  "fits": 0,
+  "modelos_cargados": 0,
+  "meta_v5_intacta": true,
+  "pendientes_indispensables": [],
+  "fase_completa": true,
+  "conservacion_a_verificar": "conservacion_final.json",
+  "estado": "Diagnóstico descriptivo completo,ningún punto de partida mejor validado",
+  "permisos_excepcion": "Usuario autorizó reconstruir entorno;instalaciónoffline/caché,ninguna descarga analítica",
+  "pendiente_cientifico": [
+    "eficaciarecencia/simplificación/máshistoria",
+    "causas",
+    "confirmaciónindependiente"
+  ],
+  "nuevo_experimento": false,
+  "notebook_personal": false,
+  "etapa3v5": false,
+  "commits": 0,
+  "push": false
+}

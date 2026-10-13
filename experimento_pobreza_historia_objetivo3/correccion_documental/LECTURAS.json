@@ -1,0 +1,44 @@
+{
+  "revisado": [
+    {
+      "archivo": "AGENTS.md",
+      "alcance": "completo"
+    },
+    {
+      "archivo": "experimento_pobreza_historia_objetivo3/CONTINUIDAD.md",
+      "alcance": "cierre incompleto, preservado"
+    },
+    {
+      "archivo": "experimento_pobreza_historia_objetivo3/PLAN.md",
+      "alcance": "contrato y entrega aplicables a corrección; salida de lectura completa registrada, sin ejecutar fases adicionales"
+    },
+    {
+      "archivo": "Tesis Vigente/ACA2.pdf",
+      "paginas": [
+        25,
+        58,
+        59,
+        60,
+        113,
+        114
+      ],
+      "modo": "extracción actual completa por secciones/páginas, cotejada con extracciones previas preservadas",
+      "contenido": "objetivos, diseño predictivo, validaciones/scenarios no ejecutados, cautela condicional, conclusiones descriptivas históricas"
+    }
+  ],
+  "pendiente": [
+    {
+      "archivo": "Tesis Vigente/ACA2.pdf",
+      "paginas": "otras páginas no revisadas en esta corrección; no necesarias para este complemento"
+    }
+  ],
+  "tesis_sha256": "117af2fffbec938309b55a240aae727f1d108bb328077dec800b0fc4f133e61f",
+  "extracciones_sha256": {
+    "TESIS_P58_60.txt": "b1e542a1635421739c994e953a5977aabc36b8570409a25815677856a8967d3f",
+    "TESIS_P113_114.txt": "5e64d6bc4c132bef5042049209d5e1ecddfa5ddc63090724d7a618129f453be0",
+    "TESIS_P25.txt": "4b6c6fef19af1123a7fcf7ba961fbd71aff7ea3f4625a2a1cbdc32d20a883880"
+  },
+  "red_externa": 0,
+  "raw": 0,
+  "fuentes_nuevas": 0
+}

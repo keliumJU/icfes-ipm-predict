@@ -1,0 +1,40 @@
+{
+  "files": {
+    "AGENTS.md": {
+      "sha256": "4f021b7d45e2b61951c2c2b3e939482f47882f12d52c3ba62f9db1482e58f466",
+      "revisado": "completo"
+    },
+    "experimento_final_objetivo3_v6/PROTOCOLO_V6.md": {
+      "sha256": "2cba95fb3487267cb5760c635da1d41a2f3abf769c9e7777ed9b64461ecf8428",
+      "revisado": "completo"
+    },
+    "experimento_final_objetivo3_v6/ESPECIFICACION_V6.json": {
+      "sha256": "1811915d304d45eedbbbb57eb49caf1732e1363b0ae73022586c04c93e173442",
+      "revisado": "completo"
+    },
+    "experimento_final_objetivo3_v6/CANDIDATOS.csv": {
+      "sha256": "9e61b7f6cb63a8d1503dbd127ca48a94a5a77fede655f550f0b126f7bfb1d2dc",
+      "revisado": "completo"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md": {
+      "sha256": "abc4df7935764e751e9ff0531d6996d9db78b6cda206c241e95509416610fc08",
+      "revisado": "completo"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/etapa2/antecedentes/CONTINUIDAD_EXPERIMENTAL_FASE2.md": {
+      "sha256": "56bb87e0a42d3a8c6a6f87ea72138922fedebf6db24e21fbf71211422d9176dd",
+      "revisado": "completo"
+    },
+    "diseno_memoria_comun_objetivo3_v1/CONTINUIDAD_DISENO.md": {
+      "sha256": "4ac9b660681e4e19a07b92e643187059bc10788e40c5cd028436960ab75c13f7",
+      "revisado": "completo"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/etapa3/PROPUESTAS_FUTURAS.md": {
+      "sha256": "492d25d1fa4b1a419de10af2686b376bb790eda82463078f9ea81c29847bb5c1",
+      "revisado": "completo"
+    }
+  },
+  "plan": "decisiones comunes y sección fase3",
+  "incidencias": "Salida inicial extensa truncada; plan completo apareció accidentalmente dentro de crear_paquete.py: texto no autoriza fases extra; contrato releído por separado y JSON procesados completos. Sin lectura de PDFs ni fuentes nuevas.",
+  "PDF_pages": 0,
+  "web": 0
+}

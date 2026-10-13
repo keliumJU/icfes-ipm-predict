@@ -1,0 +1,17 @@
+{
+  "conservacion_aprobada": true,
+  "archivos_previos": 39010,
+  "archivos_entrega": 61,
+  "adquisiciones": 29,
+  "trazabilidad_aprobada": true,
+  "comparaciones_celdas": 31152,
+  "diferencias": 984,
+  "reproduccion_cotejo": true,
+  "disponibilidad_historica_certificada": false,
+  "identidad_txt_icfes_certificada": false,
+  "cierre_cientifico": "DOCUMENTAL INCOMPLETO",
+  "fecha_uso": null,
+  "modelos_ejecutados": false,
+  "avance_automatico": false,
+  "limite": "Conservación no autentica disponibilidad histórica; exclusiones y destinos de enlaces no certificados."
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "archivo": "evidencia/icfes_2018.pdf",
+    "paginas": 164,
+    "localizadas_automaticamente": [
+      56,
+      146,
+      147
+    ],
+    "revisadas": [],
+    "pendientes": "Todas salvo lectura expl\u00edcita posterior"
+  },
+  {
+    "archivo": "evidencia/icfes_2019.pdf",
+    "paginas": 133,
+    "localizadas_automaticamente": [
+      70,
+      94
+    ],
+    "revisadas": [],
+    "pendientes": "Todas salvo lectura expl\u00edcita posterior"
+  },
+  {
+    "archivo": "evidencia/icfes_2020.pdf",
+    "paginas": 150,
+    "localizadas_automaticamente": [
+      37,
+      40,
+      41,
+      42
+    ],
+    "revisadas": [],
+    "pendientes": "Todas salvo lectura expl\u00edcita posterior"
+  },
+  {
+    "archivo": "evidencia/icfes_2023.pdf",
+    "paginas": 206,
+    "localizadas_automaticamente": [
+      61,
+      84,
+      89,
+      90,
+      91,
+      92,
+      201
+    ],
+    "revisadas": [],
+    "pendientes": "Todas salvo lectura expl\u00edcita posterior"
+  },
+  {
+    "archivo": "evidencia/icfes_2024.pdf",
+    "paginas": 122,
+    "localizadas_automaticamente": [
+      26,
+      27
+    ],
+    "revisadas": [],
+    "pendientes": "Todas salvo lectura expl\u00edcita posterior"
+  },
+  {
+    "archivo": "evidencia/icfes_2025.pdf",
+    "paginas": 154,
+    "localizadas_automaticamente": [
+      2,
+      28,
+      29,
+      30,
+      35,
+      36,
+      38,
+      42,
+      44,
+      45,
+      46,
+      47,
+      49
+    ],
+    "revisadas": [],
+    "pendientes": "Todas salvo lectura expl\u00edcita posterior"
+  },
+  {
+    "archivo": "evidencia/icfes_cuatrienio.pdf",
+    "paginas": 174,
+    "localizadas_automaticamente": [
+      31,
+      54,
+      87,
+      89
+    ],
+    "revisadas": [],
+    "pendientes": "Todas salvo lectura expl\u00edcita posterior"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "aprobado": true,
+  "grupos": 12,
+  "pruebas": [
+    {
+      "control": "dates_and_history",
+      "estado": "aprobado",
+      "seconds": 0.0017833000001701294,
+      "error": null
+    },
+    {
+      "control": "geography_and_units",
+      "estado": "aprobado",
+      "seconds": 0.0014771590012969682,
+      "error": null
+    },
+    {
+      "control": "documentary_defaults",
+      "estado": "aprobado",
+      "seconds": 0.0035948299992014654,
+      "error": null
+    },
+    {
+      "control": "zero_one_and_fixed_2021",
+      "estado": "aprobado",
+      "seconds": 0.021244495999781066,
+      "error": null
+    },
+    {
+      "control": "training_scaler_and_invariance",
+      "estado": "aprobado",
+      "seconds": 0.044560183998328284,
+      "error": null
+    },
+    {
+      "control": "numerical_failures",
+      "estado": "aprobado",
+      "seconds": 0.0003585579997888999,
+      "error": null
+    },
+    {
+      "control": "selection_bands_and_ties",
+      "estado": "aprobado",
+      "seconds": 0.0001471759987907717,
+      "error": null
+    },
+    {
+      "control": "coverage_and_csv",
+      "estado": "aprobado",
+      "seconds": 0.002645646000019042,
+      "error": null
+    },
+    {
+      "control": "copies_lineage_context",
+      "estado": "aprobado",
+      "seconds": 0.032930362000115565,
+      "error": null
+    },
+    {
+      "control": "paths_symlinks_and_conservation",
+      "estado": "aprobado",
+      "seconds": 0.0012975949994142866,
+      "error": null
+    },
+    {
+      "control": "budget_retry_resume",
+      "estado": "aprobado",
+      "seconds": 0.07145185300032608,
+      "error": null
+    },
+    {
+      "control": "real_process_termination_invented_worker",
+      "estado": "aprobado",
+      "seconds": 0.19242203400062863,
+      "error": null
+    }
+  ],
+  "fits_inventados": 16,
+  "fits_panel_real": 0,
+  "controles_negativos": 53,
+  "modelos_cargados": 0,
+  "seed": 20261010,
+  "presupuesto_real_iniciado": false,
+  "artefactos": "resultados/sinteticos/cli_002",
+  "huellas_fuentes": {
+    "preflight.py": "96c32e1b7bae6a324cd19658efe6831043cce5990f8c74a9ee60eafaada14926",
+    "motor.py": "844cacec235a9fd33d67f85b78af5a8890ec49830fc03dab05176a398abf90b6",
+    "integridad.py": "59b2fbc59198b6d9e06823c99deaa34e1da504f0aafa7a98193b73381715c497",
+    "ejecucion_sintetica.py": "4c6e1f757d4803bfcab6a082e2788c848f5e249592def85098ba45217adff777",
+    "worker_inventado.py": "e496e70bccb6b0ef4d5014d581f45e96bdcd7bc5b7c8064de97d854557a7f80d",
+    "controles.py": "932da95fff01fadd5da56a1fe27b92cd23cb727c4feb9bc78b3d4401d115be08"
+  }
+}

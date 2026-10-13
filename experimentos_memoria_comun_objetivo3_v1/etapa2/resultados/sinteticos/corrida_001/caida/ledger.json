@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "context": "caida",
+  "limit": 10,
+  "synthetic": true,
+  "start_monotonic": 15423.565169029,
+  "start_wall": 1791744024.4984808,
+  "used": 10,
+  "attempts": [
+    {
+      "job": "pendiente",
+      "state": "unknown_crash"
+    }
+  ],
+  "retries": 0,
+  "closed": true,
+  "exhausted": true,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

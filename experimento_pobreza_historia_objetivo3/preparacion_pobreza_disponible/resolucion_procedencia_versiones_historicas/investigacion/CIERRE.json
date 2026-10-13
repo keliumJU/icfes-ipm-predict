@@ -1,0 +1,20 @@
+{
+  "fecha_cliente": "2026-10-12 America/Bogota",
+  "fecha_cierre_utc": "2026-10-12T23:16:40.508945+00:00",
+  "estado": "CIERRE DOCUMENTAL INCOMPLETO",
+  "entrega_documental": "COMPLETADA HASTA EVIDENCIA AUTORIZADA",
+  "fecha_uso": null,
+  "pendientes": [
+    "Sellado histórico de contenido/ediciones DANE y revisiones por corte",
+    "Identidad de 14 TXT ICFES con publicación/revisiones/diccionario",
+    "Uso/corte humano pendiente",
+    "Cobertura y protocolo de evaluación futuro por decidir"
+  ],
+  "fits": 0,
+  "repeticiones": 0,
+  "escenarios": 0,
+  "modelos": 0,
+  "datasets_analiticos_nuevos": 0,
+  "objetivo4": false,
+  "avance_automatico": false
+}

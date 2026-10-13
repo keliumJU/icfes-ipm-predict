@@ -1,0 +1,40 @@
+{
+  "agentes": "AGENTS.md completo",
+  "continuidad": "diagnóstico vigente líneas1–105;antecedentes heredados no atribuidos como nuevaslecturas",
+  "planes": "Plan diagnóstico§§1–3.5 como antecedentes;plan propio fase actual§§1–3;no planes de entrenamiento posteriores",
+  "protocolo": "v5etapa1/PROTOCOLO_V5.md completo;diagnósticoPROTOCOLO_DIAGNOSTICO.md completo",
+  "artefactos": "101huellasmanifiestodiagnóstico+29.640versionados;configuracionesv5completas;aceptación/preflightdiagnóstico;matriz/alternativas/conteos guardados",
+  "fuente": "Todas231filas solo años/llaves para inventario;normalización existente zfill(2)",
+  "codigo_local": [
+    {
+      "archivo": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/linear_model/_quantile.py",
+      "lineas": "143–184",
+      "sha256": "097a311cfea5568308654955c8702996c4f17d48397096086a5d55258f4429e9",
+      "uso": "Inspección estática de soporte sample_weight;no import/fit"
+    },
+    {
+      "archivo": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/preprocessing/_data.py",
+      "lineas": "903–928",
+      "sha256": "4e4588e51cf26364c0b28c1ee7694a9029798a6c6e34b1098bcbac1149da0325",
+      "uso": "Inspección estática de soporte sample_weight;no import/fit"
+    },
+    {
+      "archivo": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/ensemble/_gb.py",
+      "lineas": "626–645",
+      "sha256": "db94251d7db7e82964c1877d04dd7d7bca726fad98f8770c96fc3d427d48975a",
+      "uso": "Inspección estática de soporte sample_weight;no import/fit"
+    },
+    {
+      "archivo": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/sklearn/pipeline.py",
+      "lineas": "500–550",
+      "sha256": "cbc04a4053d5a8e97ca3d78e8b23e7cb8abb21aa81dbebb9647f9b492f63485d",
+      "uso": "Inspección estática de soporte sample_weight;no import/fit"
+    }
+  ],
+  "incidencia": "Primera búsqueda rg de código local tuvo salida truncada;relecturas acotadas efectivas anotadas arriba",
+  "entorno": "No entorno revalidado ni pipcheck ejecutado en fase documental;disponibilidadruta no equivale a validación",
+  "pdf_paginas": 0,
+  "web_busquedas": 0,
+  "modelos_cargados": 0,
+  "pendientes": "Pruebas inventadas/routing/compatibilidad/runtime/cierreoperativo;solo en futura fase1 autorizada"
+}

@@ -1,0 +1,22 @@
+{
+  "conservacion_cierre_incompleto_verificados": true,
+  "entrega_completa": false,
+  "meta_certificada": false,
+  "solo_lectura": true,
+  "new_fits": 0,
+  "originales": 37744,
+  "piloto_cerrado": true,
+  "original_fits": 200,
+  "repeticiones": 4,
+  "auditoria_piloto_aprobada": true,
+  "notebook_ejecutado": false,
+  "texto_academico_generado": false,
+  "retry_total_sesion": 1,
+  "pendientes": [
+    "notebook ejecutado",
+    "tablas/figuras de notebook y revisión visual",
+    "texto último y evidencias",
+    "aceptación completa"
+  ],
+  "avance_automatico": false
+}

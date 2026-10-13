@@ -1,0 +1,15 @@
+{
+  "year": 2025,
+  "selected_constant": 2.834273359257452,
+  "n_historical": 132,
+  "eligible_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "coef_zero_fits": 10,
+  "coef_audited_fits": 10,
+  "different_midpoint": 4,
+  "all_median_interval": true
+}

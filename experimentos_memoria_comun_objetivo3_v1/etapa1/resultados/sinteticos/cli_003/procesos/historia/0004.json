@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "context": "inventado-procesos",
+  "limit": 10,
+  "used": 0.026776382997923065,
+  "attempts": [
+    {
+      "job": "ok",
+      "status": "success",
+      "attempt": 1,
+      "seconds": 0.011334916998748668,
+      "elapsed_measured": 0.011334916998748668,
+      "artifact": "ok_1.txt",
+      "sha256": "feba029678dc15a15d7c4c5d73f9e067cb290d296a8a13ebf0b186306a9d790e"
+    },
+    {
+      "job": "infra",
+      "status": "infrastructure",
+      "attempt": 1,
+      "seconds": 0.015441465999174397,
+      "elapsed_measured": 0.015441465999174397
+    }
+  ]
+}

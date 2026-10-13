@@ -1,0 +1,33 @@
+{
+  "aprobado": true,
+  "grupos": [
+    "CSV exacto: int/float0; rechazo1e-11/llaves/campos/orden/filas; máscara nullable",
+    "Duplicados/omisiones/no finitos rechazados sin eliminar observaciones",
+    "Cuantiles lineales/ddof1/rangos medios/empates/constantes/correlaciones indefinidas",
+    "Previos por misma llave; intervalos1/2 preservados sin anualizar",
+    "Signo0/métricas/deltas/magnitud; aritmética racional independiente",
+    "Copias idénticas: representante menor externo/linaje; discrepancias y semilla rechazadas",
+    "Destinos/symlinks externos e internos rechazados; pruebas aisladas propias",
+    "Orden/cobertura candidaturas y ventanas: omisión/orden rechazados",
+    "AST/imports: sin llamadas de ajuste o deserialización; sin runners históricos"
+  ],
+  "n_grupos": 9,
+  "origen": "Datos inventados deterministas; no uso aleatorio",
+  "semilla": 20261010,
+  "fits": 0,
+  "modelos_cargados": 0,
+  "fuentes": [
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/fuentes/comun_diagnostico.py",
+      "sha256": "ec670a589a17976ba22abc1b0a2d9332246fc071b89f7fa86c431a39e4dc4049"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/fuentes/ejecutar_diagnostico.py",
+      "sha256": "77edd3e2ce910aead83622796923f926f4e192196907441a26c21038f36a040d"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/fuentes/pruebas_diagnostico.py",
+      "sha256": "159358f4ea133906662385033feb34dac67f22a53cc6f7655c6e5ebfcc565ebc"
+    }
+  ]
+}

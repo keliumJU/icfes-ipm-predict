@@ -1,0 +1,2232 @@
+{
+  "origen": "inventado",
+  "contexto": {
+    "origen": "inventado",
+    "semilla": 20261010
+  },
+  "limite": 100,
+  "consumido": 3.536707704989567,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007286258000021917
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.006922673999724793
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007051112999761244
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.006928836000042793
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012547970000014175
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007410757000798185
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007507188999625214
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007496340999750828
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00886678899951221
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007186429000284988
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008100537000245822
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00833627400061232
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007647989999895799
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.015810880999197252
+    },
+    {
+      "etiqueta": "e2022_i2021_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008614635999947495
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.006949550999706844
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007332169000619615
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007801247999850602
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.013951439000265964
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008993930000542605
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008738223000364087
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011836003000098572
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008612503000222205
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008017476000532042
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007251703000292764
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007453498999893782
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.013369194999540923
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009191963999910513
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00809360800030845
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008470348999253474
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00798195500010479
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011618986999565095
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008959767000305874
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007937362999655306
+    },
+    {
+      "etiqueta": "e2022_i2021_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008233208000092418
+    },
+    {
+      "etiqueta": "e2022_externo_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007815496000148414
+    },
+    {
+      "etiqueta": "e2022_externo_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008078500000010536
+    },
+    {
+      "etiqueta": "e2022_externo_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00865451700065023
+    },
+    {
+      "etiqueta": "e2022_externo_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007791293000082078
+    },
+    {
+      "etiqueta": "e2022_externo_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009037371999511379
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00786708799932967
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.014431794999836711
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007508611000048404
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007695496999986062
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008940604000599706
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007033765999949537
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.013460920999932569
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.006826777999776823
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0074841639998339815
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009134660999734479
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008041414000217628
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009043228999871644
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008278348999738228
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00705627600018488
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008029352000448853
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008540472999811755
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008110451999527868
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0069648720000259345
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007766269000057946
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007483823000256962
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010941577999801666
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009140089000538865
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008336488999702851
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007326468999963254
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007719620999523613
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01055532200007292
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008348821999788925
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007221437999760383
+    },
+    {
+      "etiqueta": "e2023_i2021_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0075805779997608624
+    },
+    {
+      "etiqueta": "e2023_i2022_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007625137000104587
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010574859999906039
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007315242000004218
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.051028124000367825
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010715163999520882
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008354640000106883
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007505177999519219
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0073179009996238165
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007543091999650642
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012220965999404143
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00743778400010342
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008379651999348425
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00867535100042005
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007651338999494328
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01108943500003079
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008796733000053791
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007069733999742311
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007930391000627424
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008116446999338223
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.013903199999731441
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00827221399958944
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008814693000203988
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007116445000065141
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008090360000096553
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00752914700024121
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01102512299985392
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0072074270001394325
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008548547999453149
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009366764000333205
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007966275999933714
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007552445000328589
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009141397000348661
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008141466000779474
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009216935999575071
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008040105999498337
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00782778699976916
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007981824999660603
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012169647000519035
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010656175999429252
+    },
+    {
+      "etiqueta": "e2023_i2021_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007647937000001548
+    },
+    {
+      "etiqueta": "e2023_i2022_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007448321000083524
+    },
+    {
+      "etiqueta": "e2023_externo_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007975782000357867
+    },
+    {
+      "etiqueta": "e2023_externo_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012954682999406941
+    },
+    {
+      "etiqueta": "e2023_externo_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007861514999603969
+    },
+    {
+      "etiqueta": "e2023_externo_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007676874000026146
+    },
+    {
+      "etiqueta": "e2023_externo_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007174347000727721
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008376535000024887
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008450805000393302
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0073678790004123584
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008566255000005185
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008046918000218284
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0131147880001663
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01049730799968529
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008698646999619086
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011597305000577762
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008782166999480978
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007774659000460815
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008501219000208948
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.06253928300066036
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007849652000004426
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007995246000064071
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008236417999796686
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007162511999922572
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009840044000156922
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008491059999869321
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008018905999961135
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007167939000282786
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008033879999857163
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008816053999908036
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008586521000324865
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007835401000193087
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007484589000341657
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008727129999897443
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009332543000709848
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00790569999935542
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007549645999461063
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011467973999970127
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007828081999832648
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007981277999533631
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008079682999778015
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007979693000379484
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.014164086000164389
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00823266999941552
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007529737000368186
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0075401280000733095
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008014034000552783
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008677276000526035
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007703975999902468
+    },
+    {
+      "etiqueta": "e2024_i2021_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008715399999346118
+    },
+    {
+      "etiqueta": "e2024_i2022_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007915254999716126
+    },
+    {
+      "etiqueta": "e2024_i2023_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012024779999592283
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009117489000345813
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007388191999780247
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007765602999825205
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009918665999975929
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008025262000046496
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00822057200002746
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007996434999768098
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008033066000280087
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010645432000274013
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008736513000258128
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00889052200000151
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00791651899999124
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008565776000068581
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00940014399930078
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007472563000192167
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00912281199998688
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008418146999247256
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0102264440001818
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010190261000389
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008017503000701254
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008012344999769994
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008803389000604511
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008698900000126741
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008734850000109873
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.06902167800035386
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011135063999972772
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007687213999815867
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008048286999837728
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008258537999608961
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010392828000476584
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010794873000122607
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008478898999783269
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008552839000003587
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009250691000488587
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008086948999334709
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009329206999609596
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010082738999699359
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009060581000085222
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010398956000244652
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008442346000265388
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008638641999823449
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008493402999192767
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012388699999974051
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008737039000152436
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00793292999969708
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010140968999621691
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007801969999491121
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009125674000642903
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008768803000748449
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009331681999356078
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00804494300064107
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010342499000216776
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007861629000217363
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007997548000275856
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009568147000209137
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00816603900057089
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008438032999947609
+    },
+    {
+      "etiqueta": "e2024_i2021_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00846192599965434
+    },
+    {
+      "etiqueta": "e2024_i2022_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008722386999579612
+    },
+    {
+      "etiqueta": "e2024_i2023_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008201163000194356
+    },
+    {
+      "etiqueta": "e2024_externo_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011535964999893622
+    },
+    {
+      "etiqueta": "e2024_externo_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00825735199941846
+    },
+    {
+      "etiqueta": "e2024_externo_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007726212999841664
+    },
+    {
+      "etiqueta": "e2024_externo_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008180076000826375
+    },
+    {
+      "etiqueta": "e2024_externo_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008109299999887298
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010543231000156084
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00829261399940151
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009411311999429017
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008391729000322812
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009608991999812133
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007915850000244973
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009527415999400546
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008047684999837657
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009454371000174433
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008682378999765206
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009089574000427092
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008114539000416698
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008571236000534554
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011053107999941858
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00895251299971278
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008350815000085277
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008587337000790285
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.015980210999259725
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008582189999287948
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008341633000782167
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008538167999176949
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.016427965999355365
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007978521000040928
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010918485999354743
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011828181000055338
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008033273999899393
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008332910999342857
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01082492200021079
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008944705000430986
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009358022999549576
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007911044000138645
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008364858000277309
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009416226999746868
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009601930999451724
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007940560999486479
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008239162000791111
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010698835999392031
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008221876999414235
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008126719000756566
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008425938000073074
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.015458771999874443
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008472464999613294
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008639800999844738
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008538563999536564
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.016647968999677687
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008136641000419331
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008030446999327978
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008726842999749351
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008685337999850162
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008635982000669173
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008238878000156546
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00946393599951989
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008516202999999223
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012688671999967482
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008218067999223422
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008765077999669302
+    },
+    {
+      "etiqueta": "e2025_i2021_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009054135000042152
+    },
+    {
+      "etiqueta": "e2025_i2022_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00854872800027806
+    },
+    {
+      "etiqueta": "e2025_i2023_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00922700099999929
+    },
+    {
+      "etiqueta": "e2025_i2024_mediana_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007985311999618716
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008934675999626052
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008761752999816963
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01039739699990605
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008882811999683327
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010172156000407995
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00838251000004675
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009352581999337417
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008268218999546662
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012705128000561672
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008393961999900057
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01001627300047403
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.007937024000057136
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009567203999722551
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008383272999708424
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011266073000115284
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_historico_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009327828000095906
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00910950699926616
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009138675999565748
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008585289000620833
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009823237999626144
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009236490000148478
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008639237999886973
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008420827000009012
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008935374999964552
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01111371600018174
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008464177000860218
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008776698000474425
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008750120000513562
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009009583000079147
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008490643999721215
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008901460999368283
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_nivel_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00860887199996796
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.014371512999787228
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009081546000743401
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008913991000554233
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008414707999691018
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.014520597999762686
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008703999000317708
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009620834000088507
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008326875999955519
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011483696000141208
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010222841000540939
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00938757399944734
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009173842000564036
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012100318999728188
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0103846860001795
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009742299999743409
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ipm_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00949352999941766
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.013136499999745865
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010028884999883303
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008736409999983152
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009072996000213607
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01170499700037908
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010459574999913457
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008902137000404764
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009335237999948731
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010978694999721483
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009109583999816095
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009099521999814897
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008981662999758555
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.017483976000221446
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.012390857000355027
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009001479999824369
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_tasas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00927942299949791
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.015635154999472434
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009798769000553875
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009080301999347284
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008731627999623015
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.011811342999862973
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009214327000336198
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009272817999772087
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_01#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009560256999975536
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.01675502200032497
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009262163999665063
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008476365000205988
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_02#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010013194999373809
+    },
+    {
+      "etiqueta": "e2025_i2021_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.016435047999948438
+    },
+    {
+      "etiqueta": "e2025_i2022_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.010340435999751207
+    },
+    {
+      "etiqueta": "e2025_i2023_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009659682999881625
+    },
+    {
+      "etiqueta": "e2025_i2024_boosting_absoluto_cambio_ambas_03#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008502642999701493
+    },
+    {
+      "etiqueta": "e2025_externo_mediana_historico_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.0169413240000722
+    },
+    {
+      "etiqueta": "e2025_externo_mediana_nivel_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.009139764999417821
+    },
+    {
+      "etiqueta": "e2025_externo_mediana_cambio_ipm_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.008500642000399239
+    },
+    {
+      "etiqueta": "e2025_externo_mediana_cambio_tasas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00919586799955141
+    },
+    {
+      "etiqueta": "e2025_externo_mediana_cambio_ambas_00#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00875091100078862
+    }
+  ]
+}

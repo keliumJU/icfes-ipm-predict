@@ -1,0 +1,12 @@
+{
+  "aprobado": true,
+  "n": 165,
+  "reference": "persistencia",
+  "paths": {
+    "v3": "experimentos_objetivo3_v3/etapa2/resultados/predicciones_externas.csv",
+    "v5": "experimentos_objetivo3_v5/etapa2/resultados/predicciones_externas.csv",
+    "recencia": "experimentos_temporales_objetivo3_v1/etapa2/resultados/predicciones_externas.csv"
+  },
+  "same_keys_observed_prediction": true,
+  "independent_evidence": false
+}

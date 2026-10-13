@@ -1,0 +1,20 @@
+variable,unidad,n,minimo,maximo
+prom_punt_global,puntos,165,204.45846430175123,281.01214627775357
+puntaje_previo,puntos,165,201.30078936435396,278.97218951727496
+cambio_previo,puntos,165,-12.135827730683047,17.582797427652736
+ipm,% personas,165,2.2000000000000002,75.400000000000006
+Analfabetismo,% hogares,165,0.69999999999999996,35.100000000000001
+Bajo logro educativo,% hogares,165,18.800000000000001,82.900000000000006
+Barreras a servicios para cuidado de la primera infancia,% hogares,165,2,17
+Inasistencia escolar,% hogares,165,0.20000000000000001,27.100000000000001
+Rezago escolar,% hogares,165,14.300000000000001,44.100000000000001
+Trabajo infantil,% hogares,165,0,5.5
+Desempleo de larga duracion,% hogares,165,5.2999999999999998,52.799999999999997
+Trabajo informal,% hogares,165,51,96.200000000000003
+Barreras de acceso a servicios de salud,% hogares,165,0.10000000000000001,10
+Sin aseguramiento en salud,% hogares,165,0.59999999999999998,25.600000000000001
+Hacinamiento critico,% hogares,165,2.1000000000000001,27
+Inadecuada eliminacion de excretas,% hogares,165,0.29999999999999999,84.900000000000006
+Material inadecuado de paredes exteriores,% hogares,165,0.10000000000000001,34
+Material inadecuado de pisos,% hogares,165,0.10000000000000001,72.599999999999994
+Sin acceso a fuente de agua mejorada,% hogares,165,0.10000000000000001,75.400000000000006

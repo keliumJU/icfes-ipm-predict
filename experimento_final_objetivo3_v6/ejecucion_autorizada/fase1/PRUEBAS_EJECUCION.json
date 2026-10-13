@@ -1,0 +1,67 @@
+{
+  "aprobado": true,
+  "flow": {
+    "aprobado": true,
+    "scenarios": [
+      {
+        "internal_fits": 192,
+        "external_fits": 128,
+        "repeat_fits": 0,
+        "internal_constants": 60,
+        "external_constants": 40,
+        "repeat_constants": 0,
+        "internal_jobs": 390,
+        "coverage": {
+          "internas_originales.csv": 12870,
+          "internas_unicas.csv": 5148,
+          "externas.csv": 6600,
+          "selecciones.csv": 156,
+          "linaje.csv": 12870
+        }
+      },
+      {
+        "internal_fits": 192,
+        "external_fits": 128,
+        "repeat_fits": 8,
+        "internal_constants": 60,
+        "external_constants": 40,
+        "repeat_constants": 0,
+        "internal_jobs": 390,
+        "coverage": {
+          "internas_originales.csv": 12870,
+          "internas_unicas.csv": 5148,
+          "externas.csv": 6600,
+          "selecciones.csv": 156,
+          "linaje.csv": 12870
+        }
+      },
+      {
+        "internal_fits": 192,
+        "external_fits": 128,
+        "repeat_fits": 0,
+        "internal_constants": 60,
+        "external_constants": 40,
+        "repeat_constants": 4,
+        "internal_jobs": 390,
+        "coverage": {
+          "internas_originales.csv": 12870,
+          "internas_unicas.csv": 5148,
+          "externas.csv": 6600,
+          "selecciones.csv": 156,
+          "linaje.csv": 12870
+        }
+      }
+    ],
+    "negative_reuse_rejected": true,
+    "real_fits": 0,
+    "synthetic_sklearn_fits": 0
+  },
+  "termination": {
+    "aprobado": true,
+    "worker_pid": 54,
+    "wait_completed": true,
+    "pending": null,
+    "elapsed_seconds": 0.4371836020000046,
+    "retry": 0
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "monotonic": 30060.379597374,
+    "component": "comun",
+    "state": "antes_fit",
+    "fits_started": 1
+  },
+  {
+    "monotonic": 30060.400580968,
+    "component": "comun",
+    "state": "fit_terminado",
+    "fits_completed": 1
+  },
+  {
+    "monotonic": 30060.404029735,
+    "component": "correccion",
+    "state": "antes_fit",
+    "fits_started": 1
+  },
+  {
+    "monotonic": 30060.41185376,
+    "component": "correccion",
+    "state": "fit_terminado",
+    "fits_completed": 1
+  }
+]

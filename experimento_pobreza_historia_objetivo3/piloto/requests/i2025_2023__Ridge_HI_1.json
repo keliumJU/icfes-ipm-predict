@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "id": "Ridge_HI_1",
+    "order": 11,
+    "group": "HI",
+    "family": "Ridge",
+    "inputs": [
+      "puntaje_previo",
+      "cambio_previo",
+      "ipm"
+    ],
+    "params": {
+      "alpha": 1.0,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": null,
+      "positive": false,
+      "random_state": 20261010,
+      "solver": "svd",
+      "tol": 0.0001
+    },
+    "scaler": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    }
+  },
+  "matrix_file": "preflight/matrices/i2025_2023__Ridge_HI_1.json",
+  "output_file": "piloto/records/i2025_2023__Ridge_HI_1.json"
+}

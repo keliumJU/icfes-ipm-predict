@@ -1,0 +1,14 @@
+{
+  "completa": false,
+  "preflight_aprobado": true,
+  "piloto_cerrado": true,
+  "auditoria_piloto_aprobada": true,
+  "original_fits": 200,
+  "repeticiones": 4,
+  "fits_auditor": 0,
+  "retries_fits": 0,
+  "retry_total_sesion": 1,
+  "fallo_indispensable": "notebook no ejecutado; cadena tablas→figuras→revisión→texto no realizada",
+  "meta_certificada": false,
+  "conclusion_dependiente_emitida": false
+}

@@ -1,0 +1,18 @@
+{
+  "fits": [
+    {
+      "component": "comun",
+      "state": "complete",
+      "X": [
+        [
+          -2.875
+        ]
+      ],
+      "y": [
+        -0.25
+      ],
+      "start_monotonic": 15401.504732725,
+      "seconds": 0.0086643720005668
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "aprobado": true,
+  "filas_fuente": 231,
+  "territorios": [
+    "05",
+    "08",
+    "11",
+    "13",
+    "15",
+    "17",
+    "18",
+    "19",
+    "20",
+    "23",
+    "25",
+    "27",
+    "41",
+    "44",
+    "47",
+    "50",
+    "52",
+    "54",
+    "63",
+    "66",
+    "68",
+    "70",
+    "73",
+    "76",
+    "81",
+    "85",
+    "86",
+    "88",
+    "91",
+    "94",
+    "95",
+    "97",
+    "99"
+  ],
+  "anios": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "pares_externos": 165,
+  "tasas": [
+    "Analfabetismo",
+    "Bajo logro educativo",
+    "Barreras a servicios para cuidado de la primera infancia",
+    "Inasistencia escolar",
+    "Rezago escolar",
+    "Trabajo infantil",
+    "Desempleo de larga duracion",
+    "Trabajo informal",
+    "Barreras de acceso a servicios de salud",
+    "Sin aseguramiento en salud",
+    "Hacinamiento critico",
+    "Inadecuada eliminacion de excretas",
+    "Material inadecuado de paredes exteriores",
+    "Material inadecuado de pisos",
+    "Sin acceso a fuente de agua mejorada"
+  ],
+  "dimensiones": {
+    "Condiciones educativas del hogar": [
+      "Analfabetismo",
+      "Bajo logro educativo"
+    ],
+    "Condiciones de la niñez y juventud": [
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil"
+    ],
+    "Trabajo": [
+      "Desempleo de larga duracion",
+      "Trabajo informal"
+    ],
+    "Salud": [
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud"
+    ],
+    "Acceso a servicios públicos domiciliarios y condiciones de la vivienda": [
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ]
+  },
+  "lectura": "round_trip, códigos string",
+  "igual_peso": true,
+  "conteos_predictores": false,
+  "geografia": "colegio",
+  "respuesta": "prom_punt_global recibido",
+  "ipm_unidad": "% personas",
+  "tasas_unidad": "% hogares",
+  "historia_sin_anualizar": true,
+  "cotejo_exacto": true
+}

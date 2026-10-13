@@ -1,0 +1,32 @@
+{
+  "level_rows": 231,
+  "change_rows": 198,
+  "territories": 33,
+  "years": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "external_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "external_n": 165,
+  "candidates": 39,
+  "internal_windows": 10,
+  "seed": 20261010,
+  "first_supervised": 2021,
+  "historical_level": 2018,
+  "historical_change": 2019,
+  "excluded_year": 2020,
+  "previous2021": 2019,
+  "selection_band": 0.1,
+  "target_percent": 5
+}

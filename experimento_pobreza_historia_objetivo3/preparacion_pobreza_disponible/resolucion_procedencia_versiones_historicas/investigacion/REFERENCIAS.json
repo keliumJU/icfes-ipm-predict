@@ -1,0 +1,358 @@
+[
+  {
+    "id": "D2019",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2019/anexo_pobreza_multidimensional_19.xls",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2019.xls",
+    "sha256": "e6b472898e48fb0a99646ff5e11449ce85da3cd23efd46f9ca26a823225d09df",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2020-12-21",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "D2020",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2020/anexo_dptal_pobreza_multidimensional_20.xls",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2020.xls",
+    "sha256": "9d4acfc2850b5492783942c7ff06b5c9014c63831019a8168bf73d44a71e6b84",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2021-09-02",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "D2021",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2021/anexo_dptal_pobreza_multidimensional_21.xls",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2021.xls",
+    "sha256": "6d89c9c8d1258d5c0f52fe87dcf7ca9e8e85a52e863baa176dbdbc7cda208a08",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2022-04-28",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "D2022",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2022/anexo_dptal_pobreza_multidimensional_2022.xlsx",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2022.xlsx",
+    "sha256": "dba3bb49253a4f5d2bb7640e46ec45bd05664d6ed0bcdf7ecfea4c69e559053a",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2023-05-23",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "D2023",
+    "url": "https://www.dane.gov.co/files/operaciones/PM/anex-PMultidimensional-Departamental-2023.xlsx",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2023.xlsx",
+    "sha256": "eb5251be4675daff5ffc8048f64b3e26029bdee8084521f4c32388b7f2b9ed2a",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2024-04-19",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "D2024",
+    "url": "https://www.dane.gov.co/files/operaciones/PM/anex-PMultidimensional-Departamental-2024.xlsx",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2024.xlsx",
+    "sha256": "22ed318b6dc8b6f679c6fed59c2ab6da4a592de7de4f8c0b1607233878283381",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2025-04-22",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "D2025",
+    "url": "https://www.dane.gov.co/files/operaciones/PM/anex-PMultidimensional-Departamental-2025.xlsx",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2025.xlsx",
+    "sha256": "73caab08046d6b35f80326b1b6f2e9b1cb8ad75a2ac4946515fda320ffaaf447",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2026-04-14",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "D2018",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2018/anexo_pobreza_multidimensional_18_departamento.xls",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_original_2018.xls",
+    "sha256": "9a7854ee98852ee2c0ce81d15c812d8b7735fd04f3d7aee107d8884ec015f592",
+    "ubicacion": "ESTRUCTURA_Y_NOTAS.json: títulos, columnas Total, notas y celdas; COTEJO_CELDAS.csv",
+    "hecho": "Edición agregada departamental adquirida hoy, fecha declarada 2019-07-12",
+    "limite": "No sello histórico de bytes; fecha de publicación del producto separada de disponibilidad local."
+  },
+  {
+    "id": "DRECALIBRACION",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2019/nota_met__pobreza_multidimensional_19.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/evidencia_oficial/dane_nota2019.pdf",
+    "sha256": "79a5fb675b9a85d7b5dc4d076b347cb03fc8d2bf01b59c0c993309dfdafc6e9d",
+    "ubicacion": "Páginas PDF/impresas 1–3, Introducción y estandarización",
+    "hecho": "2018 fue recalibrado con CNPV 2018 y divulgado con 2019 el 2020-07-14; la nota declara no comparabilidad con la serie de proyecciones Censo 2005.",
+    "limite": "No demuestra primera publicación de todas las celdas departamentales revisadas.",
+    "revision_actual": "Páginas 1–3, 146 y 111–112 releídas según documento; imágenes conservadas como antecedente salvo inventario visual actual"
+  },
+  {
+    "id": "I2021CARGA",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2024/12/Informe-de-Gestion-2021-1.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/evidencia_oficial/icfes_gestion2021.pdf",
+    "sha256": "6c049e0a06aa3b0d72b1a01f62f1eafd70c843f88ec4b3ca31b3a723c7be22a9",
+    "ubicacion": "Página PDF/impresa 146, sección 4.8",
+    "hecho": "Informe de gestión 2021 reporta carga anonimizada de Saber 11-2021 calendario A durante septiembre–diciembre de 2021.",
+    "limite": "Intervalo, sin día ni edición; no prueba la disponibilidad conjunta de ambos periodos ni los valores locales.",
+    "revision_actual": "Páginas 1–3, 146 y 111–112 releídas según documento; imágenes conservadas como antecedente salvo inventario visual actual"
+  },
+  {
+    "id": "I2023CARGA",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/04/Informe-de-rendicio%CC%81n-de-cuentas-Vf.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/evidencia_oficial/icfes_rendicion2024.pdf",
+    "sha256": "696d7413e0baa3bba5b26273591d0643eb6edc7b458ff879e0dfac9c5a354b04",
+    "ubicacion": "Páginas PDF 111–112 (sin folio impreso), gestión OGPI 2024",
+    "hecho": "Registra revisión/publicación de bases Saber 11 2023 A y B durante enero–marzo de 2024 y actualización de diccionarios; prepara transformación del repositorio.",
+    "limite": "No fecha exacta, no primera edición identificada, no identidad con TXT locales. Lo previsto para segundo semestre no es evento efectivo.",
+    "revision_actual": "Páginas 1–3, 146 y 111–112 releídas según documento; imágenes conservadas como antecedente salvo inventario visual actual"
+  },
+  {
+    "id": "IINVENTARIO",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/03/inventario_img.jpg",
+    "consulta": "2026-10-12",
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/evidencia_oficial/inventario_img.jpg",
+    "sha256": "9579da23029c6a2ab4a0376909c89cb2312292010a789c7b9b393beb44daf978",
+    "ubicacion": "Imagen completa, primera fila de tabla: Examen Saber 11",
+    "hecho": "El inventario enlazado declara Saber 11, nivel estudiante, hasta 2024.",
+    "limite": "Sin fecha interna de primera publicación; ruta de carga no prueba evento histórico. Omisión de 2025 no demuestra inexistencia.",
+    "revision_actual": "Páginas 1–3, 146 y 111–112 releídas según documento; imágenes conservadas como antecedente salvo inventario visual actual"
+  },
+  {
+    "id": "INUEVAS",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/03/nuevasbases_img.jpg",
+    "consulta": "2026-10-12",
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/evidencia_oficial/nuevasbases_img.jpg",
+    "sha256": "e85ff2eed5859b1162047b0b819589d4e12258d567e15a636d59a0a197e8e637",
+    "ubicacion": "Imagen completa, bloques Saber 11 y desagregación",
+    "hecho": "Anuncia nuevas bases y desagregación étnica/discapacidad desde 2016; contexto de reedición del repositorio.",
+    "limite": "No identifica cambios de puntajes ni fecha de entrega de los TXT locales.",
+    "revision_actual": "Páginas 1–3, 146 y 111–112 releídas según documento; imágenes conservadas como antecedente salvo inventario visual actual"
+  },
+  {
+    "id": "ICALENDARIO",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/06/calendario_dataicfes.jpg",
+    "consulta": "2026-10-12",
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/evidencia_oficial/calendario_dataicfes.jpg",
+    "sha256": "795da7b87d8fe04e63930b7b5a11a5e18016126d17f0d8c2ea2301669bd6ec58",
+    "ubicacion": "Imagen completa, Fase II y lista de exámenes",
+    "hecho": "Lista Saber Pro 2024, TyT 2024 y Pre Saber 2022–2024; aviso de aplazamiento de 30 de junio a 7 de julio.",
+    "limite": "No incluye Saber 11 y no muestra año de lanzamiento dentro de la imagen: no certifica fechas históricas Saber 11.",
+    "revision_actual": "Páginas 1–3, 146 y 111–112 releídas según documento; imágenes conservadas como antecedente salvo inventario visual actual"
+  },
+  {
+    "id": "ICFES_2018",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2024/12/Informe-de-gestion-2018.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_2018.pdf",
+    "sha256": "affda66e1619ccbe960d7d4f6ec1e259e1cfc88454b226351154c013d05fb02f",
+    "ubicacion": "Páginas PDF 146,147",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_2019",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2024/12/Informe-de-gestion-2019.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_2019.pdf",
+    "sha256": "012e25ea1475be29d6a4892e163b740eaef1800389334f3f2ad229efe868684e",
+    "ubicacion": "Páginas PDF 70,94",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_2020",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2024/12/Informe-de-gestion-2020.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_2020.pdf",
+    "sha256": "881733f6dad519d2b0be2eca81a7f7cbd109a388ab94629af577f8a4ae82956a",
+    "ubicacion": "Páginas PDF 40,41,42",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_CUATRIENIO",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/10/DG-Informe-del-cuatrienio-ICFES-Acces.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_cuatrienio.pdf",
+    "sha256": "29d9e6899b8c53d68b625568cf1ba8a458fd453de5e785bb6babba440a8c3f6e",
+    "ubicacion": "Páginas PDF 87,89",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_2023",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/10/Informe-Gestio%CC%81n-2023-version-final-30-01-2024.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_2023.pdf",
+    "sha256": "9db034f9a15b3c53b81fc932026504c2dad7ff7cba7642adcf36d4ee9a2315aa",
+    "ubicacion": "Páginas PDF 89,90,91,92",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_2024",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/02/Informe-de-Gestion-2024.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_2024.pdf",
+    "sha256": "e0e15f74d2b72a426899fb2f18b913d2f70f72dc76f0d70ee2b2fb2d7a68418a",
+    "ubicacion": "Páginas PDF 26,27",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_2025",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2026/03/f52-24-informe-de-gestion-2025.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_2025.pdf",
+    "sha256": "1545f61a3e51de4cac48663d96e546338cc392ad7e29fe902c92ea9dd7cb0c9a",
+    "ubicacion": "Páginas PDF 35,36,38,42,44,45,46,47,49",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_PAAC2022_2",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2024/11/Seguimiento-PAAC-2022-2-Cuatrimestre-2022.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_paac2022_2.pdf",
+    "sha256": "535e1bb5cfeecacdbc5ff08b04561611d55077379ac258458591e3cf676c2537",
+    "ubicacion": "Páginas PDF 9",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "ICFES_PAAC2022_3",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2024/11/Seguimiento-PAAC-2022-3-Cuatrimestre-2022.pdf",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_paac2022_3.pdf",
+    "sha256": "ec6cd6fd77f65af1c4ee061ffd69494457767fe469d962882f650bbcd52d222e",
+    "ubicacion": "Páginas PDF 9",
+    "hecho": "Gestión/publicación y repositorio: ver REGISTRO_PROCEDENCIA_REVISIONES.md",
+    "limite": "No enlaza huellas de TXT locales ni certifica fecha de sus valores"
+  },
+  {
+    "id": "dane_2019.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2019",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2019.html",
+    "sha256": "2079b5bd8a963c48ab93fdbcd7b048cb6f370162fb04e1f9b1086f9c70196c02",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "dane_2021.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2021",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2021.html",
+    "sha256": "3dd9a2b053f60fa100dd2b2b03273b030a7d04896d6f8778fc085f8d402e317f",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "dane_2022.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2022",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2022.html",
+    "sha256": "4d9681a307923e088453a24744b900bfdd1bfebdf12243d65647662776a6e531",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "dane_2023.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2023",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2023.html",
+    "sha256": "d0e12ad6128263dc41d56e1f1546e8e94ec5a1723efd1465efb5342bb8ae9cd7",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "dane_2024.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2024",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2024.html",
+    "sha256": "0eb8dcab89b692a2104e3ffb4641c73a3ee14e8371e4c2dcf21a2235797d1997",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "dane_2025.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2025.html",
+    "sha256": "b8448e487d56cbf03cdc399f6a05fe2c874a39a25ad2b5def9294a9ef6c2d0fe",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "icfes_data.html",
+    "url": "https://www.icfes.gov.co/investigaciones/data-icfes/",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_data.html",
+    "sha256": "b3dd8db7ed7a3a6d90a536d75d9f707ccbfb183f8e1ba30f156a253f4977c375",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "icfes_analisis.html",
+    "url": "https://www.icfes.gov.co/analisis-de-datos/",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_analisis.html",
+    "sha256": "95d98219a83c8461ad9fc44f12f6051b805ce77afec7c293961f2fc9fb0d7d1c",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "icfes_informes.html",
+    "url": "https://www.icfes.gov.co/transparencia-y-acceso-a-la-informacion-publica/planeacion-presupuesto-e-informes/informes-de-gestion-evaluacion-y-auditoria/",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_informes.html",
+    "sha256": "a24a82792fc438b811db6fd23eaa64fbecc775124c05181cea3c186f31054ff7",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "dane_original_2018.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-y-desigualdad/pobreza-monetaria-y-multidimensional-en-colombia-2018",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_original_2018.html",
+    "sha256": "f158d7cb262ba40aff24d77d2b0f4e7580b4807080d80e370caaa7df6b526356",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "icfes_acceso_diccionarios.html",
+    "url": "https://www.icfes.gov.co/transparencia-y-acceso-a-la-informacion-publica/datos-abiertos/acceso-a-bases-de-datos-y-diccionarios/",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/icfes_acceso_diccionarios.html",
+    "sha256": "0dfeae122a307ed6d354a5a6603f66099e6d4f78b23e3c5df2c8df3050d6e89d",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  },
+  {
+    "id": "dane_2020.html",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2020",
+    "consulta": "2026-10-12",
+    "archivo": "evidencia/dane_2020.html",
+    "sha256": "624fe450afd8cea495ab29962f3808738dc1fd6d787f86b09b524799277b602d",
+    "ubicacion": "Sección de producto: Anexo departamental / DataIcfes / Saber 11 / Informes de gestión según título",
+    "hecho": "Página oficial conservada con enlaces y fechas declaradas",
+    "limite": "Página actual, no captura histórica autenticada"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "aprobado": true,
+  "protegidos": 32266,
+  "diferencias": [],
+  "ajenos_nuevos": [],
+  "raw": "ignorado; sin lectura/censo/escritura",
+  "continuidad_fase3_preservada_sha256": "b929daef010200d70c4a49d4eb252b2c974a1a21c3f7507adc6575b3eaa3a09c",
+  "ledger_original_sha256": "1c2c8c78123dbc52cf1df4ec1bf098ea01fc363b3e6e2e28c7950e3b58c8ecd7",
+  "nota": "verificación propia fase4 valida manifiesto fase3 y continuidad preservada; el verificador histórico exige continuidad/inventario de su cierre y no se reescribe"
+}

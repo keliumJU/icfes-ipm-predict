@@ -1,0 +1,20 @@
+{
+  "fuentes_sha256": {
+    "objetivo4_validacion_escenarios/resultados/escenarios.csv": "827bae3fa19a9c17b1973f23025b67d24981fc86bdeb7eb0596eb64c15f8eddd",
+    "objetivo4_validacion_escenarios/resultados/metricas.csv": "e574670f6a7aab37f6e91e141dce8934384247e73517c32919d5bdba09abae8c",
+    "objetivo4_validacion_escenarios/resultados/predicciones.csv": "b1179a57c826350df0f97e533abcc4dd5f83cfe7a5ed1dc0c50cc19a1177749a",
+    "objetivo4_validacion_escenarios/resultados/DISPERSION.json": "414aa54ba015ffcf83b66252573583d7be016c8524d77b1bc95ac0ea435b8f89",
+    "auditoria/evidencia/resumen_tesis.json": "aeceb5a05f362d6a1c9a3592a806d8d42f3287de0026fe448d53118b860381b9",
+    "auditoria/evidencia/actualizacion_20261008/tabla12_propuesta_198.csv": "0b4307d70bbc68ee5ab8a294e6aebd535d7c0c393a22d8d4df80b1e72861da12",
+    "entrega_objetivos3_4_final/objetivo3/tablas/metricas_comparables.csv": "62e0fae0f6a4666e6c9ae701ba7be359fd26c3f838ffbe353cdf791464afb182"
+  },
+  "escenarios_13_admitidos": 13,
+  "efectivos": 3,
+  "escenarios_no_predichos": 152,
+  "nuevos_ajustes": 0,
+  "nuevos_escenarios": 0,
+  "verificacion_metricas": true,
+  "fuente_asociacion": "auditoria/evidencia/actualizacion_20261008/tabla12_propuesta_198.csv",
+  "periodo_asociacion": "2018–2024 sin2020",
+  "segundos": 0.2320658500029822
+}

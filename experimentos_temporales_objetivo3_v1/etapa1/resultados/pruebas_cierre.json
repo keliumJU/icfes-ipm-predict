@@ -1,0 +1,79 @@
+{
+  "aprobado": true,
+  "grupos_ejecutados": 17,
+  "controles": [
+    {
+      "prueba": "pruebas.Controles.test_01_pesos_formula_independiente",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_02_pesos_anios_territorios_uniforme",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_03_train_only_y_rechazos",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_04_intervalos_negativos_sin_anualizar",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_05_defaults_36_entradas",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_06_routing_dobles_modelos_reciben_peso",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_07_fits_inventados_35_scaler_uniformidad",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_08_prohibicion_real_y_convergencia",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_09_bandas_global_grupos_y_orden",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_10_seleccion_cobertura_fallos_2021",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_11_csv_exacto_errores_y_finitos",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_12_aritmetica_independiente",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_13_orquestacion_36_cobertura_linaje",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_14_destinos_y_symlinks",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_15_fallos_retry_reanudacion_contexto",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_16_tiempo_inclusivo_caida_no_medida",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "pruebas.Controles.test_17_hijos_imports_terminacion_fit_real_inventado",
+      "estado": "aprobada"
+    }
+  ],
+  "registro": "test_01_pesos_formula_independiente (pruebas.Controles.test_01_pesos_formula_independiente) ... ok\ntest_02_pesos_anios_territorios_uniforme (pruebas.Controles.test_02_pesos_anios_territorios_uniforme) ... ok\ntest_03_train_only_y_rechazos (pruebas.Controles.test_03_train_only_y_rechazos) ... ok\ntest_04_intervalos_negativos_sin_anualizar (pruebas.Controles.test_04_intervalos_negativos_sin_anualizar) ... ok\ntest_05_defaults_36_entradas (pruebas.Controles.test_05_defaults_36_entradas) ... ok\ntest_06_routing_dobles_modelos_reciben_peso (pruebas.Controles.test_06_routing_dobles_modelos_reciben_peso) ... ok\ntest_07_fits_inventados_35_scaler_uniformidad (pruebas.Controles.test_07_fits_inventados_35_scaler_uniformidad) ... ok\ntest_08_prohibicion_real_y_convergencia (pruebas.Controles.test_08_prohibicion_real_y_convergencia) ... ok\ntest_09_bandas_global_grupos_y_orden (pruebas.Controles.test_09_bandas_global_grupos_y_orden) ... ok\ntest_10_seleccion_cobertura_fallos_2021 (pruebas.Controles.test_10_seleccion_cobertura_fallos_2021) ... ok\ntest_11_csv_exacto_errores_y_finitos (pruebas.Controles.test_11_csv_exacto_errores_y_finitos) ... ok\ntest_12_aritmetica_independiente (pruebas.Controles.test_12_aritmetica_independiente) ... ok\ntest_13_orquestacion_36_cobertura_linaje (pruebas.Controles.test_13_orquestacion_36_cobertura_linaje) ... ok\ntest_14_destinos_y_symlinks (pruebas.Controles.test_14_destinos_y_symlinks) ... ok\ntest_15_fallos_retry_reanudacion_contexto (pruebas.Controles.test_15_fallos_retry_reanudacion_contexto) ... ok\ntest_16_tiempo_inclusivo_caida_no_medida (pruebas.Controles.test_16_tiempo_inclusivo_caida_no_medida) ... ok\ntest_17_hijos_imports_terminacion_fit_real_inventado (pruebas.Controles.test_17_hijos_imports_terminacion_fit_real_inventado) ... ok\n\n----------------------------------------------------------------------\nRan 17 tests in 16.787s\n\nOK\n",
+  "ajustes_estimadores_inventados": 106,
+  "fits_panel_real": 0,
+  "modelos_historicos_cargados": 0,
+  "directorio_inventados": "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d"
+}

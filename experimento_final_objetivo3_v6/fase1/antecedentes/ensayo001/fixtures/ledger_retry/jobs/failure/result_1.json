@@ -1,0 +1,6 @@
+{
+  "error": "OSError",
+  "message": "infraestructura inventada",
+  "kind": "infraestructura",
+  "traceback": "Traceback (most recent call last):\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimento_final_objetivo3_v6/runner.py\", line 12, in worker\n    if req.get('test_fail'): raise OSError('infraestructura inventada')\n                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nOSError: infraestructura inventada\n"
+}

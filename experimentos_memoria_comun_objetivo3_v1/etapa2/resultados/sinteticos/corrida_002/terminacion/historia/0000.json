@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "context": "terminacion",
+  "limit": 30,
+  "synthetic": true,
+  "start_monotonic": 15547.150137485,
+  "start_wall": 1791744148.0834494,
+  "used": 0.0,
+  "attempts": [],
+  "retries": 0,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

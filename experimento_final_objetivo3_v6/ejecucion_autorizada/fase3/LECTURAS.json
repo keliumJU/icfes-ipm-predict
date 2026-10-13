@@ -1,0 +1,21 @@
+{
+  "plan": "comunes y fase3 leídas al entrar",
+  "protocol": "completo",
+  "historical": "mappings originales; referencias persistencia/indicadores pobreza recalculadas desde CSV completos",
+  "PDF": {
+    "file": "Tesis Vigente/ACA2.pdf",
+    "physical_pages": [
+      25,
+      56,
+      57,
+      58,
+      59,
+      60,
+      113,
+      114
+    ],
+    "other_pages": "no atribuir lectura actual"
+  },
+  "web": 0,
+  "raw": 0
+}

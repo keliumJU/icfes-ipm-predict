@@ -1,0 +1,38 @@
+{
+  "aprobado": true,
+  "procedimiento": "Bloques1024/round_trip, todas columnas por shift reconstruidas exactas en memoria; referencias165llaves/observados/previos/predicciones exactos",
+  "filas": 231,
+  "cambios": 198,
+  "territorios": 33,
+  "referencias": [
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa2/resultados/predicciones_externas.csv",
+      "procedimiento": "global",
+      "filas": 1155,
+      "pares": 165,
+      "sha256": "ea5392cabe0594b9afe36bf3cadc3d2f3010a9870ab142e9aab3f9b6eb5368e3",
+      "exacto": true
+    },
+    {
+      "archivo": "experimentos_objetivo3_v3/etapa2/resultados/predicciones_externas.csv",
+      "procedimiento": "persistencia",
+      "filas": 825,
+      "pares": 165,
+      "sha256": "d50d4199a7316230cc3a12ecad9315429bd78e12cdcf7aa8b8ad015c9e405668",
+      "exacto": true
+    },
+    {
+      "archivo": "experimentos_temporales_objetivo3_v1/etapa2/resultados/predicciones_externas.csv",
+      "procedimiento": "global",
+      "filas": 1155,
+      "pares": 165,
+      "sha256": "56705a77d353cb699ced4e4dd12bb6297d09b3fbf8ef391d2341c14d742715a9",
+      "exacto": true
+    }
+  ],
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "fits": 0
+}

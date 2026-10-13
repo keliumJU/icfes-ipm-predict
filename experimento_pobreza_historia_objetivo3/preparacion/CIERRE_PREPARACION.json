@@ -1,0 +1,16 @@
+{
+  "estado": "preparacion_cerrada_por_decision_humana",
+  "start_epoch": 1791826739,
+  "end_epoch": 1791826971.9739008,
+  "elapsed_seconds": 232.9739007949829,
+  "limite_sesion_anterior_seconds": 7200,
+  "real_fits": 0,
+  "synthetic_fits": 0,
+  "pilot_started": false,
+  "resultados_experimentales": false,
+  "entorno_restaurado_offline": true,
+  "verificador_anterior_aprobado": true,
+  "autorizacion_final": "Guardar y continuar en nueva sesión",
+  "saldo_reutilizable": false,
+  "nueva_ejecucion": "Requiere envío expreso del prompt; 7200s nuevos autorizados en ese envío, no por mera lectura."
+}

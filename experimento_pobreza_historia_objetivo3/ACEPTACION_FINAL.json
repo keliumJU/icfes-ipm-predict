@@ -1,0 +1,19 @@
+{
+  "completa": true,
+  "operativa": true,
+  "tecnica": true,
+  "new_fits": 0,
+  "fits_auditor": 0,
+  "pilot_reopened": false,
+  "pilot_audited": true,
+  "notebook_executed": true,
+  "visual_review": true,
+  "text_verified": true,
+  "scientific_criteria_changed": false,
+  "original_closed_incomplete_preserved": true,
+  "authenticity_resolved": false,
+  "temporal_availability_resolved": false,
+  "independent_confirmation": false,
+  "epoch": 1791831149.8624325,
+  "documental_start_epoch": 1791830279.0
+}

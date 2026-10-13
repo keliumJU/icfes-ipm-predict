@@ -1,0 +1,23 @@
+{
+  "estado": "preparacion cerrada sin fits; ejecucion pendiente por envio expreso",
+  "sha256": {
+    "CONTINUIDAD.md": "87c710a1bad305c4f6dda789c3d5181f11eaa9e7021751daf13db1d7392d4267",
+    "PLAN.md": "158b1f975eff94cb233bf85e53dd4ff2c4ef1cbe2f5b58a52b7e45e58171a7a6",
+    "PROMPT_NUEVA_SESION.md": "0a4758dea2b5727179092360b6e3578e19a46cf205ae90c3bb80739d24e13bbd",
+    "preparacion/CIERRE_PREPARACION.json": "3520d9aa1571b347a9ccb904c697fd4a109151eef506def67906082542512d36",
+    "preparacion/ENTORNO_VERIFICADO.json": "7f9bda8fc7d97504cb21f02965df7a1d8ba5b65d02ff543651d5d07c35459772",
+    "preparacion/LECTURAS.json": "815d23f0f1de86f8112891ce28d7a63e4950a5ce084025d59b786156677375ac",
+    "preparacion/PARTIDA.json": "43642748c914c49a75df18739189640c5dad88fe5e277936059857e730bcf28d",
+    "preparacion/RESTAURACION_ENTORNO.json": "190819602177ea6c3baca5f0e21b141bcc272ee54c216449a8794171e0cfcbb8",
+    "preparacion/TESIS_PAGINAS_113_114.txt": "5e64d6bc4c132bef5042049209d5e1ecddfa5ddc63090724d7a618129f453be0",
+    "preparacion/TESIS_PAGINAS_25_25.txt": "4b6c6fef19af1123a7fcf7ba961fbd71aff7ea3f4625a2a1cbdc32d20a883880",
+    "preparacion/TESIS_PAGINAS_58_60.txt": "b1e542a1635421739c994e953a5977aabc36b8570409a25815677856a8967d3f",
+    "preparacion/VERIFICACION_ANTERIOR.json": "7ac7970770945fc2b209a8ea864d0ce2d54ace344116fa1da0bd6be92540d708",
+    "verificar_preparacion.py": "a8ba603cf04452af2f4a609cf9351b897b4c805bcf0fac5084e7f5cc84574046"
+  },
+  "exclusions": [
+    "MANIFIESTO_PREPARACION.json"
+  ],
+  "piloto_iniciado": false,
+  "real_fits": 0
+}

@@ -1,0 +1,46 @@
+{
+  "candidate": {
+    "id": "Arbol_D",
+    "order": 18,
+    "group": "D",
+    "family": "Arbol",
+    "inputs": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": {
+      "ccp_alpha": 0.0,
+      "criterion": "absolute_error",
+      "max_depth": 2,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 11,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "random_state": 20261010,
+      "splitter": "best"
+    },
+    "scaler": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    }
+  },
+  "matrix_file": "preflight/matrices/e2025__Arbol_D.json",
+  "output_file": "piloto/records/e2025__Arbol_D.json"
+}

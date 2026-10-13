@@ -1,0 +1,14 @@
+{
+  "aprobado": true,
+  "estado": "preparación documental completa;noejecución",
+  "huellas": 16,
+  "protegidos": 32322,
+  "candidatos": 39,
+  "componentes_por_contexto": 32,
+  "cota_fits_futura_sin_fallos": 328,
+  "presupuesto_futuro_segundos": 7200,
+  "fits_ejecutados": 0,
+  "modelos_cargados": 0,
+  "modo": "solo lectura,sinfit/escrituras",
+  "originales_intactos": true
+}

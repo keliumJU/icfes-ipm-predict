@@ -1,0 +1,8 @@
+{
+  "aprobado": true,
+  "text_sha256": "25603dbe054b399ca43b041801525a4885c7a76d5ca6ab27c2727a7f32ac95a4",
+  "evidence_sha256": "2a30d352dbeab86adaca1588c57fc12b873bbd9fbadd41818b884784e01321f9",
+  "evidence_rows": 65,
+  "numeric_source": "notebook executed calls shared functions",
+  "citations_invented": false
+}

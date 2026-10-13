@@ -1,0 +1,18 @@
+{
+  "aprobado": true,
+  "protegidos": 29743,
+  "versionados": 29640,
+  "diagnostico": 103,
+  "huellas_iguales": true,
+  "diagnostico_incluida_continuidad_intacto": true,
+  "v1_v5_modelos_ledgers_atributos_intactos": true,
+  "inventario_git_identico": true,
+  "head_igual": true,
+  "rama_reutilizada": true,
+  "nuevas_escrituras_solo_diseno": true,
+  "sin_excepciones_archivos_anteriores": true,
+  "raw_ignorado": "No censo binario;no escritura",
+  "fits": 0,
+  "commits": 0,
+  "push": false
+}

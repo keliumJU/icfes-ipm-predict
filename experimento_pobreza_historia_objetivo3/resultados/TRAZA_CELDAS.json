@@ -1,0 +1,6 @@
+{
+  "tablas": "celda2:analisis.tables",
+  "figuras": "celda3:analisis.figures",
+  "texto": "celda4:analisis.academic_text",
+  "control": "celda5:analisis.text_control"
+}

@@ -1,0 +1,9 @@
+{
+  "aprobado": true,
+  "celdas_realmente_ejecutadas": 2,
+  "fits": 0,
+  "fuente_sha256": "323a7dca6ca4e83bb5c9e72c35c69d4291df4ba920c598422c09f73d751cbc65",
+  "generador_sha256": "87a25fd8cc4c40c1cb5d3db64ca072597f6eca0ce91fc646a3f9577f09e624a8",
+  "notebook_sha256": "d090eb6013969a8f7197a78e8bd0f683dc70261ef0fc08db4bef23c67907a593",
+  "sin_datos_personales": true
+}

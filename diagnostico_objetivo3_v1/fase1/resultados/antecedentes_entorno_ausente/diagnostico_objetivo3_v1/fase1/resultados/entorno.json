@@ -1,0 +1,18 @@
+{
+  "ruta_exigida": "/tmp/icfes-v2-fase2-venv/bin/python",
+  "existe": false,
+  "lock": "experimentos_objetivo3_v4/etapa1/requirements.lock.txt",
+  "lock_sha256": "1f01b6806e77991eb2b544102503398fd7b27fe097d4ef650fdaa7377ef5ff6d",
+  "paquetes_exigidos": 54,
+  "python_exigido": "3.12.14",
+  "sklearn_exigido": "1.9.1",
+  "version_python_verificada": false,
+  "paquetes_verificados": false,
+  "pip_check_ejecutado": false,
+  "aprobado": false,
+  "motivo": "Ruta exigida inexistente; detener cálculos y consultar al usuario",
+  "instalaciones": 0,
+  "descargas": 0,
+  "python_documental": "3.14.7 (main, Sep 18 2026, 06:46:30) [GCC 16.2.1 20260810]",
+  "rol_python_documental": "stdlib: Git/JSON/SHA, sin análisis"
+}

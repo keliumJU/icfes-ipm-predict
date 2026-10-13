@@ -1,0 +1,17 @@
+external,role,candidate,eligible,reason,MAE,RMSE,n,selected
+2022,interna,persistencia,True,cobertura completa,2.196969696969697,2.831104292524653,33,True
+2022,interna,memoria,True,cobertura completa,2.196969696969697,2.831104292524653,33,False
+2022,interna,comun,True,cobertura completa,2.196969696969697,2.831104292524653,33,False
+2022,interna,comun_correccion,True,cobertura completa,2.196969696969697,2.831104292524653,33,False
+2023,interna,persistencia,True,cobertura completa,2.784090909090909,3.4344511272479252,66,True
+2023,interna,memoria,True,cobertura completa,2.7954545454545454,3.4378959827020346,66,False
+2023,interna,comun,True,cobertura completa,2.7954545454545454,3.4378959827020346,66,False
+2023,interna,comun_correccion,True,cobertura completa,2.7954545454545454,3.4378959827020346,66,False
+2024,interna,persistencia,True,cobertura completa,3.23989898989899,3.996842187871254,99,True
+2024,interna,memoria,True,cobertura completa,3.255050505050505,4.012134372403574,99,False
+2024,interna,comun,True,cobertura completa,3.255050505050505,4.012134372403574,99,False
+2024,interna,comun_correccion,True,cobertura completa,3.255050505050505,4.012134372403574,99,False
+2025,interna,persistencia,True,cobertura completa,3.8579545454545454,4.8218253804964775,132,True
+2025,interna,memoria,True,cobertura completa,3.8693181818181817,4.83134102093881,132,False
+2025,interna,comun,True,cobertura completa,3.8693181818181817,4.83134102093881,132,False
+2025,interna,comun_correccion,True,cobertura completa,3.8693181818181817,4.83134102093881,132,False

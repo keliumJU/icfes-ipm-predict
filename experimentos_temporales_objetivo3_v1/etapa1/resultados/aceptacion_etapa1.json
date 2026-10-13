@@ -1,0 +1,16 @@
+{
+  "aprobado": true,
+  "estado": "COMPLETA SIN FITS REALES",
+  "pruebas_finales": 17,
+  "notebook_celdas_ejecutadas": 6,
+  "pendientes_indispensables": [],
+  "pendientes": [
+    "Enviar prompt separado fase2",
+    "Revalidar entorno/integridad y activar ámbito propio autorizado etapa2",
+    "Evaluar exploratoriamente recencia; eficacia todavía desconocida",
+    "Confirmación independiente y disponibilidad operacional requieren otra autorización/fuentes"
+  ],
+  "etapa2_autorizada": false,
+  "etapa3_v5": false,
+  "fit_panel_real": 0
+}

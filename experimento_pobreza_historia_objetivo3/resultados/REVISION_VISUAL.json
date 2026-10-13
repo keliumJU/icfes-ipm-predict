@@ -1,0 +1,18 @@
+{
+  "aprobado": true,
+  "files": {
+    "01_error_anual.png": "4e9505d90abbd12f573f0b250bc2418f277d2fa5608ab4a944876ece97e24814",
+    "02_error_global.png": "973b65d56561f4bc132e091495970c002875bc56033a4ac8b8f4908ca91bafac",
+    "03_diferencias_territoriales.png": "c16237b1cdb8b71cf36d2babab1e6d58053cb9686a4f8c60395b75ddaae8199f"
+  },
+  "review_epoch": 1791831015.3774197,
+  "revisor": "agente principal, inspección de los tres PNG completos",
+  "criterios": [
+    "sin cortes/solapamientos de etiquetas",
+    "unidades puntos del puntaje global",
+    "n33 por año/n165 total/n5 por territorio",
+    "leyendas de políticas correctas",
+    "historia/ampliado coinciden y se superponen; diferencias territoriales exactamente0, barras longitud0 intencionales"
+  ],
+  "new_fits": 0
+}

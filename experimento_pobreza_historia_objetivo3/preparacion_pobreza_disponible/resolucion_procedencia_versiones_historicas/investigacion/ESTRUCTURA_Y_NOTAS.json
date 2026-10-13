@@ -1,0 +1,2384 @@
+[
+  {
+    "archivo": "Fuente del IPM/anex-PMultidimensional-Departamental-2024.xlsx",
+    "sha256": "22ed318b6dc8b6f679c6fed59c2ab6da4a592de7de4f8c0b1607233878283381",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019,
+          "K": 2021,
+          "N": 2022,
+          "Q": 2023,
+          "T": 2024
+        },
+        "notas": [
+          {
+            "celda": "A49",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A50",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A54",
+            "texto": "Actualizado el 22 de abril de 2025"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019,
+          "L": 2021,
+          "O": 2022,
+          "R": 2023,
+          "U": 2024
+        },
+        "notas": [
+          {
+            "celda": "A6",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A57",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A83",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A109",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A135",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A161",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A187",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A213",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A239",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A265",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A291",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A317",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A343",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A369",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A395",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A421",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A447",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A473",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A499",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A525",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A551",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A577",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A603",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A629",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A655",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A681",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A707",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A716",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A733",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A759",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A785",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A811",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A837",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A863",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A864",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A868",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          },
+          {
+            "celda": "A869",
+            "texto": "Actualizado el 22 de abril de 2025"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "Fuente del IPM/anex-PMultidimensional-Departamental-2025.xlsx",
+    "sha256": "73caab08046d6b35f80326b1b6f2e9b1cb8ad75a2ac4946515fda320ffaaf447",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019,
+          "K": 2021,
+          "N": 2022,
+          "Q": 2023,
+          "T": 2024,
+          "W": 2025
+        },
+        "notas": [
+          {
+            "celda": "A49",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A50",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A54",
+            "texto": "Actualizado el 14 de abril de 2026"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Indicadores_Departamento ",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019,
+          "L": 2021,
+          "O": 2022,
+          "R": 2023,
+          "U": 2024,
+          "X": 2025
+        },
+        "notas": [
+          {
+            "celda": "A6",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A57",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A83",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A109",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A135",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A161",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A187",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A213",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A239",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A265",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A291",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A317",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A343",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A369",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A395",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A421",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A447",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A473",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A499",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A525",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A551",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A577",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A603",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A629",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A655",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A681",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A707",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A716",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A733",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A759",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A785",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A811",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A837",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A863",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A864",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A868",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          },
+          {
+            "celda": "A869",
+            "texto": "Actualizado el 14 de abril de 2026"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_2019.xls",
+    "sha256": "e6b472898e48fb0a99646ff5e11449ce85da3cd23efd46f9ca26a823225d09df",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 16,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019
+        },
+        "notas": [
+          {
+            "celda": "A52",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A53",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A54",
+            "texto": "Fecha de publicación: Diciembre 21 de 2020"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 16,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019
+        },
+        "notas": [
+          {
+            "celda": "A7",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A61",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A88",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A115",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A142",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A169",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A196",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A223",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A250",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A277",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A304",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A331",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A358",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A385",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A412",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A439",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A466",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A493",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A520",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A547",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A574",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A601",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A628",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A655",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A682",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A709",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A736",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A746",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A763",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A790",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A817",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A844",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A871",
+            "texto": "Privaciones por Hogar según variable\nDepartamentos\n2018-2019"
+          },
+          {
+            "celda": "A898",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A899",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A900",
+            "texto": "Fecha de publicación: Diciembre 21 de 2020"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_2020.xls",
+    "sha256": "9d4acfc2850b5492783942c7ff06b5c9014c63831019a8168bf73d44a71e6b84",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 15,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019
+        },
+        "notas": [
+          {
+            "celda": "A51",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A52",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A53",
+            "texto": "Fecha de publicación: 2 de septiembre de 2021"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 15,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019
+        },
+        "notas": [
+          {
+            "celda": "A7",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A59",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A85",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A111",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A137",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A163",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A189",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A215",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A241",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A267",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A293",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A319",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A345",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A371",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A397",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A423",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A449",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A475",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A501",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A527",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A553",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A579",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A605",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A631",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A657",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A683",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A709",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A718",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A735",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A761",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A787",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A813",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A839",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2020"
+          },
+          {
+            "celda": "A865",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A866",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A867",
+            "texto": "Fecha de publicación: 2 de septiembre de 2021"
+          },
+          {
+            "celda": "A870",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_2021.xls",
+    "sha256": "6d89c9c8d1258d5c0f52fe87dcf7ca9e8e85a52e863baa176dbdbc7cda208a08",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 15,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019,
+          "K": 2021
+        },
+        "notas": [
+          {
+            "celda": "A51",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A52",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A53",
+            "texto": "Fecha de publicación: 28 de abril de 2022"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 15,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019,
+          "L": 2021
+        },
+        "notas": [
+          {
+            "celda": "A7",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A59",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A85",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A111",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A137",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A163",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A189",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A215",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A241",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A267",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A293",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A319",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A345",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A371",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A397",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A423",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A449",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A475",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A501",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A527",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A553",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A579",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A605",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A631",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A657",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A683",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A709",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A718",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A735",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A761",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A787",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A813",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A839",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2021"
+          },
+          {
+            "celda": "A865",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A866",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A867",
+            "texto": "Fecha de publicación: 28 de abril de 2022"
+          },
+          {
+            "celda": "A869",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_2022.xlsx",
+    "sha256": "dba3bb49253a4f5d2bb7640e46ec45bd05664d6ed0bcdf7ecfea4c69e559053a",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 12,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019,
+          "K": 2021,
+          "N": 2022
+        },
+        "notas": [
+          {
+            "celda": "A48",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A49",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A52",
+            "texto": "Actualizado el 23 de mayo de 2023"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 12,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019,
+          "L": 2021,
+          "O": 2022
+        },
+        "notas": [
+          {
+            "celda": "A4",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A56",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A82",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A108",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A134",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A160",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A186",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A212",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A238",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A264",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A290",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A316",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A342",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A368",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A394",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A420",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A446",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A472",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A498",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A524",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A550",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A576",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A602",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A628",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A654",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A680",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A706",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A715",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A732",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A758",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A784",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A810",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A836",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2022"
+          },
+          {
+            "celda": "A862",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A863",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A865",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          },
+          {
+            "celda": "A867",
+            "texto": "Actualizado el 23 de mayo de 2023"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_2023.xlsx",
+    "sha256": "eb5251be4675daff5ffc8048f64b3e26029bdee8084521f4c32388b7f2b9ed2a",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 12,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019,
+          "K": 2021,
+          "N": 2022,
+          "Q": 2023
+        },
+        "notas": [
+          {
+            "celda": "A48",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A49",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A53",
+            "texto": "Actualizado el 19 de abril de 2024"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 12,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019,
+          "L": 2021,
+          "O": 2022,
+          "R": 2023
+        },
+        "notas": [
+          {
+            "celda": "A4",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A56",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A82",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A108",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A134",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A160",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A186",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A212",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A238",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A264",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A290",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A316",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A342",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A368",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A394",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A420",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A446",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A472",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A498",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A524",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A550",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A576",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A602",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A628",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A654",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A680",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A706",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A715",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A732",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A758",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A784",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A810",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A836",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2023"
+          },
+          {
+            "celda": "A862",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A863",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A867",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          },
+          {
+            "celda": "A868",
+            "texto": "Actualizado el 19 de abril de 2024"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_2024.xlsx",
+    "sha256": "22ed318b6dc8b6f679c6fed59c2ab6da4a592de7de4f8c0b1607233878283381",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019,
+          "K": 2021,
+          "N": 2022,
+          "Q": 2023,
+          "T": 2024
+        },
+        "notas": [
+          {
+            "celda": "A49",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A50",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A54",
+            "texto": "Actualizado el 22 de abril de 2025"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019,
+          "L": 2021,
+          "O": 2022,
+          "R": 2023,
+          "U": 2024
+        },
+        "notas": [
+          {
+            "celda": "A6",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A57",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A83",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A109",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A135",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A161",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A187",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A213",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A239",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A265",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A291",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A317",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A343",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A369",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A395",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A421",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A447",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A473",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A499",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A525",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A551",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A577",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A603",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A629",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A655",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A681",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A707",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A716",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A733",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A759",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A785",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A811",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A837",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2024"
+          },
+          {
+            "celda": "A863",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A864",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A868",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          },
+          {
+            "celda": "A869",
+            "texto": "Actualizado el 22 de abril de 2025"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_2025.xlsx",
+    "sha256": "73caab08046d6b35f80326b1b6f2e9b1cb8ad75a2ac4946515fda320ffaaf447",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "B": 2018,
+          "E": 2019,
+          "K": 2021,
+          "N": 2022,
+          "Q": 2023,
+          "T": 2024,
+          "W": 2025
+        },
+        "notas": [
+          {
+            "celda": "A49",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A50",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A54",
+            "texto": "Actualizado el 14 de abril de 2026"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Indicadores_Departamento ",
+        "encabezado_total": 13,
+        "columnas_total": {
+          "C": 2018,
+          "F": 2019,
+          "L": 2021,
+          "O": 2022,
+          "R": 2023,
+          "U": 2024,
+          "X": 2025
+        },
+        "notas": [
+          {
+            "celda": "A6",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A57",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A83",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A109",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A135",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A161",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A187",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A213",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A239",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A265",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A291",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A317",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A343",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A369",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A395",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A421",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A447",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A473",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A499",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A525",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A551",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A577",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A603",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A629",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A655",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A681",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A707",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A716",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A733",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A759",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A785",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A811",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A837",
+            "texto": "Privaciones por hogar según variable\nDepartamentos\n2018-2025"
+          },
+          {
+            "celda": "A863",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A864",
+            "texto": "Datos expandidos con proyecciones de población, con base en los resultados del CNPV 2018."
+          },
+          {
+            "celda": "A868",
+            "texto": "Nota: La variación entre 2019 y 2020 del indicador Sin acceso a fuente de agua mejorada en los centros poblados y rural disperso, presenta un cambio de nivel asociado con el uso en la encuesta del marco geoestadístico elaborado a partir del CNPV 2018."
+          },
+          {
+            "celda": "A869",
+            "texto": "Actualizado el 14 de abril de 2026"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  },
+  {
+    "archivo": "experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/resolucion_procedencia_versiones_historicas/investigacion/evidencia/dane_original_2018.xls",
+    "sha256": "9a7854ee98852ee2c0ce81d15c812d8b7735fd04f3d7aee107d8884ec015f592",
+    "territorios": [
+      "Antioquia",
+      "Atlántico",
+      "Bogotá D.C.",
+      "Bolívar",
+      "Boyacá",
+      "Caldas",
+      "Caquetá",
+      "Cauca",
+      "Cesar",
+      "Córdoba",
+      "Cundinamarca",
+      "Chocó",
+      "Huila",
+      "La Guajira",
+      "Magdalena",
+      "Meta",
+      "Nariño",
+      "Norte de Santander",
+      "Quindío",
+      "Risaralda",
+      "Santander",
+      "Sucre",
+      "Tolima",
+      "Valle del Cauca",
+      "Arauca",
+      "Casanare",
+      "Putumayo",
+      "San Andrés",
+      "Amazonas",
+      "Guainía",
+      "Guaviare",
+      "Vaupés",
+      "Vichada"
+    ],
+    "variables": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Barreras de acceso a servicios de salud",
+      "Desempleo de larga duración",
+      "Hacinamiento crítico",
+      "Inadecuada eliminación de excretas",
+      "Inasistencia escolar",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Rezago escolar",
+      "Sin acceso a fuente de agua mejorada",
+      "Sin aseguramiento en salud",
+      "Trabajo infantil",
+      "Trabajo informal"
+    ],
+    "estructura": [
+      {
+        "hoja": "IPM_Departamentos",
+        "encabezado_total": 16,
+        "columnas_total": {
+          "B": 2018
+        },
+        "notas": [
+          {
+            "celda": "A52",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A53",
+            "texto": "Fecha de publicación: 12 de Julio de 2019"
+          }
+        ]
+      },
+      {
+        "hoja": "IPM_Variables_Departamento ",
+        "encabezado_total": 16,
+        "columnas_total": {
+          "C": 2018
+        },
+        "notas": [
+          {
+            "celda": "A746",
+            "texto": "San Andrés"
+          },
+          {
+            "celda": "A898",
+            "texto": "Fuente: DANE - Encuesta Nacional de Calidad de Vida."
+          },
+          {
+            "celda": "A899",
+            "texto": "Fecha de publicación: 12 de Julio de 2019"
+          }
+        ]
+      }
+    ],
+    "formatos_numericos_cotejados": [
+      "0.0"
+    ],
+    "unidad": "Porcentaje, sin dividir por 100",
+    "precision": "Igualdad exacta de números almacenados; redondeo a un decimal separado",
+    "equivalencias_rotulos": {
+      "Bogotá": "Bogotá D.C.",
+      "Guainia": "Guainía",
+      "Vaupes": "Vaupés"
+    }
+  }
+]

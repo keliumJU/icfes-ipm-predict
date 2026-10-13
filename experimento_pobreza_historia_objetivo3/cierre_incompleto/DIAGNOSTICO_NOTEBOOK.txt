@@ -1,0 +1,29 @@
+Salida del único reintento de infraestructura, herramienta exec/write_stdin; exit_code=1.
+No se modificó código congelado. faulthandler terminó el proceso al cumplir20s.
+
+Timeout (0:00:20)!
+Thread 0x00007f0afd4be6c0 (most recent call first):
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/selectors.py", line 468 in select
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/asyncio/base_events.py", line 1961 in _run_once
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/asyncio/base_events.py", line 645 in run_forever
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 115 in _runner
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/threading.py", line 1012 in run
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/threading.py", line 1075 in _bootstrap_inner
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/threading.py", line 1032 in _bootstrap
+
+Thread 0x00007f0affe62780 (most recent call first):
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/threading.py", line 355 in wait
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/concurrent/futures/_base.py", line 451 in result
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 128 in run
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 171 in wrapped
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/nbclient/client.py", line 550 in async_start_new_kernel
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/nbclient/client.py", line 648 in async_setup_kernel
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/contextlib.py", line 210 in __aenter__
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/nbclient/client.py", line 693 in async_execute
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/asyncio/events.py", line 88 in _run
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/asyncio/base_events.py", line 1999 in _run_once
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/asyncio/base_events.py", line 645 in run_forever
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/asyncio/base_events.py", line 678 in run_until_complete
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 165 in wrapped
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimento_pobreza_historia_objetivo3/generar_notebook.py", line 20 in run
+  File "<string>", line 1 in <module>

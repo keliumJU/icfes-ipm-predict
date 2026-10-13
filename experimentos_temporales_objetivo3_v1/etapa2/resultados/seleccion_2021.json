@@ -1,0 +1,17 @@
+{
+  "externo": 2021,
+  "decision": {
+    "global_id": "persistencia",
+    "especificaciones": {
+      "historico": "persistencia",
+      "nivel_ipm": "persistencia",
+      "cambio_ipm": "persistencia",
+      "cambio_tasas": "persistencia",
+      "cambio_ambas": "persistencia"
+    },
+    "candidatos": []
+  },
+  "antes_externo": true,
+  "origen": "recencia_h2",
+  "criterio": "internas exclusivamente"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "abierto",
+  "budget_seconds": 7200,
+  "start_monotonic": 29826.251535466,
+  "start_wall": 1791759274.8042374,
+  "elapsed_seconds": 0.28090565300226444,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": {
+    "name": "interno_e2022_i2021_persistencia",
+    "attempt": 0,
+    "request_sha": "ed3e0645f780cd0269d168c8dab74a187590ca412861be3ec76985fc15182ceb",
+    "start": 29826.526337422,
+    "pid": 43
+  },
+  "events": [],
+  "serial": true
+}

@@ -1,0 +1,827 @@
+{
+  "candidates": [
+    {
+      "id": "persistencia",
+      "order": 0,
+      "group": "persistencia",
+      "family": "persistencia",
+      "inputs": [],
+      "params": {},
+      "scaler": null
+    },
+    {
+      "id": "Ridge_H_0.1",
+      "order": 1,
+      "group": "H",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo"
+      ],
+      "params": {
+        "alpha": 0.1,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_H_1",
+      "order": 2,
+      "group": "H",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo"
+      ],
+      "params": {
+        "alpha": 1.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_H_10",
+      "order": 3,
+      "group": "H",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo"
+      ],
+      "params": {
+        "alpha": 10.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_I_0.1",
+      "order": 4,
+      "group": "I",
+      "family": "Ridge",
+      "inputs": [
+        "ipm"
+      ],
+      "params": {
+        "alpha": 0.1,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_I_1",
+      "order": 5,
+      "group": "I",
+      "family": "Ridge",
+      "inputs": [
+        "ipm"
+      ],
+      "params": {
+        "alpha": 1.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_I_10",
+      "order": 6,
+      "group": "I",
+      "family": "Ridge",
+      "inputs": [
+        "ipm"
+      ],
+      "params": {
+        "alpha": 10.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_D_0.1",
+      "order": 7,
+      "group": "D",
+      "family": "Ridge",
+      "inputs": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "alpha": 0.1,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_D_1",
+      "order": 8,
+      "group": "D",
+      "family": "Ridge",
+      "inputs": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "alpha": 1.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_D_10",
+      "order": 9,
+      "group": "D",
+      "family": "Ridge",
+      "inputs": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "alpha": 10.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_HI_0.1",
+      "order": 10,
+      "group": "HI",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "ipm"
+      ],
+      "params": {
+        "alpha": 0.1,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_HI_1",
+      "order": 11,
+      "group": "HI",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "ipm"
+      ],
+      "params": {
+        "alpha": 1.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_HI_10",
+      "order": 12,
+      "group": "HI",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "ipm"
+      ],
+      "params": {
+        "alpha": 10.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_HD_0.1",
+      "order": 13,
+      "group": "HD",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "alpha": 0.1,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_HD_1",
+      "order": 14,
+      "group": "HD",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "alpha": 1.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Ridge_HD_10",
+      "order": 15,
+      "group": "HD",
+      "family": "Ridge",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "alpha": 10.0,
+        "copy_X": true,
+        "fit_intercept": true,
+        "max_iter": null,
+        "positive": false,
+        "random_state": 20261010,
+        "solver": "svd",
+        "tol": 0.0001
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Arbol_H",
+      "order": 16,
+      "group": "H",
+      "family": "Arbol",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo"
+      ],
+      "params": {
+        "ccp_alpha": 0.0,
+        "criterion": "absolute_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 11,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 20261010,
+        "splitter": "best"
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Arbol_I",
+      "order": 17,
+      "group": "I",
+      "family": "Arbol",
+      "inputs": [
+        "ipm"
+      ],
+      "params": {
+        "ccp_alpha": 0.0,
+        "criterion": "absolute_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 11,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 20261010,
+        "splitter": "best"
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Arbol_D",
+      "order": 18,
+      "group": "D",
+      "family": "Arbol",
+      "inputs": [
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "ccp_alpha": 0.0,
+        "criterion": "absolute_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 11,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 20261010,
+        "splitter": "best"
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Arbol_HI",
+      "order": 19,
+      "group": "HI",
+      "family": "Arbol",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "ipm"
+      ],
+      "params": {
+        "ccp_alpha": 0.0,
+        "criterion": "absolute_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 11,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 20261010,
+        "splitter": "best"
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    },
+    {
+      "id": "Arbol_HD",
+      "order": 20,
+      "group": "HD",
+      "family": "Arbol",
+      "inputs": [
+        "puntaje_previo",
+        "cambio_previo",
+        "Analfabetismo",
+        "Bajo logro educativo",
+        "Barreras a servicios para cuidado de la primera infancia",
+        "Inasistencia escolar",
+        "Rezago escolar",
+        "Trabajo infantil",
+        "Desempleo de larga duracion",
+        "Trabajo informal",
+        "Barreras de acceso a servicios de salud",
+        "Sin aseguramiento en salud",
+        "Hacinamiento critico",
+        "Inadecuada eliminacion de excretas",
+        "Material inadecuado de paredes exteriores",
+        "Material inadecuado de pisos",
+        "Sin acceso a fuente de agua mejorada"
+      ],
+      "params": {
+        "ccp_alpha": 0.0,
+        "criterion": "absolute_error",
+        "max_depth": 2,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 11,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 20261010,
+        "splitter": "best"
+      },
+      "scaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      }
+    }
+  ],
+  "groups": {
+    "H": [
+      "puntaje_previo",
+      "cambio_previo"
+    ],
+    "I": [
+      "ipm"
+    ],
+    "D": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "HI": [
+      "puntaje_previo",
+      "cambio_previo",
+      "ipm"
+    ],
+    "HD": [
+      "puntaje_previo",
+      "cambio_previo",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ]
+  },
+  "policies": {
+    "historico": [
+      "persistencia",
+      "Ridge_H_0.1",
+      "Ridge_H_1",
+      "Ridge_H_10"
+    ],
+    "ampliado": [
+      "persistencia",
+      "Ridge_H_0.1",
+      "Ridge_H_1",
+      "Ridge_H_10",
+      "Ridge_HI_0.1",
+      "Ridge_HI_1",
+      "Ridge_HI_10",
+      "Ridge_HD_0.1",
+      "Ridge_HD_1",
+      "Ridge_HD_10"
+    ],
+    "con_pobreza": [
+      "Ridge_HI_0.1",
+      "Ridge_HI_1",
+      "Ridge_HI_10",
+      "Ridge_HD_0.1",
+      "Ridge_HD_1",
+      "Ridge_HD_10"
+    ]
+  },
+  "defaults": {
+    "scaler": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    },
+    "ridge": {
+      "alpha": 1.0,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": null,
+      "positive": false,
+      "random_state": 20261010,
+      "solver": "svd",
+      "tol": 0.0001
+    },
+    "tree": {
+      "ccp_alpha": 0.0,
+      "criterion": "absolute_error",
+      "max_depth": 2,
+      "max_features": null,
+      "max_leaf_nodes": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 11,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "random_state": 20261010,
+      "splitter": "best"
+    }
+  },
+  "seed": 20261010,
+  "response": "prom_punt_global",
+  "external_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "train_rule": "2021 <= anio < evaluado",
+  "inner_rule": "2021..externo-1 acumuladas;2021 persistencia",
+  "selector": {
+    "mae_tolerance": 0.1,
+    "rmse_tolerance": 0.1,
+    "complexity": "numero entradas",
+    "tie": "order"
+  },
+  "primary": "100*(MAE_historico-MAE_ampliado)/MAE_historico",
+  "threshold_percent": 5,
+  "original_fits": 200,
+  "max_repetitions": 12,
+  "max_fits_without_failures": 212,
+  "repeat_atol": 1e-10,
+  "repeat_rtol": 0,
+  "units": {
+    "H": "puntos global Saber 11",
+    "I": "porcentaje de personas",
+    "D": "porcentaje de hogares"
+  },
+  "source_hashes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "availability": "pobreza contemporánea condicionante; no disponibilidad anticipada demostrada",
+  "pipeline_defaults": {
+    "memory": null,
+    "verbose": false,
+    "transform_input": null
+  },
+  "documentary_constants": {
+    "alpha": [
+      0.1,
+      1,
+      10
+    ],
+    "max_depth": 2,
+    "min_samples_leaf": 11,
+    "indicadores": 15,
+    "tolerancias": 0.1,
+    "anios_historia": [
+      2018,
+      2019
+    ],
+    "anios_eval": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "pares_por_territorio": 5,
+    "primer_externo": 2021,
+    "exclusion": 2020,
+    "universo_anios": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  }
+}

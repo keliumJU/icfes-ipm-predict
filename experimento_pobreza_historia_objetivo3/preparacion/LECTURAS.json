@@ -1,0 +1,25 @@
+{
+  "revisado": [
+    {
+      "archivo": "Tesis Vigente/ACA2.pdf",
+      "paginas": [
+        58,
+        59,
+        60
+      ],
+      "modo": "extraccion texto por seccion",
+      "contenido": "metodología, validación y estimaciones condicionales; no causalidad"
+    }
+  ],
+  "pendiente": [
+    {
+      "archivo": "Tesis Vigente/ACA2.pdf",
+      "paginas": [
+        25,
+        113,
+        114
+      ]
+    }
+  ],
+  "tesis_sha256": "117af2fffbec938309b55a240aae727f1d108bb328077dec800b0fc4f133e61f"
+}

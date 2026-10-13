@@ -1,0 +1,28 @@
+{
+  "candidate": {
+    "id": "Ridge_I_10",
+    "order": 6,
+    "group": "I",
+    "family": "Ridge",
+    "inputs": [
+      "ipm"
+    ],
+    "params": {
+      "alpha": 10.0,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": null,
+      "positive": false,
+      "random_state": 20261010,
+      "solver": "svd",
+      "tol": 0.0001
+    },
+    "scaler": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    }
+  },
+  "matrix_file": "preflight/matrices/e2022__Ridge_I_10.json",
+  "output_file": "piloto/records/e2022__Ridge_I_10.json"
+}

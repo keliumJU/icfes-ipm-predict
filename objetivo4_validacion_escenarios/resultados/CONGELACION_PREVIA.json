@@ -1,0 +1,193 @@
+{
+  "protocol_sha": "df4af8b1b5fd93adc744ef8b0193e61207d3a6792e2768f3ac8dd980042314f1",
+  "preparation_sha": "6127276d466ccad4704c86b8b8046c93eec7a069820aafa3da3bd5b2363ca2ca",
+  "candidates": [
+    {
+      "id": "Ridge_00",
+      "family": "Ridge",
+      "params": {
+        "alpha": 0.1
+      },
+      "order": 0
+    },
+    {
+      "id": "Ridge_01",
+      "family": "Ridge",
+      "params": {
+        "alpha": 1
+      },
+      "order": 1
+    },
+    {
+      "id": "Ridge_02",
+      "family": "Ridge",
+      "params": {
+        "alpha": 10
+      },
+      "order": 2
+    },
+    {
+      "id": "Ridge_03",
+      "family": "Ridge",
+      "params": {
+        "alpha": 100
+      },
+      "order": 3
+    },
+    {
+      "id": "Ridge_04",
+      "family": "Ridge",
+      "params": {
+        "alpha": 1000
+      },
+      "order": 4
+    },
+    {
+      "id": "Lasso_05",
+      "family": "Lasso",
+      "params": {
+        "alpha": 0.01
+      },
+      "order": 5
+    },
+    {
+      "id": "Lasso_06",
+      "family": "Lasso",
+      "params": {
+        "alpha": 0.1
+      },
+      "order": 6
+    },
+    {
+      "id": "Lasso_07",
+      "family": "Lasso",
+      "params": {
+        "alpha": 1
+      },
+      "order": 7
+    },
+    {
+      "id": "Lasso_08",
+      "family": "Lasso",
+      "params": {
+        "alpha": 10
+      },
+      "order": 8
+    },
+    {
+      "id": "ElasticNet_09",
+      "family": "ElasticNet",
+      "params": {
+        "alpha": 0.01,
+        "l1_ratio": 0.2
+      },
+      "order": 9
+    },
+    {
+      "id": "ElasticNet_10",
+      "family": "ElasticNet",
+      "params": {
+        "alpha": 0.01,
+        "l1_ratio": 0.8
+      },
+      "order": 10
+    },
+    {
+      "id": "ElasticNet_11",
+      "family": "ElasticNet",
+      "params": {
+        "alpha": 0.1,
+        "l1_ratio": 0.2
+      },
+      "order": 11
+    },
+    {
+      "id": "ElasticNet_12",
+      "family": "ElasticNet",
+      "params": {
+        "alpha": 0.1,
+        "l1_ratio": 0.8
+      },
+      "order": 12
+    },
+    {
+      "id": "ElasticNet_13",
+      "family": "ElasticNet",
+      "params": {
+        "alpha": 1,
+        "l1_ratio": 0.2
+      },
+      "order": 13
+    },
+    {
+      "id": "ElasticNet_14",
+      "family": "ElasticNet",
+      "params": {
+        "alpha": 1,
+        "l1_ratio": 0.8
+      },
+      "order": 14
+    }
+  ],
+  "specs": {
+    "base": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "ipm": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "componentes": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ]
+  },
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.9.1"
+  },
+  "fuentes_sha": {
+    "control.py": "87c44fc048be72afacb04588d123874b1e7efbb14a5edc68c35b3e2fdb398b0e",
+    "preparar.py": "21f083eb7b7a98b766c88c0214796fee9f2c16a154033aa9c58bb2621f22811f",
+    "modelos.py": "c198129685ca0abfd4ee5bbe9c959b6683799c4f7ecda3260b4ff5e11086ad69",
+    "tests.py": "e18f0f622ead4bd2d8a2f43b48fc8bc3717440c6e09102e8bfa65fc0b827b6f3",
+    "notebook_preparacion.py": "4343873b20d1900ce8ea2bf9f7df9548f97fdc76ff1c73207cf4b9420411efb4",
+    "notebook_validacion.py": "24dbade56035d7a5731a2fdef3dbe0b5f86849cb27bc8dadc0aa9b94f35dfa47",
+    "graficas.py": "9012e073b5e98ec92eb53cf35d74f9153140a4adfe1dcd10adbc907d2fc7d239",
+    "generar_notebooks.py": "d18129a0a236505927d6c55a1bc130940851c12341928765c1c025016be2fb58",
+    "resumen.py": "79e21eda124692fe6aa182dd0d456bf01f288f2e3c9ebc0369a854333951f985"
+  },
+  "semilla": 20261012
+}

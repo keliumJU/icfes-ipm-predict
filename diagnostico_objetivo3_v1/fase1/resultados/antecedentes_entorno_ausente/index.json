@@ -1,0 +1,99 @@
+{
+  "motivo": "Entorno ausente resuelto con autorización expresa del usuario; conservar cierre incompleto y continuidad íntegros",
+  "archivos": {
+    "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md",
+      "sha256": "0845c450f5465c5af8d94cdb3597079079003d5693a732fafc783fea851bcab4"
+    },
+    "diagnostico_objetivo3_v1/PLAN_DIAGNOSTICO.md": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/PLAN_DIAGNOSTICO.md",
+      "sha256": "4c33307f11ec2da96ea108faf12a1eb44ba52eb805e7fd7ed9ad445eae6e7fe2"
+    },
+    "diagnostico_objetivo3_v1/PROMPT_DIAGNOSTICO_NUEVA_SESION.md": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/PROMPT_DIAGNOSTICO_NUEVA_SESION.md",
+      "sha256": "f7d3a4f2b02933e1554596a8bd78b5ec09b4b337a264ffca5540ceca8322fca9"
+    },
+    "diagnostico_objetivo3_v1/REGISTRO_PREPARACION.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/REGISTRO_PREPARACION.json",
+      "sha256": "d1a20c1ea72a1aa87c2e43c296f97b8683adb7180d725201703fe435b6f264ad"
+    },
+    "diagnostico_objetivo3_v1/fase1/INFORME_DIAGNOSTICO.md": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/INFORME_DIAGNOSTICO.md",
+      "sha256": "f832029b72c524dd1f871c0da3836defa22beb722b65223dd710669704e3c92d"
+    },
+    "diagnostico_objetivo3_v1/fase1/PROTOCOLO_DIAGNOSTICO.md": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/PROTOCOLO_DIAGNOSTICO.md",
+      "sha256": "996aae083b459dc2dd31120215d3e036bb477407ed8d205bf7c6ffd9b1904925"
+    },
+    "diagnostico_objetivo3_v1/fase1/README.md": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/README.md",
+      "sha256": "55223453a5048b669188e5575deb308dcf84e999cecfde820cff5a7193f5af76"
+    },
+    "diagnostico_objetivo3_v1/fase1/fuentes/documentar_incompleto.py": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/fuentes/documentar_incompleto.py",
+      "sha256": "b35995f860dbff701097ebdf6979d625815d59c8d4ad1e66320e76cde5151d32"
+    },
+    "diagnostico_objetivo3_v1/fase1/fuentes/preflight_documental.py": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/fuentes/preflight_documental.py",
+      "sha256": "cc5a02dcd6b132a03d08d2b45433b99fcc6baf73d3292a46b424f567cd1ee164"
+    },
+    "diagnostico_objetivo3_v1/fase1/registro_hallazgos.md": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/registro_hallazgos.md",
+      "sha256": "87e95595ee52d290fa25bfcf22eca354d8225e8b424d6508793bc227f74afb08"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/auditoria_incompleta.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/auditoria_incompleta.json",
+      "sha256": "04bbb4d3d495d43cace7559d82f47cde5f8ceabfbc09d96403ddd6ee43462626"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/conservacion_final.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/conservacion_final.json",
+      "sha256": "33737ed6b84f6551e31f4241b83a3ad4f586295bdf87f727593fdc842575e828"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/entorno.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/entorno.json",
+      "sha256": "617048776620ef0b49d6870bce2f225a04436da4dbc984a6cd45b1269b121f92"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/huellas_antecedentes.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/huellas_antecedentes.json",
+      "sha256": "20a776198fbbf709ebbbbf5e16a4bb550aca117842ce175710bcbcadbd1f9089"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/inventario_protegido_verificado.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/inventario_protegido_verificado.json",
+      "sha256": "8d28be1fb6df1954c5f51ef18838d32a700b365c25fb61b32b8eb8079607e939"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/lecturas.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/lecturas.json",
+      "sha256": "bbe3f514a4ac475cfc0f6c801a63c9453caefc43e346cad05d4d57ff6682a9f9"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/preflight.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/preflight.json",
+      "sha256": "43a7083aaabba656dbf0c8e29f6d5a32f1a5f7b16cd979c448e9d26c67647fa6"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/entorno.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/entorno.json",
+      "sha256": "617048776620ef0b49d6870bce2f225a04436da4dbc984a6cd45b1269b121f92"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/huellas_antecedentes.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/huellas_antecedentes.json",
+      "sha256": "256012e20db5ed7d3ada6d61169b7b17546a62000a1090e1479758dc74ccd4b7"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/inventario_protegido_verificado.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/inventario_protegido_verificado.json",
+      "sha256": "8d28be1fb6df1954c5f51ef18838d32a700b365c25fb61b32b8eb8079607e939"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/preflight.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/preflight_documental_final/preflight.json",
+      "sha256": "5cc1460d0a2cd9907bf79aff902f163f4120d025ffed382844dde702acad36f2"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/manifiesto_incompleto.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/manifiesto_incompleto.json",
+      "sha256": "97f8d38673a55d6eb3e40157eec4761da757c2edac1084879981db0cd6e53dbe"
+    },
+    "diagnostico_objetivo3_v1/fase1/resultados/verificacion_manifiesto.json": {
+      "copia": "diagnostico_objetivo3_v1/fase1/resultados/antecedentes_entorno_ausente/diagnostico_objetivo3_v1/fase1/resultados/verificacion_manifiesto.json",
+      "sha256": "ccb88d40d58829f4253daf28683411ef8f5159e01170592af4d2cd0a4a5a1138"
+    }
+  },
+  "n": 23,
+  "evidencia": "Sin alterar antecedentes históricos v1–v5"
+}

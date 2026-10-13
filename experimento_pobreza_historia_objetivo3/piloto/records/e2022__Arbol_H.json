@@ -1,0 +1,177 @@
+{
+  "id": "Arbol_H",
+  "family": "Arbol",
+  "params": {
+    "ccp_alpha": 0.0,
+    "criterion": "absolute_error",
+    "max_depth": 2,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 11,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "random_state": 20261010,
+    "splitter": "best"
+  },
+  "inputs": [
+    "puntaje_previo",
+    "cambio_previo"
+  ],
+  "matrix_file": "preflight/matrices/e2022__Arbol_H.json",
+  "matrix_sha256": "3f08f44ecbaf7db5de04466ce6ac8ef15f33c18e26ae2c824fb5ae5805f93ac5",
+  "prediction": [
+    253.92457737321197,
+    253.92457737321197,
+    253.92457737321197,
+    230.96290789818158,
+    253.92457737321197,
+    253.92457737321197,
+    230.96290789818158,
+    230.96290789818158,
+    230.96290789818158,
+    230.96290789818158,
+    253.92457737321197,
+    230.96290789818158,
+    253.92457737321197,
+    230.96290789818158,
+    230.96290789818158,
+    253.92457737321197,
+    253.92457737321197,
+    253.92457737321197,
+    253.92457737321197,
+    253.92457737321197,
+    253.92457737321197,
+    230.96290789818158,
+    230.96290789818158,
+    253.92457737321197,
+    253.92457737321197,
+    253.92457737321197,
+    230.96290789818158,
+    230.96290789818158,
+    230.96290789818158,
+    230.96290789818158,
+    230.96290789818158,
+    230.96290789818158,
+    230.96290789818158
+  ],
+  "warnings": [],
+  "runtime_params": {
+    "ccp_alpha": 0.0,
+    "criterion": "absolute_error",
+    "max_depth": 2,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 11,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "random_state": 20261010,
+    "splitter": "best"
+  },
+  "pipeline_params": {
+    "memory": null,
+    "transform_input": null,
+    "verbose": false
+  },
+  "scaler": {
+    "params": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    },
+    "mean": [
+      244.16668321880348,
+      -5.815756579241293
+    ],
+    "var": [
+      275.0103839754921,
+      4.0221690852599155
+    ],
+    "scale": [
+      16.583437037462776,
+      2.005534613328804
+    ],
+    "n_samples_seen": 33
+  },
+  "fit_start_epoch": 1791829444.0886948,
+  "fit_end_epoch": 1791829444.0936627,
+  "fit_duration_seconds": 0.004966598999089911,
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/numpy.libs/libscipy_openblas64_-f48b354e.so",
+      "version": "0.3.34.106.0",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libgomp",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/scikit_learn.libs/libgomp-e985bcbb.so.1.0.0",
+      "version": null
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/scipy.libs/libscipy_openblas-5f890258.so",
+      "version": "0.3.31.dev",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    }
+  ],
+  "seed": 20261010,
+  "tree": {
+    "children_left": [
+      1,
+      -1,
+      -1
+    ],
+    "children_right": [
+      2,
+      -1,
+      -1
+    ],
+    "feature": [
+      0,
+      -2,
+      -2
+    ],
+    "threshold": [
+      0.07601346168667078,
+      -2.0,
+      -2.0
+    ],
+    "value": [
+      244.54337490525737,
+      230.96290789818158,
+      253.92457737321197
+    ],
+    "impurity": [
+      13.228101632011464,
+      8.298024734735549,
+      5.742859977006058
+    ],
+    "n_node_samples": [
+      33,
+      16,
+      17
+    ],
+    "weighted_n_node_samples": [
+      33.0,
+      16.0,
+      17.0
+    ],
+    "max_depth": 1,
+    "node_count": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "real_fits_new": 0,
+  "cells": {
+    "antecedents": 3,
+    "analyse": 4,
+    "figures": 5,
+    "complementary_tables": 6
+  },
+  "technical_ids_in_academic_tables": false,
+  "historical_methods": "PROTOCOLO_V2.md §§1–6: indicadores pobreza; resultados guardados recalculados",
+  "thesis_style": "ACA2.pdf físicas25,56–60,113–114: impersonal; cautela asociacional; párrafos conectados",
+  "objective_alignment": "tesis propone aprenderIPM: contraste temporal nuevo evalúa dinámica del resultado, no aporte incremental del IPM; no afirmar validación íntegraH3 ni plan páginas58–59 ejecutado",
+  "copies_dependent": true
+}

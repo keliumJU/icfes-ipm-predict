@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "completa_documental": true,
+  "protocolo_operativo_congelado": false,
+  "piloto_autorizado": false,
+  "entregables_sha256": {
+    "diseno_temporal_objetivo3_v1/CONTINUIDAD_DISENO.md": "294db05d94f72726d3eb9080aee16a48fac5895d1cd90c6cdf9eb3b7a1dddec9",
+    "diseno_temporal_objetivo3_v1/ESPECIFICACION_PROPUESTA.json": "a9a9a4c6d3c3557a3a1c99b34605a9cbdb581ae8509cd98d44bc9d386c77e0af",
+    "diseno_temporal_objetivo3_v1/EVIDENCIA_Y_DECISIONES.md": "d05272fb69375249fdccf066b79440ef87acb33be44f1d455431635ae4404d6e",
+    "diseno_temporal_objetivo3_v1/HISTORIA_Y_EVALUACION.md": "4d245ebca5c6569a12588d0aa64ce95ab3f34719a470ac4eaa1d4b7ed047d8c8",
+    "diseno_temporal_objetivo3_v1/PLAN_DISENO.md": "f9436d4eae242b96d52b97a8198c4af81b330bbf1e7261ca5f85f2faac3a9131",
+    "diseno_temporal_objetivo3_v1/PROMPT_FASE1_IMPLEMENTACION.md": "5df6f547f2994523eb06f112dbfac5bb17ad558ed5eb846229fa253aea1d5341",
+    "diseno_temporal_objetivo3_v1/PROMPT_FASE2_PILOTO.md": "8f7fbc92879604e20769edc587866a9550b802ef0ed88c10113114e44a04d577",
+    "diseno_temporal_objetivo3_v1/PROTOCOLO_TEMPORAL.md": "004b4597b86c584cfb7c04bc9fd47f8da2c8be3322ff43f59bb615c6052dc36c",
+    "diseno_temporal_objetivo3_v1/README.md": "0e7730119faef4fe68e7c5e73dae616a7cf4394424a3befd1dd23f0edfc20c71",
+    "diseno_temporal_objetivo3_v1/fuentes/generar_diseno.py": "031c67f7802792c91eaafbf0b7f554b65107de23266277ebdebcd9435dd70d37",
+    "diseno_temporal_objetivo3_v1/resultados/aceptacion_diseno.json": "e489cd548cb5a4667e2f6581484053e0c3e342b3d3b9110d0ffeb751f5938019",
+    "diseno_temporal_objetivo3_v1/resultados/conservacion_final.json": "3ba344d13aa0fb2c2c49ab4b7469d9fb7a319dc49524279aca714aeed1e19b03",
+    "diseno_temporal_objetivo3_v1/resultados/evidencias.json": "720c43fa19916253cdc509695f250d3885bea9d3f72c8cc53b75d8a1c318e385",
+    "diseno_temporal_objetivo3_v1/resultados/lecturas.json": "9237351cddb2c5bbc5282a28739f3b3413fcd4af0ff21eded2792431f2439022",
+    "diseno_temporal_objetivo3_v1/resultados/partida.json": "d09142a304904f554b572ba860bbc5a16e1eaeea2f826f004a9c61ad3197c1b9",
+    "diseno_temporal_objetivo3_v1/resultados/registro_hallazgos.json": "85ea795737d623b3bf0bcf0763cf743867a51776dd3a58ab160dabed4ad678e2"
+  },
+  "exclusiones_autorreferencia": [
+    "resultados/manifiesto_diseno.json",
+    "resultados/verificacion_diseno.json"
+  ],
+  "fits": 0,
+  "nuevas_metricas": 0,
+  "nuevos_resultados": 0,
+  "prompts_no_ejecutados": true,
+  "pendientes_indispensables_diseno": [],
+  "pendientes": [
+    "Autorizarfase1/controles",
+    "Autorizaciónposteriorpiloto",
+    "Confirmaciónindependiente/fuentesfechas"
+  ],
+  "commits": 0,
+  "push": false
+}

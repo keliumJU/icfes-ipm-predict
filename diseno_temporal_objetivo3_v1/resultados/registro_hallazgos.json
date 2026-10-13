@@ -1,0 +1,55 @@
+{
+  "hallazgos": [
+    {
+      "id": "D1",
+      "ubicacion": "diagnósticomatrizH1/H6 yprotocolo§1",
+      "impacto": "No causa/eficaciarecencia establecida",
+      "alternativa": "Comparacióncongrillaheredada,solo pesosdistintos",
+      "resolucion": "Diseño concreto,esperarautorización/controles;sin nuevo MAE"
+    },
+    {
+      "id": "D2",
+      "ubicacion": "HISTORIA_Y_EVALUACION.md ypartida/fuente",
+      "impacto": "No confirmacióninédita disponible",
+      "alternativa": "Evaluaciónexploratoria ygate futuro fechas/fuentes",
+      "resolucion": "No fabricarholdout/añofuturo ni nuevasfuentes"
+    },
+    {
+      "id": "D3",
+      "ubicacion": "PROTOCOLO_TEMPORAL.md§3",
+      "impacto": "Ponderartrain cambia un acuerdo de aprendizaje,necesita aprobaciónconcreta",
+      "alternativa": "Mantener evaluaciónigualpesos ydocumentar excepcióntemporal",
+      "resolucion": "Especificaciónpropuesta/aprobaciónporpromptfase1,ningún cambioaplicado"
+    },
+    {
+      "id": "D4",
+      "ubicacion": "resultados/evidencias.json:E6",
+      "impacto": "35textosdecódigo podrían aparentarpoblación distinta",
+      "alternativa": "Reglaexistentenormalizarzfill(2)",
+      "resolucion": "33territorios/231llaves,sin escribir fuente/reabrirhistórico"
+    },
+    {
+      "id": "D5",
+      "ubicacion": "Lecturaestáticasklearnlocalsegúnlecturas.json",
+      "impacto": "Soporte interfaces no garantiza implementación completa",
+      "alternativa": "Pruebasinventadasrouting/scaler/modelosenfase1",
+      "resolucion": "Declarar soporteinspeccionado,controlespendientes/no fit"
+    },
+    {
+      "id": "D6",
+      "ubicacion": "Snapshotdiagnóstico completo yGit",
+      "impacto": "Modificar continuidaddiagnóstico invalidaría su cierre",
+      "alternativa": "Carpeta/continuidad nueva para diseño",
+      "resolucion": "Diagnósticointacto porSHA,conservación sinexcepciones a archivosanteriores"
+    }
+  ],
+  "pendientes_indispensables_diseno": [],
+  "pendientes_implementacion": [
+    "Validaciónintegral pesos/routing/entorno/controles/congelación"
+  ],
+  "pendientes_cientificos": [
+    "eficaciarecencia",
+    "más historia comparable",
+    "confirmación independiente/fechasoperacionales"
+  ]
+}

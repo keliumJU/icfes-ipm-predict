@@ -1,0 +1,9 @@
+{
+  "completa": true,
+  "real_fits": 0,
+  "tests": true,
+  "notebook": true,
+  "independent_window_jobs": true,
+  "termination_wait": true,
+  "originals_preserved": true
+}

@@ -1,0 +1,148 @@
+{
+  "aprobado": true,
+  "versionados_intactos": 29640,
+  "diagnostico_diseno_intactos": 121,
+  "inventario_git_identico": true,
+  "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+  "rama": "codex/objetivo3-v5-mae",
+  "otras_huellas_v5": {
+    "experimentos_objetivo3_v5/etapa1/resultados/controles.json": [
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa1/fuentes/controles.py",
+        "esperado": "10d0585a5f68d2a7c749b5a6f321e8cf364f04908484a0d133df3bfa75ca0fe4",
+        "actual": "10d0585a5f68d2a7c749b5a6f321e8cf364f04908484a0d133df3bfa75ca0fe4",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa1/fuentes/comun_v5.py",
+        "esperado": "fe4f6b0d1a1dc7e91fe9f3e9d9cab461fa3cf22ede420de953c1afb798b0fdc3",
+        "actual": "fe4f6b0d1a1dc7e91fe9f3e9d9cab461fa3cf22ede420de953c1afb798b0fdc3",
+        "commit": null,
+        "historico": null
+      }
+    ],
+    "experimentos_objetivo3_v5/etapa2/resultados/controles.json": [
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/01_resultados_piloto.py",
+        "esperado": "8de819b36f8466c347e642f7dce0f09894f0217e3a435dee45e0fc7efa4cd579",
+        "actual": "8de819b36f8466c347e642f7dce0f09894f0217e3a435dee45e0fc7efa4cd579",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/cerrar.py",
+        "esperado": "4f47b3229ad0be4752a359bcf452970c548a39b488ddef51b6af5d7d6157c3c0",
+        "actual": "4f47b3229ad0be4752a359bcf452970c548a39b488ddef51b6af5d7d6157c3c0",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/generar_notebook.py",
+        "esperado": "0fba64930832fa7e6d219ca67110002a7e2b1da4e688e2279e102bad993e58c1",
+        "actual": "0fba64930832fa7e6d219ca67110002a7e2b1da4e688e2279e102bad993e58c1",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/motor.py",
+        "esperado": "4caa38038f38588e5cb79267e35331dbae828c4c3068162b0974a97e4e2fa6a3",
+        "actual": "4caa38038f38588e5cb79267e35331dbae828c4c3068162b0974a97e4e2fa6a3",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/piloto.py",
+        "esperado": "809de874909dde6d726b39936fd04b80f2382dd9327b817184a11fad3b616c09",
+        "actual": "809de874909dde6d726b39936fd04b80f2382dd9327b817184a11fad3b616c09",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/probar.py",
+        "esperado": "a06ebdb8ffb7d145ae7fc55441e66ec12f0a916b958e5c9f1cb120b32cc418fb",
+        "actual": "a06ebdb8ffb7d145ae7fc55441e66ec12f0a916b958e5c9f1cb120b32cc418fb",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/verificar.py",
+        "esperado": "d5bb869927ced98946cad155d0d83f35aa770558996234d21f1b36b5f1d4c205",
+        "actual": "d5bb869927ced98946cad155d0d83f35aa770558996234d21f1b36b5f1d4c205",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/worker.py",
+        "esperado": "80703df73b94a6413c43cf8af19c7e6962e5f71f00231101edacecf71f26a943",
+        "actual": "80703df73b94a6413c43cf8af19c7e6962e5f71f00231101edacecf71f26a943",
+        "commit": null,
+        "historico": null
+      }
+    ],
+    "experimentos_objetivo3_v5/etapa2/resultados/piloto/contexto.json": [
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/01_resultados_piloto.py",
+        "esperado": "8de819b36f8466c347e642f7dce0f09894f0217e3a435dee45e0fc7efa4cd579",
+        "actual": "8de819b36f8466c347e642f7dce0f09894f0217e3a435dee45e0fc7efa4cd579",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/cerrar.py",
+        "esperado": "4f47b3229ad0be4752a359bcf452970c548a39b488ddef51b6af5d7d6157c3c0",
+        "actual": "4f47b3229ad0be4752a359bcf452970c548a39b488ddef51b6af5d7d6157c3c0",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/generar_notebook.py",
+        "esperado": "0fba64930832fa7e6d219ca67110002a7e2b1da4e688e2279e102bad993e58c1",
+        "actual": "0fba64930832fa7e6d219ca67110002a7e2b1da4e688e2279e102bad993e58c1",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/motor.py",
+        "esperado": "4caa38038f38588e5cb79267e35331dbae828c4c3068162b0974a97e4e2fa6a3",
+        "actual": "4caa38038f38588e5cb79267e35331dbae828c4c3068162b0974a97e4e2fa6a3",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/piloto.py",
+        "esperado": "809de874909dde6d726b39936fd04b80f2382dd9327b817184a11fad3b616c09",
+        "actual": "809de874909dde6d726b39936fd04b80f2382dd9327b817184a11fad3b616c09",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/probar.py",
+        "esperado": "a06ebdb8ffb7d145ae7fc55441e66ec12f0a916b958e5c9f1cb120b32cc418fb",
+        "actual": "a06ebdb8ffb7d145ae7fc55441e66ec12f0a916b958e5c9f1cb120b32cc418fb",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/verificar.py",
+        "esperado": "d5bb869927ced98946cad155d0d83f35aa770558996234d21f1b36b5f1d4c205",
+        "actual": "d5bb869927ced98946cad155d0d83f35aa770558996234d21f1b36b5f1d4c205",
+        "commit": null,
+        "historico": null
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/worker.py",
+        "esperado": "80703df73b94a6413c43cf8af19c7e6962e5f71f00231101edacecf71f26a943",
+        "actual": "80703df73b94a6413c43cf8af19c7e6962e5f71f00231101edacecf71f26a943",
+        "commit": null,
+        "historico": null
+      }
+    ]
+  },
+  "preparacion_diagnostico_versionados_cotejados": true,
+  "raw": "Sin lectura/censo/escritura",
+  "cambios_ajenos": [],
+  "fits_panel_real": 0,
+  "commit": 0,
+  "push": 0
+}

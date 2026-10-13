@@ -1,0 +1,49 @@
+[
+  {
+    "external": 2022,
+    "candidate": "persistencia",
+    "pool_MAE": [
+      "persistencia",
+      "memoria",
+      "comun",
+      "comun_correccion"
+    ],
+    "pool_RMSE": [
+      "persistencia",
+      "memoria",
+      "comun",
+      "comun_correccion"
+    ]
+  },
+  {
+    "external": 2023,
+    "candidate": "persistencia",
+    "pool_MAE": [
+      "persistencia"
+    ],
+    "pool_RMSE": [
+      "persistencia"
+    ]
+  },
+  {
+    "external": 2024,
+    "candidate": "persistencia",
+    "pool_MAE": [
+      "persistencia",
+      "memoria"
+    ],
+    "pool_RMSE": [
+      "persistencia"
+    ]
+  },
+  {
+    "external": 2025,
+    "candidate": "memoria",
+    "pool_MAE": [
+      "memoria"
+    ],
+    "pool_RMSE": [
+      "memoria"
+    ]
+  }
+]

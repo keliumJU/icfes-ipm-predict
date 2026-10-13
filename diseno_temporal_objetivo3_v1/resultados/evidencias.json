@@ -1,0 +1,71 @@
+{
+  "origen": "Lectura de artefactos guardados;ningún nuevo MAE/fit/predicción",
+  "evidencias": [
+    {
+      "id": "E1",
+      "archivo": "diagnostico_objetivo3_v1/fase1/tablas/matriz_hipotesis.csv",
+      "llave": "id=H1,H5,H6,H7",
+      "n": "7hipótesis;6años de cambios;4validaciones únicas",
+      "hallazgo": "Variación temporal descriptiva;eficacia recencia insuficientemente evaluada",
+      "impacto": "Motiva comparar política temporal sin afirmar causa",
+      "alternativa": "Un único contraste con mismos36candidatos y toda historia",
+      "resolucion": "Propuesta en protocolo§§3–5",
+      "sha256": "6d8b3bde6f89ee4e591b8f21c2f88a888a16cca50e74682cde84f087cc354b3a"
+    },
+    {
+      "id": "E2",
+      "archivo": "diagnostico_objetivo3_v1/fase1/tablas/conteos_ventaja_interna_por_anio.csv",
+      "llave": "periodo=anio_2021..anio_2024",
+      "n": "35configuraciones×33pares por cada4años únicos",
+      "hallazgo": "0,0,0,33 configuraciones superiores a persistencia por año",
+      "impacto": "No confundir ventaja de2024 con éxito de procedimiento completo",
+      "alternativa": "Mantener165pares ycriterio5%;no cambiarobjetivo/ventanas",
+      "resolucion": "Primario recencia/global fijado;sinrescate",
+      "sha256": "39ba00bf9b20a858ea43bd988d14a9a20e9ee7a4c3ca94a5633866f9822cf5fe"
+    },
+    {
+      "id": "E3",
+      "archivo": "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv",
+      "llave": "codigo_departamento.zfill(2),anio;inventario completo",
+      "n": "231llaves únicas;33territorios×7años",
+      "hallazgo": "No años adicionales en fuente autorizada;2018historial/2020excluido",
+      "impacto": "Más historia/confirmación no disponibles en alcance actual",
+      "alternativa": "Protocoloexploratorio ygate futuro de fuentes/fechas/comparabilidad",
+      "resolucion": "No incorporar fuentes/no inventar holdout",
+      "sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3"
+    },
+    {
+      "id": "E4",
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/configuraciones_congeladas.json",
+      "llave": "configuraciones/grupos/ventanas/semilla",
+      "n": "36IDs;5grupos;5externas",
+      "hallazgo": "Grilla y contratos completos están guardados",
+      "impacto": "Permite aislar recencia sin elegir otra familia o entradas por resultados",
+      "alternativa": "Heredar exacto yponderarúnicamentetrain",
+      "resolucion": "ESPECIFICACION_PROPUESTA.heredado copia exacta",
+      "sha256": "8607da5b380d3d86466c106befeda8974e11a14dfaa7b5ab49429aafbe255860"
+    },
+    {
+      "id": "E5",
+      "archivo": "experimentos_objetivo3_v5/etapa2/resultados/meta.json",
+      "llave": "mae_v5/mae_referencia/meta_satisfecha",
+      "n": "165pares externos",
+      "hallazgo": "V5global=persistencia,mejora0%,metaNOsatisfecha",
+      "impacto": "Controluniforme no es independiente de persistencia",
+      "alternativa": "Usar CSVguardados,nuevo primario sin rescate ni reentrenarcontrol",
+      "resolucion": "Dos contrastes,una misma población emparejada",
+      "sha256": "531fbbb9a7a98b8729152dcb7a00a63ef63d80cbf0feefb97c6ba90d81439db0"
+    },
+    {
+      "id": "E6",
+      "archivo": "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv",
+      "llave": "representaciones originales5/05 y8/08",
+      "n": "35textos de códigos;33códigos normalizados;231llaves",
+      "hallazgo": "Conteo de textos sin zfill crea dos territorios ficticios",
+      "impacto": "Un inventario ingenuo altera población aparente",
+      "alternativa": "Regla existente zfill(2),misma llave;no cambiar valores fuente",
+      "resolucion": "33territorios/231llaves comprobados;sin nueva incidencia analítica",
+      "sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3"
+    }
+  ]
+}

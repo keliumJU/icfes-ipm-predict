@@ -1,0 +1,3 @@
+Autorizo corregir el arranque del notebook y completar la entrega pendiente de experimento_pobreza_historia_objetivo3, con un presupuesto nuevo máximo de 7200 segundos desde la primera acción.
+Preservar el cierre incompleto y el código congelado; guardar la corrección por separado. Revalidar conservación y entorno, probar primero el notebook con datos inventados y reutilizar exclusivamente las matrices, parámetros, selecciones y predicciones del piloto cerrado y auditado.
+Cero nuevos ajustes, repeticiones de modelos o cambios científicos. Completar notebook ejecutado, tablas, figuras revisadas, texto académico último, evidencias, informes, manifiesto, verificación y continuidad. Mantener todas las restricciones anteriores y no avanzar automáticamente.

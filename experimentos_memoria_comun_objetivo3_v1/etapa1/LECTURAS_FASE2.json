@@ -1,0 +1,23 @@
+{
+  "revisado": {
+    "AGENTS.md": "completo",
+    "diseno_memoria_comun_objetivo3_v1/CONTINUIDAD_DISENO.md": "vigente completo",
+    "diseno_memoria_comun_objetivo3_v1/PLAN_FASES.md": "apertura inicial completa por incidencia; aplicación solo decisiones comunes y fase2",
+    "diseno_memoria_comun_objetivo3_v1/PROTOCOLO_FASE1.md": "§§1–7 completo",
+    "diseno_memoria_comun_objetivo3_v1/ESPECIFICACION_DOCUMENTAL.json": "completa",
+    "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md": "vigente líneas1–110; antecedentes no atribuidos",
+    "experimentos_temporales_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md": "vigente completo",
+    "experimentos_objetivo3_v5/CONTINUIDAD_V5.md": "vigente líneas1–98; huella histórica en commit real",
+    "fase1_manifiesto_aceptacion_entorno_conservacion_preflight": "completos",
+    "fuentes_v2_derivado_v5": "SHA completo, sin matrices reales; cabecera y primera fila derivado inspeccionadas, no nuevo análisis",
+    "nueve_manifiestos": "bytes/enlaces completos, sin cargar modelos",
+    "continuidad_temporal_etapa1": "solo texto preservado+huella partida etapa2"
+  },
+  "pendiente": "Análisis de eficacia, piloto y auditoría fase3/4; PDF no requeridos aquí",
+  "PDF_paginas": 0,
+  "web_fuentes": 0,
+  "incidencias": [
+    "Lectura inicial plan completo fuera límite; sin ejecución de otras fases",
+    "Consulta conjunta continuidades truncada corregida con rangos acotados"
+  ]
+}

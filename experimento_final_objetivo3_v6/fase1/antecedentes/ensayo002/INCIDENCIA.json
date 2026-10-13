@@ -1,0 +1,6 @@
+{
+  "control": "llaves fuente/derivado",
+  "causa": "fuente v2 contiene 5/8 y derivado 05/08; códigos territoriales requieren zfill2 como antecedentes",
+  "resolucion": "normalizar solo representación antes de cotejo; originales intactos; ejecutar controles completos",
+  "real_fits": 0
+}

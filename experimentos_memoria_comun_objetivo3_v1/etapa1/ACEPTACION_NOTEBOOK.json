@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "nbformat_validado": true,
+  "celdas_ejecutadas": 3,
+  "metodo": "exec Python secuencial, salidas capturadas reales",
+  "fuente": "notebook_controles.py",
+  "fuente_sha256": "46353a3ccfcebf2f75c1a3214f5896cc442bb9f2d914e0544dd782243d5b4507",
+  "generador_sha256": "2300f7a944c15c6f774fd6c2d660541014966a1ec5c291eb10676eba725eadb8",
+  "notebook_sha256": "62bdc4512faaefdbd53e0dae11a3c08fe56b78ceaa0dfc7a6c93a59b0a288fe1",
+  "controles": "resultados/CONTROLES_notebook_001.json",
+  "fits_inventados": 16,
+  "fits_panel_real": 0
+}

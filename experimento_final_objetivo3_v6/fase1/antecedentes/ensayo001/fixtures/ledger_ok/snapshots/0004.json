@@ -1,0 +1,31 @@
+{
+  "status": "cerrado_completo",
+  "budget_seconds": 20,
+  "start_monotonic": 27797.457805219,
+  "start_wall": 1791757246.0105073,
+  "elapsed_seconds": 1.1473193839992746,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": null,
+  "events": [
+    {
+      "name": "sleep",
+      "attempt": 0,
+      "pid": 48,
+      "returncode": 0,
+      "terminated": true,
+      "timeout": false,
+      "events_sha": null,
+      "result_sha": "12b34da73b0c67a0319e6eddbd3582af66e3b558b4d44e4a6860e0cec20d726f",
+      "stderr": "",
+      "duration": 1.111606374000985,
+      "ok": true
+    }
+  ],
+  "serial": true,
+  "error": null,
+  "end_wall": 1791757247.1578205
+}

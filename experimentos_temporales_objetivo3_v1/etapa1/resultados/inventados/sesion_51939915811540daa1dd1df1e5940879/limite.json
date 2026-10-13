@@ -1,0 +1,18 @@
+{
+  "origen": "inventado",
+  "contexto": {
+    "origen": "inventado",
+    "semilla": 20261010
+  },
+  "limite": 0.1,
+  "consumido": 0.1,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "limite#1",
+      "estado": "limite",
+      "clase_fallo": "limite",
+      "segundos": 0.1
+    }
+  ]
+}

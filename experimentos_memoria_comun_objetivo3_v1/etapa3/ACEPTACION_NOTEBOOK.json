@@ -1,0 +1,11 @@
+{
+  "aprobado": true,
+  "celdas_realmente_ejecutadas": 6,
+  "metodo": "exec Python secuencial; stdout real; nbformat validado y releído",
+  "notebook_sha256": "e64a97c99321769c976f6c43ebe71ce7a8b0bd1b0b311da5602be3c63963bb7c",
+  "fuente_sha256": "4fc5db3568b3404ad39e4be6b660a716b526b89ec54af2d04e01b9d1796941b8",
+  "generador_sha256": "960ff9fe382ac3a66c184a944ccdb698a7f49f5578520207068837305db7c1a3",
+  "fits": 0,
+  "modelos_cargados": 0,
+  "datos_personales": false
+}

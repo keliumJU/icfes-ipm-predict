@@ -1,0 +1,19 @@
+{
+  "aprobado": true,
+  "notebook_file": "correccion_documental/NOTEBOOK_INVENTADO.ipynb",
+  "notebook_sha256": "de988e96fa3910d7b796969c34957cb5bb1ef27e5335792450cc73af6797e385",
+  "source_file": "correccion_documental/notebook_corregido.py",
+  "source_sha256": "61be86dc580067bbcd170182b1a6c47af78593d934199263391a14a66f1a933f",
+  "original_cells_sha256": "47871543546d7dc9a8ee61acb59da8a6aee21a6647fa61ab9438f7fcde7d7ae6",
+  "shared_functions_sha256": "232268852ea05ebe184de766544167923c1129d6ca244cc9fad1a8f93057d73e",
+  "generator_file": "correccion_documental/generar_notebook_corregido.py",
+  "generator_sha256": "38b57c142bd19dfb6f94f121b67759a7623f7d4adcf4e5d1c5c5a971c20eb34f",
+  "clock_file": "correccion_documental/infra_correccion.py",
+  "clock_sha256": "6a2f003480681f3739d65c67e35faad92039ad596c2cf4a205bcbecac01c8ab0",
+  "cells": 3,
+  "executed": true,
+  "new_fits": 0,
+  "python": "/tmp/icfes-v2-fase2-venv/bin/python",
+  "manager": "AsyncKernelManager",
+  "mode": "inventado"
+}

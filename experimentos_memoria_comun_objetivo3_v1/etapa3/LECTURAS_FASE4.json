@@ -1,0 +1,72 @@
+{
+  "lecturas": {
+    "AGENTS.md": {
+      "revisado": "completo",
+      "lineas": 12,
+      "sha256": "4f021b7d45e2b61951c2c2b3e939482f47882f12d52c3ba62f9db1482e58f466"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md": {
+      "revisado": "completo",
+      "lineas": 15,
+      "sha256": "b929daef010200d70c4a49d4eb252b2c974a1a21c3f7507adc6575b3eaa3a09c"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/etapa2/antecedentes/CONTINUIDAD_EXPERIMENTAL_FASE2.md": {
+      "revisado": "completo",
+      "lineas": 19,
+      "sha256": "56bb87e0a42d3a8c6a6f87ea72138922fedebf6db24e21fbf71211422d9176dd"
+    },
+    "diseno_memoria_comun_objetivo3_v1/PROTOCOLO_FASE1.md": {
+      "revisado": "completo",
+      "lineas": 66,
+      "sha256": "5cac425effa3c353156cea5b3d614195cd75c51bf0610c7627be7182f7934d06"
+    },
+    "diseno_memoria_comun_objetivo3_v1/ESPECIFICACION_DOCUMENTAL.json": {
+      "revisado": "completo",
+      "lineas": 369,
+      "sha256": "f02e5bfe068049b5dd3f0a2599ad310e375110137dcbe2ca86da4daa68b80161"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/etapa1/PROTOCOLO_IMPLEMENTACION.md": {
+      "revisado": "completo",
+      "lineas": 43,
+      "sha256": "fbf8206d4c95db3a4a3a61dd91e42d1eb86f91c31b796fa0bc1616286da199f6"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/etapa2/PROTOCOLO_ETAPA2.md": {
+      "revisado": "completo",
+      "lineas": 21,
+      "sha256": "68db6c7406f761d01916cc049daf8cb8d3e2dd4b8f1d5712f5022ef7c1d98089"
+    },
+    "diseno_memoria_comun_objetivo3_v1/CONTINUIDAD_DISENO.md": {
+      "revisado": "completo",
+      "lineas": 33,
+      "sha256": "4ac9b660681e4e19a07b92e643187059bc10788e40c5cd028436960ab75c13f7"
+    },
+    "experimentos_temporales_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md": {
+      "revisado": "completo",
+      "lineas": 67,
+      "sha256": "93ff5a3347996c4106ffa92a1b9074adfb357bb015dbe7dbf4f96f5c65358ec6"
+    },
+    "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md": {
+      "revisado": "vigente líneas1–106; histórico incompleto posterior archivado, no estado actual",
+      "sha256": "0e474594749419039257c4b4657d2974fff296cae3052ae95483e7c593823225"
+    },
+    "experimentos_objetivo3_v5/CONTINUIDAD_V5.md": {
+      "revisado": "vigente hasta separación de antecedente; históricoetapa1 cotejado en commit real",
+      "sha256": "2c643a66611d8a5af9ae18ee8a5caebe8ecb88382a57de16f4b2e76bd0f5df01"
+    },
+    "diseno_memoria_comun_objetivo3_v1/PLAN_FASES.md": {
+      "revisado_autorizado": "decisiones comunes líneas1–15 y fase4 líneas106–129",
+      "texto_fase4": "### Fase4 — Auditoría, interpretación y cierre\n\nAuditoría independiente de matrices, fechas, componentes, referencias, selección, presupuesto, cobertura y copias. CSV exactos, equivalencia int/float cero y rechazo de cambios de \\(10^{-11}\\). Repeticiones ajustadas: atol \\(10^{-10}\\), rtol cero.\n\nEvaluar la meta original:\n\n\\[\n100\\frac{MAE_{\\mathrm{persistencia}}-MAE_{\\mathrm{global}}}\n{MAE_{\\mathrm{persistencia}}}\\geq5\n\\]\n\nRecalcular la referencia sobre las mismas 165 llaves y observados. Los controles históricos v5/global, v3/persistencia y recencia/global coinciden; no contarlos como evidencias independientes ni cargar sus modelos.\n\nEntregar informe incluso sin mejora, tablas completas, gráficos con unidades y n, notebook de resultados ejecutado desde fuentes editables, registro, manifiesto, conservación y continuidad.\n\nInterpretar por separado:\n\n- Si la memoria ayuda.\n- Si el componente común ayuda.\n- Si la corrección territorial aporta respecto al común.\n- Si el procedimiento global satisface la meta.\n\nEstas comparaciones serán descriptivas y exploratorias. Un piloto incompleto permite documentar lo ocurrido, pero impide síntesis dependientes de controles irresueltos. Ningún resultado habilita automáticamente fuentes nuevas, entrenamiento final, simulación u otra fase.\n",
+      "incidencia": "apertura inicial accidental completa; documentada, no autoriza otras fases",
+      "sha256": "9cf87f03da99f2cf96b7f283bd19901198e69d2c63943f1dcd1768bbd06a9eb3"
+    }
+  },
+  "PDF": {
+    "paginas_revisadas": 0,
+    "pendiente": "No lectura nueva de PDFs requerida en esta fase; afirmaciones históricas atribuidas a archivos originales, no PDFs releídos"
+  },
+  "fuentes_nuevas": 0,
+  "web": 0,
+  "operativos": "solo lectura textual de formato de contexto, panel y cierres/generador; no importación en cotejos",
+  "continuidades_historicas": "v5 commit109797407d75d2097e5b71f8bcef3fc266bc61d2;temporal texto/huella partida;fase2 copia íntegra y manifiesto original;fase3 copia previa propia",
+  "pendiente_cientifico": "autenticidad, temporalidad, confirmación y experimentos futuros"
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "context": "numerico",
+  "limit": 30,
+  "synthetic": true,
+  "start_monotonic": 15545.976029028,
+  "start_wall": 1791744146.9093409,
+  "used": 0.004218085001411964,
+  "attempts": [
+    {
+      "job": "numerico",
+      "attempt": 1,
+      "context": "c2e9d44489566a55f0c7025c0e061bb59c300faa28e0b7ee2697420a00b60701",
+      "state": "pending",
+      "request": "resultados/sinteticos/corrida_002/numerico/jobs/numerico/intento_1/solicitud.json",
+      "request_sha256": "6adb3a24b9ac7e14405ee687093e115e49ecb43f10da487ef5fb69087f8b9095",
+      "output": "resultados/sinteticos/corrida_002/numerico/jobs/numerico/intento_1/resultado.json",
+      "start_monotonic": 15545.982475155
+    }
+  ],
+  "retries": 0,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

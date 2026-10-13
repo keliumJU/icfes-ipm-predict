@@ -1,0 +1,80 @@
+{
+  "aprobado": false,
+  "grupos_ejecutados": 17,
+  "controles": [
+    {
+      "prueba": "__main__.Controles.test_01_pesos_formula_independiente",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_02_pesos_anios_territorios_uniforme",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_03_train_only_y_rechazos",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_04_intervalos_negativos_sin_anualizar",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_05_defaults_36_entradas",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_06_routing_dobles_modelos_reciben_peso",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_07_fits_inventados_35_scaler_uniformidad",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_08_prohibicion_real_y_convergencia",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_09_bandas_global_grupos_y_orden",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_10_seleccion_cobertura_fallos_2021",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_11_csv_exacto_errores_y_finitos",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_12_aritmetica_independiente",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_13_orquestacion_36_cobertura_linaje",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_14_destinos_y_symlinks",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_15_fallos_retry_reanudacion_contexto",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_16_tiempo_inclusivo_caida_no_medida",
+      "estado": "aprobada"
+    },
+    {
+      "prueba": "__main__.Controles.test_17_hijos_imports_terminacion_fit_real_inventado",
+      "estado": "error",
+      "detalle": "Traceback (most recent call last):\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/fuentes/pruebas.py\", line 373, in test_17_hijos_imports_terminacion_fit_real_inventado\n    self.rejects(proceso,prueba_hijo,('caida',),5)\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/fuentes/pruebas.py\", line 67, in rejects\n    fn(*args,**kwargs)\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/fuentes/motor.py\", line 20, in proceso\n    response = parent.recv()\n               ^^^^^^^^^^^^^\n  File \"/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/multiprocessing/connection.py\", line 250, in recv\n    buf = self._recv_bytes()\n          ^^^^^^^^^^^^^^^^^^\n  File \"/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/multiprocessing/connection.py\", line 430, in _recv_bytes\n    buf = self._recv(4)\n          ^^^^^^^^^^^^^\n  File \"/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/multiprocessing/connection.py\", line 399, in _recv\n    raise EOFError\nEOFError\n"
+    }
+  ],
+  "registro": "test_01_pesos_formula_independiente (__main__.Controles.test_01_pesos_formula_independiente) ... ok\ntest_02_pesos_anios_territorios_uniforme (__main__.Controles.test_02_pesos_anios_territorios_uniforme) ... ok\ntest_03_train_only_y_rechazos (__main__.Controles.test_03_train_only_y_rechazos) ... ok\ntest_04_intervalos_negativos_sin_anualizar (__main__.Controles.test_04_intervalos_negativos_sin_anualizar) ... ok\ntest_05_defaults_36_entradas (__main__.Controles.test_05_defaults_36_entradas) ... ok\ntest_06_routing_dobles_modelos_reciben_peso (__main__.Controles.test_06_routing_dobles_modelos_reciben_peso) ... ok\ntest_07_fits_inventados_35_scaler_uniformidad (__main__.Controles.test_07_fits_inventados_35_scaler_uniformidad) ... ok\ntest_08_prohibicion_real_y_convergencia (__main__.Controles.test_08_prohibicion_real_y_convergencia) ... ok\ntest_09_bandas_global_grupos_y_orden (__main__.Controles.test_09_bandas_global_grupos_y_orden) ... ok\ntest_10_seleccion_cobertura_fallos_2021 (__main__.Controles.test_10_seleccion_cobertura_fallos_2021) ... ok\ntest_11_csv_exacto_errores_y_finitos (__main__.Controles.test_11_csv_exacto_errores_y_finitos) ... ok\ntest_12_aritmetica_independiente (__main__.Controles.test_12_aritmetica_independiente) ... ok\ntest_13_orquestacion_36_cobertura_linaje (__main__.Controles.test_13_orquestacion_36_cobertura_linaje) ... ok\ntest_14_destinos_y_symlinks (__main__.Controles.test_14_destinos_y_symlinks) ... ok\ntest_15_fallos_retry_reanudacion_contexto (__main__.Controles.test_15_fallos_retry_reanudacion_contexto) ... ok\ntest_16_tiempo_inclusivo_caida_no_medida (__main__.Controles.test_16_tiempo_inclusivo_caida_no_medida) ... ok\ntest_17_hijos_imports_terminacion_fit_real_inventado (__main__.Controles.test_17_hijos_imports_terminacion_fit_real_inventado) ... ERROR\n\n======================================================================\nERROR: test_17_hijos_imports_terminacion_fit_real_inventado (__main__.Controles.test_17_hijos_imports_terminacion_fit_real_inventado)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/fuentes/pruebas.py\", line 373, in test_17_hijos_imports_terminacion_fit_real_inventado\n    self.rejects(proceso,prueba_hijo,('caida',),5)\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/fuentes/pruebas.py\", line 67, in rejects\n    fn(*args,**kwargs)\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/fuentes/motor.py\", line 20, in proceso\n    response = parent.recv()\n               ^^^^^^^^^^^^^\n  File \"/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/multiprocessing/connection.py\", line 250, in recv\n    buf = self._recv_bytes()\n          ^^^^^^^^^^^^^^^^^^\n  File \"/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/multiprocessing/connection.py\", line 430, in _recv_bytes\n    buf = self._recv(4)\n          ^^^^^^^^^^^^^\n  File \"/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/multiprocessing/connection.py\", line 399, in _recv\n    raise EOFError\nEOFError\n\n----------------------------------------------------------------------\nRan 17 tests in 15.467s\n\nFAILED (errors=1)\n",
+  "ajustes_estimadores_inventados": 105,
+  "fits_panel_real": 0,
+  "modelos_historicos_cargados": 0,
+  "directorio_inventados": "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879"
+}

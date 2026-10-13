@@ -1,0 +1,81 @@
+                                                                                                    113
+
+asociación negativa que Fajardo et al. (2021) documentaron con las NBI y el PIB regional, y que
+
+Rincón-Chaparro y Romero-Bolívar (2025) describieron como un componente departamental
+
+con fuerte dependencia espacial: los clústeres de alto desempeño del centro del país y los de bajo
+
+desempeño de la periferia aparecen con nitidez en los mapas de calor y en la correlación de -0,72
+
+entre el IPM y el puntaje. En segundo lugar, precisan esa evidencia al mostrar que la asociación
+
+se concentra en las privaciones de vivienda y servicios y en el rezago escolar, más que en las
+
+dimensiones de salud o de trabajo, lo que aporta una jerarquía de las carencias que la literatura
+
+previa, basada en índices agregados, no había podido establecer.
+
+       En tercer lugar, y de manera más novedosa, la disponibilidad de seis años de información
+
+comparable permite separar la asociación entre territorios de la asociación en el tiempo, algo que
+
+los diseños transversales que predominan en los antecedentes no podían hacer. El hallazgo de
+
+que la primera es fuerte y la segunda casi nula matiza las conclusiones de la literatura: la pobreza
+
+multidimensional describe muy bien qué departamentos tienen menor desempeño, pero sus
+
+variaciones de corto plazo no anticipan mejoras en los resultados, lo que respalda la advertencia
+
+de que las intervenciones exclusivamente escolares o exclusivamente sociales corren el riesgo de
+
+ser insuficientes si no se sostienen en el tiempo y se articulan entre sí. Asimismo, los casos de
+
+Norte de Santander y San Andrés recuerdan que el estatus socioeconómico no opera de forma
+
+lineal, como señalan Zabala Vega et al. (2021), y abren la puerta al estudio de los factores de
+
+resiliencia académica territorial.
+
+       El análisis descriptivo y exploratorio permite establecer cinco conclusiones principales.
+
+Primera, la pobreza multidimensional se redujo en casi todos los departamentos entre 2018 y
+
+2024 (la incidencia media pasó de 27,9 % a 17,7 %), por la disminución de la proporción de
+
+personas pobres y no de la intensidad de sus privaciones, y con una brecha rural que duplica con
+                                                                                                114
+
+creces a la urbana en todos los departamentos. Segunda, la reducción no produjo convergencia:
+
+la brecha relativa entre territorios se amplió, la posición de cada departamento se mantuvo (rho =
+
+0,96) y la pobreza siguió concentrada en la Orinoquía, la Amazonía, La Guajira y Chocó.
+
+Tercera, la educación del hogar y el trabajo informal explican cerca de dos tercios de la pobreza
+
+multidimensional, mientras que las privaciones de vivienda son las que más distinguen a los
+
+departamentos más pobres del resto y las que más se asocian con el desempeño.
+
+       Cuarta, el desempeño en Saber 11 siguió una trayectoria común a todo el país, con un
+
+descenso hasta 2021 y una recuperación posterior que superó el nivel inicial, y conservó brechas
+
+territoriales amplias y estables, de alrededor de 30 puntos entre los grupos de pobreza baja y alta,
+
+mayores en Inglés y Matemáticas, con un ordenamiento de los departamentos casi idéntico al
+
+inicio y al final del periodo (rho = 0,98). Quinta, la pobreza multidimensional y el desempeño se
+
+asocian de manera negativa y consistente entre departamentos (r = -0,72), pero no dentro de cada
+
+departamento en el tiempo (r = -0,08 en los cambios), lo que indica que la relación descansa
+
+sobre diferencias estructurales entre territorios. De esta manera, el primer objetivo queda
+
+cumplido y sus resultados ofrecen una caracterización de partida para la estimación de
+
+asociaciones condicionales y para el diseño del modelo predictivo.
+

@@ -1,0 +1,1141 @@
+context,id,variable,coef_estandarizado,coef_original,unidad,interpretacion
+e2022,Ridge_H_0.1,puntaje_previo,15.912508634435769,0.95954225885072264,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_H_0.1,cambio_previo,-0.86736199108182432,-0.43248417918959237,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_H_1,puntaje_previo,15.480765414566724,0.93350765463124052,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_H_1,cambio_previo,-0.78748675887653707,-0.39265677772046009,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_H_10,puntaje_previo,12.187644736719884,0.73492875506973687,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_H_10,cambio_previo,-0.27940309222608267,-0.1393160159735797,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_I_0.1,ipm,-11.892365801505404,-0.82825399979001657,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_I_1,ipm,-11.577567883230261,-0.80632962920733964,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_I_10,ipm,-9.1543560006936939,-0.6375629626290592,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Analfabetismo,-3.2170574127316254,-0.51781393617770388,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Bajo logro educativo,0.93345751499008933,0.080874020449833203,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-0.14360955674929032,-0.053591731963294587,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Inasistencia escolar,0.111707073911745,0.03676702064596829,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Rezago escolar,-2.152236488659518,-0.33633438261812676,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Trabajo infantil,2.0581393659097329,2.4114344822102414,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Desempleo de larga duracion,2.0016789380667288,0.35157356157998554,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Trabajo informal,-6.2372289844127762,-0.60268647024352739,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Barreras de acceso a servicios de salud,-0.3451967195244342,-0.2320285605315191,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Sin aseguramiento en salud,4.0848683661423681,0.8529036275146068,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Hacinamiento critico,-0.99946904921556634,-0.16961875194481194,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Inadecuada eliminacion de excretas,-4.7338383018450925,-0.20675274571976165,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.2986649021424315,-0.38100936227730919,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Material inadecuado de pisos,2.2708094851278444,0.14704438564025293,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-1.1004688844782695,-0.047030958132658028,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Analfabetismo,-3.0603049260210278,-0.49258323254523839,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Bajo logro educativo,0.2370511763451513,0.02053792633893823,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-0.2377612583380049,-0.088726947680443743,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Inasistencia escolar,0.022851774470743505,0.0075213827946709732,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Rezago escolar,-2.2955946798467912,-0.35873725933742889,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Trabajo infantil,1.929664493357103,2.2609059305958383,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Desempleo de larga duracion,1.8545208798197541,0.32572681779446483,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Trabajo informal,-5.2588492924552277,-0.50814830199967553,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Barreras de acceso a servicios de salud,-0.13336449233832157,-0.089642715104328252,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Sin aseguramiento en salud,3.8696463811086179,0.80796616679306776,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Hacinamiento critico,-1.2004528744414589,-0.20372748760067455,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Inadecuada eliminacion de excretas,-4.1683008762088853,-0.18205261696546998,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Material inadecuado de paredes exteriores,-2.774508970649832,-0.32046719654772665,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Material inadecuado de pisos,2.0827572495077211,0.13486721902361784,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_1,Sin acceso a fuente de agua mejorada,-1.7451662101032153,-0.074583516280704559,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Analfabetismo,-2.2860674980590288,-0.36796284855007433,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Bajo logro educativo,-0.79084499638340733,-0.068518184687643771,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-0.68645668962876127,-0.25616960143689654,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Inasistencia escolar,0.057174513110228205,0.018818293509395418,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Rezago escolar,-2.4877891323805224,-0.38877187815193576,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Trabajo infantil,0.87494811737748168,1.0251395485341148,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Desempleo de larga duracion,1.1312422084650362,0.19869063148747726,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Trabajo informal,-2.7822981345491393,-0.26884590032963884,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Barreras de acceso a servicios de salud,0.48735835813928424,0.32758439436461217,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Sin aseguramiento en salud,3.0226622315148117,0.63111937789197492,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Hacinamiento critico,-1.5565281225100367,-0.26415661166733184,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Inadecuada eliminacion de excretas,-2.9670874185090863,-0.12958902088569638,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Material inadecuado de paredes exteriores,-1.6790429484594365,-0.19393636577430082,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Material inadecuado de pisos,0.76712916677290099,0.04967481322128163,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_D_10,Sin acceso a fuente de agua mejorada,-2.5684966201211328,-0.10977035217316587,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HI_0.1,puntaje_previo,14.973212450712472,0.90290163715080718,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HI_0.1,cambio_previo,-0.84615483298580441,-0.42190986251857759,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HI_0.1,ipm,-1.3174154674515539,-0.09175252834586195,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HI_1,puntaje_previo,14.246770947072184,0.85909639328011733,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HI_1,cambio_previo,-0.7641276292799658,-0.38100944466456255,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HI_1,ipm,-1.7788077737315551,-0.12388659061128407,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HI_10,puntaje_previo,10.234582262350122,0.61715688003817981,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HI_10,cambio_previo,-0.2970809321462739,-0.14813054343309306,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HI_10,ipm,-3.5728612342606625,-0.24883498013460803,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,puntaje_previo,13.773723472895924,0.83057109583377831,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HD_0.1,cambio_previo,-0.065415357655378481,-0.032617416433816361,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Analfabetismo,1.8999748305377422,0.30581780783450008,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Bajo logro educativo,1.5704877273714695,0.13606581396583517,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.077002768934841009,-0.028735634637406533,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Inasistencia escolar,0.91829493290281228,0.30224557474131358,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Rezago escolar,-0.37999936925872912,-0.059383275921743361,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Trabajo infantil,0.1294931596269826,0.15172163533096544,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Desempleo de larga duracion,-0.88205365387414114,-0.15492331896976463,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Trabajo informal,-4.6008879063384525,-0.44457128304682847,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Barreras de acceso a servicios de salud,1.0196291010771266,0.68535724477597848,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Sin aseguramiento en salud,0.95871455605996525,0.20017563586432141,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Hacinamiento critico,-1.018474357340772,-0.17284412110161981,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.72675966135555115,-0.031741590202829316,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Material inadecuado de paredes exteriores,0.78800849235395654,0.091018221628357751,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Material inadecuado de pisos,-0.87856300621144723,-0.05689061911212813,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,0.66356382543604853,0.028358859512165924,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,puntaje_previo,11.584580561109224,0.6985633035503499,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HD_1,cambio_previo,-0.17040805732503,-0.084968893676776389,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HD_1,Analfabetismo,0.3705696586918204,0.059646474705687014,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Bajo logro educativo,0.61075658072561112,0.052915466859782795,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.18424282559743374,-0.068755118733604015,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Inasistencia escolar,0.62398643242996954,0.20537752212614915,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Rezago escolar,-0.48812867225071421,-0.076280862481754044,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Trabajo infantil,0.49115932293997344,0.57547051828191587,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Desempleo de larga duracion,0.19206398085212392,0.033733990259511001,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Trabajo informal,-3.445688610667629,-0.33294751748113222,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Barreras de acceso a servicios de salud,0.88600247166089297,0.59553833075257112,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Sin aseguramiento en salud,1.3209676734751485,0.27581258918276191,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Hacinamiento critico,-0.95253408663333594,-0.16165347299793248,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Inadecuada eliminacion de excretas,-0.92165816542992718,-0.040253879445650613,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Material inadecuado de paredes exteriores,-0.49143634241379486,-0.05676291862849199,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Material inadecuado de pisos,-0.19581196331094614,-0.012679641350207238,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_1,Sin acceso a fuente de agua mejorada,0.1954769705606717,0.0083541382659777647,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,puntaje_previo,6.0159942205089418,0.3627712522391181,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HD_10,cambio_previo,-0.070900402051656014,-0.035352370176236901,puntos por punto de historia,asociación condicional; no causal
+e2022,Ridge_HD_10,Analfabetismo,-1.2399796440873538,-0.19958572630505453,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Bajo logro educativo,-0.51920964921979595,-0.044983913155595856,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.47361825604133334,-0.17674326977417953,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Inasistencia escolar,0.15868961513500565,0.052230750942228961,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Rezago escolar,-1.5621127584102614,-0.24411454454386905,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Trabajo infantil,0.55719888864680156,0.65284627260321904,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Desempleo de larga duracion,0.68916282855446542,0.12104410229616615,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Trabajo informal,-2.0718373092843225,-0.20019600338097507,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Barreras de acceso a servicios de salud,0.68498821822396583,0.46042393008403654,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Sin aseguramiento en salud,1.9205899497526815,0.40101124155907925,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Hacinamiento critico,-1.1163094672608924,-0.18944760597597249,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.6828891682665836,-0.073501022657564363,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Material inadecuado de paredes exteriores,-1.0941759460065972,-0.12638182166863349,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Material inadecuado de pisos,0.31710018680445279,0.020533559710952637,puntos por punto porcentual,asociación condicional; no causal
+e2022,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.3955722860857551,-0.059642851046274238,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_H_0.1,puntaje_previo,15.912508634435769,0.95954225885072264,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_H_0.1,cambio_previo,-0.86736199108182432,-0.43248417918959237,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_H_1,puntaje_previo,15.480765414566724,0.93350765463124052,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_H_1,cambio_previo,-0.78748675887653707,-0.39265677772046009,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_H_10,puntaje_previo,12.187644736719884,0.73492875506973687,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_H_10,cambio_previo,-0.27940309222608267,-0.1393160159735797,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_I_0.1,ipm,-11.892365801505404,-0.82825399979001657,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_I_1,ipm,-11.577567883230261,-0.80632962920733964,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_I_10,ipm,-9.1543560006936939,-0.6375629626290592,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Analfabetismo,-3.2170574127316254,-0.51781393617770388,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Bajo logro educativo,0.93345751499008933,0.080874020449833203,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-0.14360955674929032,-0.053591731963294587,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Inasistencia escolar,0.111707073911745,0.03676702064596829,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Rezago escolar,-2.152236488659518,-0.33633438261812676,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Trabajo infantil,2.0581393659097329,2.4114344822102414,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Desempleo de larga duracion,2.0016789380667288,0.35157356157998554,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Trabajo informal,-6.2372289844127762,-0.60268647024352739,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Barreras de acceso a servicios de salud,-0.3451967195244342,-0.2320285605315191,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Sin aseguramiento en salud,4.0848683661423681,0.8529036275146068,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Hacinamiento critico,-0.99946904921556634,-0.16961875194481194,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Inadecuada eliminacion de excretas,-4.7338383018450925,-0.20675274571976165,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.2986649021424315,-0.38100936227730919,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Material inadecuado de pisos,2.2708094851278444,0.14704438564025293,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-1.1004688844782695,-0.047030958132658028,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Analfabetismo,-3.0603049260210278,-0.49258323254523839,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Bajo logro educativo,0.2370511763451513,0.02053792633893823,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-0.2377612583380049,-0.088726947680443743,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Inasistencia escolar,0.022851774470743505,0.0075213827946709732,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Rezago escolar,-2.2955946798467912,-0.35873725933742889,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Trabajo infantil,1.929664493357103,2.2609059305958383,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Desempleo de larga duracion,1.8545208798197541,0.32572681779446483,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Trabajo informal,-5.2588492924552277,-0.50814830199967553,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Barreras de acceso a servicios de salud,-0.13336449233832157,-0.089642715104328252,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Sin aseguramiento en salud,3.8696463811086179,0.80796616679306776,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Hacinamiento critico,-1.2004528744414589,-0.20372748760067455,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Inadecuada eliminacion de excretas,-4.1683008762088853,-0.18205261696546998,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Material inadecuado de paredes exteriores,-2.774508970649832,-0.32046719654772665,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Material inadecuado de pisos,2.0827572495077211,0.13486721902361784,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_1,Sin acceso a fuente de agua mejorada,-1.7451662101032153,-0.074583516280704559,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Analfabetismo,-2.2860674980590288,-0.36796284855007433,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Bajo logro educativo,-0.79084499638340733,-0.068518184687643771,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-0.68645668962876127,-0.25616960143689654,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Inasistencia escolar,0.057174513110228205,0.018818293509395418,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Rezago escolar,-2.4877891323805224,-0.38877187815193576,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Trabajo infantil,0.87494811737748168,1.0251395485341148,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Desempleo de larga duracion,1.1312422084650362,0.19869063148747726,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Trabajo informal,-2.7822981345491393,-0.26884590032963884,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Barreras de acceso a servicios de salud,0.48735835813928424,0.32758439436461217,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Sin aseguramiento en salud,3.0226622315148117,0.63111937789197492,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Hacinamiento critico,-1.5565281225100367,-0.26415661166733184,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Inadecuada eliminacion de excretas,-2.9670874185090863,-0.12958902088569638,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Material inadecuado de paredes exteriores,-1.6790429484594365,-0.19393636577430082,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Material inadecuado de pisos,0.76712916677290099,0.04967481322128163,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_D_10,Sin acceso a fuente de agua mejorada,-2.5684966201211328,-0.10977035217316587,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HI_0.1,puntaje_previo,14.973212450712472,0.90290163715080718,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HI_0.1,cambio_previo,-0.84615483298580441,-0.42190986251857759,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HI_0.1,ipm,-1.3174154674515539,-0.09175252834586195,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HI_1,puntaje_previo,14.246770947072184,0.85909639328011733,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HI_1,cambio_previo,-0.7641276292799658,-0.38100944466456255,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HI_1,ipm,-1.7788077737315551,-0.12388659061128407,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HI_10,puntaje_previo,10.234582262350122,0.61715688003817981,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HI_10,cambio_previo,-0.2970809321462739,-0.14813054343309306,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HI_10,ipm,-3.5728612342606625,-0.24883498013460803,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,puntaje_previo,13.773723472895924,0.83057109583377831,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,cambio_previo,-0.065415357655378481,-0.032617416433816361,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Analfabetismo,1.8999748305377422,0.30581780783450008,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Bajo logro educativo,1.5704877273714695,0.13606581396583517,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.077002768934841009,-0.028735634637406533,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Inasistencia escolar,0.91829493290281228,0.30224557474131358,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Rezago escolar,-0.37999936925872912,-0.059383275921743361,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Trabajo infantil,0.1294931596269826,0.15172163533096544,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Desempleo de larga duracion,-0.88205365387414114,-0.15492331896976463,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Trabajo informal,-4.6008879063384525,-0.44457128304682847,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Barreras de acceso a servicios de salud,1.0196291010771266,0.68535724477597848,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Sin aseguramiento en salud,0.95871455605996525,0.20017563586432141,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Hacinamiento critico,-1.018474357340772,-0.17284412110161981,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.72675966135555115,-0.031741590202829316,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Material inadecuado de paredes exteriores,0.78800849235395654,0.091018221628357751,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Material inadecuado de pisos,-0.87856300621144723,-0.05689061911212813,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,0.66356382543604853,0.028358859512165924,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,puntaje_previo,11.584580561109224,0.6985633035503499,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,cambio_previo,-0.17040805732503,-0.084968893676776389,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Analfabetismo,0.3705696586918204,0.059646474705687014,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Bajo logro educativo,0.61075658072561112,0.052915466859782795,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.18424282559743374,-0.068755118733604015,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Inasistencia escolar,0.62398643242996954,0.20537752212614915,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Rezago escolar,-0.48812867225071421,-0.076280862481754044,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Trabajo infantil,0.49115932293997344,0.57547051828191587,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Desempleo de larga duracion,0.19206398085212392,0.033733990259511001,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Trabajo informal,-3.445688610667629,-0.33294751748113222,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Barreras de acceso a servicios de salud,0.88600247166089297,0.59553833075257112,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Sin aseguramiento en salud,1.3209676734751485,0.27581258918276191,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Hacinamiento critico,-0.95253408663333594,-0.16165347299793248,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Inadecuada eliminacion de excretas,-0.92165816542992718,-0.040253879445650613,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Material inadecuado de paredes exteriores,-0.49143634241379486,-0.05676291862849199,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Material inadecuado de pisos,-0.19581196331094614,-0.012679641350207238,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_1,Sin acceso a fuente de agua mejorada,0.1954769705606717,0.0083541382659777647,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,puntaje_previo,6.0159942205089418,0.3627712522391181,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,cambio_previo,-0.070900402051656014,-0.035352370176236901,puntos por punto de historia,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Analfabetismo,-1.2399796440873538,-0.19958572630505453,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Bajo logro educativo,-0.51920964921979595,-0.044983913155595856,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.47361825604133334,-0.17674326977417953,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Inasistencia escolar,0.15868961513500565,0.052230750942228961,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Rezago escolar,-1.5621127584102614,-0.24411454454386905,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Trabajo infantil,0.55719888864680156,0.65284627260321904,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Desempleo de larga duracion,0.68916282855446542,0.12104410229616615,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Trabajo informal,-2.0718373092843225,-0.20019600338097507,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Barreras de acceso a servicios de salud,0.68498821822396583,0.46042393008403654,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Sin aseguramiento en salud,1.9205899497526815,0.40101124155907925,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Hacinamiento critico,-1.1163094672608924,-0.18944760597597249,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.6828891682665836,-0.073501022657564363,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Material inadecuado de paredes exteriores,-1.0941759460065972,-0.12638182166863349,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Material inadecuado de pisos,0.31710018680445279,0.020533559710952637,puntos por punto porcentual,asociación condicional; no causal
+i2023_2022,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.3955722860857551,-0.059642851046274238,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_H_0.1,puntaje_previo,15.919463359576667,0.97172146297432738,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_H_0.1,cambio_previo,0.48451085402547678,0.13963726010391628,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_H_1,puntaje_previo,15.70558569566551,0.95866640503807743,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_H_1,cambio_previo,0.47702719535469246,0.13748045064617337,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_H_10,puntaje_previo,13.845456548496168,0.84512442341586236,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_H_10,cambio_previo,0.4130592466765371,0.11904472518476635,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_I_0.1,ipm,-12.216157933225432,-0.83733489168141906,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_I_1,ipm,-12.052060289346283,-0.82608710955435505,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_I_10,ipm,-10.624842623502644,-0.72826100447554987,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Analfabetismo,-5.0018435533442034,-0.8385372393727214,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Bajo logro educativo,1.6634927274660745,0.14543384268747697,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-1.3593868549233283,-0.51249063308506271,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Inasistencia escolar,-1.8506258781345335,-0.51985719429821864,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Rezago escolar,-0.21669199393384586,-0.03418430629155883,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Trabajo infantil,1.6949612965013927,2.0676241140101914,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Desempleo de larga duracion,1.4035916238125981,0.23341197008172992,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Trabajo informal,-4.8987223676689098,-0.46826341173619102,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Barreras de acceso a servicios de salud,-0.83943075907750153,-0.58192330683398852,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Sin aseguramiento en salud,3.9969782503369569,0.87209161761625831,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Hacinamiento critico,-1.4714598436056989,-0.25650486532000555,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Inadecuada eliminacion de excretas,-3.8398260657847603,-0.1776583814025838,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.6741672411105393,-0.45763702713469179,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Material inadecuado de pisos,4.1267861023071744,0.27555929660208128,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-2.9649291612083801,-0.13114737845025903,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Analfabetismo,-4.6038686342255399,-0.77181848128717012,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Bajo logro educativo,1.2542274456919291,0.10965308956230235,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-1.3592739680185162,-0.5124480745734038,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Inasistencia escolar,-1.6412705161303893,-0.46104741951409539,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Rezago escolar,-0.58828901973344272,-0.092805699340550551,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Trabajo infantil,1.6518647120136341,2.0150520951078739,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Desempleo de larga duracion,1.3474158747824707,0.22407015581788994,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Trabajo informal,-4.5656635137448012,-0.43642668706757848,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Barreras de acceso a servicios de salud,-0.83029052990532592,-0.57558697435203587,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Sin aseguramiento en salud,3.8700216422743625,0.84439124329396931,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Hacinamiento critico,-1.4415483579062125,-0.25129069543000893,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Inadecuada eliminacion de excretas,-3.8543655486129142,-0.1783310840045837,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Material inadecuado de paredes exteriores,-3.2646999531604841,-0.40663570355048578,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Material inadecuado de pisos,3.7794472932445133,0.25236632378131857,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_1,Sin acceso a fuente de agua mejorada,-3.0290247125181815,-0.1339825097696119,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Analfabetismo,-3.1761029131377865,-0.53245979014388889,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Bajo logro educativo,-0.068276508471169797,-0.0059691965154376097,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-1.2964921010506336,-0.48877922811361729,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Inasistencia escolar,-0.79001019454373678,-0.22192085826470923,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Rezago escolar,-1.8188485681231157,-0.28693296610517871,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Trabajo infantil,1.1065535243984945,1.3498460143083342,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Desempleo de larga duracion,1.0300917269271788,0.17130035208807015,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Trabajo informal,-3.015231077348373,-0.28822257835444814,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Barreras de acceso a servicios de salud,-0.57562678599705841,-0.39904499470301424,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Sin aseguramiento en salud,3.2227878809180437,0.70317277710153936,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Hacinamiento critico,-1.4357378810923829,-0.25027781316954284,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Inadecuada eliminacion de excretas,-3.4332235046345372,-0.15884597905661177,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Material inadecuado de paredes exteriores,-2.0369540043899503,-0.25371343050170031,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Material inadecuado de pisos,1.983632318150643,0.13245375765929646,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_D_10,Sin acceso a fuente de agua mejorada,-3.1709158557415074,-0.14025876476501467,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HI_0.1,puntaje_previo,14.599334936363659,0.89114103801001199,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HI_0.1,cambio_previo,0.32761406744381816,0.094419207267024213,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HI_0.1,ipm,-1.8658134562452886,-0.12788887609529997,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HI_1,puntaje_previo,14.248558214850187,0.86972968378861726,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HI_1,cambio_previo,0.30394919545394794,0.087598930986481624,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HI_1,ipm,-2.0873556565396334,-0.14307409351802114,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HI_10,puntaje_previo,11.768810370209499,0.7183662773109657,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HI_10,cambio_previo,0.16748339872254139,0.048269141374648522,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HI_10,ipm,-3.3748836877794597,-0.2313254202009222,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,puntaje_previo,13.898491267327037,0.84836165405653985,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HD_0.1,cambio_previo,-0.082030453602846762,-0.023641385308533547,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Analfabetismo,-1.216444446525722,-0.2039316018506753,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Bajo logro educativo,0.7847748099770373,0.068610348800952431,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.65461472385885489,-0.2467906122839108,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Inasistencia escolar,-1.8896975644284912,-0.53083277691232955,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Rezago escolar,0.80193327937380965,0.12650920945366184,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Trabajo infantil,-0.28389015083070152,-0.34630768431063491,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Desempleo de larga duracion,0.13015525726189336,0.021644326240328936,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Trabajo informal,-0.59458227203715186,-0.056835456750830592,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Barreras de acceso a servicios de salud,-0.24236732907424618,-0.16801766682746158,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Sin aseguramiento en salud,0.5594880546751857,0.1220734294957754,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Hacinamiento critico,-0.2632778482970034,-0.045894591899756934,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.79573932855627849,-0.036816709587285688,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Material inadecuado de paredes exteriores,-1.0756606559354376,-0.13397924277373313,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Material inadecuado de pisos,1.1908659531102965,0.079518098648965183,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,-0.006534883153854169,-0.00028905675228930078,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,puntaje_previo,12.762183911354171,0.77900163723975402,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HD_1,cambio_previo,-0.072522786504237088,-0.020901251475411626,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HD_1,Analfabetismo,-1.3394852878522092,-0.22455886184304907,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Bajo logro educativo,0.72806002351367782,0.063651956620224201,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.6855295817758269,-0.25844555439860217,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Inasistencia escolar,-1.7723068123971415,-0.49785667530875138,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Rezago escolar,0.52285828928437061,0.082483656103298553,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Trabajo infantil,-0.10746165082911963,-0.13108871632895627,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Desempleo de larga duracion,0.19224305385911308,0.031969291619094758,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Trabajo informal,-0.8931542363388606,-0.085375618074409354,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Barreras de acceso a servicios de salud,-0.29828273581321091,-0.20678021875999289,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Sin aseguramiento en salud,0.77513808710622845,0.1691256208870926,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Hacinamiento critico,-0.33613083714787462,-0.058594324192526255,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Inadecuada eliminacion de excretas,-1.053178127505362,-0.04872770751999337,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Material inadecuado de paredes exteriores,-1.0771217510155235,-0.13416122991937257,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Material inadecuado de pisos,1.2902976748273722,0.086157486932494837,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_1,Sin acceso a fuente de agua mejorada,-0.31480732908593489,-0.013924837215915758,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,puntaje_previo,7.978085630256408,0.48698105364861816,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HD_10,cambio_previo,-0.01946921728502286,-0.0056110779262448628,puntos por punto de historia,asociación condicional; no causal
+e2023,Ridge_HD_10,Analfabetismo,-1.6744901027942385,-0.28072095681905868,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Bajo logro educativo,0.11261969214192577,0.009845979077666241,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.85190830796139616,-0.32117055310365283,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Inasistencia escolar,-1.0577087564780077,-0.29711975447008326,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Rezago escolar,-0.76184975612309569,-0.12018582199862948,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Trabajo infantil,0.35530363384607949,0.43342249917563108,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Desempleo de larga duracion,0.43633378131212619,0.072560654952207163,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Trabajo informal,-1.4803314553075912,-0.14150323405500326,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Barreras de acceso a servicios de salud,-0.38103032514244783,-0.26414379555806999,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Sin aseguramiento en salud,1.512579158484588,0.33002621542517985,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Hacinamiento critico,-0.7269391004833724,-0.1267200167749187,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.8424763482361033,-0.085246404444434501,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Material inadecuado de paredes exteriores,-1.0548593704943017,-0.13138833228839977,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Material inadecuado de pisos,1.1566984211297995,0.07723661837696584,puntos por punto porcentual,asociación condicional; no causal
+e2023,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.517123072117706,-0.067106734386041783,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_H_0.1,puntaje_previo,15.912508634435769,0.95954225885072264,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_H_0.1,cambio_previo,-0.86736199108182432,-0.43248417918959237,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_H_1,puntaje_previo,15.480765414566724,0.93350765463124052,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_H_1,cambio_previo,-0.78748675887653707,-0.39265677772046009,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_H_10,puntaje_previo,12.187644736719884,0.73492875506973687,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_H_10,cambio_previo,-0.27940309222608267,-0.1393160159735797,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_I_0.1,ipm,-11.892365801505404,-0.82825399979001657,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_I_1,ipm,-11.577567883230261,-0.80632962920733964,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_I_10,ipm,-9.1543560006936939,-0.6375629626290592,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Analfabetismo,-3.2170574127316254,-0.51781393617770388,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Bajo logro educativo,0.93345751499008933,0.080874020449833203,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-0.14360955674929032,-0.053591731963294587,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Inasistencia escolar,0.111707073911745,0.03676702064596829,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Rezago escolar,-2.152236488659518,-0.33633438261812676,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Trabajo infantil,2.0581393659097329,2.4114344822102414,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Desempleo de larga duracion,2.0016789380667288,0.35157356157998554,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Trabajo informal,-6.2372289844127762,-0.60268647024352739,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Barreras de acceso a servicios de salud,-0.3451967195244342,-0.2320285605315191,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Sin aseguramiento en salud,4.0848683661423681,0.8529036275146068,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Hacinamiento critico,-0.99946904921556634,-0.16961875194481194,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Inadecuada eliminacion de excretas,-4.7338383018450925,-0.20675274571976165,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.2986649021424315,-0.38100936227730919,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Material inadecuado de pisos,2.2708094851278444,0.14704438564025293,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-1.1004688844782695,-0.047030958132658028,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Analfabetismo,-3.0603049260210278,-0.49258323254523839,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Bajo logro educativo,0.2370511763451513,0.02053792633893823,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-0.2377612583380049,-0.088726947680443743,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Inasistencia escolar,0.022851774470743505,0.0075213827946709732,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Rezago escolar,-2.2955946798467912,-0.35873725933742889,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Trabajo infantil,1.929664493357103,2.2609059305958383,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Desempleo de larga duracion,1.8545208798197541,0.32572681779446483,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Trabajo informal,-5.2588492924552277,-0.50814830199967553,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Barreras de acceso a servicios de salud,-0.13336449233832157,-0.089642715104328252,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Sin aseguramiento en salud,3.8696463811086179,0.80796616679306776,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Hacinamiento critico,-1.2004528744414589,-0.20372748760067455,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Inadecuada eliminacion de excretas,-4.1683008762088853,-0.18205261696546998,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Material inadecuado de paredes exteriores,-2.774508970649832,-0.32046719654772665,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Material inadecuado de pisos,2.0827572495077211,0.13486721902361784,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_1,Sin acceso a fuente de agua mejorada,-1.7451662101032153,-0.074583516280704559,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Analfabetismo,-2.2860674980590288,-0.36796284855007433,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Bajo logro educativo,-0.79084499638340733,-0.068518184687643771,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-0.68645668962876127,-0.25616960143689654,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Inasistencia escolar,0.057174513110228205,0.018818293509395418,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Rezago escolar,-2.4877891323805224,-0.38877187815193576,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Trabajo infantil,0.87494811737748168,1.0251395485341148,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Desempleo de larga duracion,1.1312422084650362,0.19869063148747726,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Trabajo informal,-2.7822981345491393,-0.26884590032963884,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Barreras de acceso a servicios de salud,0.48735835813928424,0.32758439436461217,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Sin aseguramiento en salud,3.0226622315148117,0.63111937789197492,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Hacinamiento critico,-1.5565281225100367,-0.26415661166733184,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Inadecuada eliminacion de excretas,-2.9670874185090863,-0.12958902088569638,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Material inadecuado de paredes exteriores,-1.6790429484594365,-0.19393636577430082,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Material inadecuado de pisos,0.76712916677290099,0.04967481322128163,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_D_10,Sin acceso a fuente de agua mejorada,-2.5684966201211328,-0.10977035217316587,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HI_0.1,puntaje_previo,14.973212450712472,0.90290163715080718,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HI_0.1,cambio_previo,-0.84615483298580441,-0.42190986251857759,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HI_0.1,ipm,-1.3174154674515539,-0.09175252834586195,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HI_1,puntaje_previo,14.246770947072184,0.85909639328011733,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HI_1,cambio_previo,-0.7641276292799658,-0.38100944466456255,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HI_1,ipm,-1.7788077737315551,-0.12388659061128407,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HI_10,puntaje_previo,10.234582262350122,0.61715688003817981,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HI_10,cambio_previo,-0.2970809321462739,-0.14813054343309306,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HI_10,ipm,-3.5728612342606625,-0.24883498013460803,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,puntaje_previo,13.773723472895924,0.83057109583377831,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,cambio_previo,-0.065415357655378481,-0.032617416433816361,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Analfabetismo,1.8999748305377422,0.30581780783450008,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Bajo logro educativo,1.5704877273714695,0.13606581396583517,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.077002768934841009,-0.028735634637406533,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Inasistencia escolar,0.91829493290281228,0.30224557474131358,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Rezago escolar,-0.37999936925872912,-0.059383275921743361,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Trabajo infantil,0.1294931596269826,0.15172163533096544,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Desempleo de larga duracion,-0.88205365387414114,-0.15492331896976463,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Trabajo informal,-4.6008879063384525,-0.44457128304682847,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Barreras de acceso a servicios de salud,1.0196291010771266,0.68535724477597848,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Sin aseguramiento en salud,0.95871455605996525,0.20017563586432141,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Hacinamiento critico,-1.018474357340772,-0.17284412110161981,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.72675966135555115,-0.031741590202829316,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Material inadecuado de paredes exteriores,0.78800849235395654,0.091018221628357751,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Material inadecuado de pisos,-0.87856300621144723,-0.05689061911212813,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,0.66356382543604853,0.028358859512165924,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,puntaje_previo,11.584580561109224,0.6985633035503499,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,cambio_previo,-0.17040805732503,-0.084968893676776389,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Analfabetismo,0.3705696586918204,0.059646474705687014,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Bajo logro educativo,0.61075658072561112,0.052915466859782795,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.18424282559743374,-0.068755118733604015,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Inasistencia escolar,0.62398643242996954,0.20537752212614915,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Rezago escolar,-0.48812867225071421,-0.076280862481754044,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Trabajo infantil,0.49115932293997344,0.57547051828191587,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Desempleo de larga duracion,0.19206398085212392,0.033733990259511001,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Trabajo informal,-3.445688610667629,-0.33294751748113222,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Barreras de acceso a servicios de salud,0.88600247166089297,0.59553833075257112,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Sin aseguramiento en salud,1.3209676734751485,0.27581258918276191,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Hacinamiento critico,-0.95253408663333594,-0.16165347299793248,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Inadecuada eliminacion de excretas,-0.92165816542992718,-0.040253879445650613,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Material inadecuado de paredes exteriores,-0.49143634241379486,-0.05676291862849199,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Material inadecuado de pisos,-0.19581196331094614,-0.012679641350207238,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_1,Sin acceso a fuente de agua mejorada,0.1954769705606717,0.0083541382659777647,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,puntaje_previo,6.0159942205089418,0.3627712522391181,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,cambio_previo,-0.070900402051656014,-0.035352370176236901,puntos por punto de historia,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Analfabetismo,-1.2399796440873538,-0.19958572630505453,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Bajo logro educativo,-0.51920964921979595,-0.044983913155595856,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.47361825604133334,-0.17674326977417953,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Inasistencia escolar,0.15868961513500565,0.052230750942228961,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Rezago escolar,-1.5621127584102614,-0.24411454454386905,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Trabajo infantil,0.55719888864680156,0.65284627260321904,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Desempleo de larga duracion,0.68916282855446542,0.12104410229616615,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Trabajo informal,-2.0718373092843225,-0.20019600338097507,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Barreras de acceso a servicios de salud,0.68498821822396583,0.46042393008403654,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Sin aseguramiento en salud,1.9205899497526815,0.40101124155907925,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Hacinamiento critico,-1.1163094672608924,-0.18944760597597249,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.6828891682665836,-0.073501022657564363,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Material inadecuado de paredes exteriores,-1.0941759460065972,-0.12638182166863349,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Material inadecuado de pisos,0.31710018680445279,0.020533559710952637,puntos por punto porcentual,asociación condicional; no causal
+i2024_2022,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.3955722860857551,-0.059642851046274238,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_H_0.1,puntaje_previo,15.919463359576667,0.97172146297432738,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_H_0.1,cambio_previo,0.48451085402547678,0.13963726010391628,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_H_1,puntaje_previo,15.70558569566551,0.95866640503807743,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_H_1,cambio_previo,0.47702719535469246,0.13748045064617337,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_H_10,puntaje_previo,13.845456548496168,0.84512442341586236,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_H_10,cambio_previo,0.4130592466765371,0.11904472518476635,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_I_0.1,ipm,-12.216157933225432,-0.83733489168141906,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_I_1,ipm,-12.052060289346283,-0.82608710955435505,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_I_10,ipm,-10.624842623502644,-0.72826100447554987,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Analfabetismo,-5.0018435533442034,-0.8385372393727214,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Bajo logro educativo,1.6634927274660745,0.14543384268747697,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-1.3593868549233283,-0.51249063308506271,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Inasistencia escolar,-1.8506258781345335,-0.51985719429821864,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Rezago escolar,-0.21669199393384586,-0.03418430629155883,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Trabajo infantil,1.6949612965013927,2.0676241140101914,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Desempleo de larga duracion,1.4035916238125981,0.23341197008172992,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Trabajo informal,-4.8987223676689098,-0.46826341173619102,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Barreras de acceso a servicios de salud,-0.83943075907750153,-0.58192330683398852,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Sin aseguramiento en salud,3.9969782503369569,0.87209161761625831,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Hacinamiento critico,-1.4714598436056989,-0.25650486532000555,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Inadecuada eliminacion de excretas,-3.8398260657847603,-0.1776583814025838,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.6741672411105393,-0.45763702713469179,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Material inadecuado de pisos,4.1267861023071744,0.27555929660208128,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-2.9649291612083801,-0.13114737845025903,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Analfabetismo,-4.6038686342255399,-0.77181848128717012,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Bajo logro educativo,1.2542274456919291,0.10965308956230235,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-1.3592739680185162,-0.5124480745734038,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Inasistencia escolar,-1.6412705161303893,-0.46104741951409539,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Rezago escolar,-0.58828901973344272,-0.092805699340550551,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Trabajo infantil,1.6518647120136341,2.0150520951078739,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Desempleo de larga duracion,1.3474158747824707,0.22407015581788994,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Trabajo informal,-4.5656635137448012,-0.43642668706757848,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Barreras de acceso a servicios de salud,-0.83029052990532592,-0.57558697435203587,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Sin aseguramiento en salud,3.8700216422743625,0.84439124329396931,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Hacinamiento critico,-1.4415483579062125,-0.25129069543000893,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Inadecuada eliminacion de excretas,-3.8543655486129142,-0.1783310840045837,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Material inadecuado de paredes exteriores,-3.2646999531604841,-0.40663570355048578,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Material inadecuado de pisos,3.7794472932445133,0.25236632378131857,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_1,Sin acceso a fuente de agua mejorada,-3.0290247125181815,-0.1339825097696119,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Analfabetismo,-3.1761029131377865,-0.53245979014388889,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Bajo logro educativo,-0.068276508471169797,-0.0059691965154376097,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-1.2964921010506336,-0.48877922811361729,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Inasistencia escolar,-0.79001019454373678,-0.22192085826470923,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Rezago escolar,-1.8188485681231157,-0.28693296610517871,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Trabajo infantil,1.1065535243984945,1.3498460143083342,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Desempleo de larga duracion,1.0300917269271788,0.17130035208807015,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Trabajo informal,-3.015231077348373,-0.28822257835444814,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Barreras de acceso a servicios de salud,-0.57562678599705841,-0.39904499470301424,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Sin aseguramiento en salud,3.2227878809180437,0.70317277710153936,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Hacinamiento critico,-1.4357378810923829,-0.25027781316954284,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Inadecuada eliminacion de excretas,-3.4332235046345372,-0.15884597905661177,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Material inadecuado de paredes exteriores,-2.0369540043899503,-0.25371343050170031,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Material inadecuado de pisos,1.983632318150643,0.13245375765929646,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_D_10,Sin acceso a fuente de agua mejorada,-3.1709158557415074,-0.14025876476501467,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HI_0.1,puntaje_previo,14.599334936363659,0.89114103801001199,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HI_0.1,cambio_previo,0.32761406744381816,0.094419207267024213,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HI_0.1,ipm,-1.8658134562452886,-0.12788887609529997,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HI_1,puntaje_previo,14.248558214850187,0.86972968378861726,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HI_1,cambio_previo,0.30394919545394794,0.087598930986481624,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HI_1,ipm,-2.0873556565396334,-0.14307409351802114,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HI_10,puntaje_previo,11.768810370209499,0.7183662773109657,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HI_10,cambio_previo,0.16748339872254139,0.048269141374648522,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HI_10,ipm,-3.3748836877794597,-0.2313254202009222,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,puntaje_previo,13.898491267327037,0.84836165405653985,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,cambio_previo,-0.082030453602846762,-0.023641385308533547,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Analfabetismo,-1.216444446525722,-0.2039316018506753,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Bajo logro educativo,0.7847748099770373,0.068610348800952431,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.65461472385885489,-0.2467906122839108,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Inasistencia escolar,-1.8896975644284912,-0.53083277691232955,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Rezago escolar,0.80193327937380965,0.12650920945366184,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Trabajo infantil,-0.28389015083070152,-0.34630768431063491,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Desempleo de larga duracion,0.13015525726189336,0.021644326240328936,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Trabajo informal,-0.59458227203715186,-0.056835456750830592,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Barreras de acceso a servicios de salud,-0.24236732907424618,-0.16801766682746158,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Sin aseguramiento en salud,0.5594880546751857,0.1220734294957754,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Hacinamiento critico,-0.2632778482970034,-0.045894591899756934,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.79573932855627849,-0.036816709587285688,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Material inadecuado de paredes exteriores,-1.0756606559354376,-0.13397924277373313,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Material inadecuado de pisos,1.1908659531102965,0.079518098648965183,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,-0.006534883153854169,-0.00028905675228930078,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,puntaje_previo,12.762183911354171,0.77900163723975402,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,cambio_previo,-0.072522786504237088,-0.020901251475411626,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Analfabetismo,-1.3394852878522092,-0.22455886184304907,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Bajo logro educativo,0.72806002351367782,0.063651956620224201,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.6855295817758269,-0.25844555439860217,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Inasistencia escolar,-1.7723068123971415,-0.49785667530875138,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Rezago escolar,0.52285828928437061,0.082483656103298553,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Trabajo infantil,-0.10746165082911963,-0.13108871632895627,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Desempleo de larga duracion,0.19224305385911308,0.031969291619094758,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Trabajo informal,-0.8931542363388606,-0.085375618074409354,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Barreras de acceso a servicios de salud,-0.29828273581321091,-0.20678021875999289,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Sin aseguramiento en salud,0.77513808710622845,0.1691256208870926,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Hacinamiento critico,-0.33613083714787462,-0.058594324192526255,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Inadecuada eliminacion de excretas,-1.053178127505362,-0.04872770751999337,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Material inadecuado de paredes exteriores,-1.0771217510155235,-0.13416122991937257,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Material inadecuado de pisos,1.2902976748273722,0.086157486932494837,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_1,Sin acceso a fuente de agua mejorada,-0.31480732908593489,-0.013924837215915758,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,puntaje_previo,7.978085630256408,0.48698105364861816,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,cambio_previo,-0.01946921728502286,-0.0056110779262448628,puntos por punto de historia,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Analfabetismo,-1.6744901027942385,-0.28072095681905868,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Bajo logro educativo,0.11261969214192577,0.009845979077666241,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.85190830796139616,-0.32117055310365283,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Inasistencia escolar,-1.0577087564780077,-0.29711975447008326,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Rezago escolar,-0.76184975612309569,-0.12018582199862948,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Trabajo infantil,0.35530363384607949,0.43342249917563108,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Desempleo de larga duracion,0.43633378131212619,0.072560654952207163,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Trabajo informal,-1.4803314553075912,-0.14150323405500326,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Barreras de acceso a servicios de salud,-0.38103032514244783,-0.26414379555806999,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Sin aseguramiento en salud,1.512579158484588,0.33002621542517985,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Hacinamiento critico,-0.7269391004833724,-0.1267200167749187,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.8424763482361033,-0.085246404444434501,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Material inadecuado de paredes exteriores,-1.0548593704943017,-0.13138833228839977,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Material inadecuado de pisos,1.1566984211297995,0.07723661837696584,puntos por punto porcentual,asociación condicional; no causal
+i2024_2023,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.517123072117706,-0.067106734386041783,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_H_0.1,puntaje_previo,16.212310163159362,0.97959538484828967,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_H_0.1,cambio_previo,0.012732943842358383,0.0024884553129452158,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_H_1,puntaje_previo,16.064025747614483,0.97063560504819835,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_H_1,cambio_previo,0.03143663549399927,0.0061438001757239506,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_H_10,puntaje_previo,14.71971771579558,0.88940856642561261,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_H_10,cambio_previo,0.18535628671493509,0.036224995741294695,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_I_0.1,ipm,-12.494694188528516,-0.85077993746583569,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_I_1,ipm,-12.382241940831758,-0.84312291802864303,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_I_10,ipm,-11.359854991588767,-0.77350726424646132,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Analfabetismo,-5.5310131739171817,-0.91774437727546543,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Bajo logro educativo,1.3656758814452945,0.11777028866944302,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-1.9643338430933439,-0.7644399676893493,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Inasistencia escolar,-1.8591785471284703,-0.55238061845184405,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Rezago escolar,-0.2660615230480684,-0.044082677581246586,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Trabajo infantil,1.4399371550155113,1.6160316505361627,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Desempleo de larga duracion,1.3564553505328001,0.20819141126528659,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Trabajo informal,-3.336221255478609,-0.30969807780852182,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Barreras de acceso a servicios de salud,-1.3188343842540791,-0.89525091551177627,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Sin aseguramiento en salud,4.2815704774990282,0.90640485051051167,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Hacinamiento critico,-1.8102470891634359,-0.32463310203625151,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Inadecuada eliminacion de excretas,-3.0195698033129741,-0.14060926004058349,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.9323842561399309,-0.52085324284016155,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Material inadecuado de pisos,3.8193675447466591,0.25581293703532443,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-3.6562613912499873,-0.1623048499847185,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Analfabetismo,-5.1462964011485646,-0.85390948049435578,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Bajo logro educativo,1.1673832783976512,0.10067034759321797,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-1.8948518615789727,-0.73740036650822061,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Inasistencia escolar,-1.7092342092961146,-0.50783064976103942,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Rezago escolar,-0.56481210271387361,-0.093581475189192645,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Trabajo infantil,1.4263827283110535,1.6008196098696792,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Desempleo de larga duracion,1.2752288383388009,0.19572460784327686,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Trabajo informal,-3.2818730683950563,-0.30465299003308904,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Barreras de acceso a servicios de salud,-1.3050168872574377,-0.88587132472766061,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Sin aseguramiento en salud,4.1520414025141452,0.87898365483816632,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Hacinamiento critico,-1.7485408717721509,-0.31356727522919753,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Inadecuada eliminacion de excretas,-3.1509901736651029,-0.14672897981298214,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Material inadecuado de paredes exteriores,-3.6041380639344038,-0.47737628776049507,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Material inadecuado de pisos,3.5761669976652861,0.23952389297014784,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_1,Sin acceso a fuente de agua mejorada,-3.683758184284351,-0.16352545824844483,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Analfabetismo,-3.5658394307774222,-0.59166900981099102,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Bajo logro educativo,0.20767370341564373,0.017908928708932736,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-1.5732361083375257,-0.61224041119781636,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Inasistencia escolar,-0.96902254466803373,-0.2879063301070463,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Rezago escolar,-1.7257121267380806,-0.28592639179660007,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Trabajo infantil,1.1588263745416549,1.300542938427903,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Desempleo de larga duracion,0.90769774024926209,0.13931521849987782,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Trabajo informal,-2.6808324621760247,-0.24885899252011554,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Barreras de acceso a servicios de salud,-1.0625844906766257,-0.72130340962022987,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Sin aseguramiento en salud,3.4598629644709131,0.73245006466177587,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Hacinamiento critico,-1.599630327006929,-0.28686302454296558,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Inadecuada eliminacion de excretas,-3.3310304727088855,-0.15511273474332238,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Material inadecuado de paredes exteriores,-2.415880411532322,-0.31998885782739178,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Material inadecuado de pisos,2.2177062605240705,0.1485371453099886,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_D_10,Sin acceso a fuente de agua mejorada,-3.7104463134118153,-0.16471016916784795,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HI_0.1,puntaje_previo,14.94375619990762,0.90294562948793144,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HI_0.1,cambio_previo,-0.033036765672491405,-0.0064565206662382021,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HI_0.1,ipm,-1.7761420430763735,-0.1209398160161709,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HI_1,puntaje_previo,14.693505803262875,0.88782476570340385,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HI_1,cambio_previo,-0.019615535692667926,-0.0038335505610495989,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HI_1,ipm,-1.9365408491565468,-0.13186157881783864,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HI_10,puntaje_previo,12.754023815268257,0.77063556901795927,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HI_10,cambio_previo,0.091264532444350926,0.01783622966191779,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HI_10,ipm,-3.0300452645782538,-0.20631971313738368,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,puntaje_previo,13.900708582849335,0.8399216297269877,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HD_0.1,cambio_previo,-0.18576458656389799,-0.036304791579633858,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Analfabetismo,-0.55998411172629958,-0.092916479086314799,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Bajo logro educativo,0.3036747095767689,0.026187661870850688,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.44184736810639719,-0.17194927887969391,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Inasistencia escolar,-1.6297423163693519,-0.48421281001960514,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Rezago escolar,-0.16559388730649793,-0.0274365938371284,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Trabajo infantil,0.59005517218654946,0.66221489632008101,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Desempleo de larga duracion,0.00217080581466738,0.0003331795078702546,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Trabajo informal,-0.45234690366408004,-0.041990910026530888,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Barreras de acceso a servicios de salud,-0.61508258402359284,-0.41753024719166315,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Sin aseguramiento en salud,0.80292123143936767,0.16997774591804116,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Hacinamiento critico,-0.55054639062760757,-0.098729937848924282,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.067607644950297863,-0.003148216980815583,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Material inadecuado de paredes exteriores,-0.45375441910072623,-0.06010080532507784,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Material inadecuado de pisos,0.6915761742130776,0.04632026905932024,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,-0.69219088783326832,-0.030726998479766617,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,puntaje_previo,13.140905812143247,0.79401211528468674,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HD_1,cambio_previo,-0.094938703701004823,-0.018554289137989236,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HD_1,Analfabetismo,-0.74279640431669502,-0.12324997285068616,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Bajo logro educativo,0.32737319029060802,0.028231321682534827,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.48889352140889508,-0.19025775533186115,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Inasistencia escolar,-1.5464222698807373,-0.45945758740803688,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Rezago escolar,-0.26627233388834387,-0.044117605992525413,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Trabajo infantil,0.63166536889992486,0.70891373636294808,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Desempleo de larga duracion,0.041807426130018102,0.0064166852554040036,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Trabajo informal,-0.61578735179630395,-0.057162923135551047,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Barreras de acceso a servicios de salud,-0.65150578589326646,-0.44225503842323111,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Sin aseguramiento en salud,0.94654351718382568,0.20038246239399762,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Hacinamiento critico,-0.59169858851155666,-0.10610979540243085,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Inadecuada eliminacion de excretas,-0.29817469173801692,-0.013884799987770332,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Material inadecuado de paredes exteriores,-0.57086103714717673,-0.075611843360666869,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Material inadecuado de pisos,0.79270072332218888,0.053093371571948565,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_1,Sin acceso a fuente de agua mejorada,-0.83002245895461724,-0.036845470350389792,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,puntaje_previo,9.173255947596985,0.55427506011561367,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HD_10,cambio_previo,0.34344266206087648,0.067120512560050721,puntos por punto de historia,asociación condicional; no causal
+e2024,Ridge_HD_10,Analfabetismo,-1.402189634301819,-0.23266110788216757,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Bajo logro educativo,0.1549920958090778,0.013365882866437842,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.70962700425119907,-0.27615837608694027,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Inasistencia escolar,-0.97508992927070437,-0.28970901100845026,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Rezago escolar,-0.93660853109277353,-0.15518294950355638,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Trabajo infantil,0.73838382645615852,0.82868313359432644,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Desempleo de larga duracion,0.20764659564857674,0.031870004254492539,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Trabajo informal,-1.1764758723853181,-0.10921107695345807,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Barreras de acceso a servicios de salud,-0.72790747934588029,-0.49411802199928362,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Sin aseguramiento en salud,1.5474492188140547,0.32759369143236988,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Hacinamiento critico,-0.8470042804700546,-0.15189397549814376,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.3383332546599236,-0.06232081418318941,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Material inadecuado de paredes exteriores,-0.98410105524930813,-0.13034642408322866,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Material inadecuado de pisos,0.96788301906922392,0.064826700995370787,puntos por punto porcentual,asociación condicional; no causal
+e2024,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.6146996163938772,-0.071678020514718763,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_H_0.1,puntaje_previo,15.912508634435769,0.95954225885072264,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_H_0.1,cambio_previo,-0.86736199108182432,-0.43248417918959237,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_H_1,puntaje_previo,15.480765414566724,0.93350765463124052,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_H_1,cambio_previo,-0.78748675887653707,-0.39265677772046009,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_H_10,puntaje_previo,12.187644736719884,0.73492875506973687,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_H_10,cambio_previo,-0.27940309222608267,-0.1393160159735797,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_I_0.1,ipm,-11.892365801505404,-0.82825399979001657,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_I_1,ipm,-11.577567883230261,-0.80632962920733964,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_I_10,ipm,-9.1543560006936939,-0.6375629626290592,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Analfabetismo,-3.2170574127316254,-0.51781393617770388,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Bajo logro educativo,0.93345751499008933,0.080874020449833203,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-0.14360955674929032,-0.053591731963294587,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Inasistencia escolar,0.111707073911745,0.03676702064596829,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Rezago escolar,-2.152236488659518,-0.33633438261812676,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Trabajo infantil,2.0581393659097329,2.4114344822102414,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Desempleo de larga duracion,2.0016789380667288,0.35157356157998554,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Trabajo informal,-6.2372289844127762,-0.60268647024352739,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Barreras de acceso a servicios de salud,-0.3451967195244342,-0.2320285605315191,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Sin aseguramiento en salud,4.0848683661423681,0.8529036275146068,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Hacinamiento critico,-0.99946904921556634,-0.16961875194481194,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Inadecuada eliminacion de excretas,-4.7338383018450925,-0.20675274571976165,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.2986649021424315,-0.38100936227730919,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Material inadecuado de pisos,2.2708094851278444,0.14704438564025293,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-1.1004688844782695,-0.047030958132658028,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Analfabetismo,-3.0603049260210278,-0.49258323254523839,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Bajo logro educativo,0.2370511763451513,0.02053792633893823,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-0.2377612583380049,-0.088726947680443743,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Inasistencia escolar,0.022851774470743505,0.0075213827946709732,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Rezago escolar,-2.2955946798467912,-0.35873725933742889,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Trabajo infantil,1.929664493357103,2.2609059305958383,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Desempleo de larga duracion,1.8545208798197541,0.32572681779446483,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Trabajo informal,-5.2588492924552277,-0.50814830199967553,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Barreras de acceso a servicios de salud,-0.13336449233832157,-0.089642715104328252,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Sin aseguramiento en salud,3.8696463811086179,0.80796616679306776,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Hacinamiento critico,-1.2004528744414589,-0.20372748760067455,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Inadecuada eliminacion de excretas,-4.1683008762088853,-0.18205261696546998,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Material inadecuado de paredes exteriores,-2.774508970649832,-0.32046719654772665,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Material inadecuado de pisos,2.0827572495077211,0.13486721902361784,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_1,Sin acceso a fuente de agua mejorada,-1.7451662101032153,-0.074583516280704559,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Analfabetismo,-2.2860674980590288,-0.36796284855007433,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Bajo logro educativo,-0.79084499638340733,-0.068518184687643771,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-0.68645668962876127,-0.25616960143689654,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Inasistencia escolar,0.057174513110228205,0.018818293509395418,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Rezago escolar,-2.4877891323805224,-0.38877187815193576,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Trabajo infantil,0.87494811737748168,1.0251395485341148,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Desempleo de larga duracion,1.1312422084650362,0.19869063148747726,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Trabajo informal,-2.7822981345491393,-0.26884590032963884,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Barreras de acceso a servicios de salud,0.48735835813928424,0.32758439436461217,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Sin aseguramiento en salud,3.0226622315148117,0.63111937789197492,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Hacinamiento critico,-1.5565281225100367,-0.26415661166733184,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Inadecuada eliminacion de excretas,-2.9670874185090863,-0.12958902088569638,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Material inadecuado de paredes exteriores,-1.6790429484594365,-0.19393636577430082,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Material inadecuado de pisos,0.76712916677290099,0.04967481322128163,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_D_10,Sin acceso a fuente de agua mejorada,-2.5684966201211328,-0.10977035217316587,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HI_0.1,puntaje_previo,14.973212450712472,0.90290163715080718,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HI_0.1,cambio_previo,-0.84615483298580441,-0.42190986251857759,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HI_0.1,ipm,-1.3174154674515539,-0.09175252834586195,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HI_1,puntaje_previo,14.246770947072184,0.85909639328011733,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HI_1,cambio_previo,-0.7641276292799658,-0.38100944466456255,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HI_1,ipm,-1.7788077737315551,-0.12388659061128407,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HI_10,puntaje_previo,10.234582262350122,0.61715688003817981,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HI_10,cambio_previo,-0.2970809321462739,-0.14813054343309306,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HI_10,ipm,-3.5728612342606625,-0.24883498013460803,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,puntaje_previo,13.773723472895924,0.83057109583377831,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,cambio_previo,-0.065415357655378481,-0.032617416433816361,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Analfabetismo,1.8999748305377422,0.30581780783450008,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Bajo logro educativo,1.5704877273714695,0.13606581396583517,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.077002768934841009,-0.028735634637406533,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Inasistencia escolar,0.91829493290281228,0.30224557474131358,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Rezago escolar,-0.37999936925872912,-0.059383275921743361,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Trabajo infantil,0.1294931596269826,0.15172163533096544,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Desempleo de larga duracion,-0.88205365387414114,-0.15492331896976463,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Trabajo informal,-4.6008879063384525,-0.44457128304682847,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Barreras de acceso a servicios de salud,1.0196291010771266,0.68535724477597848,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Sin aseguramiento en salud,0.95871455605996525,0.20017563586432141,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Hacinamiento critico,-1.018474357340772,-0.17284412110161981,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.72675966135555115,-0.031741590202829316,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Material inadecuado de paredes exteriores,0.78800849235395654,0.091018221628357751,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Material inadecuado de pisos,-0.87856300621144723,-0.05689061911212813,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,0.66356382543604853,0.028358859512165924,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,puntaje_previo,11.584580561109224,0.6985633035503499,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,cambio_previo,-0.17040805732503,-0.084968893676776389,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Analfabetismo,0.3705696586918204,0.059646474705687014,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Bajo logro educativo,0.61075658072561112,0.052915466859782795,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.18424282559743374,-0.068755118733604015,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Inasistencia escolar,0.62398643242996954,0.20537752212614915,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Rezago escolar,-0.48812867225071421,-0.076280862481754044,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Trabajo infantil,0.49115932293997344,0.57547051828191587,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Desempleo de larga duracion,0.19206398085212392,0.033733990259511001,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Trabajo informal,-3.445688610667629,-0.33294751748113222,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Barreras de acceso a servicios de salud,0.88600247166089297,0.59553833075257112,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Sin aseguramiento en salud,1.3209676734751485,0.27581258918276191,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Hacinamiento critico,-0.95253408663333594,-0.16165347299793248,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Inadecuada eliminacion de excretas,-0.92165816542992718,-0.040253879445650613,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Material inadecuado de paredes exteriores,-0.49143634241379486,-0.05676291862849199,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Material inadecuado de pisos,-0.19581196331094614,-0.012679641350207238,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_1,Sin acceso a fuente de agua mejorada,0.1954769705606717,0.0083541382659777647,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,puntaje_previo,6.0159942205089418,0.3627712522391181,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,cambio_previo,-0.070900402051656014,-0.035352370176236901,puntos por punto de historia,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Analfabetismo,-1.2399796440873538,-0.19958572630505453,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Bajo logro educativo,-0.51920964921979595,-0.044983913155595856,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.47361825604133334,-0.17674326977417953,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Inasistencia escolar,0.15868961513500565,0.052230750942228961,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Rezago escolar,-1.5621127584102614,-0.24411454454386905,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Trabajo infantil,0.55719888864680156,0.65284627260321904,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Desempleo de larga duracion,0.68916282855446542,0.12104410229616615,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Trabajo informal,-2.0718373092843225,-0.20019600338097507,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Barreras de acceso a servicios de salud,0.68498821822396583,0.46042393008403654,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Sin aseguramiento en salud,1.9205899497526815,0.40101124155907925,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Hacinamiento critico,-1.1163094672608924,-0.18944760597597249,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.6828891682665836,-0.073501022657564363,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Material inadecuado de paredes exteriores,-1.0941759460065972,-0.12638182166863349,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Material inadecuado de pisos,0.31710018680445279,0.020533559710952637,puntos por punto porcentual,asociación condicional; no causal
+i2025_2022,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.3955722860857551,-0.059642851046274238,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_H_0.1,puntaje_previo,15.919463359576667,0.97172146297432738,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_H_0.1,cambio_previo,0.48451085402547678,0.13963726010391628,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_H_1,puntaje_previo,15.70558569566551,0.95866640503807743,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_H_1,cambio_previo,0.47702719535469246,0.13748045064617337,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_H_10,puntaje_previo,13.845456548496168,0.84512442341586236,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_H_10,cambio_previo,0.4130592466765371,0.11904472518476635,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_I_0.1,ipm,-12.216157933225432,-0.83733489168141906,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_I_1,ipm,-12.052060289346283,-0.82608710955435505,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_I_10,ipm,-10.624842623502644,-0.72826100447554987,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Analfabetismo,-5.0018435533442034,-0.8385372393727214,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Bajo logro educativo,1.6634927274660745,0.14543384268747697,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-1.3593868549233283,-0.51249063308506271,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Inasistencia escolar,-1.8506258781345335,-0.51985719429821864,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Rezago escolar,-0.21669199393384586,-0.03418430629155883,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Trabajo infantil,1.6949612965013927,2.0676241140101914,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Desempleo de larga duracion,1.4035916238125981,0.23341197008172992,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Trabajo informal,-4.8987223676689098,-0.46826341173619102,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Barreras de acceso a servicios de salud,-0.83943075907750153,-0.58192330683398852,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Sin aseguramiento en salud,3.9969782503369569,0.87209161761625831,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Hacinamiento critico,-1.4714598436056989,-0.25650486532000555,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Inadecuada eliminacion de excretas,-3.8398260657847603,-0.1776583814025838,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.6741672411105393,-0.45763702713469179,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Material inadecuado de pisos,4.1267861023071744,0.27555929660208128,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-2.9649291612083801,-0.13114737845025903,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Analfabetismo,-4.6038686342255399,-0.77181848128717012,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Bajo logro educativo,1.2542274456919291,0.10965308956230235,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-1.3592739680185162,-0.5124480745734038,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Inasistencia escolar,-1.6412705161303893,-0.46104741951409539,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Rezago escolar,-0.58828901973344272,-0.092805699340550551,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Trabajo infantil,1.6518647120136341,2.0150520951078739,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Desempleo de larga duracion,1.3474158747824707,0.22407015581788994,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Trabajo informal,-4.5656635137448012,-0.43642668706757848,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Barreras de acceso a servicios de salud,-0.83029052990532592,-0.57558697435203587,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Sin aseguramiento en salud,3.8700216422743625,0.84439124329396931,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Hacinamiento critico,-1.4415483579062125,-0.25129069543000893,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Inadecuada eliminacion de excretas,-3.8543655486129142,-0.1783310840045837,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Material inadecuado de paredes exteriores,-3.2646999531604841,-0.40663570355048578,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Material inadecuado de pisos,3.7794472932445133,0.25236632378131857,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_1,Sin acceso a fuente de agua mejorada,-3.0290247125181815,-0.1339825097696119,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Analfabetismo,-3.1761029131377865,-0.53245979014388889,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Bajo logro educativo,-0.068276508471169797,-0.0059691965154376097,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-1.2964921010506336,-0.48877922811361729,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Inasistencia escolar,-0.79001019454373678,-0.22192085826470923,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Rezago escolar,-1.8188485681231157,-0.28693296610517871,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Trabajo infantil,1.1065535243984945,1.3498460143083342,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Desempleo de larga duracion,1.0300917269271788,0.17130035208807015,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Trabajo informal,-3.015231077348373,-0.28822257835444814,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Barreras de acceso a servicios de salud,-0.57562678599705841,-0.39904499470301424,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Sin aseguramiento en salud,3.2227878809180437,0.70317277710153936,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Hacinamiento critico,-1.4357378810923829,-0.25027781316954284,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Inadecuada eliminacion de excretas,-3.4332235046345372,-0.15884597905661177,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Material inadecuado de paredes exteriores,-2.0369540043899503,-0.25371343050170031,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Material inadecuado de pisos,1.983632318150643,0.13245375765929646,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_D_10,Sin acceso a fuente de agua mejorada,-3.1709158557415074,-0.14025876476501467,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HI_0.1,puntaje_previo,14.599334936363659,0.89114103801001199,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HI_0.1,cambio_previo,0.32761406744381816,0.094419207267024213,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HI_0.1,ipm,-1.8658134562452886,-0.12788887609529997,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HI_1,puntaje_previo,14.248558214850187,0.86972968378861726,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HI_1,cambio_previo,0.30394919545394794,0.087598930986481624,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HI_1,ipm,-2.0873556565396334,-0.14307409351802114,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HI_10,puntaje_previo,11.768810370209499,0.7183662773109657,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HI_10,cambio_previo,0.16748339872254139,0.048269141374648522,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HI_10,ipm,-3.3748836877794597,-0.2313254202009222,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,puntaje_previo,13.898491267327037,0.84836165405653985,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,cambio_previo,-0.082030453602846762,-0.023641385308533547,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Analfabetismo,-1.216444446525722,-0.2039316018506753,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Bajo logro educativo,0.7847748099770373,0.068610348800952431,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.65461472385885489,-0.2467906122839108,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Inasistencia escolar,-1.8896975644284912,-0.53083277691232955,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Rezago escolar,0.80193327937380965,0.12650920945366184,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Trabajo infantil,-0.28389015083070152,-0.34630768431063491,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Desempleo de larga duracion,0.13015525726189336,0.021644326240328936,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Trabajo informal,-0.59458227203715186,-0.056835456750830592,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Barreras de acceso a servicios de salud,-0.24236732907424618,-0.16801766682746158,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Sin aseguramiento en salud,0.5594880546751857,0.1220734294957754,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Hacinamiento critico,-0.2632778482970034,-0.045894591899756934,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.79573932855627849,-0.036816709587285688,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Material inadecuado de paredes exteriores,-1.0756606559354376,-0.13397924277373313,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Material inadecuado de pisos,1.1908659531102965,0.079518098648965183,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,-0.006534883153854169,-0.00028905675228930078,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,puntaje_previo,12.762183911354171,0.77900163723975402,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,cambio_previo,-0.072522786504237088,-0.020901251475411626,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Analfabetismo,-1.3394852878522092,-0.22455886184304907,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Bajo logro educativo,0.72806002351367782,0.063651956620224201,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.6855295817758269,-0.25844555439860217,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Inasistencia escolar,-1.7723068123971415,-0.49785667530875138,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Rezago escolar,0.52285828928437061,0.082483656103298553,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Trabajo infantil,-0.10746165082911963,-0.13108871632895627,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Desempleo de larga duracion,0.19224305385911308,0.031969291619094758,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Trabajo informal,-0.8931542363388606,-0.085375618074409354,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Barreras de acceso a servicios de salud,-0.29828273581321091,-0.20678021875999289,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Sin aseguramiento en salud,0.77513808710622845,0.1691256208870926,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Hacinamiento critico,-0.33613083714787462,-0.058594324192526255,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Inadecuada eliminacion de excretas,-1.053178127505362,-0.04872770751999337,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Material inadecuado de paredes exteriores,-1.0771217510155235,-0.13416122991937257,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Material inadecuado de pisos,1.2902976748273722,0.086157486932494837,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_1,Sin acceso a fuente de agua mejorada,-0.31480732908593489,-0.013924837215915758,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,puntaje_previo,7.978085630256408,0.48698105364861816,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,cambio_previo,-0.01946921728502286,-0.0056110779262448628,puntos por punto de historia,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Analfabetismo,-1.6744901027942385,-0.28072095681905868,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Bajo logro educativo,0.11261969214192577,0.009845979077666241,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.85190830796139616,-0.32117055310365283,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Inasistencia escolar,-1.0577087564780077,-0.29711975447008326,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Rezago escolar,-0.76184975612309569,-0.12018582199862948,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Trabajo infantil,0.35530363384607949,0.43342249917563108,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Desempleo de larga duracion,0.43633378131212619,0.072560654952207163,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Trabajo informal,-1.4803314553075912,-0.14150323405500326,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Barreras de acceso a servicios de salud,-0.38103032514244783,-0.26414379555806999,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Sin aseguramiento en salud,1.512579158484588,0.33002621542517985,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Hacinamiento critico,-0.7269391004833724,-0.1267200167749187,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.8424763482361033,-0.085246404444434501,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Material inadecuado de paredes exteriores,-1.0548593704943017,-0.13138833228839977,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Material inadecuado de pisos,1.1566984211297995,0.07723661837696584,puntos por punto porcentual,asociación condicional; no causal
+i2025_2023,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.517123072117706,-0.067106734386041783,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_H_0.1,puntaje_previo,16.212310163159362,0.97959538484828967,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_H_0.1,cambio_previo,0.012732943842358383,0.0024884553129452158,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_H_1,puntaje_previo,16.064025747614483,0.97063560504819835,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_H_1,cambio_previo,0.03143663549399927,0.0061438001757239506,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_H_10,puntaje_previo,14.71971771579558,0.88940856642561261,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_H_10,cambio_previo,0.18535628671493509,0.036224995741294695,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_I_0.1,ipm,-12.494694188528516,-0.85077993746583569,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_I_1,ipm,-12.382241940831758,-0.84312291802864303,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_I_10,ipm,-11.359854991588767,-0.77350726424646132,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Analfabetismo,-5.5310131739171817,-0.91774437727546543,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Bajo logro educativo,1.3656758814452945,0.11777028866944302,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-1.9643338430933439,-0.7644399676893493,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Inasistencia escolar,-1.8591785471284703,-0.55238061845184405,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Rezago escolar,-0.2660615230480684,-0.044082677581246586,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Trabajo infantil,1.4399371550155113,1.6160316505361627,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Desempleo de larga duracion,1.3564553505328001,0.20819141126528659,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Trabajo informal,-3.336221255478609,-0.30969807780852182,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Barreras de acceso a servicios de salud,-1.3188343842540791,-0.89525091551177627,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Sin aseguramiento en salud,4.2815704774990282,0.90640485051051167,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Hacinamiento critico,-1.8102470891634359,-0.32463310203625151,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Inadecuada eliminacion de excretas,-3.0195698033129741,-0.14060926004058349,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.9323842561399309,-0.52085324284016155,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Material inadecuado de pisos,3.8193675447466591,0.25581293703532443,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-3.6562613912499873,-0.1623048499847185,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Analfabetismo,-5.1462964011485646,-0.85390948049435578,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Bajo logro educativo,1.1673832783976512,0.10067034759321797,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-1.8948518615789727,-0.73740036650822061,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Inasistencia escolar,-1.7092342092961146,-0.50783064976103942,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Rezago escolar,-0.56481210271387361,-0.093581475189192645,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Trabajo infantil,1.4263827283110535,1.6008196098696792,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Desempleo de larga duracion,1.2752288383388009,0.19572460784327686,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Trabajo informal,-3.2818730683950563,-0.30465299003308904,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Barreras de acceso a servicios de salud,-1.3050168872574377,-0.88587132472766061,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Sin aseguramiento en salud,4.1520414025141452,0.87898365483816632,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Hacinamiento critico,-1.7485408717721509,-0.31356727522919753,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Inadecuada eliminacion de excretas,-3.1509901736651029,-0.14672897981298214,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Material inadecuado de paredes exteriores,-3.6041380639344038,-0.47737628776049507,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Material inadecuado de pisos,3.5761669976652861,0.23952389297014784,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_1,Sin acceso a fuente de agua mejorada,-3.683758184284351,-0.16352545824844483,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Analfabetismo,-3.5658394307774222,-0.59166900981099102,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Bajo logro educativo,0.20767370341564373,0.017908928708932736,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-1.5732361083375257,-0.61224041119781636,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Inasistencia escolar,-0.96902254466803373,-0.2879063301070463,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Rezago escolar,-1.7257121267380806,-0.28592639179660007,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Trabajo infantil,1.1588263745416549,1.300542938427903,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Desempleo de larga duracion,0.90769774024926209,0.13931521849987782,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Trabajo informal,-2.6808324621760247,-0.24885899252011554,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Barreras de acceso a servicios de salud,-1.0625844906766257,-0.72130340962022987,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Sin aseguramiento en salud,3.4598629644709131,0.73245006466177587,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Hacinamiento critico,-1.599630327006929,-0.28686302454296558,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Inadecuada eliminacion de excretas,-3.3310304727088855,-0.15511273474332238,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Material inadecuado de paredes exteriores,-2.415880411532322,-0.31998885782739178,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Material inadecuado de pisos,2.2177062605240705,0.1485371453099886,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_D_10,Sin acceso a fuente de agua mejorada,-3.7104463134118153,-0.16471016916784795,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HI_0.1,puntaje_previo,14.94375619990762,0.90294562948793144,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HI_0.1,cambio_previo,-0.033036765672491405,-0.0064565206662382021,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HI_0.1,ipm,-1.7761420430763735,-0.1209398160161709,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HI_1,puntaje_previo,14.693505803262875,0.88782476570340385,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HI_1,cambio_previo,-0.019615535692667926,-0.0038335505610495989,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HI_1,ipm,-1.9365408491565468,-0.13186157881783864,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HI_10,puntaje_previo,12.754023815268257,0.77063556901795927,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HI_10,cambio_previo,0.091264532444350926,0.01783622966191779,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HI_10,ipm,-3.0300452645782538,-0.20631971313738368,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,puntaje_previo,13.900708582849335,0.8399216297269877,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,cambio_previo,-0.18576458656389799,-0.036304791579633858,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Analfabetismo,-0.55998411172629958,-0.092916479086314799,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Bajo logro educativo,0.3036747095767689,0.026187661870850688,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-0.44184736810639719,-0.17194927887969391,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Inasistencia escolar,-1.6297423163693519,-0.48421281001960514,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Rezago escolar,-0.16559388730649793,-0.0274365938371284,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Trabajo infantil,0.59005517218654946,0.66221489632008101,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Desempleo de larga duracion,0.00217080581466738,0.0003331795078702546,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Trabajo informal,-0.45234690366408004,-0.041990910026530888,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Barreras de acceso a servicios de salud,-0.61508258402359284,-0.41753024719166315,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Sin aseguramiento en salud,0.80292123143936767,0.16997774591804116,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Hacinamiento critico,-0.55054639062760757,-0.098729937848924282,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Inadecuada eliminacion de excretas,-0.067607644950297863,-0.003148216980815583,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Material inadecuado de paredes exteriores,-0.45375441910072623,-0.06010080532507784,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Material inadecuado de pisos,0.6915761742130776,0.04632026905932024,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,-0.69219088783326832,-0.030726998479766617,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,puntaje_previo,13.140905812143247,0.79401211528468674,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,cambio_previo,-0.094938703701004823,-0.018554289137989236,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Analfabetismo,-0.74279640431669502,-0.12324997285068616,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Bajo logro educativo,0.32737319029060802,0.028231321682534827,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-0.48889352140889508,-0.19025775533186115,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Inasistencia escolar,-1.5464222698807373,-0.45945758740803688,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Rezago escolar,-0.26627233388834387,-0.044117605992525413,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Trabajo infantil,0.63166536889992486,0.70891373636294808,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Desempleo de larga duracion,0.041807426130018102,0.0064166852554040036,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Trabajo informal,-0.61578735179630395,-0.057162923135551047,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Barreras de acceso a servicios de salud,-0.65150578589326646,-0.44225503842323111,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Sin aseguramiento en salud,0.94654351718382568,0.20038246239399762,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Hacinamiento critico,-0.59169858851155666,-0.10610979540243085,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Inadecuada eliminacion de excretas,-0.29817469173801692,-0.013884799987770332,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Material inadecuado de paredes exteriores,-0.57086103714717673,-0.075611843360666869,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Material inadecuado de pisos,0.79270072332218888,0.053093371571948565,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_1,Sin acceso a fuente de agua mejorada,-0.83002245895461724,-0.036845470350389792,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,puntaje_previo,9.173255947596985,0.55427506011561367,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,cambio_previo,0.34344266206087648,0.067120512560050721,puntos por punto de historia,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Analfabetismo,-1.402189634301819,-0.23266110788216757,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Bajo logro educativo,0.1549920958090778,0.013365882866437842,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-0.70962700425119907,-0.27615837608694027,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Inasistencia escolar,-0.97508992927070437,-0.28970901100845026,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Rezago escolar,-0.93660853109277353,-0.15518294950355638,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Trabajo infantil,0.73838382645615852,0.82868313359432644,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Desempleo de larga duracion,0.20764659564857674,0.031870004254492539,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Trabajo informal,-1.1764758723853181,-0.10921107695345807,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Barreras de acceso a servicios de salud,-0.72790747934588029,-0.49411802199928362,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Sin aseguramiento en salud,1.5474492188140547,0.32759369143236988,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Hacinamiento critico,-0.8470042804700546,-0.15189397549814376,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Inadecuada eliminacion de excretas,-1.3383332546599236,-0.06232081418318941,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Material inadecuado de paredes exteriores,-0.98410105524930813,-0.13034642408322866,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Material inadecuado de pisos,0.96788301906922392,0.064826700995370787,puntos por punto porcentual,asociación condicional; no causal
+i2025_2024,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.6146996163938772,-0.071678020514718763,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_H_0.1,puntaje_previo,16.586630590120908,0.99176699457183504,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_H_0.1,cambio_previo,-0.11059421583868854,-0.022453919444841767,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_H_1,puntaje_previo,16.471477947895306,0.9848816546423913,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_H_1,cambio_previo,-0.091903439116666208,-0.018659135136321007,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_H_10,puntaje_previo,15.403924162683319,0.92104924435563396,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_H_10,cambio_previo,0.069718596045967293,0.014154951301494547,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_I_0.1,ipm,-12.359375933989217,-0.84790173826386972,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_I_1,ipm,-12.275741059247936,-0.8421640573282495,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_I_10,ipm,-11.497701132957575,-0.78878746214547324,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Analfabetismo,-4.6691410445491046,-0.74879337391477818,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Bajo logro educativo,1.3466268972585607,0.11471430156660374,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Barreras a servicios para cuidado de la primera infancia,-3.9757593249962522,-1.5666533603478587,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Inasistencia escolar,-0.16454935079631572,-0.044584873185796702,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Rezago escolar,-1.1731628007686403,-0.193261323253585,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Trabajo infantil,0.55777736296166902,0.64560633459115924,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Desempleo de larga duracion,0.5087444763272212,0.085362669796182025,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Trabajo informal,-3.4957414358885592,-0.32217511527004128,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Barreras de acceso a servicios de salud,-1.4717609165560803,-0.88581234546878862,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Sin aseguramiento en salud,3.4671777586108008,0.74841192369576914,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Hacinamiento critico,-0.72048391024293734,-0.13462142900675925,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Inadecuada eliminacion de excretas,-3.3712549963445051,-0.15530459994611873,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Material inadecuado de paredes exteriores,-3.4115385768669788,-0.47133690619369123,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Material inadecuado de pisos,4.2423956547690942,0.27798332950860621,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_0.1,Sin acceso a fuente de agua mejorada,-3.9518480727485485,-0.17621656831245083,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Analfabetismo,-4.430390561032949,-0.71050479398752286,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Bajo logro educativo,1.1883522209502031,0.10123145120518891,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Barreras a servicios para cuidado de la primera infancia,-3.8675691514481945,-1.5240208755593481,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Inasistencia escolar,-0.11398422180850651,-0.030884181857421047,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Rezago escolar,-1.3078109025774944,-0.215442618391918,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Trabajo infantil,0.5690971603287972,0.65870857460983223,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Desempleo de larga duracion,0.48427603397431485,0.081257088974790212,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Trabajo informal,-3.4400576421241444,-0.31704317602231957,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Barreras de acceso a servicios de salud,-1.4511732239261557,-0.87342118051043505,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Sin aseguramiento en salud,3.4082563236021803,0.73569336480094472,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Hacinamiento critico,-0.76423738950189668,-0.14279670650861576,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Inadecuada eliminacion de excretas,-3.4350786205558927,-0.15824478169920736,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Material inadecuado de paredes exteriores,-3.2218648376839649,-0.44513165264067045,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Material inadecuado de pisos,4.0866852377117668,0.26778039142947851,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_1,Sin acceso a fuente de agua mejorada,-3.9637022604538719,-0.17674515752921971,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Analfabetismo,-3.2638582731554742,-0.52342720535052079,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Bajo logro educativo,0.37251263308703819,0.031733011286429996,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Barreras a servicios para cuidado de la primera infancia,-3.1487916021730178,-1.2407856063027978,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Inasistencia escolar,0.096258650822924077,0.026081413990434572,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Rezago escolar,-1.9343011923656064,-0.31864768279614636,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Trabajo infantil,0.54323825296969841,0.62877786120117896,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Desempleo de larga duracion,0.38944880357882988,0.065345947070362356,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Trabajo informal,-2.93682505722624,-0.27066416915909813,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Barreras de acceso a servicios de salud,-1.2267616447935017,-0.73835403405636879,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Sin aseguramiento en salud,3.0743373445961284,0.66361487248372997,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Hacinamiento critico,-1.0807954670933912,-0.20194514849759815,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Inadecuada eliminacion de excretas,-3.5036171123419306,-0.16140216464985416,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Material inadecuado de paredes exteriores,-2.4436192904721836,-0.3376095360891741,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Material inadecuado de pisos,2.9977273642181625,0.19642633584343963,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_D_10,Sin acceso a fuente de agua mejorada,-3.9208339844915341,-0.17483362137183389,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HI_0.1,puntaje_previo,15.819669611775629,0.94590797695433182,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HI_0.1,cambio_previo,-0.1435757185756045,-0.029150146729501183,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HI_0.1,ipm,-1.0810966667442146,-0.074167478023125788,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HI_1,puntaje_previo,15.613070791691511,0.93355478142353177,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HI_1,cambio_previo,-0.12974970294187294,-0.026343053800375962,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HI_1,ipm,-1.2183911049449967,-0.083586415793621319,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HI_10,puntaje_previo,13.920822084846266,0.83236989007763074,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HI_10,cambio_previo,-0.010621238290801343,-0.0021564276863627178,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HI_10,ipm,-2.2498195891880184,-0.15434646139426106,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,puntaje_previo,15.605614801047892,0.93310896420996337,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HD_0.1,cambio_previo,-0.40527118582054328,-0.082282120187940261,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Analfabetismo,0.094684334730013586,0.015184592151512044,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Bajo logro educativo,0.21471498695523114,0.018290797409880113,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Barreras a servicios para cuidado de la primera infancia,-1.2625024913004443,-0.49749082093777119,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Inasistencia escolar,-1.3713590374485998,-0.3715716195837524,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Rezago escolar,-0.18587351206927791,-0.030619928348191862,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Trabajo infantil,0.17007639662234433,0.19685703708160288,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Desempleo de larga duracion,-0.36019251402339347,-0.060437009281373175,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Trabajo informal,-0.088187832361778906,-0.0081275819672713759,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Barreras de acceso a servicios de salud,-0.53780442749605284,-0.32368966723110087,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Sin aseguramiento en salud,0.44575193782714462,0.096218333326525671,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Hacinamiento critico,-0.04476809774106609,-0.0083648575716069092,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Inadecuada eliminacion de excretas,0.25954916794931754,0.011956728203124505,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Material inadecuado de paredes exteriores,0.031790523083399247,0.0043921668944366093,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Material inadecuado de pisos,0.91188317314676159,0.059751221060499259,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_0.1,Sin acceso a fuente de agua mejorada,-0.58261276010243901,-0.025979242964391535,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,puntaje_previo,14.960367660703547,0.89452760112609919,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HD_1,cambio_previo,-0.32144557625328712,-0.0652630250176892,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HD_1,Analfabetismo,-0.079857444500511909,-0.012806793525665487,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Bajo logro educativo,0.25339380882825996,0.021585707117696265,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Barreras a servicios para cuidado de la primera infancia,-1.317060558702998,-0.51898950147733736,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Inasistencia escolar,-1.2877259063677811,-0.34891110755301818,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Rezago escolar,-0.25056567437595634,-0.04127701096565374,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Trabajo infantil,0.18615893661111654,0.21547197268590149,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Desempleo de larga duracion,-0.33367350263348144,-0.055987361731505265,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Trabajo informal,-0.23621511788519614,-0.021770097768642731,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Barreras de acceso a servicios de salud,-0.57077875796919031,-0.34353600822853819,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Sin aseguramiento en salud,0.55790561767743507,0.1204274039684493,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Hacinamiento critico,-0.085885251082502168,-0.016047541196905022,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Inadecuada eliminacion de excretas,0.063028893605787395,0.0029035706634791139,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Material inadecuado de paredes exteriores,-0.093107133589450219,-0.012863647091136297,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Material inadecuado de pisos,1.0166149998337459,0.066613782749020231,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_1,Sin acceso a fuente de agua mejorada,-0.68683042518481774,-0.030626405243982958,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,puntaje_previo,11.084999100497507,0.66280708327101945,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HD_10,cambio_previo,0.15102546190815402,0.030662666488380806,puntos por punto de historia,asociación condicional; no causal
+e2025,Ridge_HD_10,Analfabetismo,-0.86861842026567715,-0.1393009359429345,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Bajo logro educativo,0.24439341279672891,0.020818995754153916,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Barreras a servicios para cuidado de la primera infancia,-1.5204823822429008,-0.59914814725179666,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Inasistencia escolar,-0.73803982805470081,-0.19997290770607401,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Rezago escolar,-0.75905001666823568,-0.125042330476935,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Trabajo infantil,0.27528269136441963,0.31862936926033997,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Desempleo de larga duracion,-0.169160352511701,-0.028383559892991114,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Trabajo informal,-0.92923986171261508,-0.085640761781536665,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Barreras de acceso a servicios de salud,-0.69623562704625674,-0.4190450411170959,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Sin aseguramiento en salud,1.1601469524979784,0.25042494874467763,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Hacinamiento critico,-0.41499651189524789,-0.077541528228327952,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Inadecuada eliminacion de excretas,-0.99541237523878812,-0.045855955982416645,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Material inadecuado de paredes exteriores,-0.66704839954897999,-0.092159159816274469,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Material inadecuado de pisos,1.3454060920329411,0.088157846518640059,puntos por punto porcentual,asociación condicional; no causal
+e2025,Ridge_HD_10,Sin acceso a fuente de agua mejorada,-1.3853687250427069,-0.061774875471017246,puntos por punto porcentual,asociación condicional; no causal

@@ -1,0 +1,5 @@
+{
+  "causa": "auditor parcial asumió events para respaldo sinfit; ledger explícitamente registra events_sha=None",
+  "resolucion": "aceptar archivo ausente solo con hashNone y cero eventos; no fabricar contenido ni modificar piloto",
+  "new_fits": 0
+}

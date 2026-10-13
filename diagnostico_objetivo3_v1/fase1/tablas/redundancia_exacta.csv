@@ -1,0 +1,1072 @@
+periodo,entrada_x,entrada_y,n,iguales_exactamente
+global,puntaje_previo,ipm,198,False
+global,puntaje_previo,cambio_ipm,198,False
+global,puntaje_previo,cambio_Analfabetismo,198,False
+global,puntaje_previo,cambio_Bajo logro educativo,198,False
+global,puntaje_previo,cambio_Barreras a servicios para cuidado de la primera infancia,198,False
+global,puntaje_previo,cambio_Inasistencia escolar,198,False
+global,puntaje_previo,cambio_Rezago escolar,198,False
+global,puntaje_previo,cambio_Trabajo infantil,198,False
+global,puntaje_previo,cambio_Desempleo de larga duracion,198,False
+global,puntaje_previo,cambio_Trabajo informal,198,False
+global,puntaje_previo,cambio_Barreras de acceso a servicios de salud,198,False
+global,puntaje_previo,cambio_Sin aseguramiento en salud,198,False
+global,puntaje_previo,cambio_Hacinamiento critico,198,False
+global,puntaje_previo,cambio_Inadecuada eliminacion de excretas,198,False
+global,puntaje_previo,cambio_Material inadecuado de paredes exteriores,198,False
+global,puntaje_previo,cambio_Material inadecuado de pisos,198,False
+global,puntaje_previo,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,ipm,cambio_ipm,198,False
+global,ipm,cambio_Analfabetismo,198,False
+global,ipm,cambio_Bajo logro educativo,198,False
+global,ipm,cambio_Barreras a servicios para cuidado de la primera infancia,198,False
+global,ipm,cambio_Inasistencia escolar,198,False
+global,ipm,cambio_Rezago escolar,198,False
+global,ipm,cambio_Trabajo infantil,198,False
+global,ipm,cambio_Desempleo de larga duracion,198,False
+global,ipm,cambio_Trabajo informal,198,False
+global,ipm,cambio_Barreras de acceso a servicios de salud,198,False
+global,ipm,cambio_Sin aseguramiento en salud,198,False
+global,ipm,cambio_Hacinamiento critico,198,False
+global,ipm,cambio_Inadecuada eliminacion de excretas,198,False
+global,ipm,cambio_Material inadecuado de paredes exteriores,198,False
+global,ipm,cambio_Material inadecuado de pisos,198,False
+global,ipm,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_ipm,cambio_Analfabetismo,198,False
+global,cambio_ipm,cambio_Bajo logro educativo,198,False
+global,cambio_ipm,cambio_Barreras a servicios para cuidado de la primera infancia,198,False
+global,cambio_ipm,cambio_Inasistencia escolar,198,False
+global,cambio_ipm,cambio_Rezago escolar,198,False
+global,cambio_ipm,cambio_Trabajo infantil,198,False
+global,cambio_ipm,cambio_Desempleo de larga duracion,198,False
+global,cambio_ipm,cambio_Trabajo informal,198,False
+global,cambio_ipm,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_ipm,cambio_Sin aseguramiento en salud,198,False
+global,cambio_ipm,cambio_Hacinamiento critico,198,False
+global,cambio_ipm,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_ipm,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_ipm,cambio_Material inadecuado de pisos,198,False
+global,cambio_ipm,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Analfabetismo,cambio_Bajo logro educativo,198,False
+global,cambio_Analfabetismo,cambio_Barreras a servicios para cuidado de la primera infancia,198,False
+global,cambio_Analfabetismo,cambio_Inasistencia escolar,198,False
+global,cambio_Analfabetismo,cambio_Rezago escolar,198,False
+global,cambio_Analfabetismo,cambio_Trabajo infantil,198,False
+global,cambio_Analfabetismo,cambio_Desempleo de larga duracion,198,False
+global,cambio_Analfabetismo,cambio_Trabajo informal,198,False
+global,cambio_Analfabetismo,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Analfabetismo,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Analfabetismo,cambio_Hacinamiento critico,198,False
+global,cambio_Analfabetismo,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Analfabetismo,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Analfabetismo,cambio_Material inadecuado de pisos,198,False
+global,cambio_Analfabetismo,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Bajo logro educativo,cambio_Barreras a servicios para cuidado de la primera infancia,198,False
+global,cambio_Bajo logro educativo,cambio_Inasistencia escolar,198,False
+global,cambio_Bajo logro educativo,cambio_Rezago escolar,198,False
+global,cambio_Bajo logro educativo,cambio_Trabajo infantil,198,False
+global,cambio_Bajo logro educativo,cambio_Desempleo de larga duracion,198,False
+global,cambio_Bajo logro educativo,cambio_Trabajo informal,198,False
+global,cambio_Bajo logro educativo,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Bajo logro educativo,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Bajo logro educativo,cambio_Hacinamiento critico,198,False
+global,cambio_Bajo logro educativo,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Bajo logro educativo,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Bajo logro educativo,cambio_Material inadecuado de pisos,198,False
+global,cambio_Bajo logro educativo,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inasistencia escolar,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Rezago escolar,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo infantil,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Desempleo de larga duracion,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo informal,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Hacinamiento critico,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de pisos,198,False
+global,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Inasistencia escolar,cambio_Rezago escolar,198,False
+global,cambio_Inasistencia escolar,cambio_Trabajo infantil,198,False
+global,cambio_Inasistencia escolar,cambio_Desempleo de larga duracion,198,False
+global,cambio_Inasistencia escolar,cambio_Trabajo informal,198,False
+global,cambio_Inasistencia escolar,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Inasistencia escolar,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Inasistencia escolar,cambio_Hacinamiento critico,198,False
+global,cambio_Inasistencia escolar,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Inasistencia escolar,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Inasistencia escolar,cambio_Material inadecuado de pisos,198,False
+global,cambio_Inasistencia escolar,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Rezago escolar,cambio_Trabajo infantil,198,False
+global,cambio_Rezago escolar,cambio_Desempleo de larga duracion,198,False
+global,cambio_Rezago escolar,cambio_Trabajo informal,198,False
+global,cambio_Rezago escolar,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Rezago escolar,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Rezago escolar,cambio_Hacinamiento critico,198,False
+global,cambio_Rezago escolar,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Rezago escolar,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Rezago escolar,cambio_Material inadecuado de pisos,198,False
+global,cambio_Rezago escolar,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Trabajo infantil,cambio_Desempleo de larga duracion,198,False
+global,cambio_Trabajo infantil,cambio_Trabajo informal,198,False
+global,cambio_Trabajo infantil,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Trabajo infantil,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Trabajo infantil,cambio_Hacinamiento critico,198,False
+global,cambio_Trabajo infantil,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Trabajo infantil,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Trabajo infantil,cambio_Material inadecuado de pisos,198,False
+global,cambio_Trabajo infantil,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Desempleo de larga duracion,cambio_Trabajo informal,198,False
+global,cambio_Desempleo de larga duracion,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Desempleo de larga duracion,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Desempleo de larga duracion,cambio_Hacinamiento critico,198,False
+global,cambio_Desempleo de larga duracion,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Desempleo de larga duracion,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Desempleo de larga duracion,cambio_Material inadecuado de pisos,198,False
+global,cambio_Desempleo de larga duracion,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Trabajo informal,cambio_Barreras de acceso a servicios de salud,198,False
+global,cambio_Trabajo informal,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Trabajo informal,cambio_Hacinamiento critico,198,False
+global,cambio_Trabajo informal,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Trabajo informal,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Trabajo informal,cambio_Material inadecuado de pisos,198,False
+global,cambio_Trabajo informal,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Barreras de acceso a servicios de salud,cambio_Sin aseguramiento en salud,198,False
+global,cambio_Barreras de acceso a servicios de salud,cambio_Hacinamiento critico,198,False
+global,cambio_Barreras de acceso a servicios de salud,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de pisos,198,False
+global,cambio_Barreras de acceso a servicios de salud,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Sin aseguramiento en salud,cambio_Hacinamiento critico,198,False
+global,cambio_Sin aseguramiento en salud,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de pisos,198,False
+global,cambio_Sin aseguramiento en salud,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Hacinamiento critico,cambio_Inadecuada eliminacion de excretas,198,False
+global,cambio_Hacinamiento critico,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Hacinamiento critico,cambio_Material inadecuado de pisos,198,False
+global,cambio_Hacinamiento critico,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de paredes exteriores,198,False
+global,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de pisos,198,False
+global,cambio_Inadecuada eliminacion de excretas,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Material inadecuado de paredes exteriores,cambio_Material inadecuado de pisos,198,False
+global,cambio_Material inadecuado de paredes exteriores,cambio_Sin acceso a fuente de agua mejorada,198,False
+global,cambio_Material inadecuado de pisos,cambio_Sin acceso a fuente de agua mejorada,198,False
+2019,puntaje_previo,ipm,33,False
+2019,puntaje_previo,cambio_ipm,33,False
+2019,puntaje_previo,cambio_Analfabetismo,33,False
+2019,puntaje_previo,cambio_Bajo logro educativo,33,False
+2019,puntaje_previo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2019,puntaje_previo,cambio_Inasistencia escolar,33,False
+2019,puntaje_previo,cambio_Rezago escolar,33,False
+2019,puntaje_previo,cambio_Trabajo infantil,33,False
+2019,puntaje_previo,cambio_Desempleo de larga duracion,33,False
+2019,puntaje_previo,cambio_Trabajo informal,33,False
+2019,puntaje_previo,cambio_Barreras de acceso a servicios de salud,33,False
+2019,puntaje_previo,cambio_Sin aseguramiento en salud,33,False
+2019,puntaje_previo,cambio_Hacinamiento critico,33,False
+2019,puntaje_previo,cambio_Inadecuada eliminacion de excretas,33,False
+2019,puntaje_previo,cambio_Material inadecuado de paredes exteriores,33,False
+2019,puntaje_previo,cambio_Material inadecuado de pisos,33,False
+2019,puntaje_previo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,ipm,cambio_ipm,33,False
+2019,ipm,cambio_Analfabetismo,33,False
+2019,ipm,cambio_Bajo logro educativo,33,False
+2019,ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2019,ipm,cambio_Inasistencia escolar,33,False
+2019,ipm,cambio_Rezago escolar,33,False
+2019,ipm,cambio_Trabajo infantil,33,False
+2019,ipm,cambio_Desempleo de larga duracion,33,False
+2019,ipm,cambio_Trabajo informal,33,False
+2019,ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2019,ipm,cambio_Sin aseguramiento en salud,33,False
+2019,ipm,cambio_Hacinamiento critico,33,False
+2019,ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2019,ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2019,ipm,cambio_Material inadecuado de pisos,33,False
+2019,ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_ipm,cambio_Analfabetismo,33,False
+2019,cambio_ipm,cambio_Bajo logro educativo,33,False
+2019,cambio_ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2019,cambio_ipm,cambio_Inasistencia escolar,33,False
+2019,cambio_ipm,cambio_Rezago escolar,33,False
+2019,cambio_ipm,cambio_Trabajo infantil,33,False
+2019,cambio_ipm,cambio_Desempleo de larga duracion,33,False
+2019,cambio_ipm,cambio_Trabajo informal,33,False
+2019,cambio_ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_ipm,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_ipm,cambio_Hacinamiento critico,33,False
+2019,cambio_ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_ipm,cambio_Material inadecuado de pisos,33,False
+2019,cambio_ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Analfabetismo,cambio_Bajo logro educativo,33,False
+2019,cambio_Analfabetismo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2019,cambio_Analfabetismo,cambio_Inasistencia escolar,33,False
+2019,cambio_Analfabetismo,cambio_Rezago escolar,33,False
+2019,cambio_Analfabetismo,cambio_Trabajo infantil,33,False
+2019,cambio_Analfabetismo,cambio_Desempleo de larga duracion,33,False
+2019,cambio_Analfabetismo,cambio_Trabajo informal,33,False
+2019,cambio_Analfabetismo,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Analfabetismo,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Analfabetismo,cambio_Hacinamiento critico,33,False
+2019,cambio_Analfabetismo,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Analfabetismo,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Analfabetismo,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Analfabetismo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Bajo logro educativo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2019,cambio_Bajo logro educativo,cambio_Inasistencia escolar,33,False
+2019,cambio_Bajo logro educativo,cambio_Rezago escolar,33,False
+2019,cambio_Bajo logro educativo,cambio_Trabajo infantil,33,False
+2019,cambio_Bajo logro educativo,cambio_Desempleo de larga duracion,33,False
+2019,cambio_Bajo logro educativo,cambio_Trabajo informal,33,False
+2019,cambio_Bajo logro educativo,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Bajo logro educativo,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Bajo logro educativo,cambio_Hacinamiento critico,33,False
+2019,cambio_Bajo logro educativo,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Bajo logro educativo,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Bajo logro educativo,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Bajo logro educativo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inasistencia escolar,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Rezago escolar,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo infantil,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Desempleo de larga duracion,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo informal,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Hacinamiento critico,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Inasistencia escolar,cambio_Rezago escolar,33,False
+2019,cambio_Inasistencia escolar,cambio_Trabajo infantil,33,False
+2019,cambio_Inasistencia escolar,cambio_Desempleo de larga duracion,33,False
+2019,cambio_Inasistencia escolar,cambio_Trabajo informal,33,False
+2019,cambio_Inasistencia escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Inasistencia escolar,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Inasistencia escolar,cambio_Hacinamiento critico,33,False
+2019,cambio_Inasistencia escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Inasistencia escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Inasistencia escolar,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Inasistencia escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Rezago escolar,cambio_Trabajo infantil,33,False
+2019,cambio_Rezago escolar,cambio_Desempleo de larga duracion,33,False
+2019,cambio_Rezago escolar,cambio_Trabajo informal,33,False
+2019,cambio_Rezago escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Rezago escolar,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Rezago escolar,cambio_Hacinamiento critico,33,False
+2019,cambio_Rezago escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Rezago escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Rezago escolar,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Rezago escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Trabajo infantil,cambio_Desempleo de larga duracion,33,False
+2019,cambio_Trabajo infantil,cambio_Trabajo informal,33,False
+2019,cambio_Trabajo infantil,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Trabajo infantil,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Trabajo infantil,cambio_Hacinamiento critico,33,False
+2019,cambio_Trabajo infantil,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Trabajo infantil,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Trabajo infantil,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Trabajo infantil,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Trabajo informal,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Hacinamiento critico,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Desempleo de larga duracion,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Trabajo informal,cambio_Barreras de acceso a servicios de salud,33,False
+2019,cambio_Trabajo informal,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Trabajo informal,cambio_Hacinamiento critico,33,False
+2019,cambio_Trabajo informal,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Trabajo informal,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Trabajo informal,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Trabajo informal,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Barreras de acceso a servicios de salud,cambio_Sin aseguramiento en salud,33,False
+2019,cambio_Barreras de acceso a servicios de salud,cambio_Hacinamiento critico,33,False
+2019,cambio_Barreras de acceso a servicios de salud,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Barreras de acceso a servicios de salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Sin aseguramiento en salud,cambio_Hacinamiento critico,33,False
+2019,cambio_Sin aseguramiento en salud,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Sin aseguramiento en salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Hacinamiento critico,cambio_Inadecuada eliminacion de excretas,33,False
+2019,cambio_Hacinamiento critico,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Hacinamiento critico,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Hacinamiento critico,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de paredes exteriores,33,False
+2019,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Inadecuada eliminacion de excretas,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Material inadecuado de paredes exteriores,cambio_Material inadecuado de pisos,33,False
+2019,cambio_Material inadecuado de paredes exteriores,cambio_Sin acceso a fuente de agua mejorada,33,False
+2019,cambio_Material inadecuado de pisos,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,puntaje_previo,ipm,33,False
+2021,puntaje_previo,cambio_ipm,33,False
+2021,puntaje_previo,cambio_Analfabetismo,33,False
+2021,puntaje_previo,cambio_Bajo logro educativo,33,False
+2021,puntaje_previo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2021,puntaje_previo,cambio_Inasistencia escolar,33,False
+2021,puntaje_previo,cambio_Rezago escolar,33,False
+2021,puntaje_previo,cambio_Trabajo infantil,33,False
+2021,puntaje_previo,cambio_Desempleo de larga duracion,33,False
+2021,puntaje_previo,cambio_Trabajo informal,33,False
+2021,puntaje_previo,cambio_Barreras de acceso a servicios de salud,33,False
+2021,puntaje_previo,cambio_Sin aseguramiento en salud,33,False
+2021,puntaje_previo,cambio_Hacinamiento critico,33,False
+2021,puntaje_previo,cambio_Inadecuada eliminacion de excretas,33,False
+2021,puntaje_previo,cambio_Material inadecuado de paredes exteriores,33,False
+2021,puntaje_previo,cambio_Material inadecuado de pisos,33,False
+2021,puntaje_previo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,ipm,cambio_ipm,33,False
+2021,ipm,cambio_Analfabetismo,33,False
+2021,ipm,cambio_Bajo logro educativo,33,False
+2021,ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2021,ipm,cambio_Inasistencia escolar,33,False
+2021,ipm,cambio_Rezago escolar,33,False
+2021,ipm,cambio_Trabajo infantil,33,False
+2021,ipm,cambio_Desempleo de larga duracion,33,False
+2021,ipm,cambio_Trabajo informal,33,False
+2021,ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2021,ipm,cambio_Sin aseguramiento en salud,33,False
+2021,ipm,cambio_Hacinamiento critico,33,False
+2021,ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2021,ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2021,ipm,cambio_Material inadecuado de pisos,33,False
+2021,ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_ipm,cambio_Analfabetismo,33,False
+2021,cambio_ipm,cambio_Bajo logro educativo,33,False
+2021,cambio_ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2021,cambio_ipm,cambio_Inasistencia escolar,33,False
+2021,cambio_ipm,cambio_Rezago escolar,33,False
+2021,cambio_ipm,cambio_Trabajo infantil,33,False
+2021,cambio_ipm,cambio_Desempleo de larga duracion,33,False
+2021,cambio_ipm,cambio_Trabajo informal,33,False
+2021,cambio_ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_ipm,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_ipm,cambio_Hacinamiento critico,33,False
+2021,cambio_ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_ipm,cambio_Material inadecuado de pisos,33,False
+2021,cambio_ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Analfabetismo,cambio_Bajo logro educativo,33,False
+2021,cambio_Analfabetismo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2021,cambio_Analfabetismo,cambio_Inasistencia escolar,33,False
+2021,cambio_Analfabetismo,cambio_Rezago escolar,33,False
+2021,cambio_Analfabetismo,cambio_Trabajo infantil,33,False
+2021,cambio_Analfabetismo,cambio_Desempleo de larga duracion,33,False
+2021,cambio_Analfabetismo,cambio_Trabajo informal,33,False
+2021,cambio_Analfabetismo,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Analfabetismo,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Analfabetismo,cambio_Hacinamiento critico,33,False
+2021,cambio_Analfabetismo,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Analfabetismo,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Analfabetismo,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Analfabetismo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Bajo logro educativo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2021,cambio_Bajo logro educativo,cambio_Inasistencia escolar,33,False
+2021,cambio_Bajo logro educativo,cambio_Rezago escolar,33,False
+2021,cambio_Bajo logro educativo,cambio_Trabajo infantil,33,False
+2021,cambio_Bajo logro educativo,cambio_Desempleo de larga duracion,33,False
+2021,cambio_Bajo logro educativo,cambio_Trabajo informal,33,False
+2021,cambio_Bajo logro educativo,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Bajo logro educativo,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Bajo logro educativo,cambio_Hacinamiento critico,33,False
+2021,cambio_Bajo logro educativo,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Bajo logro educativo,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Bajo logro educativo,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Bajo logro educativo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inasistencia escolar,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Rezago escolar,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo infantil,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Desempleo de larga duracion,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo informal,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Hacinamiento critico,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Inasistencia escolar,cambio_Rezago escolar,33,False
+2021,cambio_Inasistencia escolar,cambio_Trabajo infantil,33,False
+2021,cambio_Inasistencia escolar,cambio_Desempleo de larga duracion,33,False
+2021,cambio_Inasistencia escolar,cambio_Trabajo informal,33,False
+2021,cambio_Inasistencia escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Inasistencia escolar,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Inasistencia escolar,cambio_Hacinamiento critico,33,False
+2021,cambio_Inasistencia escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Inasistencia escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Inasistencia escolar,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Inasistencia escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Rezago escolar,cambio_Trabajo infantil,33,False
+2021,cambio_Rezago escolar,cambio_Desempleo de larga duracion,33,False
+2021,cambio_Rezago escolar,cambio_Trabajo informal,33,False
+2021,cambio_Rezago escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Rezago escolar,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Rezago escolar,cambio_Hacinamiento critico,33,False
+2021,cambio_Rezago escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Rezago escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Rezago escolar,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Rezago escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Trabajo infantil,cambio_Desempleo de larga duracion,33,False
+2021,cambio_Trabajo infantil,cambio_Trabajo informal,33,False
+2021,cambio_Trabajo infantil,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Trabajo infantil,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Trabajo infantil,cambio_Hacinamiento critico,33,False
+2021,cambio_Trabajo infantil,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Trabajo infantil,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Trabajo infantil,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Trabajo infantil,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Trabajo informal,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Hacinamiento critico,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Desempleo de larga duracion,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Trabajo informal,cambio_Barreras de acceso a servicios de salud,33,False
+2021,cambio_Trabajo informal,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Trabajo informal,cambio_Hacinamiento critico,33,False
+2021,cambio_Trabajo informal,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Trabajo informal,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Trabajo informal,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Trabajo informal,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Barreras de acceso a servicios de salud,cambio_Sin aseguramiento en salud,33,False
+2021,cambio_Barreras de acceso a servicios de salud,cambio_Hacinamiento critico,33,False
+2021,cambio_Barreras de acceso a servicios de salud,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Barreras de acceso a servicios de salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Sin aseguramiento en salud,cambio_Hacinamiento critico,33,False
+2021,cambio_Sin aseguramiento en salud,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Sin aseguramiento en salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Hacinamiento critico,cambio_Inadecuada eliminacion de excretas,33,False
+2021,cambio_Hacinamiento critico,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Hacinamiento critico,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Hacinamiento critico,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de paredes exteriores,33,False
+2021,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Inadecuada eliminacion de excretas,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Material inadecuado de paredes exteriores,cambio_Material inadecuado de pisos,33,False
+2021,cambio_Material inadecuado de paredes exteriores,cambio_Sin acceso a fuente de agua mejorada,33,False
+2021,cambio_Material inadecuado de pisos,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,puntaje_previo,ipm,33,False
+2022,puntaje_previo,cambio_ipm,33,False
+2022,puntaje_previo,cambio_Analfabetismo,33,False
+2022,puntaje_previo,cambio_Bajo logro educativo,33,False
+2022,puntaje_previo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2022,puntaje_previo,cambio_Inasistencia escolar,33,False
+2022,puntaje_previo,cambio_Rezago escolar,33,False
+2022,puntaje_previo,cambio_Trabajo infantil,33,False
+2022,puntaje_previo,cambio_Desempleo de larga duracion,33,False
+2022,puntaje_previo,cambio_Trabajo informal,33,False
+2022,puntaje_previo,cambio_Barreras de acceso a servicios de salud,33,False
+2022,puntaje_previo,cambio_Sin aseguramiento en salud,33,False
+2022,puntaje_previo,cambio_Hacinamiento critico,33,False
+2022,puntaje_previo,cambio_Inadecuada eliminacion de excretas,33,False
+2022,puntaje_previo,cambio_Material inadecuado de paredes exteriores,33,False
+2022,puntaje_previo,cambio_Material inadecuado de pisos,33,False
+2022,puntaje_previo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,ipm,cambio_ipm,33,False
+2022,ipm,cambio_Analfabetismo,33,False
+2022,ipm,cambio_Bajo logro educativo,33,False
+2022,ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2022,ipm,cambio_Inasistencia escolar,33,False
+2022,ipm,cambio_Rezago escolar,33,False
+2022,ipm,cambio_Trabajo infantil,33,False
+2022,ipm,cambio_Desempleo de larga duracion,33,False
+2022,ipm,cambio_Trabajo informal,33,False
+2022,ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2022,ipm,cambio_Sin aseguramiento en salud,33,False
+2022,ipm,cambio_Hacinamiento critico,33,False
+2022,ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2022,ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2022,ipm,cambio_Material inadecuado de pisos,33,False
+2022,ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_ipm,cambio_Analfabetismo,33,False
+2022,cambio_ipm,cambio_Bajo logro educativo,33,False
+2022,cambio_ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2022,cambio_ipm,cambio_Inasistencia escolar,33,False
+2022,cambio_ipm,cambio_Rezago escolar,33,False
+2022,cambio_ipm,cambio_Trabajo infantil,33,False
+2022,cambio_ipm,cambio_Desempleo de larga duracion,33,False
+2022,cambio_ipm,cambio_Trabajo informal,33,False
+2022,cambio_ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_ipm,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_ipm,cambio_Hacinamiento critico,33,False
+2022,cambio_ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_ipm,cambio_Material inadecuado de pisos,33,False
+2022,cambio_ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Analfabetismo,cambio_Bajo logro educativo,33,False
+2022,cambio_Analfabetismo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2022,cambio_Analfabetismo,cambio_Inasistencia escolar,33,False
+2022,cambio_Analfabetismo,cambio_Rezago escolar,33,False
+2022,cambio_Analfabetismo,cambio_Trabajo infantil,33,False
+2022,cambio_Analfabetismo,cambio_Desempleo de larga duracion,33,False
+2022,cambio_Analfabetismo,cambio_Trabajo informal,33,False
+2022,cambio_Analfabetismo,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Analfabetismo,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Analfabetismo,cambio_Hacinamiento critico,33,False
+2022,cambio_Analfabetismo,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Analfabetismo,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Analfabetismo,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Analfabetismo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Bajo logro educativo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2022,cambio_Bajo logro educativo,cambio_Inasistencia escolar,33,False
+2022,cambio_Bajo logro educativo,cambio_Rezago escolar,33,False
+2022,cambio_Bajo logro educativo,cambio_Trabajo infantil,33,False
+2022,cambio_Bajo logro educativo,cambio_Desempleo de larga duracion,33,False
+2022,cambio_Bajo logro educativo,cambio_Trabajo informal,33,False
+2022,cambio_Bajo logro educativo,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Bajo logro educativo,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Bajo logro educativo,cambio_Hacinamiento critico,33,False
+2022,cambio_Bajo logro educativo,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Bajo logro educativo,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Bajo logro educativo,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Bajo logro educativo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inasistencia escolar,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Rezago escolar,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo infantil,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Desempleo de larga duracion,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo informal,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Hacinamiento critico,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Inasistencia escolar,cambio_Rezago escolar,33,False
+2022,cambio_Inasistencia escolar,cambio_Trabajo infantil,33,False
+2022,cambio_Inasistencia escolar,cambio_Desempleo de larga duracion,33,False
+2022,cambio_Inasistencia escolar,cambio_Trabajo informal,33,False
+2022,cambio_Inasistencia escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Inasistencia escolar,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Inasistencia escolar,cambio_Hacinamiento critico,33,False
+2022,cambio_Inasistencia escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Inasistencia escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Inasistencia escolar,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Inasistencia escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Rezago escolar,cambio_Trabajo infantil,33,False
+2022,cambio_Rezago escolar,cambio_Desempleo de larga duracion,33,False
+2022,cambio_Rezago escolar,cambio_Trabajo informal,33,False
+2022,cambio_Rezago escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Rezago escolar,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Rezago escolar,cambio_Hacinamiento critico,33,False
+2022,cambio_Rezago escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Rezago escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Rezago escolar,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Rezago escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Trabajo infantil,cambio_Desempleo de larga duracion,33,False
+2022,cambio_Trabajo infantil,cambio_Trabajo informal,33,False
+2022,cambio_Trabajo infantil,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Trabajo infantil,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Trabajo infantil,cambio_Hacinamiento critico,33,False
+2022,cambio_Trabajo infantil,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Trabajo infantil,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Trabajo infantil,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Trabajo infantil,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Trabajo informal,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Hacinamiento critico,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Desempleo de larga duracion,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Trabajo informal,cambio_Barreras de acceso a servicios de salud,33,False
+2022,cambio_Trabajo informal,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Trabajo informal,cambio_Hacinamiento critico,33,False
+2022,cambio_Trabajo informal,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Trabajo informal,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Trabajo informal,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Trabajo informal,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Barreras de acceso a servicios de salud,cambio_Sin aseguramiento en salud,33,False
+2022,cambio_Barreras de acceso a servicios de salud,cambio_Hacinamiento critico,33,False
+2022,cambio_Barreras de acceso a servicios de salud,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Barreras de acceso a servicios de salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Sin aseguramiento en salud,cambio_Hacinamiento critico,33,False
+2022,cambio_Sin aseguramiento en salud,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Sin aseguramiento en salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Hacinamiento critico,cambio_Inadecuada eliminacion de excretas,33,False
+2022,cambio_Hacinamiento critico,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Hacinamiento critico,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Hacinamiento critico,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de paredes exteriores,33,False
+2022,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Inadecuada eliminacion de excretas,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Material inadecuado de paredes exteriores,cambio_Material inadecuado de pisos,33,False
+2022,cambio_Material inadecuado de paredes exteriores,cambio_Sin acceso a fuente de agua mejorada,33,False
+2022,cambio_Material inadecuado de pisos,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,puntaje_previo,ipm,33,False
+2023,puntaje_previo,cambio_ipm,33,False
+2023,puntaje_previo,cambio_Analfabetismo,33,False
+2023,puntaje_previo,cambio_Bajo logro educativo,33,False
+2023,puntaje_previo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2023,puntaje_previo,cambio_Inasistencia escolar,33,False
+2023,puntaje_previo,cambio_Rezago escolar,33,False
+2023,puntaje_previo,cambio_Trabajo infantil,33,False
+2023,puntaje_previo,cambio_Desempleo de larga duracion,33,False
+2023,puntaje_previo,cambio_Trabajo informal,33,False
+2023,puntaje_previo,cambio_Barreras de acceso a servicios de salud,33,False
+2023,puntaje_previo,cambio_Sin aseguramiento en salud,33,False
+2023,puntaje_previo,cambio_Hacinamiento critico,33,False
+2023,puntaje_previo,cambio_Inadecuada eliminacion de excretas,33,False
+2023,puntaje_previo,cambio_Material inadecuado de paredes exteriores,33,False
+2023,puntaje_previo,cambio_Material inadecuado de pisos,33,False
+2023,puntaje_previo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,ipm,cambio_ipm,33,False
+2023,ipm,cambio_Analfabetismo,33,False
+2023,ipm,cambio_Bajo logro educativo,33,False
+2023,ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2023,ipm,cambio_Inasistencia escolar,33,False
+2023,ipm,cambio_Rezago escolar,33,False
+2023,ipm,cambio_Trabajo infantil,33,False
+2023,ipm,cambio_Desempleo de larga duracion,33,False
+2023,ipm,cambio_Trabajo informal,33,False
+2023,ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2023,ipm,cambio_Sin aseguramiento en salud,33,False
+2023,ipm,cambio_Hacinamiento critico,33,False
+2023,ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2023,ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2023,ipm,cambio_Material inadecuado de pisos,33,False
+2023,ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_ipm,cambio_Analfabetismo,33,False
+2023,cambio_ipm,cambio_Bajo logro educativo,33,False
+2023,cambio_ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2023,cambio_ipm,cambio_Inasistencia escolar,33,False
+2023,cambio_ipm,cambio_Rezago escolar,33,False
+2023,cambio_ipm,cambio_Trabajo infantil,33,False
+2023,cambio_ipm,cambio_Desempleo de larga duracion,33,False
+2023,cambio_ipm,cambio_Trabajo informal,33,False
+2023,cambio_ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_ipm,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_ipm,cambio_Hacinamiento critico,33,False
+2023,cambio_ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_ipm,cambio_Material inadecuado de pisos,33,False
+2023,cambio_ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Analfabetismo,cambio_Bajo logro educativo,33,False
+2023,cambio_Analfabetismo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2023,cambio_Analfabetismo,cambio_Inasistencia escolar,33,False
+2023,cambio_Analfabetismo,cambio_Rezago escolar,33,False
+2023,cambio_Analfabetismo,cambio_Trabajo infantil,33,False
+2023,cambio_Analfabetismo,cambio_Desempleo de larga duracion,33,False
+2023,cambio_Analfabetismo,cambio_Trabajo informal,33,False
+2023,cambio_Analfabetismo,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Analfabetismo,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Analfabetismo,cambio_Hacinamiento critico,33,False
+2023,cambio_Analfabetismo,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Analfabetismo,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Analfabetismo,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Analfabetismo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Bajo logro educativo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2023,cambio_Bajo logro educativo,cambio_Inasistencia escolar,33,False
+2023,cambio_Bajo logro educativo,cambio_Rezago escolar,33,False
+2023,cambio_Bajo logro educativo,cambio_Trabajo infantil,33,False
+2023,cambio_Bajo logro educativo,cambio_Desempleo de larga duracion,33,False
+2023,cambio_Bajo logro educativo,cambio_Trabajo informal,33,False
+2023,cambio_Bajo logro educativo,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Bajo logro educativo,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Bajo logro educativo,cambio_Hacinamiento critico,33,False
+2023,cambio_Bajo logro educativo,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Bajo logro educativo,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Bajo logro educativo,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Bajo logro educativo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inasistencia escolar,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Rezago escolar,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo infantil,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Desempleo de larga duracion,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo informal,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Hacinamiento critico,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Inasistencia escolar,cambio_Rezago escolar,33,False
+2023,cambio_Inasistencia escolar,cambio_Trabajo infantil,33,False
+2023,cambio_Inasistencia escolar,cambio_Desempleo de larga duracion,33,False
+2023,cambio_Inasistencia escolar,cambio_Trabajo informal,33,False
+2023,cambio_Inasistencia escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Inasistencia escolar,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Inasistencia escolar,cambio_Hacinamiento critico,33,False
+2023,cambio_Inasistencia escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Inasistencia escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Inasistencia escolar,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Inasistencia escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Rezago escolar,cambio_Trabajo infantil,33,False
+2023,cambio_Rezago escolar,cambio_Desempleo de larga duracion,33,False
+2023,cambio_Rezago escolar,cambio_Trabajo informal,33,False
+2023,cambio_Rezago escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Rezago escolar,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Rezago escolar,cambio_Hacinamiento critico,33,False
+2023,cambio_Rezago escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Rezago escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Rezago escolar,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Rezago escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Trabajo infantil,cambio_Desempleo de larga duracion,33,False
+2023,cambio_Trabajo infantil,cambio_Trabajo informal,33,False
+2023,cambio_Trabajo infantil,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Trabajo infantil,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Trabajo infantil,cambio_Hacinamiento critico,33,False
+2023,cambio_Trabajo infantil,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Trabajo infantil,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Trabajo infantil,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Trabajo infantil,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Trabajo informal,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Hacinamiento critico,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Desempleo de larga duracion,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Trabajo informal,cambio_Barreras de acceso a servicios de salud,33,False
+2023,cambio_Trabajo informal,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Trabajo informal,cambio_Hacinamiento critico,33,False
+2023,cambio_Trabajo informal,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Trabajo informal,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Trabajo informal,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Trabajo informal,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Barreras de acceso a servicios de salud,cambio_Sin aseguramiento en salud,33,False
+2023,cambio_Barreras de acceso a servicios de salud,cambio_Hacinamiento critico,33,False
+2023,cambio_Barreras de acceso a servicios de salud,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Barreras de acceso a servicios de salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Sin aseguramiento en salud,cambio_Hacinamiento critico,33,False
+2023,cambio_Sin aseguramiento en salud,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Sin aseguramiento en salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Hacinamiento critico,cambio_Inadecuada eliminacion de excretas,33,False
+2023,cambio_Hacinamiento critico,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Hacinamiento critico,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Hacinamiento critico,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de paredes exteriores,33,False
+2023,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Inadecuada eliminacion de excretas,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Material inadecuado de paredes exteriores,cambio_Material inadecuado de pisos,33,False
+2023,cambio_Material inadecuado de paredes exteriores,cambio_Sin acceso a fuente de agua mejorada,33,False
+2023,cambio_Material inadecuado de pisos,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,puntaje_previo,ipm,33,False
+2024,puntaje_previo,cambio_ipm,33,False
+2024,puntaje_previo,cambio_Analfabetismo,33,False
+2024,puntaje_previo,cambio_Bajo logro educativo,33,False
+2024,puntaje_previo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2024,puntaje_previo,cambio_Inasistencia escolar,33,False
+2024,puntaje_previo,cambio_Rezago escolar,33,False
+2024,puntaje_previo,cambio_Trabajo infantil,33,False
+2024,puntaje_previo,cambio_Desempleo de larga duracion,33,False
+2024,puntaje_previo,cambio_Trabajo informal,33,False
+2024,puntaje_previo,cambio_Barreras de acceso a servicios de salud,33,False
+2024,puntaje_previo,cambio_Sin aseguramiento en salud,33,False
+2024,puntaje_previo,cambio_Hacinamiento critico,33,False
+2024,puntaje_previo,cambio_Inadecuada eliminacion de excretas,33,False
+2024,puntaje_previo,cambio_Material inadecuado de paredes exteriores,33,False
+2024,puntaje_previo,cambio_Material inadecuado de pisos,33,False
+2024,puntaje_previo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,ipm,cambio_ipm,33,False
+2024,ipm,cambio_Analfabetismo,33,False
+2024,ipm,cambio_Bajo logro educativo,33,False
+2024,ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2024,ipm,cambio_Inasistencia escolar,33,False
+2024,ipm,cambio_Rezago escolar,33,False
+2024,ipm,cambio_Trabajo infantil,33,False
+2024,ipm,cambio_Desempleo de larga duracion,33,False
+2024,ipm,cambio_Trabajo informal,33,False
+2024,ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2024,ipm,cambio_Sin aseguramiento en salud,33,False
+2024,ipm,cambio_Hacinamiento critico,33,False
+2024,ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2024,ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2024,ipm,cambio_Material inadecuado de pisos,33,False
+2024,ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_ipm,cambio_Analfabetismo,33,False
+2024,cambio_ipm,cambio_Bajo logro educativo,33,False
+2024,cambio_ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2024,cambio_ipm,cambio_Inasistencia escolar,33,False
+2024,cambio_ipm,cambio_Rezago escolar,33,False
+2024,cambio_ipm,cambio_Trabajo infantil,33,False
+2024,cambio_ipm,cambio_Desempleo de larga duracion,33,False
+2024,cambio_ipm,cambio_Trabajo informal,33,False
+2024,cambio_ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_ipm,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_ipm,cambio_Hacinamiento critico,33,False
+2024,cambio_ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_ipm,cambio_Material inadecuado de pisos,33,False
+2024,cambio_ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Analfabetismo,cambio_Bajo logro educativo,33,False
+2024,cambio_Analfabetismo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2024,cambio_Analfabetismo,cambio_Inasistencia escolar,33,False
+2024,cambio_Analfabetismo,cambio_Rezago escolar,33,False
+2024,cambio_Analfabetismo,cambio_Trabajo infantil,33,False
+2024,cambio_Analfabetismo,cambio_Desempleo de larga duracion,33,False
+2024,cambio_Analfabetismo,cambio_Trabajo informal,33,False
+2024,cambio_Analfabetismo,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Analfabetismo,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Analfabetismo,cambio_Hacinamiento critico,33,False
+2024,cambio_Analfabetismo,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Analfabetismo,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Analfabetismo,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Analfabetismo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Bajo logro educativo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2024,cambio_Bajo logro educativo,cambio_Inasistencia escolar,33,False
+2024,cambio_Bajo logro educativo,cambio_Rezago escolar,33,False
+2024,cambio_Bajo logro educativo,cambio_Trabajo infantil,33,False
+2024,cambio_Bajo logro educativo,cambio_Desempleo de larga duracion,33,False
+2024,cambio_Bajo logro educativo,cambio_Trabajo informal,33,False
+2024,cambio_Bajo logro educativo,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Bajo logro educativo,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Bajo logro educativo,cambio_Hacinamiento critico,33,False
+2024,cambio_Bajo logro educativo,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Bajo logro educativo,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Bajo logro educativo,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Bajo logro educativo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inasistencia escolar,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Rezago escolar,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo infantil,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Desempleo de larga duracion,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo informal,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Hacinamiento critico,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Inasistencia escolar,cambio_Rezago escolar,33,False
+2024,cambio_Inasistencia escolar,cambio_Trabajo infantil,33,False
+2024,cambio_Inasistencia escolar,cambio_Desempleo de larga duracion,33,False
+2024,cambio_Inasistencia escolar,cambio_Trabajo informal,33,False
+2024,cambio_Inasistencia escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Inasistencia escolar,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Inasistencia escolar,cambio_Hacinamiento critico,33,False
+2024,cambio_Inasistencia escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Inasistencia escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Inasistencia escolar,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Inasistencia escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Rezago escolar,cambio_Trabajo infantil,33,False
+2024,cambio_Rezago escolar,cambio_Desempleo de larga duracion,33,False
+2024,cambio_Rezago escolar,cambio_Trabajo informal,33,False
+2024,cambio_Rezago escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Rezago escolar,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Rezago escolar,cambio_Hacinamiento critico,33,False
+2024,cambio_Rezago escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Rezago escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Rezago escolar,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Rezago escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Trabajo infantil,cambio_Desempleo de larga duracion,33,False
+2024,cambio_Trabajo infantil,cambio_Trabajo informal,33,False
+2024,cambio_Trabajo infantil,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Trabajo infantil,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Trabajo infantil,cambio_Hacinamiento critico,33,False
+2024,cambio_Trabajo infantil,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Trabajo infantil,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Trabajo infantil,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Trabajo infantil,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Trabajo informal,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Hacinamiento critico,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Desempleo de larga duracion,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Trabajo informal,cambio_Barreras de acceso a servicios de salud,33,False
+2024,cambio_Trabajo informal,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Trabajo informal,cambio_Hacinamiento critico,33,False
+2024,cambio_Trabajo informal,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Trabajo informal,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Trabajo informal,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Trabajo informal,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Barreras de acceso a servicios de salud,cambio_Sin aseguramiento en salud,33,False
+2024,cambio_Barreras de acceso a servicios de salud,cambio_Hacinamiento critico,33,False
+2024,cambio_Barreras de acceso a servicios de salud,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Barreras de acceso a servicios de salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Sin aseguramiento en salud,cambio_Hacinamiento critico,33,False
+2024,cambio_Sin aseguramiento en salud,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Sin aseguramiento en salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Hacinamiento critico,cambio_Inadecuada eliminacion de excretas,33,False
+2024,cambio_Hacinamiento critico,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Hacinamiento critico,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Hacinamiento critico,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de paredes exteriores,33,False
+2024,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Inadecuada eliminacion de excretas,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Material inadecuado de paredes exteriores,cambio_Material inadecuado de pisos,33,False
+2024,cambio_Material inadecuado de paredes exteriores,cambio_Sin acceso a fuente de agua mejorada,33,False
+2024,cambio_Material inadecuado de pisos,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,puntaje_previo,ipm,33,False
+2025,puntaje_previo,cambio_ipm,33,False
+2025,puntaje_previo,cambio_Analfabetismo,33,False
+2025,puntaje_previo,cambio_Bajo logro educativo,33,False
+2025,puntaje_previo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2025,puntaje_previo,cambio_Inasistencia escolar,33,False
+2025,puntaje_previo,cambio_Rezago escolar,33,False
+2025,puntaje_previo,cambio_Trabajo infantil,33,False
+2025,puntaje_previo,cambio_Desempleo de larga duracion,33,False
+2025,puntaje_previo,cambio_Trabajo informal,33,False
+2025,puntaje_previo,cambio_Barreras de acceso a servicios de salud,33,False
+2025,puntaje_previo,cambio_Sin aseguramiento en salud,33,False
+2025,puntaje_previo,cambio_Hacinamiento critico,33,False
+2025,puntaje_previo,cambio_Inadecuada eliminacion de excretas,33,False
+2025,puntaje_previo,cambio_Material inadecuado de paredes exteriores,33,False
+2025,puntaje_previo,cambio_Material inadecuado de pisos,33,False
+2025,puntaje_previo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,ipm,cambio_ipm,33,False
+2025,ipm,cambio_Analfabetismo,33,False
+2025,ipm,cambio_Bajo logro educativo,33,False
+2025,ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2025,ipm,cambio_Inasistencia escolar,33,False
+2025,ipm,cambio_Rezago escolar,33,False
+2025,ipm,cambio_Trabajo infantil,33,False
+2025,ipm,cambio_Desempleo de larga duracion,33,False
+2025,ipm,cambio_Trabajo informal,33,False
+2025,ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2025,ipm,cambio_Sin aseguramiento en salud,33,False
+2025,ipm,cambio_Hacinamiento critico,33,False
+2025,ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2025,ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2025,ipm,cambio_Material inadecuado de pisos,33,False
+2025,ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_ipm,cambio_Analfabetismo,33,False
+2025,cambio_ipm,cambio_Bajo logro educativo,33,False
+2025,cambio_ipm,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2025,cambio_ipm,cambio_Inasistencia escolar,33,False
+2025,cambio_ipm,cambio_Rezago escolar,33,False
+2025,cambio_ipm,cambio_Trabajo infantil,33,False
+2025,cambio_ipm,cambio_Desempleo de larga duracion,33,False
+2025,cambio_ipm,cambio_Trabajo informal,33,False
+2025,cambio_ipm,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_ipm,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_ipm,cambio_Hacinamiento critico,33,False
+2025,cambio_ipm,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_ipm,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_ipm,cambio_Material inadecuado de pisos,33,False
+2025,cambio_ipm,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Analfabetismo,cambio_Bajo logro educativo,33,False
+2025,cambio_Analfabetismo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2025,cambio_Analfabetismo,cambio_Inasistencia escolar,33,False
+2025,cambio_Analfabetismo,cambio_Rezago escolar,33,False
+2025,cambio_Analfabetismo,cambio_Trabajo infantil,33,False
+2025,cambio_Analfabetismo,cambio_Desempleo de larga duracion,33,False
+2025,cambio_Analfabetismo,cambio_Trabajo informal,33,False
+2025,cambio_Analfabetismo,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Analfabetismo,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Analfabetismo,cambio_Hacinamiento critico,33,False
+2025,cambio_Analfabetismo,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Analfabetismo,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Analfabetismo,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Analfabetismo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Bajo logro educativo,cambio_Barreras a servicios para cuidado de la primera infancia,33,False
+2025,cambio_Bajo logro educativo,cambio_Inasistencia escolar,33,False
+2025,cambio_Bajo logro educativo,cambio_Rezago escolar,33,False
+2025,cambio_Bajo logro educativo,cambio_Trabajo infantil,33,False
+2025,cambio_Bajo logro educativo,cambio_Desempleo de larga duracion,33,False
+2025,cambio_Bajo logro educativo,cambio_Trabajo informal,33,False
+2025,cambio_Bajo logro educativo,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Bajo logro educativo,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Bajo logro educativo,cambio_Hacinamiento critico,33,False
+2025,cambio_Bajo logro educativo,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Bajo logro educativo,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Bajo logro educativo,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Bajo logro educativo,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inasistencia escolar,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Rezago escolar,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo infantil,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Desempleo de larga duracion,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Trabajo informal,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Hacinamiento critico,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Barreras a servicios para cuidado de la primera infancia,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Inasistencia escolar,cambio_Rezago escolar,33,False
+2025,cambio_Inasistencia escolar,cambio_Trabajo infantil,33,False
+2025,cambio_Inasistencia escolar,cambio_Desempleo de larga duracion,33,False
+2025,cambio_Inasistencia escolar,cambio_Trabajo informal,33,False
+2025,cambio_Inasistencia escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Inasistencia escolar,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Inasistencia escolar,cambio_Hacinamiento critico,33,False
+2025,cambio_Inasistencia escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Inasistencia escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Inasistencia escolar,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Inasistencia escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Rezago escolar,cambio_Trabajo infantil,33,False
+2025,cambio_Rezago escolar,cambio_Desempleo de larga duracion,33,False
+2025,cambio_Rezago escolar,cambio_Trabajo informal,33,False
+2025,cambio_Rezago escolar,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Rezago escolar,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Rezago escolar,cambio_Hacinamiento critico,33,False
+2025,cambio_Rezago escolar,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Rezago escolar,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Rezago escolar,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Rezago escolar,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Trabajo infantil,cambio_Desempleo de larga duracion,33,False
+2025,cambio_Trabajo infantil,cambio_Trabajo informal,33,False
+2025,cambio_Trabajo infantil,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Trabajo infantil,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Trabajo infantil,cambio_Hacinamiento critico,33,False
+2025,cambio_Trabajo infantil,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Trabajo infantil,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Trabajo infantil,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Trabajo infantil,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Trabajo informal,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Hacinamiento critico,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Desempleo de larga duracion,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Trabajo informal,cambio_Barreras de acceso a servicios de salud,33,False
+2025,cambio_Trabajo informal,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Trabajo informal,cambio_Hacinamiento critico,33,False
+2025,cambio_Trabajo informal,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Trabajo informal,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Trabajo informal,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Trabajo informal,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Barreras de acceso a servicios de salud,cambio_Sin aseguramiento en salud,33,False
+2025,cambio_Barreras de acceso a servicios de salud,cambio_Hacinamiento critico,33,False
+2025,cambio_Barreras de acceso a servicios de salud,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Barreras de acceso a servicios de salud,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Barreras de acceso a servicios de salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Sin aseguramiento en salud,cambio_Hacinamiento critico,33,False
+2025,cambio_Sin aseguramiento en salud,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Sin aseguramiento en salud,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Sin aseguramiento en salud,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Hacinamiento critico,cambio_Inadecuada eliminacion de excretas,33,False
+2025,cambio_Hacinamiento critico,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Hacinamiento critico,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Hacinamiento critico,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de paredes exteriores,33,False
+2025,cambio_Inadecuada eliminacion de excretas,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Inadecuada eliminacion de excretas,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Material inadecuado de paredes exteriores,cambio_Material inadecuado de pisos,33,False
+2025,cambio_Material inadecuado de paredes exteriores,cambio_Sin acceso a fuente de agua mejorada,33,False
+2025,cambio_Material inadecuado de pisos,cambio_Sin acceso a fuente de agua mejorada,33,False

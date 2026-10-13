@@ -1,0 +1,19 @@
+{
+  "control": "no compartir fits entre candidato/ventana",
+  "cause": "runner construyó un único ajuste por ID/año interno y lo reutilizó antes de emitir originales; contrato requiere32×6=192 internos; implementación ejecutó32×3=96",
+  "action": "interrupción vía write_stdin Ctrl-C de sesión44244; tool exit_code130",
+  "exit_code": 130,
+  "pending_before_stop": {
+    "name": "externo_2024_memoria_ridge_a10p0_last2",
+    "attempt": 0,
+    "request_sha": "1dba2923793dc9b87dc8cab990943dba39bc89e1f410716b29de120f260c36d9",
+    "start": 28451.335704234,
+    "pid": 637
+  },
+  "unmeasured_pending": true,
+  "budget_conservative_seconds": 7200,
+  "termination_evidence": "ejecución de sesión finalizó130; subprocesos de sandbox no son visibles desde otra invocación (PID namespace). No afirmar wait/poll individual del último pendiente; control de terminación independiente incompleto",
+  "previous_stop_attempt": "búsqueda de runner con psutil encontró0 por namespace aislado, sin señales enviadas; resuelto con interrupción de sesión",
+  "restarted": false,
+  "new_fits_authorized_or_executed_after_stop": 0
+}

@@ -1,0 +1,770 @@
+[
+  {
+    "exercise": "corte2023",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "base",
+    "winner": "ElasticNet_14",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.8, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "ipm",
+    "winner": "Lasso_07",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('lasso', Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'lasso': Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'lasso__alpha': 1, 'lasso__copy_X': True, 'lasso__fit_intercept': True, 'lasso__max_iter': 100000, 'lasso__positive': False, 'lasso__precompute': False, 'lasso__random_state': 20261012, 'lasso__selection': 'cyclic', 'lasso__tol': 1e-06, 'lasso__warm_start': False}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "componentes",
+    "winner": "ElasticNet_13",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.2, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "prom_punt_global",
+    "method": "loyo",
+    "spec": "base",
+    "winner": "Lasso_07",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('lasso', Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'lasso': Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'lasso__alpha': 1, 'lasso__copy_X': True, 'lasso__fit_intercept': True, 'lasso__max_iter': 100000, 'lasso__positive': False, 'lasso__precompute': False, 'lasso__random_state': 20261012, 'lasso__selection': 'cyclic', 'lasso__tol': 1e-06, 'lasso__warm_start': False}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "prom_punt_global",
+    "method": "loyo",
+    "spec": "ipm",
+    "winner": "Lasso_07",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('lasso', Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'lasso': Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'lasso__alpha': 1, 'lasso__copy_X': True, 'lasso__fit_intercept': True, 'lasso__max_iter': 100000, 'lasso__positive': False, 'lasso__precompute': False, 'lasso__random_state': 20261012, 'lasso__selection': 'cyclic', 'lasso__tol': 1e-06, 'lasso__warm_start': False}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "prom_punt_global",
+    "method": "loyo",
+    "spec": "componentes",
+    "winner": "Lasso_06",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('lasso', Lasso(alpha=0.1, max_iter=100000, random_state=20261012, tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'lasso': Lasso(alpha=0.1, max_iter=100000, random_state=20261012, tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'lasso__alpha': 0.1, 'lasso__copy_X': True, 'lasso__fit_intercept': True, 'lasso__max_iter': 100000, 'lasso__positive': False, 'lasso__precompute': False, 'lasso__random_state': 20261012, 'lasso__selection': 'cyclic', 'lasso__tol': 1e-06, 'lasso__warm_start': False}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "mat34",
+    "method": "temporal",
+    "spec": "base",
+    "winner": "Ridge_00",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=0.1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=0.1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "mat34",
+    "method": "temporal",
+    "spec": "ipm",
+    "winner": "Ridge_02",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=10, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=10, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 10, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "mat34",
+    "method": "temporal",
+    "spec": "componentes",
+    "winner": "ElasticNet_12",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 0.1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.8, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "mat34",
+    "method": "loyo",
+    "spec": "base",
+    "winner": "Ridge_00",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=0.1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=0.1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "mat34",
+    "method": "loyo",
+    "spec": "ipm",
+    "winner": "Ridge_00",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=0.1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=0.1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2023",
+    "target": "mat34",
+    "method": "loyo",
+    "spec": "componentes",
+    "winner": "Ridge_00",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=0.1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=0.1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "base",
+    "winner": "ElasticNet_13",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.2, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "ipm",
+    "winner": "ElasticNet_14",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.8, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "componentes",
+    "winner": "ElasticNet_13",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.2, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "prom_punt_global",
+    "method": "loyo",
+    "spec": "base",
+    "winner": "Lasso_07",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('lasso', Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'lasso': Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'lasso__alpha': 1, 'lasso__copy_X': True, 'lasso__fit_intercept': True, 'lasso__max_iter': 100000, 'lasso__positive': False, 'lasso__precompute': False, 'lasso__random_state': 20261012, 'lasso__selection': 'cyclic', 'lasso__tol': 1e-06, 'lasso__warm_start': False}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "prom_punt_global",
+    "method": "loyo",
+    "spec": "ipm",
+    "winner": "Lasso_07",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('lasso', Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'lasso': Lasso(alpha=1, max_iter=100000, random_state=20261012, tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'lasso__alpha': 1, 'lasso__copy_X': True, 'lasso__fit_intercept': True, 'lasso__max_iter': 100000, 'lasso__positive': False, 'lasso__precompute': False, 'lasso__random_state': 20261012, 'lasso__selection': 'cyclic', 'lasso__tol': 1e-06, 'lasso__warm_start': False}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "prom_punt_global",
+    "method": "loyo",
+    "spec": "componentes",
+    "winner": "Ridge_03",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=100, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=100, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 100, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "mat34",
+    "method": "temporal",
+    "spec": "base",
+    "winner": "Ridge_00",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=0.1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=0.1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "mat34",
+    "method": "temporal",
+    "spec": "ipm",
+    "winner": "Ridge_02",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=10, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=10, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 10, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "mat34",
+    "method": "temporal",
+    "spec": "componentes",
+    "winner": "ElasticNet_12",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=0.1, l1_ratio=0.8, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 0.1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.8, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "mat34",
+    "method": "loyo",
+    "spec": "base",
+    "winner": "Ridge_00",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=0.1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=0.1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "mat34",
+    "method": "loyo",
+    "spec": "ipm",
+    "winner": "Ridge_01",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "corte2022",
+    "target": "mat34",
+    "method": "loyo",
+    "spec": "componentes",
+    "winner": "Ridge_00",
+    "years": [
+      2018,
+      2019,
+      2021,
+      2022
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=0.1, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=0.1, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 0.1, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "sin2021",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "base",
+    "winner": "Ridge_03",
+    "years": [
+      2018,
+      2019,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=100, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=100, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 100, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  },
+  {
+    "exercise": "sin2021",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "ipm",
+    "winner": "ElasticNet_13",
+    "years": [
+      2018,
+      2019,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "ipm"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('elasticnet', ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'elasticnet': ElasticNet(alpha=1, l1_ratio=0.2, max_iter=100000, random_state=20261012,\n           tol=1e-06), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'elasticnet__alpha': 1, 'elasticnet__copy_X': True, 'elasticnet__fit_intercept': True, 'elasticnet__l1_ratio': 0.2, 'elasticnet__max_iter': 100000, 'elasticnet__positive': False, 'elasticnet__precompute': False, 'elasticnet__random_state': 20261012, 'elasticnet__selection': 'cyclic', 'elasticnet__tol': 1e-06, 'elasticnet__warm_start': False}"
+  },
+  {
+    "exercise": "sin2021",
+    "target": "prom_punt_global",
+    "method": "temporal",
+    "spec": "componentes",
+    "winner": "Ridge_03",
+    "years": [
+      2018,
+      2019,
+      2022,
+      2023
+    ],
+    "cols": [
+      "tiempo",
+      "indicador2021",
+      "prop_oficial",
+      "prop_urbana",
+      "n_punt_global",
+      "contrib_educacion",
+      "contrib_ninez_y_juventud",
+      "contrib_salud",
+      "contrib_trabajo",
+      "contrib_vivienda",
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": "{'memory': None, 'steps': [('standardscaler', StandardScaler()), ('ridge', Ridge(alpha=100, solver='svd'))], 'transform_input': None, 'verbose': False, 'standardscaler': StandardScaler(), 'ridge': Ridge(alpha=100, solver='svd'), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'ridge__alpha': 100, 'ridge__copy_X': True, 'ridge__fit_intercept': True, 'ridge__max_iter': None, 'ridge__positive': False, 'ridge__random_state': None, 'ridge__solver': 'svd', 'ridge__tol': 0.0001}"
+  }
+]

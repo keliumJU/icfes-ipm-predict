@@ -1,0 +1,124 @@
+{
+  "version": "1.0.0",
+  "context": "inventado",
+  "limit": 300,
+  "synthetic": true,
+  "start_monotonic": 15387.223203577,
+  "start_wall": 1791743988.1565156,
+  "used": 0.06753457300146692,
+  "attempts": [
+    {
+      "job": "ext_e2021_persistencia",
+      "context": "495b9af9c494157b8704a52a712e2677de2f12c5624f68317885647247a4d3f7",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/ext_e2021_persistencia/respaldo.json",
+      "output_sha256": "d436e06fafed54c44d85f920bd4249ff1c734bcef9e8505a15c16b3a3fc76212",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 4.173299930698704e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_memoria",
+      "context": "339043749ca95615463d52b0aaf9cd2973477660e7ba376128af9258f02b6a79",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/ext_e2021_memoria/respaldo.json",
+      "output_sha256": "5456ac887823093a2b62d8e83a46400e2b3a8170465507d50cecad273ff75aab",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 0.00014418400132854003,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_comun",
+      "context": "5d00a666413e820a344eba8b465bd138883ba47a79d7eedd2199a6fd473c2039",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/ext_e2021_comun/respaldo.json",
+      "output_sha256": "fa413a2ebd87c4e4458c679cebc15c8ca378a144ff07deb372d2dd4ba65eaf21",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 4.326100133766886e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_comun_correccion",
+      "context": "ff0fff3b04a4ede49e567f29de7a7758b0d69c14aa8f89b9988b0e81cd145ca3",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/ext_e2021_comun_correccion/respaldo.json",
+      "output_sha256": "4ea17a58d12b35aa52087053b6451dd9286eba19b2064f1068f5ca27bed9ec3a",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 4.461599928617943e-05,
+      "no_fit": true
+    },
+    {
+      "job": "int_e2022_v2021_persistencia",
+      "context": "00bfe086fd5c453d7bb236f56dffbcefeef23bb8654983b89081b2881f01577d",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/int_e2022_v2021_persistencia/respaldo.json",
+      "output_sha256": "78c7d1a42b7a8212ebaf3ab486223c85c7c67b91ccba876a21db918ac714fecc",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 3.368599936948158e-05,
+      "no_fit": true
+    },
+    {
+      "job": "int_e2022_v2021_memoria",
+      "context": "bf239514220260840e909b5626c6554f6a21f27d44974a78c4f37e3029b00e27",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/int_e2022_v2021_memoria/respaldo.json",
+      "output_sha256": "73d83be969a2a4d779985f52d8cc806f0232430580866ab11a05cdcc0ea46d8f",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 6.128800123406108e-05,
+      "no_fit": true
+    },
+    {
+      "job": "int_e2022_v2021_comun",
+      "context": "ba84966ffe962b18dc448deb9cd22c77f3e8d1a70fc6d11b2a1e9ff64a772f99",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/int_e2022_v2021_comun/respaldo.json",
+      "output_sha256": "2c9f512c7e853297c7ae480cd1e48e6e5c9affc327fafd041360648420bc50d4",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 5.55200003873324e-05,
+      "no_fit": true
+    },
+    {
+      "job": "int_e2022_v2021_comun_correccion",
+      "context": "f9c1f8bf98f17298acc1371ce94e4cd780c5853bb88ecf02807a1cfb7931a88e",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/int_e2022_v2021_comun_correccion/respaldo.json",
+      "output_sha256": "16e3fa76363da70de81ec419625eb77c51ff21f3ce2f32bba818d878bd74b777",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 5.2661000154330395e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2022_persistencia",
+      "context": "62459f8462892612bb6240ccfbeade166ae63d49fac81ec162f7dbd9297d3553",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/ext_e2022_persistencia/respaldo.json",
+      "output_sha256": "a8b94912dd16cecabec1313b78d9664bb1f618e25ee260a5c6b087acb9571409",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 3.4845001209760085e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2022_memoria",
+      "attempt": 1,
+      "context": "085a97436389a8434702ea55391fbe139dc2b57137969b02d5896a1ac4310b83",
+      "state": "pending",
+      "request": "resultados/sinteticos/corrida_001/piloto/jobs/ext_e2022_memoria/intento_1/solicitud.json",
+      "request_sha256": "5217a46c0393183dcc3a3897aca3052171d176ea5a3960f5782084457602f86d",
+      "output": "resultados/sinteticos/corrida_001/piloto/jobs/ext_e2022_memoria/intento_1/resultado.json",
+      "start_monotonic": 15387.292945543
+    }
+  ],
+  "retries": 0,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

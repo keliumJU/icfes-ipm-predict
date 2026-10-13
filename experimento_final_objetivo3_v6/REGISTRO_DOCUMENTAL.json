@@ -1,0 +1,26 @@
+{
+  "primer_control_fase4": {
+    "aprobado": true,
+    "huellas": 54,
+    "protegidos": 32266,
+    "fits": 0,
+    "modo": "lectura; ejecutado antes crear esta carpeta"
+  },
+  "manifiesto_fase4_revalidado": 54,
+  "historica_v5": {
+    "commit": "109797407d75d2097e5b71f8bcef3fc266bc61d2",
+    "archivo": "experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+    "sha256": "33bbdce75635733eae8bad9e14d1900999fd8af6318a55842382b5d2544e13fd"
+  },
+  "temporal_preservada_sha256": "fd3b963135e9e8233470ef36116d82e67ca4a88aae67b7c785d0a9185ba0b8bb",
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "autorizacion": "Preparación documental ahora; ejecución solo por envío humano del prompt en nueva sesión. No ejecutar prompt por leerlo.",
+  "candidatos_propuestos": 39,
+  "fits_actuales": 0,
+  "presupuesto_actual_iniciado": false,
+  "plazo_usuario": "Objetivos listos hoy; presentación martes. No garantía de duración ni cierre científico por plazo.",
+  "ultima_version": true
+}

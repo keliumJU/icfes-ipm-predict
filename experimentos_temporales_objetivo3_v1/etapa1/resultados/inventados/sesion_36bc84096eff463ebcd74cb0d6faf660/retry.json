@@ -1,0 +1,24 @@
+{
+  "origen": "inventado",
+  "contexto": {
+    "origen": "inventado",
+    "semilla": 20261010
+  },
+  "limite": 20,
+  "consumido": 0.024537170000257902,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "job#1",
+      "estado": "error",
+      "clase_fallo": "infraestructura",
+      "segundos": 0.016553117999137612
+    },
+    {
+      "etiqueta": "job#2",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 0.00798405200112029
+    }
+  ]
+}

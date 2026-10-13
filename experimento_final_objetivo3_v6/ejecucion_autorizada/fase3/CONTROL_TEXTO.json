@@ -1,0 +1,11 @@
+{
+  "aprobado": true,
+  "claims": 167,
+  "files": 9,
+  "exact_numeric": true,
+  "text_sha": "e8e91cf867cffdfecf9ccf49ffdbb7463aaf45817b06042a9797760fb2e5ede5",
+  "evidence_sha": "a2eea7652ebf8211a3bac28d76ac2b64a376e6022e2dbf0ceff66a9c8d312d04",
+  "cell": 7,
+  "function": "redaccion.thesis",
+  "method": "interpolación de salidas notebook; valor/llave exactos y SHA cotejados"
+}

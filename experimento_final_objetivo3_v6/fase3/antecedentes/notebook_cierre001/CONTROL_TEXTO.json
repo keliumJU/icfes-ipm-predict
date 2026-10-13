@@ -1,0 +1,9 @@
+{
+  "aprobado": true,
+  "status": "texto de cierre incompleto; sin síntesis v6 dependiente",
+  "text_sha": "a956aae278487f18039496a6dcdb499f775bbe4bf9f0ee7ca69505c24331c80d",
+  "evidence_sha": "613d6c0cef17dccc78af33155f106dd7b140e4c97ac65832f7e67920659fa2cc",
+  "claims": 96,
+  "method": "interpolación desde salidas de celdas2/3/4/5; cada cifra ligada por llave/SHA; antecedentes cotejados antes de citar",
+  "new_v6_performance_numbers": 0
+}

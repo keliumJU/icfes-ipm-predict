@@ -1,0 +1,10 @@
+{
+  "aprobado": true,
+  "synthetic_fits": 0,
+  "tests": [
+    "CSV0/1e-11",
+    "selector inclusive",
+    "matrices/fecha/coefs/scaler/reconstruction",
+    "rechazo matriz alterada"
+  ]
+}

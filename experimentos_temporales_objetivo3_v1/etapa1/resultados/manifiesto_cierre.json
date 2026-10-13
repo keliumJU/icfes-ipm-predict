@@ -1,0 +1,327 @@
+{
+  "version": "1.0.0",
+  "etapa1_completa": true,
+  "piloto_autorizado": false,
+  "entregables": {
+    "experimentos_temporales_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md": {
+      "tipo": "archivo",
+      "sha256": "fd3b963135e9e8233470ef36116d82e67ca4a88aae67b7c785d0a9185ba0b8bb"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/PLAN_ETAPA1.md": {
+      "tipo": "archivo",
+      "sha256": "428f62ca8b5986bbb834254cc10e9e743d6c6ba171c6ced1cda799453aa15bde"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/PROTOCOLO_IMPLEMENTACION.md": {
+      "tipo": "archivo",
+      "sha256": "a1c6f3c58227d6809648ca25f5fb25263edae2951ad0c7ad79570d88c571b239"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/README.md": {
+      "tipo": "archivo",
+      "sha256": "969912a7f0db70f621ab1de8916c55507a621fefa282942c9857e125dad9cf62"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/01_controles.py": {
+      "tipo": "archivo",
+      "sha256": "d2cbdafadf880fb17834f28caf6f9563e11063f82f2548d532c4e9c85b63ea50"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/cerrar_etapa1.py": {
+      "tipo": "archivo",
+      "sha256": "c924b61801967da39f45c643241e9f8a8396375bb5f430f19178f007c09317ba"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/comun.py": {
+      "tipo": "archivo",
+      "sha256": "6fb3dc55e62fdcba8031b2b7d7ae60638c2c85f1aad0acc40f5712757d1bab97"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/generar_notebook.py": {
+      "tipo": "archivo",
+      "sha256": "ab8e162cde08d59aaf8ddf6d3467bad5f8c4c5e6fa56a5ca8b16357f60ffc517"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/motor.py": {
+      "tipo": "archivo",
+      "sha256": "c1bfb25f7ce3b6a544b0a0fbc5fd78d33e29f08acaed89ae6eac70ec98367cde"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/orquestacion.py": {
+      "tipo": "archivo",
+      "sha256": "dbfa7eae545d82332275b92484b8f5a68f11d629f676d41e906577ace5d35a87"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/preflight.py": {
+      "tipo": "archivo",
+      "sha256": "54eb34d651ed71eca423206e6530f9809eb91c0771d2be91d4d332ab5adc06ca"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/pruebas.py": {
+      "tipo": "archivo",
+      "sha256": "7aa1aaef84c3c95b938a4db4ca67367e27786c22c012c75ef636e53fa63d3338"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/seguridad.py": {
+      "tipo": "archivo",
+      "sha256": "4a60b774972c2711c49e26dca8bbd3021277de67488207f70b78ccb41ee82a32"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/fuentes/worker.py": {
+      "tipo": "archivo",
+      "sha256": "918600e23873217ade4945f9619ca6b7375200802d820d9a68f33b93c6a2b212"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/notebooks/01_controles_recencia.ipynb": {
+      "tipo": "archivo",
+      "sha256": "6c8fa8941c0f3a4f7d9a2d7223bfd3bd9befb68d4bb0b9b3a48776995a82ad62"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/aceptacion_etapa1.json": {
+      "tipo": "archivo",
+      "sha256": "8d8a41f46e93a8c55cf86a0f8764f836cda3f67157940f8d96d52abfaecde5a6"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/configuracion_operativa.json": {
+      "tipo": "archivo",
+      "sha256": "51dd37dc6f3ef871fdf9139768d02bc825c9a4dad5d56aec50db7bfc28b58f71"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/congelacion_operativa.json": {
+      "tipo": "archivo",
+      "sha256": "693f03fff6235002078735244e8684cbe778e7a6a528c22e705363ab0885d900"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/conservacion_final.json": {
+      "tipo": "archivo",
+      "sha256": "a580606c41fcd5bed5b7b408441f8ab18d812ef4c75338df7b6fc49d70f9b9ab"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/entorno.json": {
+      "tipo": "archivo",
+      "sha256": "73717cacebe03fd98db78d08d80efd4ab8297ea059a59a25b8c3b72ee72b8593"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/entorno_final.json": {
+      "tipo": "archivo",
+      "sha256": "73717cacebe03fd98db78d08d80efd4ab8297ea059a59a25b8c3b72ee72b8593"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/huellas_antecedentes.json": {
+      "tipo": "archivo",
+      "sha256": "58c30560b69c9aeb238a393cc37265a9cb0e2ab7129601127b03cae2c31f5a6e"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/artefacto.json": {
+      "tipo": "archivo",
+      "sha256": "5821379bc044efe6c64e07df39ecb82fcfb9575fa9df2b73c45b91afca4c03dc"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/caida.json": {
+      "tipo": "archivo",
+      "sha256": "dbc065f82d9c79bd7d362d6154756966e01810ee6dee10600f7e422a8ff15313"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/exacto.csv": {
+      "tipo": "archivo",
+      "sha256": "cfd812e04fcf4ce8742d34e8c14035fb4ff9f405bc245299d0446acd67807127"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/infra2.json": {
+      "tipo": "archivo",
+      "sha256": "ceb2cc0b1334a29dc9e4aea76df468b9e2bfe72b4de7eeb2f0299b8a979c6d46"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/limite.json": {
+      "tipo": "archivo",
+      "sha256": "5e0fbd9c9c71e0e811dbb5c3eae48ab28e5e6aff10e2cbad0096ee1507999548"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/link": {
+      "tipo": "symlink_fixture_rechazado",
+      "destino": "/home/kelium/Documents/espcarlos/icfes-predict-improved/diseno_temporal_objetivo3_v1",
+      "sha256_texto_enlace": "d808567da663830710c4122c388f9de53b96cc4b067d0aedc985701ae8ef97e1"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/link_archivo": {
+      "tipo": "symlink_fixture_rechazado",
+      "destino": "/home/kelium/Documents/espcarlos/icfes-predict-improved/AGENTS.md",
+      "sha256_texto_enlace": "d4de875dd338d24aacba38deb52a13cc3550c0bfa50122cfd8f94a666d9ad112"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/nuevo.txt": {
+      "tipo": "archivo",
+      "sha256": "70cf3b9e512b0c5cf7bfc506157492b8ed104a87c95f0bc81412cb4a953205ca"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/numerico.json": {
+      "tipo": "archivo",
+      "sha256": "5fec59192db7c99e203db00f7a84c9cf31811fa7c1d9d18e421b0748b7a74299"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/orquestacion.json": {
+      "tipo": "archivo",
+      "sha256": "0b551075508e745553c7c4117b6d3647f387ad99b4486cf89201fb1fdea13d36"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/orquestacion_resumen.json": {
+      "tipo": "archivo",
+      "sha256": "040dc0341dc612779b87f0df536bff0cb0acf2b7aa76f461bde8a7d389cda42a"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/retry.json": {
+      "tipo": "archivo",
+      "sha256": "77c4b42546725d88005b82dab582b555e8d73ca6d6414ce76042c8e7cb8ef5a3"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/spawn.json": {
+      "tipo": "archivo",
+      "sha256": "3136b287f23d6d83f45c24f369e97b51c7842afb92e94afdc20696fada3689f8"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/artefacto.json": {
+      "tipo": "archivo",
+      "sha256": "5821379bc044efe6c64e07df39ecb82fcfb9575fa9df2b73c45b91afca4c03dc"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/caida.json": {
+      "tipo": "archivo",
+      "sha256": "dbc065f82d9c79bd7d362d6154756966e01810ee6dee10600f7e422a8ff15313"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/corrupto.json": {
+      "tipo": "archivo",
+      "sha256": "c50b279b8401995e61f11d7ed368fa6e84037b58818ae63677fba9924a0e9da5"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/exacto.csv": {
+      "tipo": "archivo",
+      "sha256": "cfd812e04fcf4ce8742d34e8c14035fb4ff9f405bc245299d0446acd67807127"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/infra2.json": {
+      "tipo": "archivo",
+      "sha256": "75fde054b6feeeaa0e76b8ccbc0cfbbd73acb10f556ddabf9e3ed7a7abcb7f6d"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/limite.json": {
+      "tipo": "archivo",
+      "sha256": "5e0fbd9c9c71e0e811dbb5c3eae48ab28e5e6aff10e2cbad0096ee1507999548"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/link": {
+      "tipo": "symlink_fixture_rechazado",
+      "destino": "/home/kelium/Documents/espcarlos/icfes-predict-improved/diseno_temporal_objetivo3_v1",
+      "sha256_texto_enlace": "d808567da663830710c4122c388f9de53b96cc4b067d0aedc985701ae8ef97e1"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/link_archivo": {
+      "tipo": "symlink_fixture_rechazado",
+      "destino": "/home/kelium/Documents/espcarlos/icfes-predict-improved/AGENTS.md",
+      "sha256_texto_enlace": "d4de875dd338d24aacba38deb52a13cc3550c0bfa50122cfd8f94a666d9ad112"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/metadata_spawn.json": {
+      "tipo": "archivo",
+      "sha256": "21fbc844a4ccf5200f81981949d99b588f8add876381ba163714e447d16735c7"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/metadatos_modelos_inventados.json": {
+      "tipo": "archivo",
+      "sha256": "084a3c3d7fb0861f1fd87d99c0b6209431156dd78b54a9d05952573583f0199d"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/nuevo.txt": {
+      "tipo": "archivo",
+      "sha256": "70cf3b9e512b0c5cf7bfc506157492b8ed104a87c95f0bc81412cb4a953205ca"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/numerico.json": {
+      "tipo": "archivo",
+      "sha256": "e55124819132349a437629b24e5e7ffc5dc02db7c1bb1f749ed21a5b91868ea9"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/orquestacion.json": {
+      "tipo": "archivo",
+      "sha256": "2a1d91b47c8d168dd58fac8fee0f215600d9ef783e8dd75f5f0cf116e03d83a4"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/orquestacion_resumen.json": {
+      "tipo": "archivo",
+      "sha256": "34c9f9453d1ebdd29471a1aedac79c8905bae1e0266eb164e5917143f0851478"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/retry.json": {
+      "tipo": "archivo",
+      "sha256": "384f619a908ce60d00f3964a2339a98b9b78cd451789082664110bc1d196acc8"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/seleccion_2021_inventada.json": {
+      "tipo": "archivo",
+      "sha256": "e01ac1c6b47746da55dbc2a60b66cf6a297c29973fb7c4e7453b181d5ba13f5f"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/seleccion_2022_inventada.json": {
+      "tipo": "archivo",
+      "sha256": "cb9100a77535d292533acc7d80db4dba64da299305327bf3726d625b39e06ceb"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/seleccion_2023_inventada.json": {
+      "tipo": "archivo",
+      "sha256": "c2790367ea8aabb0471842c7ec6ca52617bd8f4e93ecb6a0291f04b83f2ce4b9"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/seleccion_2024_inventada.json": {
+      "tipo": "archivo",
+      "sha256": "e932c65cdb92066346c2e61ed2ed50d8cae121143ca2b08d64e60ec88418f2ed"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/seleccion_2025_inventada.json": {
+      "tipo": "archivo",
+      "sha256": "153007a65ea8ef35ad0a12935a69e4e82bd932eea6e104acf2b8d2c76186c9c4"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/spawn.json": {
+      "tipo": "archivo",
+      "sha256": "8350b7c7bfedf04e2a769a9474c82698704b30097560864083897ad07648aaca"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/artefacto.json": {
+      "tipo": "archivo",
+      "sha256": "5821379bc044efe6c64e07df39ecb82fcfb9575fa9df2b73c45b91afca4c03dc"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/caida.json": {
+      "tipo": "archivo",
+      "sha256": "dbc065f82d9c79bd7d362d6154756966e01810ee6dee10600f7e422a8ff15313"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/exacto.csv": {
+      "tipo": "archivo",
+      "sha256": "cfd812e04fcf4ce8742d34e8c14035fb4ff9f405bc245299d0446acd67807127"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/infra2.json": {
+      "tipo": "archivo",
+      "sha256": "cf018d5febbf67f1942d8d5101f31ce0cdcd3e1d8b18ccdf5159ce9fd7d03060"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/limite.json": {
+      "tipo": "archivo",
+      "sha256": "5e0fbd9c9c71e0e811dbb5c3eae48ab28e5e6aff10e2cbad0096ee1507999548"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/link": {
+      "tipo": "symlink_fixture_rechazado",
+      "destino": "/home/kelium/Documents/espcarlos/icfes-predict-improved/diseno_temporal_objetivo3_v1",
+      "sha256_texto_enlace": "d808567da663830710c4122c388f9de53b96cc4b067d0aedc985701ae8ef97e1"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/link_archivo": {
+      "tipo": "symlink_fixture_rechazado",
+      "destino": "/home/kelium/Documents/espcarlos/icfes-predict-improved/AGENTS.md",
+      "sha256_texto_enlace": "d4de875dd338d24aacba38deb52a13cc3550c0bfa50122cfd8f94a666d9ad112"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/nuevo.txt": {
+      "tipo": "archivo",
+      "sha256": "70cf3b9e512b0c5cf7bfc506157492b8ed104a87c95f0bc81412cb4a953205ca"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/numerico.json": {
+      "tipo": "archivo",
+      "sha256": "bde15faf384847ca6c6e2c0b7c35291b4fef603ccb8bc0b04c933858928b7712"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/orquestacion.json": {
+      "tipo": "archivo",
+      "sha256": "4b26d746afb7a106bcd1c52169187c57ad07415321f488795394ff660c432f05"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/orquestacion_resumen.json": {
+      "tipo": "archivo",
+      "sha256": "040dc0341dc612779b87f0df536bff0cb0acf2b7aa76f461bde8a7d389cda42a"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/retry.json": {
+      "tipo": "archivo",
+      "sha256": "82b200b2d5fe7b6947c4a77cdf756df5839baa8d8d029f3a58476ec3531a784a"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventario_partida.json": {
+      "tipo": "archivo",
+      "sha256": "fe4d6da464ced8d097cb5f07efbc154f25bad45f4f3ff5df1da332d84dbcfb03"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/lecturas.json": {
+      "tipo": "archivo",
+      "sha256": "4e83c15796927c6c941a0526b10f2d301cfb1e1b7101ca722728d08a29d2647b"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/notebook.json": {
+      "tipo": "archivo",
+      "sha256": "86a2f3c6d419c80ad3981ef7f2ad6cfb24ecae5d00bf23e26a7c7e30c577e103"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/preflight.json": {
+      "tipo": "archivo",
+      "sha256": "a713e0ca45e088087526b872773827c9f13fe957e3050f44bdfab8b8c0037695"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/pruebas.json": {
+      "tipo": "archivo",
+      "sha256": "51ce4310475fcd01f579f5287c3152c0b994b98c0e8285330e15020d37c57bbf"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/pruebas_cierre.json": {
+      "tipo": "archivo",
+      "sha256": "847e66ff6319489a22088e0c26e4687a7a6185462bd89d7ed86ee7da8624e5a9"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/pruebas_finales.json": {
+      "tipo": "archivo",
+      "sha256": "98d0cfb706f4456005e5306b20736f34cdf678ea1429b9f502e531e65ee1e64a"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/reconstruccion_referencias.json": {
+      "tipo": "archivo",
+      "sha256": "e28a15ed6f298ef9fccd71f4f7d6412259c8da97249b978ef031c32635bca63d"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/registro_hallazgos.json": {
+      "tipo": "archivo",
+      "sha256": "f85b422ce64f202b6936d3a160b0f3b6bad10f17128fd94d84914c8d21f60e43"
+    }
+  },
+  "exclusiones_autorreferencia": [
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/manifiesto_cierre.json",
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/verificacion_cierre.json"
+  ],
+  "fits_panel_real": 0,
+  "pendientes_indispensables": []
+}

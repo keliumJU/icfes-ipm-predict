@@ -1,0 +1,81 @@
+{
+  "momento": "cierre, NO partida; no acredita conservación previa de enlaces",
+  "enlaces": [
+    {
+      "ruta": "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/link",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/diseno_temporal_objetivo3_v1"
+    },
+    {
+      "ruta": "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/link_archivo",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/AGENTS.md"
+    },
+    {
+      "ruta": "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/link",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/diseno_temporal_objetivo3_v1"
+    },
+    {
+      "ruta": "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_36bc84096eff463ebcd74cb0d6faf660/link_archivo",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/AGENTS.md"
+    },
+    {
+      "ruta": "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/link",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/diseno_temporal_objetivo3_v1"
+    },
+    {
+      "ruta": "experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_3ca94f677c6c4a7da7f859984120644d/link_archivo",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/AGENTS.md"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_001/alias_dir",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_001"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_001/alias",
+      "destino_observado_ahora": "original.txt"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_002/alias_dir",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_002"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_002/alias",
+      "destino_observado_ahora": "original.txt"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_003/alias_dir",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_003"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/cli_003/alias",
+      "destino_observado_ahora": "original.txt"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/notebook_001/alias_dir",
+      "destino_observado_ahora": "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/notebook_001"
+    },
+    {
+      "ruta": "experimentos_memoria_comun_objetivo3_v1/etapa1/resultados/sinteticos/notebook_001/alias",
+      "destino_observado_ahora": "original.txt"
+    },
+    {
+      "ruta": "experimento_final_objetivo3_v6/fase1/antecedentes/ensayo001/fixtures/link",
+      "destino_observado_ahora": "/tmp"
+    },
+    {
+      "ruta": "experimento_final_objetivo3_v6/fase1/antecedentes/ensayo002/fixtures/link",
+      "destino_observado_ahora": "/tmp"
+    },
+    {
+      "ruta": "experimento_final_objetivo3_v6/fase1/antecedentes/controles_previos_a_refuerzo/fixtures/link",
+      "destino_observado_ahora": "/tmp"
+    },
+    {
+      "ruta": "experimento_final_objetivo3_v6/fase1/fixtures/link",
+      "destino_observado_ahora": "/tmp"
+    },
+    {
+      "ruta": "experimento_final_objetivo3_v6/ejecucion_autorizada/fase1/fixtures/link",
+      "destino_observado_ahora": "/tmp"
+    }
+  ]
+}

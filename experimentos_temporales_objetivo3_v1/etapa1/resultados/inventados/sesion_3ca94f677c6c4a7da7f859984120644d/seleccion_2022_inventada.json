@@ -1,0 +1,377 @@
+{
+  "origen": "inventado",
+  "externo": 2022,
+  "decision": {
+    "global_id": "mediana_historico_00",
+    "especificaciones": {
+      "historico": "mediana_historico_00",
+      "nivel_ipm": "mediana_nivel_ipm_00",
+      "cambio_ipm": "mediana_cambio_ipm_00",
+      "cambio_tasas": "mediana_cambio_tasas_00",
+      "cambio_ambas": "mediana_cambio_ambas_00"
+    },
+    "candidatos": [
+      {
+        "id": "persistencia",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 6.0,
+        "rmse": 6.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_historico_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_historico_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_historico_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_nivel_ipm_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_nivel_ipm_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_nivel_ipm_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_ipm_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_ipm_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_ipm_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_tasas_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_tasas_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_tasas_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_ambas_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_ambas_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "mediana_cambio_ambas_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_historico_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_historico_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_historico_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_historico_03",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_nivel_ipm_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_nivel_ipm_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_nivel_ipm_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_nivel_ipm_03",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ipm_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ipm_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ipm_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ipm_03",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_tasas_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_tasas_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_tasas_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_tasas_03",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ambas_00",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ambas_01",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ambas_02",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      },
+      {
+        "id": "boosting_absoluto_cambio_ambas_03",
+        "estado": "completo",
+        "ventanas": [
+          2021
+        ],
+        "mae": 3.0,
+        "rmse": 3.0,
+        "razon": null
+      }
+    ]
+  },
+  "instante_monotonico_antes_externo": 8387.302806302
+}

@@ -1,0 +1,36 @@
+{
+  "fecha_consulta": "2026-10-12",
+  "cierre_utc": "2026-10-12T20:05:19.080436+00:00",
+  "estado": "incompleto_documental_procedencia_disponibilidad",
+  "python": "3.14.7",
+  "poppler": "pdftotext version 26.08.0",
+  "fuentes_editables": [
+    "fuentes/documental.py",
+    "fuentes/leer_paginas.py",
+    "fuentes/generar_calendario.py",
+    "fuentes/registrar_lecturas.py",
+    "fuentes/cerrar_documental.py",
+    "verificar_documental.py"
+  ],
+  "procedimiento": "lecturas/huellas previas -> documentación oficial por secciones -> calendario -> protocolo propuesto -> conservación/verificador",
+  "ajustes": 0,
+  "nuevos_datasets_analiticos": 0,
+  "escenarios": 0,
+  "objetivo4_ejecutado": false,
+  "presupuesto_heredado": false,
+  "notebook_generado": false,
+  "motivo_sin_notebook": "No añade valor a la preparación documental; fuentes .py y CSV documentales suficientes.",
+  "fechas_uso_aprobadas": false,
+  "procedencia_valores_locales_resuelta": false,
+  "disponibilidad_indispensable_resuelta": false,
+  "originales_preservados": "Todas las huellas previas de archivos regulares sin symlinks salvo continuidad propia, preservada íntegra; inventario excluye Git/runtime/cache. Destinos de enlaces sin baseline inicial: no certificación retrospectiva.",
+  "consultas_externas": "Solo documentación oficial DANE/ICFES; se archivaron ocho documentos/imágenes, no bases ni anexos de datos.",
+  "pendientes": [
+    "autenticar vintages y disponibilidad de valores",
+    "fechas y revisiones de ambas bases Saber por año",
+    "fecha de uso/corte",
+    "cobertura y protocolo antes de resultados",
+    "criterios, candidatos y presupuesto nuevos si se autoriza"
+  ],
+  "avance_automatico": false
+}

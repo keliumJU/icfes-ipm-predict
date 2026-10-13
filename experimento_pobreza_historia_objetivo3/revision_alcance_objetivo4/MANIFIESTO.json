@@ -1,0 +1,14 @@
+{
+  "tipo": "complemento documental posterior; no reemplaza manifiesto previo",
+  "sha256": {
+    "CONTINUIDAD.md": "3c101ff0f3000e3ef395cea83776b7d1f704d42298ac7228a59bde7fe0fe8850",
+    "DECISION_Y_PROTOCOLO.md": "827f8c22a39dd24aad3627b2a946d3e2475272cc817692d14d244ff5bc03df8b",
+    "PARTIDA.json": "3c9f833c86df2944e849fe709a87d67cf007a91999832d8972705eb446c5ec25",
+    "REVISION_EVIDENCIA_LOCAL.md": "646618b3a112eb23b9d152fec67eb12a530a229b618488fd19eff7e357b386f2",
+    "verificar_complemento.py": "c717e0a167c93957133e1f15b2a0c36fa822b8c099d0c4dc1fa19926609c865e"
+  },
+  "exclusiones": [
+    "MANIFIESTO.json",
+    "VERIFICACION.json"
+  ]
+}

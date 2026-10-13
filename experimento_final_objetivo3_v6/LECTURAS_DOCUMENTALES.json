@@ -1,0 +1,29 @@
+{
+  "archivos": {
+    "AGENTS.md": {
+      "sha256": "4f021b7d45e2b61951c2c2b3e939482f47882f12d52c3ba62f9db1482e58f466",
+      "revisado": "completo; JSON procesado íntegro"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md": {
+      "sha256": "abc4df7935764e751e9ff0531d6996d9db78b6cda206c241e95509416610fc08",
+      "revisado": "completo; JSON procesado íntegro"
+    },
+    "experimentos_memoria_comun_objetivo3_v1/etapa3/PROPUESTAS_FUTURAS.md": {
+      "sha256": "492d25d1fa4b1a419de10af2686b376bb790eda82463078f9ea81c29847bb5c1",
+      "revisado": "completo; JSON procesado íntegro"
+    },
+    "experimentos_objetivo3_v3/etapa2/resultados/meta.json": {
+      "sha256": "46d424c7bb07435888d402b18b1512bd391d06e0eea300d460881253eddd91fc",
+      "revisado": "completo; JSON procesado íntegro"
+    },
+    "diseno_memoria_comun_objetivo3_v1/ESPECIFICACION_DOCUMENTAL.json": {
+      "sha256": "f02e5bfe068049b5dd3f0a2599ad310e375110137dcbe2ca86da4daa68b80161",
+      "revisado": "completo; JSON procesado íntegro"
+    }
+  },
+  "otros": "metadatos de entorno/get_params;manifiesto/aceptaciónfase4;históricav5commitreal;temporal texto preservado;fuentes_verificadas solo referencias locales de fechas, no autenticación nueva",
+  "planes_anteriores": "No leídos; nueva continuidad inexistente al inicio, inventario propio de partida",
+  "PDF_paginas": 0,
+  "web": 0,
+  "pendientes": "implementación/pruebas/freeze/piloto/auditoría/notebook/texto tesis;disponibilidad real no autenticada"
+}

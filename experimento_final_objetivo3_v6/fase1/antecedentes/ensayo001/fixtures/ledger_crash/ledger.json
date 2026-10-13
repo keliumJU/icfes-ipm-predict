@@ -1,0 +1,19 @@
+{
+  "status": "cerrado_incompleto",
+  "budget_seconds": 20,
+  "start_monotonic": 27801.958290384,
+  "start_wall": 1791757250.5109916,
+  "elapsed_seconds": 20,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": {
+    "sin_medicion": true
+  },
+  "events": [],
+  "serial": true,
+  "pending_unmeasured": true,
+  "error": "caída sin medición; saldo agotado conservadoramente"
+}

@@ -1,0 +1,10 @@
+{
+  "texto": "objetivo3/TEXTO_PARA_TESIS.md",
+  "numeros_tablas": "objetivo3/tablas/metricas_comparables.csv",
+  "base_y_parametros": "fase6/entrega/informe_objetivo_3_revisado.md §§3–5; fase3/resultados/congelacion.json",
+  "historia_y_decisiones": "experimento_final_objetivo3_v6/ejecucion_autorizada/PROTOCOLO_V6.md §§2–5; fase3/DIAGNOSTICO_SELECCION.json; fase3/tablas/decisiones_globales.csv",
+  "requisitos_originales": "Tesis Vigente/ACA2.pdf pp.25–26,58–60",
+  "ampliacion": "decisión humana 12/10/2026; control exacto de 198 medias y denominadores en analisis.data",
+  "mejora_porcentaje": 1.8636451146709523,
+  "no_fits": true
+}

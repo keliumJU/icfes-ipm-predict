@@ -1,0 +1,104 @@
+{
+  "archivos": [
+    {
+      "archivo": "AGENTS.md",
+      "alcance": "Completo",
+      "sha256": "4f021b7d45e2b61951c2c2b3e939482f47882f12d52c3ba62f9db1482e58f466"
+    },
+    {
+      "archivo": "diseno_temporal_objetivo3_v1/CONTINUIDAD_DISENO.md",
+      "alcance": "Completa",
+      "sha256": "294db05d94f72726d3eb9080aee16a48fac5895d1cd90c6cdf9eb3b7a1dddec9"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md",
+      "alcance": "Completa; estado vigente separado de antecedentes archivados",
+      "sha256": "0e474594749419039257c4b4657d2974fff296cae3052ae95483e7c593823225"
+    },
+    {
+      "archivo": "diseno_temporal_objetivo3_v1/PLAN_DISENO.md",
+      "alcance": "Solo fase documental actual registrada; no planes operativos posteriores",
+      "sha256": "f9436d4eae242b96d52b97a8198c4af81b330bbf1e7261ca5f85f2faac3a9131"
+    },
+    {
+      "archivo": "experimentos_temporales_objetivo3_v1/etapa1/PLAN_ETAPA1.md",
+      "alcance": "Solo fase1 actual",
+      "sha256": "428f62ca8b5986bbb834254cc10e9e743d6c6ba171c6ced1cda799453aa15bde"
+    },
+    {
+      "archivo": "diseno_temporal_objetivo3_v1/PROTOCOLO_TEMPORAL.md",
+      "alcance": "Completo, releído sin truncar",
+      "sha256": "004b4597b86c584cfb7c04bc9fd47f8da2c8be3322ff43f59bb615c6052dc36c"
+    },
+    {
+      "archivo": "diseno_temporal_objetivo3_v1/ESPECIFICACION_PROPUESTA.json",
+      "alcance": "JSON completo procesado; herencia exacta comparada",
+      "sha256": "a9a9a4c6d3c3557a3a1c99b34605a9cbdb581ae8509cd98d44bc9d386c77e0af"
+    },
+    {
+      "archivo": "diseno_temporal_objetivo3_v1/EVIDENCIA_Y_DECISIONES.md",
+      "alcance": "Completo",
+      "sha256": "d05272fb69375249fdccf066b79440ef87acb33be44f1d455431635ae4404d6e"
+    },
+    {
+      "archivo": "diseno_temporal_objetivo3_v1/HISTORIA_Y_EVALUACION.md",
+      "alcance": "Completo",
+      "sha256": "4d245ebca5c6569a12588d0aa64ce95ab3f34719a470ac4eaa1d4b7ed047d8c8"
+    },
+    {
+      "archivo": "diseno_temporal_objetivo3_v1/PROMPT_FASE1_IMPLEMENTACION.md",
+      "alcance": "1–60; además prompt completo recibido del usuario",
+      "sha256": "5df6f547f2994523eb06f112dbfac5bb17ad558ed5eb846229fa253aea1d5341"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/fuentes/comun_diagnostico.py",
+      "alcance": "Completo, solo lectura, nunca importado",
+      "sha256": "ec670a589a17976ba22abc1b0a2d9332246fc071b89f7fa86c431a39e4dc4049"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/fuentes/preflight_documental.py",
+      "alcance": "Completo, solo lectura, nunca ejecutado/importado",
+      "sha256": "cc5a02dcd6b132a03d08d2b45433b99fcc6baf73d3292a46b424f567cd1ee164"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/fuentes/ejecutar_diagnostico.py",
+      "alcance": "170–225; búsqueda acotada de referencias",
+      "sha256": "77edd3e2ce910aead83622796923f926f4e192196907441a26c21038f36a040d"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/fuentes/comun_v5.py",
+      "alcance": "Completo, solo lectura",
+      "sha256": "fe4f6b0d1a1dc7e91fe9f3e9d9cab461fa3cf22ede420de953c1afb798b0fdc3"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/motor.py",
+      "alcance": "Completo, solo lectura",
+      "sha256": "4caa38038f38588e5cb79267e35331dbae828c4c3068162b0974a97e4e2fa6a3"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/worker.py",
+      "alcance": "Completo, solo lectura",
+      "sha256": "80703df73b94a6413c43cf8af19c7e6962e5f71f00231101edacecf71f26a943"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v2/fase2/fuentes/comun.py",
+      "alcance": "85–120; selección heredada",
+      "sha256": "5a93b636daaac72f07e6dc0d1128e8646686b75affd1564d651feebe5180d659"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v2/fase2/fuentes/congelar.py",
+      "alcance": "Completo, serialización/defaults; solo lectura",
+      "sha256": "64afb0586cd317519c3c22c5119409f1c2a527a159541e8df12e3cf3e03a5cec"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa2/fuentes/verificar.py",
+      "alcance": "Búsqueda acotada referencias/v3/persistencia, no completo",
+      "sha256": "d5bb869927ced98946cad155d0d83f35aa770558996234d21f1b36b5f1d4c205"
+    }
+  ],
+  "datasets": "Única fuente/derivado y dos CSV de referencia completos mediante código; solo integridad, sin raw",
+  "manifiestos": "Mapas completos en huellas_antecedentes y conservación; única excepción continuidad v5 etapa1 en su commit real",
+  "pdf_paginas": 0,
+  "web": 0,
+  "pendiente": "Lecturas operativas fase2 solo bajo otra autorización"
+}

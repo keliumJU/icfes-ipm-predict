@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "context": "infra",
+  "limit": 30,
+  "synthetic": true,
+  "start_monotonic": 15423.586382297,
+  "start_wall": 1791744024.519694,
+  "used": 1.1500635020001937,
+  "attempts": [
+    {
+      "job": "infra",
+      "attempt": 1,
+      "context": "4dd4281bc5380eb60d37daa808f36e5b597375a6b30737af23835f0df3484bdd",
+      "state": "infrastructure",
+      "request": "resultados/sinteticos/corrida_001/infra/jobs/infra/intento_1/solicitud.json",
+      "request_sha256": "0e3d79019b29d47b1f4a854d533b1eb2f77ef5b5460661815b3d02d4a33042bb",
+      "output": "resultados/sinteticos/corrida_001/infra/jobs/infra/intento_1/resultado.json",
+      "start_monotonic": 15423.592918713,
+      "pid": 558,
+      "seconds_measured": 1.142889892000312,
+      "returncode": 3,
+      "process_terminated": true,
+      "pipeline_fits_started": 0
+    }
+  ],
+  "retries": 1,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

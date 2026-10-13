@@ -1,0 +1,22 @@
+{
+  "estado": "cerrado_fallido",
+  "codigo_congelado_modificado": false,
+  "primer_arranque": "interrumpido por ausencia persistente de salida; exit130 observado",
+  "primera_terminacion_epoch": 1791829871.0937788,
+  "fit_pending": null,
+  "fits_piloto": 200,
+  "retries_fits": 0,
+  "retry_total_sesion": 1,
+  "inicio_retry_epoch": 1791829871.0946753,
+  "limite_diagnostico_seconds": 20,
+  "exit_code_retry": 1,
+  "diagnostico_file": "cierre_incompleto/DIAGNOSTICO_NOTEBOOK.txt",
+  "diagnostico_sha256": "1314c4b46c31b340832e2ff054693d1feb6071f67d1d41b7e2442332de2f7357",
+  "process_terminated": true,
+  "notebook_cells_executed": 0,
+  "end_retry_epoch": 1791830049.3554924,
+  "saldo_reutilizable": false,
+  "elapsed_retry_observed_upper_seconds": 178.26081705093384,
+  "clasificacion": "bloqueo de sincronización al iniciar kernel; defecto del generador, no evidencia de fallo numérico/modelos ni de red",
+  "hipotesis": "KernelManager síncrono dentro de ejecución asíncrona; traza apunta a Future.result en start_kernel. No probado un arreglo."
+}

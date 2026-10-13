@@ -1,0 +1,17 @@
+{
+  "synthetic": true,
+  "context": "inventado-procesos",
+  "limit": 10,
+  "used": 0.009748779000801733,
+  "attempts": [
+    {
+      "job": "ok",
+      "status": "success",
+      "attempt": 1,
+      "seconds": 0.009748779000801733,
+      "elapsed_measured": 0.009748779000801733,
+      "artifact": "ok_1.txt",
+      "sha256": "feba029678dc15a15d7c4c5d73f9e067cb290d296a8a13ebf0b186306a9d790e"
+    }
+  ]
+}

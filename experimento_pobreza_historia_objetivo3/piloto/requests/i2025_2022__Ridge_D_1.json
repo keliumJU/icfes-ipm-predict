@@ -1,0 +1,42 @@
+{
+  "candidate": {
+    "id": "Ridge_D_1",
+    "order": 8,
+    "group": "D",
+    "family": "Ridge",
+    "inputs": [
+      "Analfabetismo",
+      "Bajo logro educativo",
+      "Barreras a servicios para cuidado de la primera infancia",
+      "Inasistencia escolar",
+      "Rezago escolar",
+      "Trabajo infantil",
+      "Desempleo de larga duracion",
+      "Trabajo informal",
+      "Barreras de acceso a servicios de salud",
+      "Sin aseguramiento en salud",
+      "Hacinamiento critico",
+      "Inadecuada eliminacion de excretas",
+      "Material inadecuado de paredes exteriores",
+      "Material inadecuado de pisos",
+      "Sin acceso a fuente de agua mejorada"
+    ],
+    "params": {
+      "alpha": 1.0,
+      "copy_X": true,
+      "fit_intercept": true,
+      "max_iter": null,
+      "positive": false,
+      "random_state": 20261010,
+      "solver": "svd",
+      "tol": 0.0001
+    },
+    "scaler": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    }
+  },
+  "matrix_file": "preflight/matrices/i2025_2022__Ridge_D_1.json",
+  "output_file": "piloto/records/i2025_2022__Ridge_D_1.json"
+}

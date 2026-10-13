@@ -1,0 +1,20 @@
+{
+  "status": "abierto",
+  "budget_seconds": 20,
+  "start_monotonic": 29620.90430607,
+  "start_wall": 1791759069.4570072,
+  "elapsed_seconds": 0.008045192000281531,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": {
+    "name": "failure",
+    "attempt": 0,
+    "request_sha": "6d3bbe41c7d13a615e5d9dbc0595c8c3c2c6d2e02415c34bfcd2e0df2bdc4e36",
+    "start": 29620.912349713
+  },
+  "events": [],
+  "serial": true
+}

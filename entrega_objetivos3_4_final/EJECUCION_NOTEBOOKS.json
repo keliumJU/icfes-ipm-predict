@@ -1,0 +1,8 @@
+{
+  "generador": "fuentes/generar_notebooks.py",
+  "nbformat_validado": true,
+  "01_diseno": "generado sin ejecución; rutas manuales desactivadas",
+  "02_resultados": "ejecutado realmente con kernel",
+  "ejecutable_generador": "/tmp/icfes-v2-fase2-venv/bin/python",
+  "fits_nuevos": 0
+}

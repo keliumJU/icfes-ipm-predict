@@ -1,0 +1,30 @@
+{
+  "aprobado": true,
+  "controles_documentales": {
+    "preflight_antecedentes": true,
+    "continuidad_historica_commit_ancestro": true,
+    "entorno_exacto_y_defaults": true,
+    "semantica_completa_y_referencias": true,
+    "cuatro_candidatos_orden_entradas": true,
+    "particiones_heredadas_exactas": true,
+    "trazabilidad_5externas_10internas": true,
+    "2019_no_respuesta_y_2021_cero_pares": true,
+    "unidades_comunes_territoriales": true,
+    "objetivo_meta_pesos": true,
+    "no_congelacion_no_fits": true,
+    "prompts_independientes_condicionados": true,
+    "advertencias_completas": true,
+    "sin_notebooks_modelos_ledger": true
+  },
+  "controles_operativos": "No ejecutados ni aprobados: rezagos/mutación/fits inventados/selección/runner/ledger/CSV adversarial pendientes fase2; documentación no sustituye pruebas.",
+  "conteos_documentales": {
+    "internas": 1320,
+    "registros": 16,
+    "externas": 825,
+    "unicas_condicionadas": 528,
+    "fits_internos": 24,
+    "fits_externos": 16,
+    "repeticiones_max": 6
+  },
+  "expectativas_no_resultados": true
+}

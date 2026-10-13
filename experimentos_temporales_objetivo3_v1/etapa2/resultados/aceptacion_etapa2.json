@@ -1,0 +1,14 @@
+{
+  "completa": true,
+  "aprobado": true,
+  "meta_satisfecha": false,
+  "auditoria": true,
+  "notebook6": true,
+  "conservacion": true,
+  "pendientes_indispensables": [],
+  "pendientes_cientificos": [
+    "Confirmación independiente/disponibilidad operacional requieren fuentes comparables/fechas y autorización separadas"
+  ],
+  "avance_auto": false,
+  "primario": "recencia_h2/global"
+}

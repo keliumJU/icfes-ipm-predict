@@ -1,0 +1,18 @@
+{
+  "aprobado_integridad_documental": true,
+  "solo_lectura": true,
+  "archivos_previos_comprobados": 38962,
+  "archivos_entrega_comprobados": 44,
+  "copias_prompt_comprobadas": 7,
+  "calendario_filas": 134,
+  "cortes": 15,
+  "fuentes_autenticadas": false,
+  "disponibilidad_valores_locales_certificada": false,
+  "pares_certificados": 0,
+  "cierre_incompleto": true,
+  "ajustes": 0,
+  "nuevos_datasets_analiticos": 0,
+  "objetivo4_ejecutado": false,
+  "avance_automatico": false,
+  "limite": "Inventario inicial de archivos regulares, sin symlinks; Git/runtime/cache excluidos. Sin certificación retrospectiva de destinos de enlaces ni autenticidad oficial."
+}

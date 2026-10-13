@@ -1,0 +1,31 @@
+{
+  "cols": [
+    "prop_oficial",
+    "prop_urbana",
+    "n_punt_global",
+    "ipm"
+  ],
+  "bounds": {
+    "prop_oficial": [
+      0.5459875920508424,
+      1.0
+    ],
+    "prop_urbana": [
+      0.45789473684210524,
+      0.9914001815797437
+    ],
+    "n_punt_global": [
+      190.0,
+      79542.0
+    ],
+    "ipm": [
+      3.6,
+      75.4
+    ]
+  },
+  "nn_p95": 0.4253953906962658,
+  "mediana_33_no_ponderada": 13.0,
+  "tiempo_fuera_soporte": "2025 extrapola tendencia entrenada hasta 2023",
+  "criterio_fijado": "PLAN_Y_PROTOCOLO.md",
+  "sin_intervalos_causales": true
+}

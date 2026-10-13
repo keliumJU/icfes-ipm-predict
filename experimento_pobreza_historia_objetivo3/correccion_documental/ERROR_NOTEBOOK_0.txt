@@ -1,0 +1,42 @@
+Traceback (most recent call last):
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimento_pobreza_historia_objetivo3/correccion_documental/generar_notebook_corregido.py", line 32, in run
+    client.execute(cleanup_kc=True)
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/asyncio/base_events.py", line 691, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/nbclient/client.py", line 693, in async_execute
+    async with self.async_setup_kernel(**kwargs):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/contextlib.py", line 210, in __aenter__
+    return await anext(self.gen)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/nbclient/client.py", line 648, in async_setup_kernel
+    await self.async_start_new_kernel(**kwargs)
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/nbclient/client.py", line 550, in async_start_new_kernel
+    await ensure_async(self.km.start_kernel(extra_arguments=self.extra_arguments, **kwargs))
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+    result = await obj
+             ^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_client/manager.py", line 116, in wrapper
+    raise e
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_client/manager.py", line 107, in wrapper
+    out = await method(self, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_client/manager.py", line 528, in _async_start_kernel
+    kernel_cmd, kw = await self._async_pre_start_kernel(**kw)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_client/manager.py", line 493, in _async_pre_start_kernel
+    kw = await self.provisioner.pre_launch(**kw)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_client/provisioning/local_provisioner.py", line 216, in pre_launch
+    km.shell_port = lpc.find_available_port(km.ip)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/jupyter_client/connect.py", line 753, in find_available_port
+    tmp_sock = socket.socket()
+               ^^^^^^^^^^^^^^^
+  File "/home/kelium/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/socket.py", line 233, in __init__
+    _socket.socket.__init__(self, family, type, proto, fileno)
+PermissionError: [Errno 1] Operation not permitted

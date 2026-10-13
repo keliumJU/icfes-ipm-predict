@@ -1,0 +1,572 @@
+{
+  "start_epoch": 1791826739,
+  "restoration_finished": 1791826773.9829931,
+  "packages": [
+    {
+      "name": "debugpy",
+      "version": "1.8.22",
+      "cache": "/home/kelium/.cache/pip/http-v2/4/6/2/6/c/4626c06fadf720a4298a6fa450a3558ded33b0aa9589ffb3cbb0458b.body",
+      "wheel": "debugpy-1.8.22-cp312-cp312-manylinux_2_34_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_34_x86_64"
+      ],
+      "sha256": "8a697acec45dbc70d17fb5d9f4f61989fc294d273c69de487fd10cb35fdd75eb"
+    },
+    {
+      "name": "threadpoolctl",
+      "version": "3.7.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/4/b/c/2/2/4bc2254e8e4d54c633c048f7452da2dca4b5903c06f90a1620dc81ff.body",
+      "wheel": "threadpoolctl-3.7.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "cd8b60b5641b45c67bbf73c64c843235fc2d8a480c87389f52f5dbee893b86be"
+    },
+    {
+      "name": "six",
+      "version": "1.17.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/4/0/0/d/b/400db3c9a550719d76958c9c597bfbff6eb98533f684c02cc870de92.body",
+      "wheel": "six-1.17.0-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274"
+    },
+    {
+      "name": "pure-eval",
+      "version": "0.2.4",
+      "cache": "/home/kelium/.cache/pip/http-v2/4/2/0/3/4/42034c7c91e5dbbe04894ec38f1c44a060efee67e7349bae4cfb1412.body",
+      "wheel": "pure_eval-0.2.4-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "96cae060a313cfaad51bb761278bfb0e62dc0248d9315a81173752dc546cd37a"
+    },
+    {
+      "name": "pygments",
+      "version": "2.21.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/0/0/4/f/5/004f51e4cdaa64d7951a6294c47f410a2290cde6415bd52c394181fd.body",
+      "wheel": "pygments-2.21.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "2363c69b61c4a97c838da3b130dcd6468f4848992b21a82f2a63ec34377137d9"
+    },
+    {
+      "name": "asttokens",
+      "version": "3.0.2",
+      "cache": "/home/kelium/.cache/pip/http-v2/0/0/4/8/0/004806b0fb647e1403e847bbbddba0c566d3ff7f95bd6d6e7b4be0d9.body",
+      "wheel": "asttokens-3.0.2-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "9da13157f5b28becde0bd374fc677dcd3c290614264eff096f167c469cd9f933"
+    },
+    {
+      "name": "fonttools",
+      "version": "4.66.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/0/a/a/6/9/0aa69ebcdbd0ae02a550e38da8955a026e3384a2ad2dc02c8e4aec8c.body",
+      "wheel": "fonttools-4.66.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_17_x86_64",
+        "cp312-cp312-manylinux2014_x86_64"
+      ],
+      "sha256": "7b8ff9e0edbcee2fbf7dff0c41b9041c1901c26acf64e23adb67495012df11de"
+    },
+    {
+      "name": "ipykernel",
+      "version": "6.30.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/0/1/f/1/6/01f16b24224d6e4d86a38f829c6e3d8519b0efd581203e54a318456e.body",
+      "wheel": "ipykernel-6.30.1-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "aa6b9fb93dca949069d8b85b6c79b2518e32ac583ae9c7d37c51d119e18b3fb4"
+    },
+    {
+      "name": "platformdirs",
+      "version": "4.12.4",
+      "cache": "/home/kelium/.cache/pip/http-v2/0/e/0/5/b/0e05be7fe38dbc3b9724abbfd7ec5968eb4b3ed86f5ef4951c1f03d9.body",
+      "wheel": "platformdirs-4.12.4-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "78bfb9db2a8471ed7eebe3c3c932da413911042994e699b384fbb4493fa872d7"
+    },
+    {
+      "name": "jupyter-core",
+      "version": "5.9.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/6/4/1/b/0/641b049a1c8d28f6c0248a858726a0660819f081e11bc493dcf64483.body",
+      "wheel": "jupyter_core-5.9.1-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "ebf87fdc6073d142e114c72c9e29a9d7ca03fad818c5d300ce2adc1fb0743407"
+    },
+    {
+      "name": "pyzmq",
+      "version": "27.2.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/6/4/0/2/2/640228597169a1ddded822592b707013dff41cc49c2d2b2543b20426.body",
+      "wheel": "pyzmq-27.2.0-cp312-abi3-manylinux_2_26_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp312-abi3-manylinux_2_26_x86_64",
+        "cp312-abi3-manylinux_2_28_x86_64"
+      ],
+      "sha256": "dea74fd65f1fc5f7fe167916a473ebe6ed6174e5e5d9de11ea6583661be6cf43"
+    },
+    {
+      "name": "wcwidth",
+      "version": "0.9.2",
+      "cache": "/home/kelium/.cache/pip/http-v2/6/4/5/7/b/6457b6c951b2f58b46ab40a7faa557680d57935ac4cd6120c7854768.body",
+      "wheel": "wcwidth-0.9.2-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "tags": [
+        "cp310-abi3-manylinux_2_17_x86_64",
+        "cp310-abi3-manylinux2014_x86_64"
+      ],
+      "sha256": "751bef0ab404b6a1dc028b56b4b85d46486be1c55833f80da533e42dc691f389"
+    },
+    {
+      "name": "cycler",
+      "version": "0.12.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/6/c/6/e/e/6c6eeaf6757edbde690577822daacaba826c2b12ce67b57b33e8021d.body",
+      "wheel": "cycler-0.12.1-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "85cef7cff222d8644161529808465972e51340599459b8ac3ccbac5a854e0d30"
+    },
+    {
+      "name": "jupyter-client",
+      "version": "8.10.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/6/f/3/d/1/6f3d138ea1fbae4f7130cfedfd96e371325cfe683b5ef4c671b59457.body",
+      "wheel": "jupyter_client-8.10.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "5f73f24f22fa25192cfff6b23c051932a2473a797b05734aff495b392103e14e"
+    },
+    {
+      "name": "ptyprocess",
+      "version": "0.7.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/6/7/f/5/b/67f5b5747518cbf74987d367c9e086a003d777484ff6398b7b101a95.body",
+      "wheel": "ptyprocess-0.7.0-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35"
+    },
+    {
+      "name": "scipy",
+      "version": "1.18.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/a/b/9/b/d/ab9bd6f23d39e2581d343a13e3a5c48e8a1b1f1019e959bee33c42b4.body",
+      "wheel": "scipy-1.18.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_27_x86_64",
+        "cp312-cp312-manylinux_2_28_x86_64"
+      ],
+      "sha256": "f55fa87b6c612ecd6b058f167c53231b1d14e412efe361d3d6e38b3631c73218"
+    },
+    {
+      "name": "jedi",
+      "version": "0.20.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/a/d/4/e/c/ad4ec3a9ff43fafb878b0db26f106fd717ebbb34e671c139e303e53b.body",
+      "wheel": "jedi-0.20.0-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "7bdd9c2634f56713299976f4cbd59cb3fa92165cc5e05ea811fb253480728b67"
+    },
+    {
+      "name": "pexpect",
+      "version": "4.9.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/f/3/a/6/5/f3a6530dc7fb03fabb45f38f86d64f93ec229749526b88172b3d7d2f.body",
+      "wheel": "pexpect-4.9.0-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "7236d1e080e4936be2dc3e326cec0af72acf9212a7e1d060210e70a47e253523"
+    },
+    {
+      "name": "nbclient",
+      "version": "0.10.2",
+      "cache": "/home/kelium/.cache/pip/http-v2/f/6/5/c/a/f65ca3663fdf90b20482a27a0c875aa74c8cd73d72f11b5376aa649a.body",
+      "wheel": "nbclient-0.10.2-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "4ffee11e788b4a27fabeb7955547e4318a5298f34342a4bfd01f2e1faaeadc3d"
+    },
+    {
+      "name": "cloudpickle",
+      "version": "3.1.2",
+      "cache": "/home/kelium/.cache/pip/http-v2/2/0/e/1/0/20e10f4fc988909a746bf843c101fcfdd9ccd6c16c4cc28a5a0f489b.body",
+      "wheel": "cloudpickle-3.1.2-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "9acb47f6afd73f60dc1df93bb801b472f05ff42fa6c84167d25cb206be1fbf4a"
+    },
+    {
+      "name": "matplotlib-inline",
+      "version": "0.2.2",
+      "cache": "/home/kelium/.cache/pip/http-v2/2/c/b/f/c/2cbfcb3c43dfe4d68d7e7a63d83ce47abe237b857b71d7f73288f8b1.body",
+      "wheel": "matplotlib_inline-0.2.2-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "3c821cf1c209f59fb2d2d64abbf5b23b67bcb2210d663f9918dd851c6da1fcf6"
+    },
+    {
+      "name": "numpy",
+      "version": "2.5.3",
+      "cache": "/home/kelium/.cache/pip/http-v2/b/1/b/0/9/b1b09c55c48c39ee09c8b783fe520228557321a648173acbff822b96.body",
+      "wheel": "numpy-2.5.3-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_27_x86_64",
+        "cp312-cp312-manylinux_2_28_x86_64"
+      ],
+      "sha256": "b7e18c623bb5c95acb3b3328861272816ba199fb531921c5d6d0b675f1fde9e3"
+    },
+    {
+      "name": "packaging",
+      "version": "26.3",
+      "cache": "/home/kelium/.cache/pip/http-v2/b/1/1/9/0/b11909f451f61fb29636217082b1c638b177c59eac335e0200a136e6.body",
+      "wheel": "packaging-26.3-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c"
+    },
+    {
+      "name": "attrs",
+      "version": "26.1.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/b/1/4/e/c/b14ec1286f8ec83b268f9c52cdccd1001d22496d6e01ba5b4fd8aeb4.body",
+      "wheel": "attrs-26.1.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "c647aa4a12dfbad9333ca4e71fe62ddc36f4e63b2d260a37a8b83d2f043ac309"
+    },
+    {
+      "name": "psutil",
+      "version": "7.2.2",
+      "cache": "/home/kelium/.cache/pip/http-v2/b/5/0/1/6/b50161ce80a3ddd3f50977d5414a93660648823b703e10f65f16eeeb.body",
+      "wheel": "psutil-7.2.2-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp36-abi3-manylinux_2_12_x86_64",
+        "cp36-abi3-manylinux2010_x86_64",
+        "cp36-abi3-manylinux_2_28_x86_64"
+      ],
+      "sha256": "076a2d2f923fd4821644f5ba89f059523da90dc9014e85f8e45a5774ca5bc6f9"
+    },
+    {
+      "name": "parso",
+      "version": "0.8.7",
+      "cache": "/home/kelium/.cache/pip/http-v2/c/a/4/8/5/ca4859a3b60e961769907410c9c819bc33a934afa59f143e504c92ac.body",
+      "wheel": "parso-0.8.7-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "a8926eb2a1b915486941fdbd31e86a4baf88fe8c210f25f2f35ecec5b574ca1c"
+    },
+    {
+      "name": "jsonschema-specifications",
+      "version": "2025.9.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/c/9/2/3/4/c92343c66b0dc7638b486b828ba26c07e51fe308e9da38034706d11f.body",
+      "wheel": "jsonschema_specifications-2025.9.1-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "98802fee3a11ee76ecaca44429fda8a41bff98b00a0f2838151b113f210cc6fe"
+    },
+    {
+      "name": "executing",
+      "version": "2.2.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/c/7/1/7/7/c71776559b3ee58698dc5706d3cba13bee9151852400f9bdb490a166.body",
+      "wheel": "executing-2.2.1-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "760643d3452b4d777d295bb167ccc74c64a81df23fb5e08eff250c425a4b2017"
+    },
+    {
+      "name": "contourpy",
+      "version": "1.4.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/9/a/9/2/6/9a926243f3c5fd39ebd3d9552fc85bf7e36eec7bb160784fc1077a4d.body",
+      "wheel": "contourpy-1.4.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_27_x86_64",
+        "cp312-cp312-manylinux_2_28_x86_64"
+      ],
+      "sha256": "875f42444c9cf48d56f724f2637e60d0f73b3b12c9041e1484580a233edf9591"
+    },
+    {
+      "name": "prompt-toolkit",
+      "version": "3.0.53",
+      "cache": "/home/kelium/.cache/pip/http-v2/9/a/9/7/a/9a97ae9e6c46d1ed1a91b9c60ea5ac0925fd6b4cd080ac41e68138b6.body",
+      "wheel": "prompt_toolkit-3.0.53-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "01c0891d7f9237d5e339f7d3e42cdae80b7534abb1c7c0e3352efba6231492f2"
+    },
+    {
+      "name": "ipython",
+      "version": "9.17.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/9/5/9/3/d/9593daa74b80c7d09944d95ef763c997b0388775db64afdd06415626.body",
+      "wheel": "ipython-9.17.1-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "6d1645743cfd1a07eb695d85aa2b5fa66721f8cbae9431d4049f7084bbf06509"
+    },
+    {
+      "name": "referencing",
+      "version": "0.37.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/9/8/0/6/4/9806464430c23d93c717be0a494a22ece76de403154ebf770ebd0e44.body",
+      "wheel": "referencing-0.37.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "381329a9f99628c9069361716891d34ad94af76e461dcb0335825aecc7692231"
+    },
+    {
+      "name": "pyparsing",
+      "version": "3.3.3",
+      "cache": "/home/kelium/.cache/pip/http-v2/e/b/1/9/1/eb191316105c4d39809788cbc595af2313b33a8242498096126657d4.body",
+      "wheel": "pyparsing-3.3.3-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "ece8c00a69cf01b45d0b1dedabb469c90d8caf996d4fda40f147627a122849a4"
+    },
+    {
+      "name": "joblib",
+      "version": "1.6.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/e/1/3/3/6/e133652aa63b050ce98b6df151cfb82e4a4a074936713c6324bddd5a.body",
+      "wheel": "joblib-1.6.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "3dbbf9f6e4b592a2357b854608e980fe6390d131d7a82f011a377ef2ebef7aba"
+    },
+    {
+      "name": "kiwisolver",
+      "version": "1.5.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/e/7/b/e/0/e7be012d46497fd57f7b59ba94f776871b3e13a1aea79c6c1009d52e.body",
+      "wheel": "kiwisolver-1.5.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_17_x86_64",
+        "cp312-cp312-manylinux2014_x86_64"
+      ],
+      "sha256": "34633ecf50d16187ab8e5528b7a2530f2feb4e23f300db4672538b51cfc5cd38"
+    },
+    {
+      "name": "pytz",
+      "version": "2026.5",
+      "cache": "/home/kelium/.cache/pip/http-v2/e/8/b/1/e/e8b1e51b6e93ce1e49b40800c92115987ff58f3815c4433c38b5d008.body",
+      "wheel": "pytz-2026.5-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "e658af3757f9e26a9d25dd2aff38335acd92bc9104f890a894b2c1ba28311b03"
+    },
+    {
+      "name": "ipython-pygments-lexers",
+      "version": "1.1.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/e/8/5/d/5/e85d57f13b27e8792f582983bf96fb2eb991f447c01c02bcbf0d1405.body",
+      "wheel": "ipython_pygments_lexers-1.1.1-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "a9462224a505ade19a605f71f8fa63c2048833ce50abc86768a0d81d876dc81c"
+    },
+    {
+      "name": "stack-data",
+      "version": "0.6.3",
+      "cache": "/home/kelium/.cache/pip/http-v2/e/5/9/9/b/e599b6418d10d681ba6db09fb679a0e09e0381cdddc5ba6309439496.body",
+      "wheel": "stack_data-0.6.3-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "d5558e0c25a4cb0853cddad3d77da9891a08cb85dd9f9f91b9f8cd66e511e695"
+    },
+    {
+      "name": "tornado",
+      "version": "6.5.10",
+      "cache": "/home/kelium/.cache/pip/http-v2/d/2/d/d/3/d2dd365a7c09e5d4402aca587488f1d96784bf82e8638d41df90f2f3.body",
+      "wheel": "tornado-6.5.10-cp39-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp39-abi3-manylinux_2_5_x86_64",
+        "cp39-abi3-manylinux1_x86_64",
+        "cp39-abi3-manylinux_2_28_x86_64"
+      ],
+      "sha256": "bdf942448169e5336451d0494d7e3d81cfa726d5aa312affdc4682dd62a62f6d"
+    },
+    {
+      "name": "rpds-py",
+      "version": "2026.9.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/8/9/3/0/7/89307462181b16ef6bcbdb1006a7b22f162de04dd3fbcd5362db6562.body",
+      "wheel": "rpds_py-2026.9.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_17_x86_64",
+        "cp312-cp312-manylinux2014_x86_64"
+      ],
+      "sha256": "addeda51556dac7c1a2f14cda62db8b621cd12afba3091d03a96c72932387eab"
+    },
+    {
+      "name": "narwhals",
+      "version": "2.26.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/8/4/e/e/6/84ee62cf6540e5249f17bf6e9599302f6678ac0f44b35de8dea7d60e.body",
+      "wheel": "narwhals-2.26.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "29326d74f107c347fd1009bd58e38d9f7c7c5b51e6de97bc93dbc325d9038b54"
+    },
+    {
+      "name": "traitlets",
+      "version": "5.16.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/3/c/f/9/9/3cf9972d7e183f32267558a027dd05bbc91bc7b7ca370b2511934842.body",
+      "wheel": "traitlets-5.16.1-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "f775618166caa0396c8e337099240f2bd3e5e917d203b2e6fbe21a58d3cb1f6b"
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.9.1",
+      "cache": "/home/kelium/.cache/pip/http-v2/3/8/2/e/9/382e9bb9b61c896473b98edc70371ed4edc7eb12f58cb1646823fa9b.body",
+      "wheel": "scikit_learn-1.9.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_27_x86_64",
+        "cp312-cp312-manylinux_2_28_x86_64"
+      ],
+      "sha256": "e5d7b18a5b9dca241a74695f3275fa4c895a9dadc72b3d8df5fa9d1083c9b83e"
+    },
+    {
+      "name": "pillow",
+      "version": "12.3.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/7/b/e/e/4/7bee4e054f82a46705807cab36575aae8dd4ed3af2b55134559a3f9d.body",
+      "wheel": "pillow-12.3.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_27_x86_64",
+        "cp312-cp312-manylinux_2_28_x86_64"
+      ],
+      "sha256": "78cb2c6865a35ab8ff8b75fd122f6033b92a62c82801110e48ddd6c936a45d91"
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.10.7",
+      "cache": "/home/kelium/.cache/pip/http-v2/7/1/b/3/b/71b3bf461cd808ffc06c589c5e5b928f5adbd86f5d234da6f5dbaac4.body",
+      "wheel": "matplotlib-3.10.7-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_17_x86_64",
+        "cp312-cp312-manylinux2014_x86_64"
+      ],
+      "sha256": "d5f256d49fea31f40f166a5e3131235a5d2f4b7f44520b1cf0baf1ce568ccff0"
+    },
+    {
+      "name": "comm",
+      "version": "0.2.3",
+      "cache": "/home/kelium/.cache/pip/http-v2/7/0/d/d/e/70dde99d7cb256be05550b66f60781185030b6e63a40f406ffb4bf98.body",
+      "wheel": "comm-0.2.3-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "c615d91d75f7f04f095b30d1c1711babd43bdc6419c1be9886a85f2f4e489417"
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0",
+      "cache": "/home/kelium/.cache/pip/http-v2/7/d/0/6/d/7d06ddc2f8070ce09a5a2290e2020c460e8ab32b6a2c6b69fc06e979.body",
+      "wheel": "python_dateutil-2.9.0.post0-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427"
+    },
+    {
+      "name": "tzdata",
+      "version": "2026.5",
+      "cache": "/home/kelium/.cache/pip/http-v2/7/6/3/0/6/7630675b410b4fafd3f98eb387d48684b922c670c1841564ccfdf3a7.body",
+      "wheel": "tzdata-2026.5-py2.py3-none-any.whl",
+      "tags": [
+        "py2-none-any",
+        "py3-none-any"
+      ],
+      "sha256": "b683bd1b6659ddcd810ff02ad09ba821d4bf1065072805063eb35c49617905ac"
+    },
+    {
+      "name": "jsonschema",
+      "version": "4.26.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/1/1/2/7/e/1127e3d2d646b8b978b6f86221cfed3abb713e990a117406d3ce6b47.body",
+      "wheel": "jsonschema-4.26.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "d489f15263b8d200f8387e64b4c3a75f06629559fb73deb8fdfb525f2dab50ce"
+    },
+    {
+      "name": "nbformat",
+      "version": "5.10.4",
+      "cache": "/home/kelium/.cache/pip/http-v2/5/e/3/5/e/5e35e5b8dc7773ae3e720f685871cc3e1a64b41807d49368e02d9d47.body",
+      "wheel": "nbformat-5.10.4-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "3b48d6c8fbca4b299bf3982ea7db1af21580e4fec269ad087b9e81588891200b"
+    },
+    {
+      "name": "typing-extensions",
+      "version": "4.16.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/5/d/e/7/4/5de74aa606aaf8588141cbe765382839ecb0982f091a947770ca6fa8.body",
+      "wheel": "typing_extensions-4.16.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8"
+    },
+    {
+      "name": "pandas",
+      "version": "2.2.3",
+      "cache": "/home/kelium/.cache/pip/http-v2/5/a/e/b/5/5aeb5f293cbd2926d2da51f39ee2351620870a6a62d04ab7243fce82.body",
+      "wheel": "pandas-2.2.3-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "tags": [
+        "cp312-cp312-manylinux_2_17_x86_64",
+        "cp312-cp312-manylinux2014_x86_64"
+      ],
+      "sha256": "fffb8ae78d8af97f849404f21411c95062db1496aeb3e56f146f0355c9989319"
+    },
+    {
+      "name": "fastjsonschema",
+      "version": "2.22.2",
+      "cache": "/home/kelium/.cache/pip/http-v2/5/a/e/4/6/5ae462443c0005c30737a4ba1e420786e1a04aed8c8f017140f0eafa.body",
+      "wheel": "fastjsonschema-2.22.2-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "0fb3915616adac85ccfdd737d26be1089845d2019819505b42d39888458f74d4"
+    },
+    {
+      "name": "nest-asyncio",
+      "version": "1.6.0",
+      "cache": "/home/kelium/.cache/pip/http-v2/5/c/c/a/a/5ccaacde439fe2093ec071fa044ad90152dd39f9072cdbca13dd0ab2.body",
+      "wheel": "nest_asyncio-1.6.0-py3-none-any.whl",
+      "tags": [
+        "py3-none-any"
+      ],
+      "sha256": "87af6efd6b5e897c81050477ef65c62e2b2f35d51703cae01aff2905b1852e1c"
+    }
+  ],
+  "offline": true
+}

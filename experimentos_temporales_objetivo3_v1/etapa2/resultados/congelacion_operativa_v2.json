@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "antes_fit_real": true,
+  "fuentes": {
+    "experimentos_temporales_objetivo3_v1/etapa2/PLAN_ETAPA2.md": {
+      "tipo": "archivo",
+      "sha256": "a36d82a4cc9d8dd3d393b408297e6d4114f721093450a1feec0ac1ce19a80ff1"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/comun.py": {
+      "tipo": "archivo",
+      "sha256": "484cc39f4cf683f4a5ac1b3cfd50ba5c6824f1effaff222aaa7b5b1810970736"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/motor.py": {
+      "tipo": "archivo",
+      "sha256": "eddbfa780d0f08e3d04b28fb450877389cd6f7001fc18d654c36b92d75c45251"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/particiones.py": {
+      "tipo": "archivo",
+      "sha256": "2a321557c3cb331b3a9fce282bd3eb6969077ec7af802bab18244d1bdd52b312"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/piloto.py": {
+      "tipo": "archivo",
+      "sha256": "2f432034831343f2d5fa78c6b4db7f489b4df25810139ddcd464062b79a8a126"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/preflight.py": {
+      "tipo": "archivo",
+      "sha256": "5103b81140cfdaa183f1d18a8bf92922e9f0a92a5196ddfcdd9e624c01a63281"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/preparar.py": {
+      "tipo": "archivo",
+      "sha256": "e8f0dbbf27fb82c85bff37183502d5a05efd40aa56f4a9cebc52aaf5a18a84c3"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/seguridad.py": {
+      "tipo": "archivo",
+      "sha256": "864bd080ed0fb40eecdb241caf2cc065c2f1cfcfda6af6655a63b587db5d554d"
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/fuentes/worker.py": {
+      "tipo": "archivo",
+      "sha256": "0ce1af63475fcc8ab68351e2451a354d65c975602aedab6495d0809d49339fd3"
+    }
+  },
+  "fase1_sha256": "693f03fff6235002078735244e8684cbe778e7a6a528c22e705363ab0885d900",
+  "semilla": 20261010,
+  "esquema": "recencia_h2",
+  "presupuesto_nuevo": 7200,
+  "cota_sin_fallos": 378,
+  "autorizacion": "Prompt expreso humano fase2",
+  "incidencia": "Helper de huellas admite esquema enlace de inventario propio y destino de fixture fase1; sin cambio científico; fallo previo conservado; fits0"
+}

@@ -1,0 +1,47 @@
+{
+  "synthetic": true,
+  "context": "inventado-procesos",
+  "limit": 10,
+  "used": 0.14593562700247276,
+  "attempts": [
+    {
+      "job": "ok",
+      "status": "success",
+      "attempt": 1,
+      "seconds": 0.009748779000801733,
+      "elapsed_measured": 0.009748779000801733,
+      "artifact": "ok_1.txt",
+      "sha256": "feba029678dc15a15d7c4c5d73f9e067cb290d296a8a13ebf0b186306a9d790e"
+    },
+    {
+      "job": "infra",
+      "status": "infrastructure",
+      "attempt": 1,
+      "seconds": 0.016570482001043274,
+      "elapsed_measured": 0.016570482001043274
+    },
+    {
+      "job": "infra",
+      "status": "success",
+      "attempt": 2,
+      "seconds": 0.009014557001137291,
+      "elapsed_measured": 0.009014557001137291,
+      "artifact": "infra_3.txt",
+      "sha256": "feba029678dc15a15d7c4c5d73f9e067cb290d296a8a13ebf0b186306a9d790e"
+    },
+    {
+      "job": "numerico",
+      "status": "numerical",
+      "attempt": 1,
+      "seconds": 0.009577936998539371,
+      "elapsed_measured": 0.009577936998539371
+    },
+    {
+      "job": "terminacion",
+      "status": "timeout",
+      "attempt": 1,
+      "seconds": 0.10102387200095109,
+      "elapsed_measured": 0.10102387200095109
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "aprobado": true,
+  "files": {
+    "01_error_y_sesgo_anual.png": "bbf1c482bdcbfa0faad7231acc466dcfa700105b3aa74a1e5bee145162bf5475",
+    "02_observado_previsto.png": "842511e696e0766493d977d64a070ff6c5191da6d744a1cd9d3fb5b979650ae1",
+    "03_diferencias_territoriales.png": "2f55c20efbea87fb4c61768d75ef3b739d7e81ffee6e8dd1b44ed244a1ad211e"
+  },
+  "checked": "Tres PNG vistos: ejes/unidades/n/leyendas; sin recortes, letras legibles, contrastes y dispersión coherentes con tablas",
+  "academic_versions_visible": false,
+  "new_fits": 0
+}

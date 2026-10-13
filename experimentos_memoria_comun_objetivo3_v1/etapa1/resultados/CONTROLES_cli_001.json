@@ -1,0 +1,93 @@
+{
+  "aprobado": false,
+  "grupos": 12,
+  "pruebas": [
+    {
+      "control": "dates_and_history",
+      "estado": "aprobado",
+      "seconds": 0.0027691329996741842,
+      "error": null
+    },
+    {
+      "control": "geography_and_units",
+      "estado": "aprobado",
+      "seconds": 0.0015520510005444521,
+      "error": null
+    },
+    {
+      "control": "documentary_defaults",
+      "estado": "aprobado",
+      "seconds": 0.0037123300007806392,
+      "error": null
+    },
+    {
+      "control": "zero_one_and_fixed_2021",
+      "estado": "aprobado",
+      "seconds": 0.02100004500061914,
+      "error": null
+    },
+    {
+      "control": "training_scaler_and_invariance",
+      "estado": "aprobado",
+      "seconds": 0.04704069800027355,
+      "error": null
+    },
+    {
+      "control": "numerical_failures",
+      "estado": "aprobado",
+      "seconds": 0.00038050399962230586,
+      "error": null
+    },
+    {
+      "control": "selection_bands_and_ties",
+      "estado": "aprobado",
+      "seconds": 0.00015028099915070925,
+      "error": null
+    },
+    {
+      "control": "coverage_and_csv",
+      "estado": "aprobado",
+      "seconds": 0.002078464000078384,
+      "error": null
+    },
+    {
+      "control": "copies_lineage_context",
+      "estado": "fallo",
+      "seconds": 0.019807148000836605,
+      "error": "Traceback (most recent call last):\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 354, in run_suite\n    getattr(suite,name)(); status='aprobado'; error=None\n    ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 265, in copies_lineage_context\n    self.no(lambda:lineage(bad))\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 60, in no\n    reject(call,exc); self.negative_checks+=1\n    ^^^^^^^^^^^^^^^^\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 29, in reject\n    raise AssertionError(f'No rechazó {exc.__name__}')\nAssertionError: No rechazó IntegrityError\n"
+    },
+    {
+      "control": "paths_symlinks_and_conservation",
+      "estado": "fallo",
+      "seconds": 0.0009672489995864453,
+      "error": "Traceback (most recent call last):\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 354, in run_suite\n    getattr(suite,name)(); status='aprobado'; error=None\n    ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 285, in paths_symlinks_and_conservation\n    self.no(lambda:safe_path(self.folder/'sub'/'..'/'alias_dir','nuevo'))\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 60, in no\n    reject(call,exc); self.negative_checks+=1\n    ^^^^^^^^^^^^^^^^\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_memoria_comun_objetivo3_v1/etapa1/controles.py\", line 29, in reject\n    raise AssertionError(f'No rechazó {exc.__name__}')\nAssertionError: No rechazó IntegrityError\n"
+    },
+    {
+      "control": "budget_retry_resume",
+      "estado": "aprobado",
+      "seconds": 0.07745871900078782,
+      "error": null
+    },
+    {
+      "control": "real_process_termination_invented_worker",
+      "estado": "aprobado",
+      "seconds": 0.1868590360008966,
+      "error": null
+    }
+  ],
+  "fits_inventados": 16,
+  "fits_panel_real": 0,
+  "controles_negativos": 49,
+  "modelos_cargados": 0,
+  "seed": 20261010,
+  "presupuesto_real_iniciado": false,
+  "artefactos": "resultados/sinteticos/cli_001",
+  "huellas_fuentes": {
+    "preflight.py": "96c32e1b7bae6a324cd19658efe6831043cce5990f8c74a9ee60eafaada14926",
+    "motor.py": "844cacec235a9fd33d67f85b78af5a8890ec49830fc03dab05176a398abf90b6",
+    "integridad.py": "55666e32a159efa3f0a8e71f24529b51c1d8e231ae661d63135ddb9e42d2c757",
+    "ejecucion_sintetica.py": "4c6e1f757d4803bfcab6a082e2788c848f5e249592def85098ba45217adff777",
+    "worker_inventado.py": "e496e70bccb6b0ef4d5014d581f45e96bdcd7bc5b7c8064de97d854557a7f80d",
+    "controles.py": "e899a29c80c7844c7b912258c167c9faa23f7b32f30318334a941bcd29097541"
+  }
+}

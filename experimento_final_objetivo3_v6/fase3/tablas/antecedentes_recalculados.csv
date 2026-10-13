@@ -1,0 +1,7 @@
+label,source,MAE,RMSE,bias,n,improvement_vs_reference,status
+v2_global,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,4.8795571881610309,6.194961008561882,-0.97586426860308273,165,0,recálculo actual de guardados históricos
+v3_persistencia,experimentos_objetivo3_v3/etapa2/resultados/predicciones_externas.csv,3.4292671913795312,4.3149206473689041,-2.0960105973100562,165,29.721754266970148,recálculo actual; mejora frente a v2
+v5_global,experimentos_objetivo3_v5/etapa2/resultados/predicciones_externas.csv,3.4292671913795312,4.3149206473689041,-2.0960105973100562,165,0,mismas llaves/observados/predicciones v3; no evidencia independiente
+recencia_global,experimentos_temporales_objetivo3_v1/etapa2/resultados/predicciones_externas.csv,3.4292671913795312,4.3149206473689041,-2.0960105973100562,165,0,mismas llaves/observados/predicciones v3; no evidencia independiente
+memoria_global,experimentos_memoria_comun_objetivo3_v1/etapa2/resultados/predicciones_externas.csv,3.3676098407589707,4.3062439108485924,-1.5242014817652496,165,1.7979745286559843,exploratorio histórico; no conclusión v6
+memoria_memoria,experimentos_memoria_comun_objetivo3_v1/etapa2/resultados/predicciones_externas.csv,3.0042990172279671,4.2126656695058369,-0.96569350523378805,165,12.392390281511053,exploratorio histórico; no conclusión v6

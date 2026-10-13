@@ -1,0 +1,205 @@
+{
+  "id": "Arbol_I",
+  "family": "Arbol",
+  "params": {
+    "ccp_alpha": 0.0,
+    "criterion": "absolute_error",
+    "max_depth": 2,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 11,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "random_state": 20261010,
+    "splitter": "best"
+  },
+  "inputs": [
+    "ipm"
+  ],
+  "matrix_file": "preflight/matrices/e2025__Arbol_I.json",
+  "matrix_sha256": "129cbb2092a7ab50848b1e68d4e48303d07da8005e1a3bdb3cfaca9b3137e0a2",
+  "prediction": [
+    265.29648288973385,
+    265.29648288973385,
+    265.29648288973385,
+    254.748988122885,
+    265.29648288973385,
+    265.29648288973385,
+    254.748988122885,
+    254.748988122885,
+    254.748988122885,
+    240.97414965986394,
+    265.29648288973385,
+    240.97414965986394,
+    265.29648288973385,
+    227.26259946949602,
+    254.748988122885,
+    254.748988122885,
+    254.748988122885,
+    254.748988122885,
+    265.29648288973385,
+    265.29648288973385,
+    265.29648288973385,
+    240.97414965986394,
+    254.748988122885,
+    265.29648288973385,
+    254.748988122885,
+    265.29648288973385,
+    254.748988122885,
+    265.29648288973385,
+    254.748988122885,
+    227.26259946949602,
+    240.97414965986394,
+    227.26259946949602,
+    227.26259946949602
+  ],
+  "warnings": [],
+  "runtime_params": {
+    "ccp_alpha": 0.0,
+    "criterion": "absolute_error",
+    "max_depth": 2,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 11,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "random_state": 20261010,
+    "splitter": "best"
+  },
+  "pipeline_params": {
+    "memory": null,
+    "transform_input": null,
+    "verbose": false
+  },
+  "scaler": {
+    "params": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    },
+    "mean": [
+      20.543939393939397
+    ],
+    "var": [
+      212.47216023875114
+    ],
+    "scale": [
+      14.576424809902843
+    ],
+    "n_samples_seen": 132
+  },
+  "fit_start_epoch": 1791829670.3645287,
+  "fit_end_epoch": 1791829670.369633,
+  "fit_duration_seconds": 0.005102457998873433,
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/numpy.libs/libscipy_openblas64_-f48b354e.so",
+      "version": "0.3.34.106.0",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/scipy.libs/libscipy_openblas-5f890258.so",
+      "version": "0.3.31.dev",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libgomp",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/scikit_learn.libs/libgomp-e985bcbb.so.1.0.0",
+      "version": null
+    }
+  ],
+  "seed": 20261010,
+  "tree": {
+    "children_left": [
+      1,
+      2,
+      -1,
+      -1,
+      5,
+      -1,
+      -1
+    ],
+    "children_right": [
+      4,
+      3,
+      -1,
+      -1,
+      6,
+      -1,
+      -1
+    ],
+    "feature": [
+      0,
+      0,
+      -2,
+      -2,
+      0,
+      -2,
+      -2
+    ],
+    "threshold": [
+      -0.16080345213413239,
+      -0.6924839019775391,
+      -2.0,
+      -2.0,
+      0.7653495669364929,
+      -2.0,
+      -2.0
+    ],
+    "value": [
+      250.71594630480536,
+      259.37950758480133,
+      265.29648288973385,
+      254.748988122885,
+      234.3145442188429,
+      240.97414965986394,
+      227.26259946949602
+    ],
+    "impurity": [
+      13.930347009214335,
+      8.785379306597394,
+      9.168164458484199,
+      6.40140413483619,
+      10.406003236069065,
+      7.7952441081774975,
+      8.851026946735818
+    ],
+    "n_node_samples": [
+      132,
+      74,
+      33,
+      41,
+      58,
+      37,
+      21
+    ],
+    "weighted_n_node_samples": [
+      132.0,
+      74.0,
+      33.0,
+      41.0,
+      58.0,
+      37.0,
+      21.0
+    ],
+    "max_depth": 2,
+    "node_count": 7
+  }
+}

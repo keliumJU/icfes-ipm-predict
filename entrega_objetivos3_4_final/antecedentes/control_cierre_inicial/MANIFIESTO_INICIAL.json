@@ -1,0 +1,33 @@
+{
+  "sha256": {
+    "PARTIDA.json": "a9c206f4a5b5a5ec764788b7f0170d2df290337aef2e12656eec61058b14f3cd",
+    "PROTOCOLO_ENTREGA.md": "77ebf3f51374f3c3190ac28905acc4979787529abbbc85bf9be0d20e7288ceb6",
+    "INSUMOS.json": "63c90b9c037a685c7bfb87b40b31e401bc258f75ae6eca809de0ddde85bb8195",
+    "01_diseno_y_reproduccion.ipynb": "509b6c1ff95c3d1ba0a77be709dc667c7d6b8a1800524bb14bba21f1d4ad058d",
+    "02_resultados_y_graficas.ipynb": "14456d3f0267f219c409522281a072b23b491e374829878741750304493eb72f",
+    "EJECUCION_NOTEBOOKS.json": "b881367a61829a29fae651ab8698b643c1c458b6344f2febb851d4666d5855f7",
+    "GUIA_DE_INTEGRACION.md": "5921d7957b43fc8ea9a6b297a6a4f750f7351cd38a5a0bccbd1c99031cbc5b0e",
+    "README.md": "643f3c129fd1e7ca82e4bd538043bd9bfc0a69338be47088f19d15b9c0c15570",
+    "REVISION_VISUAL.json": "3e0e1ea8145b9c549752ba4d88d85358b5c590fcd6e12df251cd53d099fd706f",
+    "PRUEBAS.json": "e998ead0f3955099802d60d192c3dac421c06e5793a51c0623634ca13ece6fad",
+    "CONTINUIDAD.md": "b226799b757312d28de821653c268fade2f4173ddbb5c215b4f62c4089903e11",
+    "fuentes/control.py": "c6a4526e40f029d342de8a22593b32ca2722013134841638679faa23d45f829f",
+    "fuentes/analisis.py": "3c71abc4dd87934ed35befb7ce941c5e6fc92bee2422d6404121f00db475ebf5",
+    "fuentes/test_graficas.py": "9ae4c1a0bbea66cef0c1bbfad69968288afc875ea37d4418be26fd0b7b18d9f6",
+    "fuentes/reproduccion_manual.py": "8b5b8b1f1ab86adaafd1cf17214fd33483307cb36f38063b207b1a00a3f4807e",
+    "fuentes/01_diseno_y_reproduccion.py": "8f368c4d59e9ed4b72d7e60affff2a7294f1c4b6f5fd6a62d102f62ea8a2e8c2",
+    "fuentes/02_resultados_y_graficas.py": "67e60c523f9693bfe827958fddcc3c3b63b73977b1b6278f888d1acbed0d5a0d",
+    "fuentes/generar_notebooks.py": "3b771df08dfa3b031b86bef3e8d138ec6f29d776097cccd84eba1479854d8f72",
+    "fuentes/redactar.py": "b62ecffffd756ffafb42f8566f9dcb1423326cb19fd26355317aab79edb3b232",
+    "fuentes/crear_word.py": "7568fdcbf0864ac63d913b892681dcf3c9b30fea7427c970390592a5160a5cda",
+    "objetivo3/EVIDENCIAS.json": "e9b6fdc49ff20401108919d5932ab12c2a884d11a4064888bf24e436439be455",
+    "objetivo3/TEXTO_PARA_TESIS.md": "573457b720ca61318cbda85860ce8be59e9105827fdab5973f6841ae42b698bc",
+    "objetivo3/EVIDENCIAS_TEXTO.json": "7110eefac031a8bbd2886b5fa06e2ad54483d285350c4144f0ae84bbeea6d77b",
+    "objetivo3/CONTENIDO_OBJETIVO3.docx": "6fd878df4f4ef053d3e51d0537e41cc7a92288bee77b141931949504f9ea766b",
+    "objetivo4/DIAGNOSTICO_Y_ALCANCE_PENDIENTE.md": "c9c27e7739ee993b12ee85d85e8165c24f6a1a0775ce3b8efb20a2d2b5f3d922",
+    "objetivo3/tablas/pares_comparables.csv": "1af701e12362e0c3a3a0dd5107cf503384b1fc1572bf9abebbbc403d7e25e4cb",
+    "objetivo3/tablas/metricas_comparables.csv": "62e0fae0f6a4666e6c9ae701ba7be359fd26c3f838ffbe353cdf791464afb182",
+    "objetivo3/figuras/01_error_anual.png": "a07a4ebd8b17d0f12f55d71df4bf88aa3d6fb67182ed86232ccc2d487a96fc3d",
+    "objetivo3/figuras/02_comparacion_misma_muestra.png": "1980bf279a8ef92db4f82e0602e87aadefcc12acf6401b9e5d4bf750e3f849d4"
+  }
+}

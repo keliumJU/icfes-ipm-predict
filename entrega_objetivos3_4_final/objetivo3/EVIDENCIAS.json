@@ -1,0 +1,36 @@
+{
+  "funcion": "analisis.run/data/results/figures",
+  "notebook": "02_resultados_y_graficas.ipynb",
+  "fits_nuevos": 0,
+  "predicciones": "Resultados anteriores; métricas reproducidas en esta entrega",
+  "fuentes_sha256": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/comun.py": "99ada691943f85ab3ecc18f4ab9d0ed5837b25562bcd81f943fd9aeb2cbbf3d7",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+    "fase3/resultados/comparacion_desarrollo.csv": "04501f8a6ab6ff491798c4027b0e645a53c6ae6070d3352931b4f0fdbc98af2c",
+    "experimentos_objetivo3_v2/fase2/fuentes/comun.py": "5a93b636daaac72f07e6dc0d1128e8646686b75affd1564d651feebe5180d659",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/fase3/tablas/tabla_academica_contrastes.csv": "9a0d34a02cab9c2cf641ea39046371d3fe7335baf399acfbc96e4be325e9341a",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/fase3/DIAGNOSTICO_SELECCION.json": "93a590f6bdbe77f235bf8a80741d3d6b6f03a646c67203349b2aa5a747ced84a",
+    "fase3/resultados/congelacion.json": "fe93fafd383f600c420a359174ec679f22767badf6a92a8463be327cb7d2ff30",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/fase3/PRIMARIO.json": "c6a82bb82bc7ed11b6278536e985d17c894122379fbedb3da75482c83142c300",
+    "protocolo/fuentes/configuracion.py": "d4cd0c59f94d01316adfe2ab1a0ebddaa3630679344bc520296e80c78e41cab1",
+    "auditoria/base_analitica_departamento_anio.csv": "609d73153ec7691567af5d460ffcf546cb54af1926662effd017a9ae05c50866",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/fase3/tablas/decisiones_globales.csv": "937ee2f0398359611b4dc17129fecd2f3d3256bf9d710eecb49f40242e9af0ea",
+    "fase3/fuentes/comun.py": "782b1a2127ca32724c81ae0a48befa41ddfa074f26606f65286bea47b7550049",
+    "fase3/resultados/predicciones_reevaluacion.csv": "778ad1e325fa077cabd35318c1165cc6b0b8076a3e1b6c88c68c8171115963f4",
+    "experimentos_objetivo3_v2/fase2/fuentes/configuracion.py": "65ded47bad7fcde118473332d85db33cc79347bdb400962aaaedce65496ade35",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/fase3/tablas/errores_completos_6600.csv": "e37abea80535e74e9df6f329c959f44b17da201409d7db23c58633a6cd5c99f7",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/ENTORNO_DOCUMENTAL.json": "9e6c8f7f4c45d3e86f843f326d36648a74432767b579fc449934a2d0fcdfa5a6",
+    "experimentos_objetivo3_v2/fase2/resultados/configuraciones_congeladas.json": "366012873fac5cd13bcae021bdea2bc9e3186f2efb56e7745c011dc77ac82991",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/motor.py": "dec6bdb5e9f73fa448eb0fc4bb1bb83918c53211548a9befb979673ba65c675a",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/fase3/tablas/antecedentes_recalculados.csv": "ff0a17b9854b7a5b7e6d35f3bd2c504d85380893dcbbb66d060463a3f5a012ff",
+    "experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv": "a28a401e1005ff17aad45540d3a426baca0d0e6fe201f92df2423321920e70c9",
+    "experimento_final_objetivo3_v6/ejecucion_autorizada/ESPECIFICACION_V6.json": "1811915d304d45eedbbbb57eb49caf1732e1363b0ae73022586c04c93e173442"
+  },
+  "salidas_sha256": {
+    "objetivo3/tablas/pares_comparables.csv": "1af701e12362e0c3a3a0dd5107cf503384b1fc1572bf9abebbbc403d7e25e4cb",
+    "objetivo3/tablas/metricas_comparables.csv": "62e0fae0f6a4666e6c9ae701ba7be359fd26c3f838ffbe353cdf791464afb182",
+    "objetivo3/figuras/01_error_anual.png": "a07a4ebd8b17d0f12f55d71df4bf88aa3d6fb67182ed86232ccc2d487a96fc3d",
+    "objetivo3/figuras/02_comparacion_misma_muestra.png": "1980bf279a8ef92db4f82e0602e87aadefcc12acf6401b9e5d4bf750e3f849d4"
+  }
+}

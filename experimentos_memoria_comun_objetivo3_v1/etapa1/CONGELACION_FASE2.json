@@ -1,0 +1,150 @@
+{
+  "version": "1.0.0",
+  "valida": true,
+  "fecha_cliente": "2026-10-11",
+  "timezone": "America/Bogota",
+  "antes_de_fits_reales": true,
+  "fits_panel_real": 0,
+  "presupuesto_real_iniciado": false,
+  "candidatos": [
+    {
+      "id": "persistencia",
+      "orden": 0,
+      "entradas": 0,
+      "componentes": []
+    },
+    {
+      "id": "memoria",
+      "orden": 1,
+      "entradas": 1,
+      "componentes": [
+        "memoria"
+      ]
+    },
+    {
+      "id": "comun",
+      "orden": 2,
+      "entradas": 1,
+      "componentes": [
+        "comun"
+      ]
+    },
+    {
+      "id": "comun_correccion",
+      "orden": 3,
+      "entradas": 2,
+      "componentes": [
+        "comun",
+        "correccion"
+      ]
+    }
+  ],
+  "defaults": {
+    "StandardScaler": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    },
+    "QuantileRegressor": {
+      "quantile": 0.5,
+      "alpha": 1.0,
+      "fit_intercept": true,
+      "solver": "highs",
+      "solver_options": null
+    }
+  },
+  "semilla": 20261010,
+  "contrato_futuro": {
+    "presupuesto_segundos": 7200,
+    "internos": 24,
+    "externos": 16,
+    "repeticiones_max": 6,
+    "cota_sin_fallos": 46,
+    "saldo_heredado": null
+  },
+  "reglas": "PROTOCOLO_IMPLEMENTACION.md y diseño documental sin cambios",
+  "implementacion": {
+    "preflight.py": {
+      "tipo": "archivo",
+      "sha256": "96c32e1b7bae6a324cd19658efe6831043cce5990f8c74a9ee60eafaada14926"
+    },
+    "motor.py": {
+      "tipo": "archivo",
+      "sha256": "8896332df4972e092d5e58396f022275e3964056306befc6c0d1253275dfa48a"
+    },
+    "integridad.py": {
+      "tipo": "archivo",
+      "sha256": "8609ef420f3ff7b8c3062781d010ff7ff5a6a9b7d003b36eeeef65e9df4f3a2a"
+    },
+    "ejecucion_sintetica.py": {
+      "tipo": "archivo",
+      "sha256": "4c6e1f757d4803bfcab6a082e2788c848f5e249592def85098ba45217adff777"
+    },
+    "worker_inventado.py": {
+      "tipo": "archivo",
+      "sha256": "e496e70bccb6b0ef4d5014d581f45e96bdcd7bc5b7c8064de97d854557a7f80d"
+    },
+    "controles.py": {
+      "tipo": "archivo",
+      "sha256": "997af5ba299faa909999f9366f85372e73b6f5958c4316cf36e7fd21e3ab8386"
+    },
+    "notebook_controles.py": {
+      "tipo": "archivo",
+      "sha256": "46353a3ccfcebf2f75c1a3214f5896cc442bb9f2d914e0544dd782243d5b4507"
+    },
+    "generar_notebook.py": {
+      "tipo": "archivo",
+      "sha256": "2300f7a944c15c6f774fd6c2d660541014966a1ec5c291eb10676eba725eadb8"
+    },
+    "cerrar.py": {
+      "tipo": "archivo",
+      "sha256": "c63acf3ac899b1437d7ef6e690176d7adaafbd6773bfddd59d62742ac2c94a4c"
+    },
+    "01_controles.ipynb": {
+      "tipo": "archivo",
+      "sha256": "62bdc4512faaefdbd53e0dae11a3c08fe56b78ceaa0dfc7a6c93a59b0a288fe1"
+    },
+    "ACEPTACION_NOTEBOOK.json": {
+      "tipo": "archivo",
+      "sha256": "c52cd1faf5dc0dc356ec2567131a77df87e2b5f7f76d1bdfc5456bf73e7cc879"
+    },
+    "ENTORNO_FASE2.json": {
+      "tipo": "archivo",
+      "sha256": "0d885a1afaa888c7a026cd2dda9c15a115f0fd72c4a52af847f37a3728fbd305"
+    },
+    "resultados/CONTROLES_cli_003.json": {
+      "tipo": "archivo",
+      "sha256": "c7f9429a2605344c0d4a8519a9327abed89be7fdcc79d03623096ba010cb80c3"
+    },
+    "resultados/CONTROLES_notebook_001.json": {
+      "tipo": "archivo",
+      "sha256": "69931ebc9311e7fc2b92814c18e87b5b5a5913786f906d33244383d0207204ff"
+    },
+    "PROTOCOLO_IMPLEMENTACION.md": {
+      "tipo": "archivo",
+      "sha256": "fbf8206d4c95db3a4a3a61dd91e42d1eb86f91c31b796fa0bc1616286da199f6"
+    }
+  },
+  "documentos_base": {
+    "diseno_memoria_comun_objetivo3_v1/MANIFIESTO_FASE1.json": "325c4bdea3a4dd6647bef1016146c052d389faee00dd222bb6b30507824ee84d",
+    "diseno_memoria_comun_objetivo3_v1/ACEPTACION_FASE1.json": "424e1cd3430aea5d62f997959be43afa970d7b061609fc47aaa027b0b97c19bb",
+    "diseno_memoria_comun_objetivo3_v1/PROTOCOLO_FASE1.md": "5cac425effa3c353156cea5b3d614195cd75c51bf0610c7627be7182f7934d06",
+    "diseno_memoria_comun_objetivo3_v1/ESPECIFICACION_DOCUMENTAL.json": "f02e5bfe068049b5dd3f0a2599ad310e375110137dcbe2ca86da4daa68b80161",
+    "diseno_memoria_comun_objetivo3_v1/ENTORNO_FASE1.json": "d67b698926a5f76274fdb4a9db1c2e1552961c1b8ddd91915f16bcdec4237dc5"
+  },
+  "fuentes_panel_solo_identidad": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "aceptacion_controles": {
+    "fase1_valida_y_conservada": true,
+    "entorno_exacto": true,
+    "suite_cli_valida": true,
+    "suite_notebook_valida": true,
+    "fuentes_probadas_identicas": true,
+    "notebook_validado_ejecutado": true,
+    "conservacion_integra": true,
+    "fits_panel_real_cero": true
+  },
+  "no_autoriza": "Piloto/fits reales/modelo final/simulación/objetivo4"
+}

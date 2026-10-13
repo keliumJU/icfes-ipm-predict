@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "context": "inventado",
+  "limit": 1,
+  "used": 1.0,
+  "attempts": [
+    {
+      "job": "x",
+      "status": "timeout",
+      "attempt": 1,
+      "seconds": 1.0,
+      "elapsed_measured": 2
+    }
+  ]
+}

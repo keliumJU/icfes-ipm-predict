@@ -1,0 +1,8 @@
+{
+  "aprobado": true,
+  "manifiesto_sha256": "325c4bdea3a4dd6647bef1016146c052d389faee00dd222bb6b30507824ee84d",
+  "huellas_verificadas": 28,
+  "cobertura_exacta": true,
+  "diferencias": [],
+  "exclusiones_justificadas": "Manifiesto y su verificación para evitar ciclo; verificación guarda SHA del manifiesto. Sin archivos de modelos/notebooks/ledger."
+}

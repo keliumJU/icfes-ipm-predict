@@ -1,0 +1,7 @@
+{
+  "diferencia_mae_ipm_menos_base": -2.833718005265007,
+  "p025": -4.51279192530455,
+  "p975": -1.088336259256897,
+  "replicas": 2000,
+  "alcance": "dispersión condicional de errores fijos por territorio; no selección/ajuste/años futuros ni p-valor confirmatorio"
+}

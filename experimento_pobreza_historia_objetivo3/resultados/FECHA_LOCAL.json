@@ -1,0 +1,37 @@
+{
+  "fecha_local": "2026-04-14",
+  "ultimo_anio_utilizable": 2025,
+  "evidencia": "experimentos_objetivo3_v2/fase1/resultados/notas_ipm_2025.csv",
+  "sha256": "8b91cee932be0456633639984696cc7d0bce750688d5b7d1ff90d3056a7ad9aa",
+  "llaves": [
+    {
+      "hoja": "IPM_Departamentos",
+      "celda": "A54"
+    },
+    {
+      "hoja": "IPM_Indicadores_Departamento ",
+      "celda": "A869"
+    }
+  ],
+  "texto": "Actualizado el 14 de abril de 2026",
+  "interpretacion": "publicación/actualización local; no año observado; autenticidad sin verificar",
+  "siguiente_anio": "solo condicional, sin proyección",
+  "evidencia_anio_observado": {
+    "archivo": "experimentos_objetivo3_v2/fase1/resultados/encabezados_ipm_2025.csv",
+    "sha256": "d8d45ecfaee78b25c7395d5f87ee58bc5b422d66c5f5f4a495e70a30e63e5fb1",
+    "llaves": [
+      {
+        "hoja": "IPM_Departamentos",
+        "celda": "W12",
+        "anio": 2025,
+        "dominio": "Total"
+      },
+      {
+        "hoja": "IPM_Indicadores_Departamento ",
+        "celda": "X12",
+        "anio": 2025,
+        "dominio": "Total"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "aprobado": true,
+  "graficos": [
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/graficos/01_distribuciones_anuales.png",
+      "sha256": "8db18de1b7359f6a8fdfe71c259b1f148078489b0981c5c99cba92ceebddc439",
+      "revisado": true,
+      "observacion": "Etiquetas/unidades/n legibles;figura completa"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/graficos/02_trayectorias_33.png",
+      "sha256": "ede697758f751eea4cfc71c39665b59c8c96c915830314b29e4efbaaea458f0e",
+      "revisado": true,
+      "observacion": "Etiquetas/unidades/n legibles;figura completa"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/graficos/03_contrastes_particiones.png",
+      "sha256": "65fc388bf3abe66c1acc14183e874c10f237557c8ef59b565e52e8225d1b33f1",
+      "revisado": true,
+      "observacion": "Etiquetas/unidades/n legibles;figura completa"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/graficos/04_asociaciones_anuales.png",
+      "sha256": "ac36055914c03ff109ed8c186916f547e08ecb4ce9edf2ae0412ff630ff7d16f",
+      "revisado": true,
+      "observacion": "Etiquetas/unidades/n legibles;figura completa"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/fase1/graficos/05_deltas_internos.png",
+      "sha256": "9594e246f7145b11c9f5c0aca8a9ebb418d4a22c3b3bd77b313a56b8d7633c1b",
+      "revisado": true,
+      "observacion": "Etiquetas/unidades/n legibles;figura completa"
+    }
+  ],
+  "metodo": "view_image:inspección visual de cinco PNG reales"
+}

@@ -1,0 +1,24 @@
+{
+  "completa": true,
+  "aceptacion": "técnica de auditoría; no confirmación científica",
+  "controles": {
+    "entrada_fases1_2_3": true,
+    "entorno_exacto": true,
+    "auditor_independiente": true,
+    "pruebas_inventadas": true,
+    "matrices_fechas_scales_coeficientes": true,
+    "cobertura_seleccion_linaje_global": true,
+    "CSV_exactos": true,
+    "ledger_cerrado_historia": true,
+    "referencias165": true,
+    "metricas_fsum_primario_fijo": true,
+    "graficos_revisados": true,
+    "notebook6celdas_validado": true,
+    "conservacion": true
+  },
+  "pendientes_indispensables": [],
+  "fits_nuevos": 0,
+  "modelos_cargados": 0,
+  "meta_5_satisfecha": false,
+  "experimento_futuro_autorizado": false
+}

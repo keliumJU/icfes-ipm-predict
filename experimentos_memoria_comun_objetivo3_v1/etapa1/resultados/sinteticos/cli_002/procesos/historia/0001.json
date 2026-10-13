@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "context": "inventado-procesos",
+  "limit": 10,
+  "used": 0.0,
+  "attempts": [
+    {
+      "job": "ok",
+      "status": "pending",
+      "attempt": 1
+    }
+  ]
+}

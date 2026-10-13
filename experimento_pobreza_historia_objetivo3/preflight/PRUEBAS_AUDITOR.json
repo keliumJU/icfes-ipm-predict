@@ -1,0 +1,14 @@
+{
+  "aprobado": true,
+  "tests": [
+    "metric_fsum",
+    "selector boundary/complexity/order",
+    "CSV rechazo 1e-11",
+    "int0=float0",
+    "CSV corrupt real read",
+    "Ridge params prediction",
+    "tree float32 threshold",
+    "no fits/imports operacional verified AST"
+  ],
+  "fits": 0
+}

@@ -1,0 +1,20 @@
+{
+  "completa": true,
+  "fits_auditor": 0,
+  "models_loaded": 0,
+  "pilot_closed": true,
+  "notebook_executed": true,
+  "text_control": true,
+  "visual_review": true,
+  "scientific_pending": [
+    "Autenticidad oficial y fechas de publicación/disponibilidad histórica del panel no demostradas",
+    "Todos los años de evaluación ya vistos: sin confirmación independiente",
+    "IPM hogares frente a estudiantes; geografía colegio frente a residencia; agregación ecológica",
+    "Pocos años y dependencia entre territorios/años; sin inferencia confirmatoria",
+    "El diseño autorizado no ejecuta íntegramente las especificaciones y reservas propuestas en tesis páginas58–59; no afirmar validación completaH3",
+    "Siguiente año condicional a fuentes comparables y disponibilidad; sin proyección ni objetivo4"
+  ],
+  "authenticity_confirmed": false,
+  "independent_confirmation": false,
+  "objective4": false
+}

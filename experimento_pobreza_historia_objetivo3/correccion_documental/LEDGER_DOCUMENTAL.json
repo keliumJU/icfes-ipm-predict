@@ -1,0 +1,126 @@
+{
+  "start_epoch": 1791830279.0,
+  "new_fits": 0,
+  "attempts": [
+    {
+      "mode": "inventado",
+      "start_epoch": 1791830471.561999,
+      "end_epoch": 1791830471.6084702,
+      "status": "failed",
+      "cells": [],
+      "exception": "PermissionError",
+      "message": "[Errno 1] Operation not permitted"
+    },
+    {
+      "mode": "inventado",
+      "start_epoch": 1791830527.4118035,
+      "end_epoch": 1791830528.1703894,
+      "status": "complete",
+      "cells": [
+        {
+          "index": 1,
+          "status": "complete",
+          "start_epoch": 1791830527.994871,
+          "end_epoch": 1791830528.0138896,
+          "execution_count": 1
+        },
+        {
+          "index": 2,
+          "status": "complete",
+          "start_epoch": 1791830528.0167506,
+          "end_epoch": 1791830528.0248024,
+          "execution_count": 2
+        },
+        {
+          "index": 3,
+          "status": "complete",
+          "start_epoch": 1791830528.0276654,
+          "end_epoch": 1791830528.0344365,
+          "execution_count": 3
+        }
+      ],
+      "notebook_sha256": "de988e96fa3910d7b796969c34957cb5bb1ef27e5335792450cc73af6797e385",
+      "kernel_terminated": true
+    },
+    {
+      "mode": "preview",
+      "start_epoch": 1791830932.9158502,
+      "end_epoch": 1791830936.2527223,
+      "status": "complete",
+      "cells": [
+        {
+          "index": 1,
+          "status": "complete",
+          "start_epoch": 1791830933.497642,
+          "end_epoch": 1791830933.6985586,
+          "execution_count": 1
+        },
+        {
+          "index": 2,
+          "status": "complete",
+          "start_epoch": 1791830933.7093024,
+          "end_epoch": 1791830934.0347679,
+          "execution_count": 2
+        },
+        {
+          "index": 3,
+          "status": "complete",
+          "start_epoch": 1791830934.0378447,
+          "end_epoch": 1791830935.9134805,
+          "execution_count": 3
+        }
+      ],
+      "notebook_sha256": "00d90433df4aa46943a5d1c0cbf964ad4717f89e8d3fde29347738caff1e25e6",
+      "kernel_terminated": true
+    },
+    {
+      "mode": "final",
+      "start_epoch": 1791831064.0719957,
+      "end_epoch": 1791831066.7122426,
+      "status": "complete",
+      "cells": [
+        {
+          "index": 1,
+          "status": "complete",
+          "start_epoch": 1791831064.655404,
+          "end_epoch": 1791831064.8489335,
+          "execution_count": 1
+        },
+        {
+          "index": 2,
+          "status": "complete",
+          "start_epoch": 1791831064.8596432,
+          "end_epoch": 1791831065.199788,
+          "execution_count": 2
+        },
+        {
+          "index": 3,
+          "status": "complete",
+          "start_epoch": 1791831065.2047703,
+          "end_epoch": 1791831066.2879174,
+          "execution_count": 3
+        },
+        {
+          "index": 4,
+          "status": "complete",
+          "start_epoch": 1791831066.2909532,
+          "end_epoch": 1791831066.3416991,
+          "execution_count": 4
+        },
+        {
+          "index": 5,
+          "status": "complete",
+          "start_epoch": 1791831066.3448691,
+          "end_epoch": 1791831066.3793688,
+          "execution_count": 5
+        }
+      ],
+      "notebook_sha256": "9362110e69f0ff77d8704321b2a995affd46a96f906437e7cf8b747e6d2821ad",
+      "kernel_terminated": true
+    }
+  ],
+  "status": "cerrado_completo",
+  "end_epoch": 1791831149.856688,
+  "saldo_reutilizable": false,
+  "elapsed_seconds": 870.8566880226135
+}

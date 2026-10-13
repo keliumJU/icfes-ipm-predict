@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "completa_documental": true,
+  "aceptacion_documental": "Criterios del encargo fase1 cotejados por auditoría documental, no aprobación operativa del usuario",
+  "controles": {
+    "preflight_antecedentes": true,
+    "continuidad_historica_commit_ancestro": true,
+    "entorno_exacto_y_defaults": true,
+    "semantica_completa_y_referencias": true,
+    "cuatro_candidatos_orden_entradas": true,
+    "particiones_heredadas_exactas": true,
+    "trazabilidad_5externas_10internas": true,
+    "2019_no_respuesta_y_2021_cero_pares": true,
+    "unidades_comunes_territoriales": true,
+    "objetivo_meta_pesos": true,
+    "no_congelacion_no_fits": true,
+    "prompts_independientes_condicionados": true,
+    "advertencias_completas": true,
+    "sin_notebooks_modelos_ledger": true
+  },
+  "conservacion_aprobada": true,
+  "especificacion": "ESPECIFICACION_DOCUMENTAL.json",
+  "protocolo": "PROTOCOLO_FASE1.md",
+  "traza": "TRAZABILIDAD_TEMPORAL.csv",
+  "prompts_preparados": [
+    2,
+    3,
+    4
+  ],
+  "fits": 0,
+  "congelacion_operativa": false,
+  "fase2_autorizada": false,
+  "pendientes_indispensables_fase1": [],
+  "pendiente_aprobacion_usuario": "Diseño para revisión y autorización separada de fase2; no bloquea entrega documental",
+  "pendientes_futuros": [
+    "Controles ejecutables fase2",
+    "Piloto fase3",
+    "Auditoría fase4",
+    "Confirmación científica y disponibilidad fuera alcance"
+  ]
+}

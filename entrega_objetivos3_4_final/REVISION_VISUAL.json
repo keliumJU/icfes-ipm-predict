@@ -1,0 +1,13 @@
+{
+  "aprobado": true,
+  "word_paginas": 7,
+  "todas_paginas_inspeccionadas": true,
+  "figuras_inspeccionadas": 2,
+  "titulo_sin_borde": true,
+  "tipografia": "Times New Roman",
+  "sha256": {
+    "objetivo3/figuras/01_error_anual.png": "a07a4ebd8b17d0f12f55d71df4bf88aa3d6fb67182ed86232ccc2d487a96fc3d",
+    "objetivo3/figuras/02_comparacion_misma_muestra.png": "1980bf279a8ef92db4f82e0602e87aadefcc12acf6401b9e5d4bf750e3f849d4",
+    "objetivo3/CONTENIDO_OBJETIVO3.docx": "6fd878df4f4ef053d3e51d0537e41cc7a92288bee77b141931949504f9ea766b"
+  }
+}

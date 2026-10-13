@@ -1,0 +1,17 @@
+{
+  "status": "abierto",
+  "budget_seconds": 20,
+  "start_monotonic": 27801.958290384,
+  "start_wall": 1791757250.5109916,
+  "elapsed_seconds": 0.0035010160027013626,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": {
+    "sin_medicion": true
+  },
+  "events": [],
+  "serial": true
+}

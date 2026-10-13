@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "context": "infra",
+  "limit": 30,
+  "synthetic": true,
+  "start_monotonic": 15543.686674525,
+  "start_wall": 1791744144.6199865,
+  "used": 1.1639647629999672,
+  "attempts": [
+    {
+      "job": "infra",
+      "attempt": 1,
+      "context": "c2e9d44489566a55f0c7025c0e061bb59c300faa28e0b7ee2697420a00b60701",
+      "state": "infrastructure",
+      "request": "resultados/sinteticos/corrida_002/infra/jobs/infra/intento_1/solicitud.json",
+      "request_sha256": "bcc1f8641a7c539b1749a8faa8367fc14f202ccae46c873fba7c519a722b30df",
+      "output": "resultados/sinteticos/corrida_002/infra/jobs/infra/intento_1/resultado.json",
+      "start_monotonic": 15543.692993337,
+      "pid": 612,
+      "seconds_measured": 1.1406849720005994,
+      "returncode": 3,
+      "process_terminated": true,
+      "pipeline_fits_started": 0
+    },
+    {
+      "job": "infra",
+      "attempt": 2,
+      "context": "c2e9d44489566a55f0c7025c0e061bb59c300faa28e0b7ee2697420a00b60701",
+      "state": "pending",
+      "request": "resultados/sinteticos/corrida_002/infra/jobs/infra/intento_2/solicitud.json",
+      "request_sha256": "d036fe9f62a43b038402bd36da18524c68f4fe67bd245ccf8bb6145f10b554fc",
+      "output": "resultados/sinteticos/corrida_002/infra/jobs/infra/intento_2/resultado.json",
+      "start_monotonic": 15544.854497861
+    }
+  ],
+  "retries": 1,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

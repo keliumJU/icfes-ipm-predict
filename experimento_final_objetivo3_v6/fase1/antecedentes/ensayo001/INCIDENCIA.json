@@ -1,0 +1,6 @@
+{
+  "control": "llaves fuente/derivado",
+  "causa": "DataFrame.equals cotejó índices originales tras ordenar; llaves requieren orden canónico e índice reiniciado",
+  "resolucion": "reiniciar índice antes de cotejo; no alterar datos/criterios; reejecutar controles completos",
+  "real_fits": 0
+}

@@ -1,0 +1,76 @@
+{
+  "version": "1.0.0",
+  "fecha_cliente": "2026-10-11",
+  "timezone": "America/Bogota",
+  "autorizacion": "Usuario envió expresamente promptfase1: exclusivamente diseño documental. No autoriza fases2–4.",
+  "estado": "fase1 documental completa",
+  "git": {
+    "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora",
+    "rama": "codex/objetivo3-v5-mae",
+    "base": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "ascendencia": true,
+    "trabajo_posterior": [],
+    "versionados": 29640,
+    "lista_versionados_igual": true,
+    "diff_versionados": [],
+    "status": [
+      "?? diagnostico_objetivo3_v1/",
+      "?? diseno_memoria_comun_objetivo3_v1/",
+      "?? diseno_temporal_objetivo3_v1/",
+      "?? experimentos_temporales_objetivo3_v1/"
+    ],
+    "ajenos_nuevos": []
+  },
+  "comprobaciones": [
+    "Entorno exacto antes de semántica",
+    "9manifiestos íntegros; continuidadv5etapa1 en commitreal y temporal anterior preservada",
+    "Fuente/derivado bytes y todos campos exactos",
+    "Tres referencias165llaves/observados/predicciones exactas",
+    "Defaults get_params sin fits",
+    "Protocolos/prompts/decisiones/traza y cierre propios"
+  ],
+  "ejecucion": [
+    "Verificación entorno con PYTHONDONTWRITEBYTECODE=1; pipcheck/metadata/get_params, sin fit",
+    "verificar_documental.py: primera corrida KeyError sha256_texto_enlace; corregida, segunda aprobada",
+    "verificar_semantica.py: primera corrida códigos sin zfill; corregida según contrato histórico, segunda aprobada",
+    "generar_documentacion.py: documentos generados sin ajustes",
+    "cerrar_documentacion.py: conservación y auditoría documental"
+  ],
+  "runtime": "/tmp/icfes-v2-fase2-venv/bin/python",
+  "semilla": 20261010,
+  "aleatoriedad": false,
+  "incidencias": "REGISTRO_HALLAZGOS.md:Incidencias propias; plan completo leído por error y consultas truncadas corregidas; errores de verificadores sin cambios en datos. Pipcheck0 con aviso de caché no escribible, sin instalación ni fallo de dependencias.",
+  "distinciones": {
+    "aprobacion": "Solo realizar fase1 y acuerdos enviados, no aceptación operativa ni ejecución futura",
+    "resultados": "MAE histórico citado; cotejos estructurales actuales, ninguna nueva evaluación",
+    "hipotesis": "Eficacia memoria/común/corrección pendiente",
+    "congelacion": "No realizada, pendiente fase2 autorizada"
+  },
+  "contadores": {
+    "fits_reales": 0,
+    "fits_inventados": 0,
+    "modelos_cargados": 0,
+    "notebooks": 0,
+    "ledger_operativo": 0,
+    "instalaciones": 0,
+    "descargas": 0,
+    "fuentes_extra": 0,
+    "commit": 0,
+    "push": 0,
+    "pdf_paginas": 0,
+    "web": 0,
+    "metricas_nuevas": 0
+  },
+  "conservacion": {
+    "aprobada": true,
+    "protegidos": 30980,
+    "versionados": 29640
+  },
+  "pendientes": [
+    "Aprobación del diseño y envío expreso promptfase2",
+    "Implementación/controles/congelación operativa futuros",
+    "Piloto y auditoría bajo autorizaciones separadas",
+    "Eficacia hipótesis/confirmación independiente/procedencia oficial/disponibilidad real no resueltas"
+  ]
+}

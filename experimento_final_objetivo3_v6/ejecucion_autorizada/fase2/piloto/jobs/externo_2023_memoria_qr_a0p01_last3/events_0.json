@@ -1,0 +1,14 @@
+[
+  {
+    "monotonic": 30035.816977766,
+    "component": "memoria",
+    "state": "antes_fit",
+    "fits_started": 1
+  },
+  {
+    "monotonic": 30035.843848022,
+    "component": "memoria",
+    "state": "fit_terminado",
+    "fits_completed": 1
+  }
+]

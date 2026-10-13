@@ -1,0 +1,30 @@
+{
+  "aprobado": true,
+  "internos_originales": 11880,
+  "internos_unicos": 4752,
+  "linaje": 11880,
+  "candidatos": 36,
+  "artefactos_internos": 360,
+  "metadatos_ajustados": 350,
+  "externas": 1155,
+  "procedimientos": 7,
+  "metricas_internas": 144,
+  "copias_iguales_exactamente": true,
+  "resumen_unico_representante": "menor externo",
+  "modelos_deserializados": 0,
+  "fits": 0,
+  "max_diferencia_metricas": 2.6645352591003757e-15,
+  "aritmetica": {
+    "aprobado": true,
+    "grupos": 187,
+    "procedimiento": "Fraction.from_float(error IEEE); sumas racionales exactas; raíz final",
+    "atol": 1e-12
+  },
+  "reconstruccion_panel_exacta": true,
+  "no_pseudorepeticion": true,
+  "analisis_original_por_ventana_conservado": true,
+  "nuevas_externas_no_seleccionadas": 0,
+  "selecciones_originales_intactas": true,
+  "entorno_verificado": true,
+  "analisis": "A–D ejecutados; E documental y cierre pendientes"
+}

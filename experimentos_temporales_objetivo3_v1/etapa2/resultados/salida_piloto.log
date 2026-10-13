@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa2/fuentes/piloto.py", line 89, in <module>
+    try:main()
+        ^^^^^^
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa2/fuentes/piloto.py", line 24, in main
+    check_entries(freeze['fuentes']);check_entries(leer(OUT/'partida.json')['protegidos'])
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa2/fuentes/preflight.py", line 27, in check_entries
+    assert p.is_symlink() and p.readlink().as_posix()==state['destino'],n
+                                                       ~~~~~^^^^^^^^^^^
+KeyError: 'destino'

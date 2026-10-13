@@ -1,0 +1,24 @@
+{
+  "aprobado": true,
+  "historia_snapshots": 95,
+  "jobs": 61,
+  "jobs_con_arranque_durable": 31,
+  "fits_historicos": 41,
+  "fits_nuevos": 0,
+  "ledger_cerrado_no_reabierto": true,
+  "congelaciones_bytes_validos": true,
+  "interceptos_intervalo_mediana_todos": true,
+  "pruebas_inventadas": [
+    "rechazo matrices",
+    "rechazo keys",
+    "rechazo prediction_inputs",
+    "rechazo context",
+    "rechazo supervised_years",
+    "rechazo units",
+    "rechazo previous_year",
+    "cobertura CSV",
+    "llave CSV",
+    "bandas inclusivas"
+  ],
+  "cronologia": "95 snapshots monotónicos; pending antes de success; terminación guardada y retorno0. Congelación declarada prefit y fuentes ligadas por huellas; no autenticación externa de tiempos."
+}

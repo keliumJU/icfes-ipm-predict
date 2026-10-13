@@ -1,0 +1,72 @@
+{
+  "pdf_paginas": 0,
+  "web": 0,
+  "fuentes_adicionales": 0,
+  "lecturas": [
+    {
+      "archivo": "AGENTS.md",
+      "alcance": "completo"
+    },
+    {
+      "archivo": "antecedentes_preparacion/CONTINUIDAD_DISENO.md",
+      "alcance": "completo, antes actualización"
+    },
+    {
+      "archivo": "PLAN_FASES.md",
+      "alcance": "lectura inicial completa por error; trabajo restringido a decisiones comunes y fase1; fases posteriores no ejecutadas"
+    },
+    {
+      "archivo": "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md",
+      "alcance": "vigente líneas1–105; salida inicial incluyó antecedentes archivados sin reapertura"
+    },
+    {
+      "archivo": "experimentos_temporales_objetivo3_v1/CONTINUIDAD_EXPERIMENTAL.md",
+      "alcance": "completa líneas1–73, lectura acotada corregida tras salida truncada"
+    },
+    {
+      "archivo": "experimentos_temporales_objetivo3_v1/etapa2/resultados/partida.json",
+      "alcance": "procesamiento JSON completo, solo continuidad_inicial/huella usados; protegidos no afirmados lectura humana"
+    },
+    {
+      "archivo": "REGISTRO_PREPARACION.json",
+      "alcance": "JSON completo procesado; inventario/huellas/manifiestos revalidados, salida de cat truncada no contada como lectura completa en chat"
+    },
+    {
+      "archivo": "PREFLIGHT_FASE1.json:manifiestos",
+      "alcance": "nueve índices completos y todos bytes/links cotejados, sin ejecutar fuentes/modelos"
+    },
+    {
+      "archivo": "Git109797407d75d2097e5b71f8bcef3fc266bc61d2:experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+      "alcance": "blob completo cotejado SHA contra manifiesto etapa1 real"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/resultados/configuraciones_congeladas.json",
+      "alcance": "JSON completo procesado; ventanas consultadas, no ejecución grilla histórica"
+    },
+    {
+      "archivo": "experimentos_temporales_objetivo3_v1/etapa2/fuentes/comun.py",
+      "alcance": "líneas1–38/90–133/225–258; fórmulas historial/selector lectura, no imports"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa1/fuentes/comun_v5.py",
+      "alcance": "líneas1–95, lectura de reglas; no imports"
+    },
+    {
+      "archivo": "SEMANTICA_FASE1.json:fuente/derivado/referencias",
+      "alcance": "datasets completos por bloques1024, igualdad exacta; sin evaluación nueva"
+    },
+    {
+      "archivo": "experimentos_temporales_objetivo3_v1/etapa2/resultados/meta.json",
+      "alcance": "completo, resultado histórico"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v2/fase1/resultados/diagnostico_medias_disponibles.csv",
+      "alcance": "cabecera/filas57y90código94 y coincidencias de búsqueda; resto no revisión semántica nueva"
+    }
+  ],
+  "pendiente": [
+    "Pruebas operativas/controles inventados de fase2",
+    "Piloto y auditoría futuros bajo autorización",
+    "Fuentes primarias/autenticación/fechas de disponibilidad no ampliadas en esta fase"
+  ]
+}

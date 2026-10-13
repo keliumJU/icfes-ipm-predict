@@ -1,0 +1,21 @@
+{
+  "status": "abierto",
+  "budget_seconds": 20,
+  "start_monotonic": 29628.54619978,
+  "start_wall": 1791759077.098901,
+  "elapsed_seconds": 0.022822582999651786,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": {
+    "name": "cancelado",
+    "attempt": 0,
+    "request_sha": "d800c5bbbca3998a115c998c5c7194374cc1bad0bf3a53accc1423a1dbacf862",
+    "start": 29628.563142658,
+    "pid": 54
+  },
+  "events": [],
+  "serial": true
+}

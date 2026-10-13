@@ -1,0 +1,17 @@
+{
+  "aprobado": true,
+  "datos": "inventados; cero fits",
+  "pruebas": [
+    "equivalencia int/float cero",
+    "rechazo 1e-11",
+    "orden columnas",
+    "no finito",
+    "un año33filas",
+    "cero años",
+    "común1fila",
+    "anti fuga futuro",
+    "salto2021 previo2019 sin anualizar",
+    "empate entradas/orden",
+    "RMSE dentro pool"
+  ]
+}

@@ -1,0 +1,16 @@
+anio,policy,id,grupo,usa_pobreza
+2021,historico,persistencia,persistencia,0
+2021,ampliado,persistencia,persistencia,0
+2021,con_pobreza,persistencia,persistencia,0
+2022,historico,persistencia,persistencia,0
+2022,ampliado,persistencia,persistencia,0
+2022,con_pobreza,Ridge_HI_0.1,HI,1
+2023,historico,persistencia,persistencia,0
+2023,ampliado,persistencia,persistencia,0
+2023,con_pobreza,Ridge_HI_10,HI,1
+2024,historico,persistencia,persistencia,0
+2024,ampliado,persistencia,persistencia,0
+2024,con_pobreza,Ridge_HI_1,HI,1
+2025,historico,persistencia,persistencia,0
+2025,ampliado,persistencia,persistencia,0
+2025,con_pobreza,Ridge_HI_0.1,HI,1

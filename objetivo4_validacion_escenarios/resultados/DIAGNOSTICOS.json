@@ -1,0 +1,28 @@
+{
+  "variacion_anual_reduccion_pp": {
+    "count": 165.0,
+    "mean": 1.814545454545454,
+    "std": 3.8841964756743192,
+    "min": -10.600000000000009,
+    "25%": -0.3000000000000007,
+    "50%": 1.4000000000000004,
+    "75%": 3.8000000000000007,
+    "max": 18.300000000000004
+  },
+  "fraccion_descensos_1_3_5": {
+    "1": 0.6060606060606061,
+    "3": 0.3575757575757576,
+    "5": 0.1696969696969697
+  },
+  "motivos_rechazos": {
+    "rango_ipm_territorio": 148,
+    "base:rango_ipm_territorio": 130,
+    "distancia_conjunta": 35,
+    "rango_global_ipm": 21,
+    "base:distancia_conjunta": 10,
+    "ipm_invalido": 6,
+    "base:rango_global_ipm": 5
+  },
+  "matematicas_predicciones_fuera_0_100": 0,
+  "intervalo2019_2021_no_anual": true
+}

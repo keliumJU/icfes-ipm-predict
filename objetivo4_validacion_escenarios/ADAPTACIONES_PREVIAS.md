@@ -1,0 +1,7 @@
+# Adaptaciones operativas previas a ajustes
+
+12/10/2026. El entorno analítico existente no contiene openpyxl. Preparación de TXT y extracción XLSX usan el Python documental empaquetado, ya disponible; ajustes usan /tmp/icfes-v2-fase2-venv. No instalación o modificación de runtime. Se registran versiones reales nuevas sin atribuirlas a resultados históricos.
+
+Los requisitos originales se mantienen como referencias; se adaptan explícitamente periodo/partición a 2018–2025 y corte hasta 2023 por autorización humana, efectos de año a tendencia predictiva para años nuevos, y mediana nacional a mediana no ponderada de 33 territorios. Se informa como adaptación, no cumplimiento literal de reservas inéditas/efectos categóricos. No se ajustan después de observar errores.
+Normalización previa a modelos: en 20242 la fuente usa URBANA. Se unifica con URBANO, la misma categoría de ubicación escolar; no se modifica ningún filtro ni se imputan faltantes. Las medias y conteos se volverán a contrastar con las 231 celdas auditadas.
+Unión de códigos: el CSV V2 mezcla 05/5 y 08/8 entre años. En la copia de trabajo se representa todo código con dos dígitos, sin cambiar territorio, observaciones ni valores. Esto es indispensable para la persistencia y los rangos históricos del mismo departamento. Se exige unicidad tras la normalización y coincidencia de las 231 medias/conteos antes de evaluar. No se modifica el CSV anterior ni se presume impacto sobre resultados históricos sin comprobar su procedimiento.

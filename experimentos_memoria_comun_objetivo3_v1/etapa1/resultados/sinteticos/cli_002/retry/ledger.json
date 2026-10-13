@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "context": "inventado",
+  "limit": 10,
+  "used": 2.0,
+  "attempts": [
+    {
+      "job": "x",
+      "status": "infrastructure",
+      "attempt": 1,
+      "seconds": 1,
+      "elapsed_measured": 1
+    },
+    {
+      "job": "x",
+      "status": "infrastructure",
+      "attempt": 2,
+      "seconds": 1,
+      "elapsed_measured": 1
+    }
+  ]
+}

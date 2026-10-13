@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ajustes_por_ventana",
+    "state": "resuelto; antecedente propio archivado",
+    "impact": "previo compartía ajustes y no cumplía192internos",
+    "alternative": "Pipeline y proceso propios por componente/candidato/ventana antes deduplicación",
+    "resolution": "freeze,tests negativos y auditoría independiente;192internos/128externos",
+    "evidence": "fase1/PRUEBAS_EJECUCION.json;fase3/AUDITORIA.json;fase2/piloto/ledger.json"
+  },
+  {
+    "id": "cierre_documental",
+    "state": "resuelto por mapping histórico existente",
+    "impact": "verificadorfase0 espera continuidad previa y falló al usar continuidad avanzada",
+    "alternative": "cotejar SHA contra archivo fase0 ya preservado, sin alterarverificador/manifiesto",
+    "resolution": "fase1/DOCUMENTAL_MAPPING.json; originales intactos",
+    "evidence": "fase1/DOCUMENTAL_MAPPING.json;antecedentes/CONTINUIDAD_CIERRE_ANTERIOR.md"
+  },
+  {
+    "id": "primario",
+    "state": "resultado completo",
+    "impact": "meta5%no alcanzada",
+    "alternative": "reportar primario predefinido y todos contrastes sin rescate por ganador externo",
+    "resolution": "PRIMARIO/tablas/notebook/texto",
+    "evidence": "fase3/PRIMARIO.json;fase3/tablas/metricas_40_procedimientos.csv"
+  },
+  {
+    "id": "objetivo_IPM",
+    "state": "límite académico activo",
+    "impact": "predicción dinámica no demuestra utilidad incremental de pobreza ni ejecutaplanoriginal completo",
+    "alternative": "integrar recálculos IPM válidos y comparación con persistencia; explicitaralcance",
+    "resolution": "texto sin versiones; no afirmación H3 validada",
+    "evidence": "Tesis Vigente/ACA2.pdf físicas25,58–59;fase3/tablas/procedimientos_indicadores_pobreza_recalculados.csv"
+  },
+  {
+    "id": "origen_fechas",
+    "state": "pendiente científico activo",
+    "impact": "aceptación técnica no autentica ni prueba anticipación",
+    "alternative": "conservar huellas/localfecha y decir límite; nofuentesnuevas",
+    "resolution": "DISPONIBILIDAD y texto",
+    "evidence": "fase3/DISPONIBILIDAD.json;auditoria/fuentes_verificadas.md líneas3/7"
+  },
+  {
+    "id": "Guainia",
+    "state": "antecedente numérico preservado, sin cambio actual",
+    "impact": "población completa vs globaldisponible difieren",
+    "alternative": "recalcular guardados notebook y mantener población/media fijadas",
+    "resolution": "guainia_historico.csv; advertencia sin reabrirraw",
+    "evidence": "fase3/tablas/guainia_historico.csv;diagnóstico histórico líneas57/90"
+  },
+  {
+    "id": "dependencia",
+    "state": "pendiente científico activo",
+    "impact": "165pares y copias no replicacionesindependientes; pocos años",
+    "alternative": "tablas descriptivas completas sinp-valores",
+    "resolution": "erroraño/territorio/sesgo/dirección; sin causalidad",
+    "evidence": "fase3/tablas/errores_completos_6600.csv;TEXTO_OBJETIVO3_TESIS.md"
+  }
+]

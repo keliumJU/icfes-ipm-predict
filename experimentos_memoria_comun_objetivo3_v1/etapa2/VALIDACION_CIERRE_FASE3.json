@@ -1,0 +1,18 @@
+{
+  "aprobado": true,
+  "internas": 1320,
+  "internas_unicas": 528,
+  "linaje": 1320,
+  "registros_seleccion": 16,
+  "externas": 825,
+  "global_checks": 5,
+  "fits": {
+    "interna": 24,
+    "externa": 16,
+    "repeticion": 1
+  },
+  "fits_total": 41,
+  "warnings": [],
+  "controles": "Coberturas exactas, contextos/matrices/llaves/fechas/defaults/semilla/objetivos anteriores, scaler aritmético, reconstrucción predicción, selección solo internas, copias/linaje/reuso/global, huellas y procesos terminados",
+  "alcance": "Controles indispensables del piloto fase3. No reemplaza auditoría interpretativa fase4."
+}

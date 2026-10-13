@@ -1,0 +1,24 @@
+{
+  "last_usable_year": 2025,
+  "next_year_conditional": 2026,
+  "source_sha": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "local_evidence": "auditoria/fuentes_verificadas.md líneas3/7: consulta2026-10-07 y publicación IPM2024 registrada22/04/2025; no acredita publicación/disponibilidad histórica del panel2025",
+  "verified_panel_publication_date": null,
+  "forecast_executed": false,
+  "authenticity": "fuente local no autenticada; SHA demuestra conservación, no autenticidad/fecha",
+  "local_file_metadata": [
+    {
+      "file": "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv",
+      "mtime_utc": "2026-10-10T22:05:23.483739+00:00",
+      "meaning": "fecha del archivo local; no publicación oficial"
+    },
+    {
+      "file": "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv",
+      "mtime_utc": "2026-10-11T03:35:53.675113+00:00",
+      "meaning": "fecha del archivo local; no publicación oficial"
+    }
+  ]
+}

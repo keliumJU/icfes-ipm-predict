@@ -1,0 +1,8 @@
+{
+  "aprobado": true,
+  "firmas_train_exactas": 360,
+  "metas": 350,
+  "scaler_escala_y_suma": true,
+  "comprobaciones_persistencia": 5,
+  "sin_nuevos_fits": true
+}

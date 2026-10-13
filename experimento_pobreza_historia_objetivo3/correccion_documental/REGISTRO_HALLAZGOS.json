@@ -1,0 +1,42 @@
+[
+  {
+    "hallazgo": "Arranque bloqueado con gestor síncrono",
+    "impacto": "impedía notebook y entrega académica verificable",
+    "alternativa": "gestor asíncrono compatible, prueba inventada y celdas reales",
+    "resolucion": "resuelto; NOTEBOOK_INVENTADO.ipynb/RESULTADOS.ipynb realmente ejecutados; original congelado intacto",
+    "estado": "antecedente archivado",
+    "evidencia": "correccion_documental/PRUEBA_NOTEBOOK_INVENTADO.json"
+  },
+  {
+    "hallazgo": "Aislamiento rechaza canales locales del kernel",
+    "impacto": "prueba inicial no puede abrir sockets locales",
+    "alternativa": "permiso explícito para comunicación local del kernel, sin red externa",
+    "resolucion": "permiso concedido; un intento sandbox fallido y ejecución aprobada; sin descargas ni fits",
+    "estado": "resuelto",
+    "evidencia": "correccion_documental/ERROR_NOTEBOOK_0.txt y LEDGER_DOCUMENTAL.json"
+  },
+  {
+    "hallazgo": "Políticas histórica y ampliada coinciden",
+    "impacto": "no mejora primaria ni uso de pobreza por ampliado",
+    "alternativa": "respetar selector/meta/denominador; reportar secundario y diagnósticos separados",
+    "resolucion": "primario0%;meta5%no alcanzada; no afirmar uso pobreza por ampliado",
+    "estado": "resultado exploratorio",
+    "evidencia": "resultados/PRIMARIO.json;resultados/tablas/selecciones.csv"
+  },
+  {
+    "hallazgo": "Fuente y fechas locales no autenticadas",
+    "impacto": "aceptación técnica no acredita previsión factible ni causalidad",
+    "alternativa": "lenguaje condicional y pendientes prospectivos",
+    "resolucion": "limitación científica explícita; no nuevas fuentes/proyecciones",
+    "estado": "pendiente científico",
+    "evidencia": "resultados/FECHA_LOCAL.json;correccion_documental/PENDIENTES.md"
+  },
+  {
+    "hallazgo": "Representación de códigos05/08 versus5/8",
+    "impacto": "historia requería identidad geográfica estable",
+    "alternativa": "normalización previa y cotejo de nombres",
+    "resolucion": "ya resuelto antes del piloto, preservado; sin nuevo criterio",
+    "estado": "antecedente archivado",
+    "evidencia": "preflight/NORMALIZACION_CODIGOS.csv"
+  }
+]

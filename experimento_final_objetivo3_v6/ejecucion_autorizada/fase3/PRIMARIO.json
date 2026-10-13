@@ -1,0 +1,25 @@
+{
+  "reference_MAE": 3.429267191379531,
+  "global_MAE": 3.3653578208983728,
+  "global_RMSE": 4.304688433322976,
+  "global_bias": -1.5291559254585656,
+  "improvement_percent": 1.8636451146709523,
+  "target_percent": 5,
+  "target_met": false,
+  "n": 165,
+  "territories": 33,
+  "external_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "improves": 18,
+  "worsens": 15,
+  "ties": 132,
+  "direction_matches": 27,
+  "fits": 320,
+  "constant_estimates": 101,
+  "seconds": 640.7349152410025
+}

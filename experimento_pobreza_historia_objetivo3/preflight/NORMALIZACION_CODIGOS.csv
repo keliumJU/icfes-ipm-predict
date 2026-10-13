@@ -1,0 +1,463 @@
+fuente,codigo_departamento,anio,departamento,codigo_canonico
+principal,05,2018,Antioquia,05
+principal,08,2018,Atlantico,08
+principal,11,2018,Bogota D.C.,11
+principal,13,2018,Bolivar,13
+principal,15,2018,Boyaca,15
+principal,17,2018,Caldas,17
+principal,18,2018,Caqueta,18
+principal,19,2018,Cauca,19
+principal,20,2018,Cesar,20
+principal,23,2018,Cordoba,23
+principal,25,2018,Cundinamarca,25
+principal,27,2018,Choco,27
+principal,41,2018,Huila,41
+principal,44,2018,La Guajira,44
+principal,47,2018,Magdalena,47
+principal,50,2018,Meta,50
+principal,52,2018,Narino,52
+principal,54,2018,Norte de Santander,54
+principal,63,2018,Quindio,63
+principal,66,2018,Risaralda,66
+principal,68,2018,Santander,68
+principal,70,2018,Sucre,70
+principal,73,2018,Tolima,73
+principal,76,2018,Valle del Cauca,76
+principal,81,2018,Arauca,81
+principal,85,2018,Casanare,85
+principal,86,2018,Putumayo,86
+principal,88,2018,San Andres,88
+principal,91,2018,Amazonas,91
+principal,94,2018,Guainia,94
+principal,95,2018,Guaviare,95
+principal,97,2018,Vaupes,97
+principal,99,2018,Vichada,99
+principal,05,2019,Antioquia,05
+principal,08,2019,Atlantico,08
+principal,11,2019,Bogota D.C.,11
+principal,13,2019,Bolivar,13
+principal,15,2019,Boyaca,15
+principal,17,2019,Caldas,17
+principal,18,2019,Caqueta,18
+principal,19,2019,Cauca,19
+principal,20,2019,Cesar,20
+principal,23,2019,Cordoba,23
+principal,25,2019,Cundinamarca,25
+principal,27,2019,Choco,27
+principal,41,2019,Huila,41
+principal,44,2019,La Guajira,44
+principal,47,2019,Magdalena,47
+principal,50,2019,Meta,50
+principal,52,2019,Narino,52
+principal,54,2019,Norte de Santander,54
+principal,63,2019,Quindio,63
+principal,66,2019,Risaralda,66
+principal,68,2019,Santander,68
+principal,70,2019,Sucre,70
+principal,73,2019,Tolima,73
+principal,76,2019,Valle del Cauca,76
+principal,81,2019,Arauca,81
+principal,85,2019,Casanare,85
+principal,86,2019,Putumayo,86
+principal,88,2019,San Andres,88
+principal,91,2019,Amazonas,91
+principal,94,2019,Guainia,94
+principal,95,2019,Guaviare,95
+principal,97,2019,Vaupes,97
+principal,99,2019,Vichada,99
+principal,05,2021,Antioquia,05
+principal,08,2021,Atlantico,08
+principal,11,2021,Bogota D.C.,11
+principal,13,2021,Bolivar,13
+principal,15,2021,Boyaca,15
+principal,17,2021,Caldas,17
+principal,18,2021,Caqueta,18
+principal,19,2021,Cauca,19
+principal,20,2021,Cesar,20
+principal,23,2021,Cordoba,23
+principal,25,2021,Cundinamarca,25
+principal,27,2021,Choco,27
+principal,41,2021,Huila,41
+principal,44,2021,La Guajira,44
+principal,47,2021,Magdalena,47
+principal,50,2021,Meta,50
+principal,52,2021,Narino,52
+principal,54,2021,Norte de Santander,54
+principal,63,2021,Quindio,63
+principal,66,2021,Risaralda,66
+principal,68,2021,Santander,68
+principal,70,2021,Sucre,70
+principal,73,2021,Tolima,73
+principal,76,2021,Valle del Cauca,76
+principal,81,2021,Arauca,81
+principal,85,2021,Casanare,85
+principal,86,2021,Putumayo,86
+principal,88,2021,San Andres,88
+principal,91,2021,Amazonas,91
+principal,94,2021,Guainia,94
+principal,95,2021,Guaviare,95
+principal,97,2021,Vaupes,97
+principal,99,2021,Vichada,99
+principal,05,2022,Antioquia,05
+principal,08,2022,Atlantico,08
+principal,11,2022,Bogota D.C.,11
+principal,13,2022,Bolivar,13
+principal,15,2022,Boyaca,15
+principal,17,2022,Caldas,17
+principal,18,2022,Caqueta,18
+principal,19,2022,Cauca,19
+principal,20,2022,Cesar,20
+principal,23,2022,Cordoba,23
+principal,25,2022,Cundinamarca,25
+principal,27,2022,Choco,27
+principal,41,2022,Huila,41
+principal,44,2022,La Guajira,44
+principal,47,2022,Magdalena,47
+principal,50,2022,Meta,50
+principal,52,2022,Narino,52
+principal,54,2022,Norte de Santander,54
+principal,63,2022,Quindio,63
+principal,66,2022,Risaralda,66
+principal,68,2022,Santander,68
+principal,70,2022,Sucre,70
+principal,73,2022,Tolima,73
+principal,76,2022,Valle del Cauca,76
+principal,81,2022,Arauca,81
+principal,85,2022,Casanare,85
+principal,86,2022,Putumayo,86
+principal,88,2022,San Andres,88
+principal,91,2022,Amazonas,91
+principal,94,2022,Guainia,94
+principal,95,2022,Guaviare,95
+principal,97,2022,Vaupes,97
+principal,99,2022,Vichada,99
+principal,05,2023,Antioquia,05
+principal,08,2023,Atlantico,08
+principal,11,2023,Bogota D.C.,11
+principal,13,2023,Bolivar,13
+principal,15,2023,Boyaca,15
+principal,17,2023,Caldas,17
+principal,18,2023,Caqueta,18
+principal,19,2023,Cauca,19
+principal,20,2023,Cesar,20
+principal,23,2023,Cordoba,23
+principal,25,2023,Cundinamarca,25
+principal,27,2023,Choco,27
+principal,41,2023,Huila,41
+principal,44,2023,La Guajira,44
+principal,47,2023,Magdalena,47
+principal,50,2023,Meta,50
+principal,52,2023,Narino,52
+principal,54,2023,Norte de Santander,54
+principal,63,2023,Quindio,63
+principal,66,2023,Risaralda,66
+principal,68,2023,Santander,68
+principal,70,2023,Sucre,70
+principal,73,2023,Tolima,73
+principal,76,2023,Valle del Cauca,76
+principal,81,2023,Arauca,81
+principal,85,2023,Casanare,85
+principal,86,2023,Putumayo,86
+principal,88,2023,San Andres,88
+principal,91,2023,Amazonas,91
+principal,94,2023,Guainia,94
+principal,95,2023,Guaviare,95
+principal,97,2023,Vaupes,97
+principal,99,2023,Vichada,99
+principal,05,2024,Antioquia,05
+principal,08,2024,Atlantico,08
+principal,11,2024,Bogota D.C.,11
+principal,13,2024,Bolivar,13
+principal,15,2024,Boyaca,15
+principal,17,2024,Caldas,17
+principal,18,2024,Caqueta,18
+principal,19,2024,Cauca,19
+principal,20,2024,Cesar,20
+principal,23,2024,Cordoba,23
+principal,25,2024,Cundinamarca,25
+principal,27,2024,Choco,27
+principal,41,2024,Huila,41
+principal,44,2024,La Guajira,44
+principal,47,2024,Magdalena,47
+principal,50,2024,Meta,50
+principal,52,2024,Narino,52
+principal,54,2024,Norte de Santander,54
+principal,63,2024,Quindio,63
+principal,66,2024,Risaralda,66
+principal,68,2024,Santander,68
+principal,70,2024,Sucre,70
+principal,73,2024,Tolima,73
+principal,76,2024,Valle del Cauca,76
+principal,81,2024,Arauca,81
+principal,85,2024,Casanare,85
+principal,86,2024,Putumayo,86
+principal,88,2024,San Andres,88
+principal,91,2024,Amazonas,91
+principal,94,2024,Guainia,94
+principal,95,2024,Guaviare,95
+principal,97,2024,Vaupes,97
+principal,99,2024,Vichada,99
+principal,5,2025,Antioquia,05
+principal,8,2025,Atlantico,08
+principal,11,2025,Bogota D.C.,11
+principal,13,2025,Bolivar,13
+principal,15,2025,Boyaca,15
+principal,17,2025,Caldas,17
+principal,18,2025,Caqueta,18
+principal,19,2025,Cauca,19
+principal,20,2025,Cesar,20
+principal,23,2025,Cordoba,23
+principal,25,2025,Cundinamarca,25
+principal,27,2025,Choco,27
+principal,41,2025,Huila,41
+principal,44,2025,La Guajira,44
+principal,47,2025,Magdalena,47
+principal,50,2025,Meta,50
+principal,52,2025,Narino,52
+principal,54,2025,Norte de Santander,54
+principal,63,2025,Quindio,63
+principal,66,2025,Risaralda,66
+principal,68,2025,Santander,68
+principal,70,2025,Sucre,70
+principal,73,2025,Tolima,73
+principal,76,2025,Valle del Cauca,76
+principal,81,2025,Arauca,81
+principal,85,2025,Casanare,85
+principal,86,2025,Putumayo,86
+principal,88,2025,San Andres,88
+principal,91,2025,Amazonas,91
+principal,94,2025,Guainia,94
+principal,95,2025,Guaviare,95
+principal,97,2025,Vaupes,97
+principal,99,2025,Vichada,99
+derivada,05,2018,Antioquia,05
+derivada,05,2019,Antioquia,05
+derivada,05,2021,Antioquia,05
+derivada,05,2022,Antioquia,05
+derivada,05,2023,Antioquia,05
+derivada,05,2024,Antioquia,05
+derivada,05,2025,Antioquia,05
+derivada,08,2018,Atlantico,08
+derivada,08,2019,Atlantico,08
+derivada,08,2021,Atlantico,08
+derivada,08,2022,Atlantico,08
+derivada,08,2023,Atlantico,08
+derivada,08,2024,Atlantico,08
+derivada,08,2025,Atlantico,08
+derivada,11,2018,Bogota D.C.,11
+derivada,11,2019,Bogota D.C.,11
+derivada,11,2021,Bogota D.C.,11
+derivada,11,2022,Bogota D.C.,11
+derivada,11,2023,Bogota D.C.,11
+derivada,11,2024,Bogota D.C.,11
+derivada,11,2025,Bogota D.C.,11
+derivada,13,2018,Bolivar,13
+derivada,13,2019,Bolivar,13
+derivada,13,2021,Bolivar,13
+derivada,13,2022,Bolivar,13
+derivada,13,2023,Bolivar,13
+derivada,13,2024,Bolivar,13
+derivada,13,2025,Bolivar,13
+derivada,15,2018,Boyaca,15
+derivada,15,2019,Boyaca,15
+derivada,15,2021,Boyaca,15
+derivada,15,2022,Boyaca,15
+derivada,15,2023,Boyaca,15
+derivada,15,2024,Boyaca,15
+derivada,15,2025,Boyaca,15
+derivada,17,2018,Caldas,17
+derivada,17,2019,Caldas,17
+derivada,17,2021,Caldas,17
+derivada,17,2022,Caldas,17
+derivada,17,2023,Caldas,17
+derivada,17,2024,Caldas,17
+derivada,17,2025,Caldas,17
+derivada,18,2018,Caqueta,18
+derivada,18,2019,Caqueta,18
+derivada,18,2021,Caqueta,18
+derivada,18,2022,Caqueta,18
+derivada,18,2023,Caqueta,18
+derivada,18,2024,Caqueta,18
+derivada,18,2025,Caqueta,18
+derivada,19,2018,Cauca,19
+derivada,19,2019,Cauca,19
+derivada,19,2021,Cauca,19
+derivada,19,2022,Cauca,19
+derivada,19,2023,Cauca,19
+derivada,19,2024,Cauca,19
+derivada,19,2025,Cauca,19
+derivada,20,2018,Cesar,20
+derivada,20,2019,Cesar,20
+derivada,20,2021,Cesar,20
+derivada,20,2022,Cesar,20
+derivada,20,2023,Cesar,20
+derivada,20,2024,Cesar,20
+derivada,20,2025,Cesar,20
+derivada,23,2018,Cordoba,23
+derivada,23,2019,Cordoba,23
+derivada,23,2021,Cordoba,23
+derivada,23,2022,Cordoba,23
+derivada,23,2023,Cordoba,23
+derivada,23,2024,Cordoba,23
+derivada,23,2025,Cordoba,23
+derivada,25,2018,Cundinamarca,25
+derivada,25,2019,Cundinamarca,25
+derivada,25,2021,Cundinamarca,25
+derivada,25,2022,Cundinamarca,25
+derivada,25,2023,Cundinamarca,25
+derivada,25,2024,Cundinamarca,25
+derivada,25,2025,Cundinamarca,25
+derivada,27,2018,Choco,27
+derivada,27,2019,Choco,27
+derivada,27,2021,Choco,27
+derivada,27,2022,Choco,27
+derivada,27,2023,Choco,27
+derivada,27,2024,Choco,27
+derivada,27,2025,Choco,27
+derivada,41,2018,Huila,41
+derivada,41,2019,Huila,41
+derivada,41,2021,Huila,41
+derivada,41,2022,Huila,41
+derivada,41,2023,Huila,41
+derivada,41,2024,Huila,41
+derivada,41,2025,Huila,41
+derivada,44,2018,La Guajira,44
+derivada,44,2019,La Guajira,44
+derivada,44,2021,La Guajira,44
+derivada,44,2022,La Guajira,44
+derivada,44,2023,La Guajira,44
+derivada,44,2024,La Guajira,44
+derivada,44,2025,La Guajira,44
+derivada,47,2018,Magdalena,47
+derivada,47,2019,Magdalena,47
+derivada,47,2021,Magdalena,47
+derivada,47,2022,Magdalena,47
+derivada,47,2023,Magdalena,47
+derivada,47,2024,Magdalena,47
+derivada,47,2025,Magdalena,47
+derivada,50,2018,Meta,50
+derivada,50,2019,Meta,50
+derivada,50,2021,Meta,50
+derivada,50,2022,Meta,50
+derivada,50,2023,Meta,50
+derivada,50,2024,Meta,50
+derivada,50,2025,Meta,50
+derivada,52,2018,Narino,52
+derivada,52,2019,Narino,52
+derivada,52,2021,Narino,52
+derivada,52,2022,Narino,52
+derivada,52,2023,Narino,52
+derivada,52,2024,Narino,52
+derivada,52,2025,Narino,52
+derivada,54,2018,Norte de Santander,54
+derivada,54,2019,Norte de Santander,54
+derivada,54,2021,Norte de Santander,54
+derivada,54,2022,Norte de Santander,54
+derivada,54,2023,Norte de Santander,54
+derivada,54,2024,Norte de Santander,54
+derivada,54,2025,Norte de Santander,54
+derivada,63,2018,Quindio,63
+derivada,63,2019,Quindio,63
+derivada,63,2021,Quindio,63
+derivada,63,2022,Quindio,63
+derivada,63,2023,Quindio,63
+derivada,63,2024,Quindio,63
+derivada,63,2025,Quindio,63
+derivada,66,2018,Risaralda,66
+derivada,66,2019,Risaralda,66
+derivada,66,2021,Risaralda,66
+derivada,66,2022,Risaralda,66
+derivada,66,2023,Risaralda,66
+derivada,66,2024,Risaralda,66
+derivada,66,2025,Risaralda,66
+derivada,68,2018,Santander,68
+derivada,68,2019,Santander,68
+derivada,68,2021,Santander,68
+derivada,68,2022,Santander,68
+derivada,68,2023,Santander,68
+derivada,68,2024,Santander,68
+derivada,68,2025,Santander,68
+derivada,70,2018,Sucre,70
+derivada,70,2019,Sucre,70
+derivada,70,2021,Sucre,70
+derivada,70,2022,Sucre,70
+derivada,70,2023,Sucre,70
+derivada,70,2024,Sucre,70
+derivada,70,2025,Sucre,70
+derivada,73,2018,Tolima,73
+derivada,73,2019,Tolima,73
+derivada,73,2021,Tolima,73
+derivada,73,2022,Tolima,73
+derivada,73,2023,Tolima,73
+derivada,73,2024,Tolima,73
+derivada,73,2025,Tolima,73
+derivada,76,2018,Valle del Cauca,76
+derivada,76,2019,Valle del Cauca,76
+derivada,76,2021,Valle del Cauca,76
+derivada,76,2022,Valle del Cauca,76
+derivada,76,2023,Valle del Cauca,76
+derivada,76,2024,Valle del Cauca,76
+derivada,76,2025,Valle del Cauca,76
+derivada,81,2018,Arauca,81
+derivada,81,2019,Arauca,81
+derivada,81,2021,Arauca,81
+derivada,81,2022,Arauca,81
+derivada,81,2023,Arauca,81
+derivada,81,2024,Arauca,81
+derivada,81,2025,Arauca,81
+derivada,85,2018,Casanare,85
+derivada,85,2019,Casanare,85
+derivada,85,2021,Casanare,85
+derivada,85,2022,Casanare,85
+derivada,85,2023,Casanare,85
+derivada,85,2024,Casanare,85
+derivada,85,2025,Casanare,85
+derivada,86,2018,Putumayo,86
+derivada,86,2019,Putumayo,86
+derivada,86,2021,Putumayo,86
+derivada,86,2022,Putumayo,86
+derivada,86,2023,Putumayo,86
+derivada,86,2024,Putumayo,86
+derivada,86,2025,Putumayo,86
+derivada,88,2018,San Andres,88
+derivada,88,2019,San Andres,88
+derivada,88,2021,San Andres,88
+derivada,88,2022,San Andres,88
+derivada,88,2023,San Andres,88
+derivada,88,2024,San Andres,88
+derivada,88,2025,San Andres,88
+derivada,91,2018,Amazonas,91
+derivada,91,2019,Amazonas,91
+derivada,91,2021,Amazonas,91
+derivada,91,2022,Amazonas,91
+derivada,91,2023,Amazonas,91
+derivada,91,2024,Amazonas,91
+derivada,91,2025,Amazonas,91
+derivada,94,2018,Guainia,94
+derivada,94,2019,Guainia,94
+derivada,94,2021,Guainia,94
+derivada,94,2022,Guainia,94
+derivada,94,2023,Guainia,94
+derivada,94,2024,Guainia,94
+derivada,94,2025,Guainia,94
+derivada,95,2018,Guaviare,95
+derivada,95,2019,Guaviare,95
+derivada,95,2021,Guaviare,95
+derivada,95,2022,Guaviare,95
+derivada,95,2023,Guaviare,95
+derivada,95,2024,Guaviare,95
+derivada,95,2025,Guaviare,95
+derivada,97,2018,Vaupes,97
+derivada,97,2019,Vaupes,97
+derivada,97,2021,Vaupes,97
+derivada,97,2022,Vaupes,97
+derivada,97,2023,Vaupes,97
+derivada,97,2024,Vaupes,97
+derivada,97,2025,Vaupes,97
+derivada,99,2018,Vichada,99
+derivada,99,2019,Vichada,99
+derivada,99,2021,Vichada,99
+derivada,99,2022,Vichada,99
+derivada,99,2023,Vichada,99
+derivada,99,2024,Vichada,99
+derivada,99,2025,Vichada,99

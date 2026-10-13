@@ -1,0 +1,25 @@
+{
+  "aprobado": true,
+  "procedimiento": "Fuente reconstruida; igualdad exacta round_trip; MAE/RMSE/sesgo fsum y selector independientes; sin importar piloto ni cargar modelos",
+  "internas": 11880,
+  "unicas": 4752,
+  "linaje": 11880,
+  "externas": 1155,
+  "registros": 144,
+  "firmas": 360,
+  "metadata_modelos": 350,
+  "repeticiones": 5,
+  "referencias": 165,
+  "tests": {
+    "1e-11": true,
+    "orden": true,
+    "campos": true,
+    "no_finito": true,
+    "llaves": true
+  },
+  "intfloat0_equivalente": true,
+  "segundos": 402.28817591698316,
+  "intentos": 350,
+  "fits_historicos": 0,
+  "modelos_historicos_cargados": 0
+}

@@ -1,0 +1,539 @@
+{
+  "comparaciones": 31152,
+  "iguales": 30168,
+  "diferentes": 984,
+  "resumen": [
+    {
+      "oficial": "dane_2019.xls",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2019.xls",
+      "libro_local": 2024,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2019.xls",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2019.xls",
+      "libro_local": 2025,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2020.xls",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2020.xls",
+      "libro_local": 2024,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2020.xls",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2020.xls",
+      "libro_local": 2025,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2021.xls",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2021.xls",
+      "libro_local": 2024,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2021.xls",
+      "libro_local": 2024,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2021.xls",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2021.xls",
+      "libro_local": 2025,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2021.xls",
+      "libro_local": 2025,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2024,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2024,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2024,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2025,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2025,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2022.xlsx",
+      "libro_local": 2025,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2024,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2024,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2024,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2024,
+      "anio": 2023,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2025,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2025,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2025,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2023.xlsx",
+      "libro_local": 2025,
+      "anio": 2023,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2024,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2024,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2024,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2024,
+      "anio": 2023,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2024,
+      "anio": 2024,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2025,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2025,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2025,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2025,
+      "anio": 2023,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2024.xlsx",
+      "libro_local": 2025,
+      "anio": 2024,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2024,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2024,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2024,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2024,
+      "anio": 2023,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2024,
+      "anio": 2024,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2025,
+      "anio": 2019,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2025,
+      "anio": 2021,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2025,
+      "anio": 2022,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2025,
+      "anio": 2023,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2025,
+      "anio": 2024,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_2025.xlsx",
+      "libro_local": 2025,
+      "anio": 2025,
+      "celdas": 528,
+      "iguales": 528,
+      "diferentes": 0,
+      "identidad_archivo": true
+    },
+    {
+      "oficial": "dane_original_2018.xls",
+      "libro_local": 2024,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 36,
+      "diferentes": 492,
+      "identidad_archivo": false
+    },
+    {
+      "oficial": "dane_original_2018.xls",
+      "libro_local": 2025,
+      "anio": 2018,
+      "celdas": 528,
+      "iguales": 36,
+      "diferentes": 492,
+      "identidad_archivo": false
+    }
+  ],
+  "metodo": "Total; unión por año/territorio/rótulo. Decimal de número almacenado; sin tolerancia para igualdad exacta. No exportación de panel."
+}

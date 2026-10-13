@@ -1,0 +1,21 @@
+{
+  "status": "abierto",
+  "budget_seconds": 20,
+  "start_monotonic": 29619.655737596,
+  "start_wall": 1791759068.20844,
+  "elapsed_seconds": 0.02146853899830603,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": {
+    "name": "sleep",
+    "attempt": 0,
+    "request_sha": "cc2dd912801425e750dfe4fb270411c793382f8ffe4003c3e629c6f2cd99a374",
+    "start": 29619.671859934,
+    "pid": 48
+  },
+  "events": [],
+  "serial": true
+}

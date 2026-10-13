@@ -1,0 +1,9 @@
+{
+  "aprobado": true,
+  "celdas_codigo_ejecutadas": 6,
+  "ejecucion": "exec real con outputs capturados; sin kernel",
+  "fuente_sha256": "dadd2242547c1748a6770785b3572b7cca427b7cf0342da409502d4e86923a3d",
+  "notebook_sha256": "f22dfbb2566c8c5d00932f893a9c9acbc05635aaecc2f15df037ee1a725af285",
+  "fits": 0,
+  "solo_resultados": true
+}

@@ -1,0 +1,672 @@
+{
+  "train": {
+    "keys": [],
+    "years": [],
+    "X": [],
+    "y": [],
+    "history": [],
+    "inputs": [
+      "puntaje_previo",
+      "cambio_previo",
+      "ipm"
+    ],
+    "units": {
+      "H": "puntos global Saber 11",
+      "I": "porcentaje de personas",
+      "D": "porcentaje de hogares"
+    },
+    "persistence": []
+  },
+  "test": {
+    "keys": [
+      {
+        "codigo_departamento": "05",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "08",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "11",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "13",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "15",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "17",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "18",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "19",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "20",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "23",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "25",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "27",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "41",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "44",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "47",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "50",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "52",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "54",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "63",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "66",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "68",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "70",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "73",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "76",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "81",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "85",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "86",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "88",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "91",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "94",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "95",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "97",
+        "anio": 2021
+      },
+      {
+        "codigo_departamento": "99",
+        "anio": 2021
+      }
+    ],
+    "years": [
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021,
+      2021
+    ],
+    "X": [
+      [
+        252.2077818423678,
+        -6.8938427506086555,
+        14.3
+      ],
+      [
+        248.72197355383196,
+        -6.010997537864881,
+        15.5
+      ],
+      [
+        271.704567234944,
+        -6.282634494959666,
+        5.7
+      ],
+      [
+        233.0135525918253,
+        -5.7167745522949645,
+        26.8
+      ],
+      [
+        263.3405482510543,
+        -5.6496612652957765,
+        10.9
+      ],
+      [
+        254.2626318101933,
+        -5.4771879685223155,
+        11.5
+      ],
+      [
+        242.03407247160627,
+        -6.474608612767781,
+        23.1
+      ],
+      [
+        234.01879233738802,
+        -5.6337030415398885,
+        18.6
+      ],
+      [
+        242.09802352564614,
+        -4.085250795716206,
+        25.3
+      ],
+      [
+        237.77550379481812,
+        -6.589678523817071,
+        26.9
+      ],
+      [
+        262.2374362053437,
+        -5.465445792340688,
+        9.4
+      ],
+      [
+        201.30078936435396,
+        -8.79152532414082,
+        36.0
+      ],
+      [
+        261.0951791242813,
+        -4.057152767908917,
+        17.5
+      ],
+      [
+        226.7046028627561,
+        -6.228759826220852,
+        48.7
+      ],
+      [
+        225.6109489051095,
+        -4.212427197536869,
+        32.4
+      ],
+      [
+        254.13162029762455,
+        -6.995083387383005,
+        14.9
+      ],
+      [
+        250.7056988758204,
+        -6.676656007624132,
+        22.1
+      ],
+      [
+        259.5128010489269,
+        -6.799274732381377,
+        24.7
+      ],
+      [
+        260.73603326704034,
+        -3.5248439880003275,
+        10.9
+      ],
+      [
+        258.26310647997394,
+        -6.031711998164781,
+        10.7
+      ],
+      [
+        271.0316953746612,
+        -4.663045907678509,
+        13.3
+      ],
+      [
+        238.31803341655464,
+        -6.1846272465644745,
+        30.3
+      ],
+      [
+        246.22166140904312,
+        -5.193217090317404,
+        16.6
+      ],
+      [
+        255.9790598916386,
+        -4.277384275547945,
+        8.6
+      ],
+      [
+        252.73690523790484,
+        -6.802072130075061,
+        26.8
+      ],
+      [
+        256.9301729660474,
+        -4.738094066417148,
+        19.5
+      ],
+      [
+        244.63283399571998,
+        -4.02321152348344,
+        22.8
+      ],
+      [
+        234.10877192982457,
+        -9.610030066847656,
+        7.0
+      ],
+      [
+        218.81869688385268,
+        -2.015221244802291,
+        25.7
+      ],
+      [
+        224.41472868217053,
+        -11.998494458325325,
+        57.3
+      ],
+      [
+        230.9458762886598,
+        -8.81429812994486,
+        31.0
+      ],
+      [
+        214.81294964028777,
+        -1.8992274814834502,
+        52.7
+      ],
+      [
+        229.07349665924275,
+        -4.1038229283861085,
+        64.8
+      ]
+    ],
+    "y": [
+      251.51535262943335,
+      246.129256242489,
+      272.48469779129744,
+      229.0460629446521,
+      263.5495049504951,
+      252.8938323668951,
+      242.3372093023256,
+      232.87975285171103,
+      239.89778214256486,
+      233.85059760956176,
+      264.2667590454196,
+      204.45846430175123,
+      253.21069878664423,
+      227.97838516245992,
+      227.26259946949602,
+      254.39008199921906,
+      249.63206165212407,
+      256.49291471658864,
+      259.8663906661649,
+      257.0624928856005,
+      266.7735035287967,
+      233.73291313767973,
+      244.54337490525737,
+      253.77873883928572,
+      245.55441055234954,
+      253.92457737321197,
+      240.44666875195495,
+      234.76408450704224,
+      218.50179211469535,
+      220.7842105263158,
+      240.97414965986394,
+      209.6546762589928,
+      228.42857142857142
+    ],
+    "history": [
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 252.2077818423678,
+        "puntaje_previo_previo": 259.10162459297646,
+        "cambio_previo": -6.8938427506086555
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 248.72197355383196,
+        "puntaje_previo_previo": 254.73297109169684,
+        "cambio_previo": -6.010997537864881
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 271.704567234944,
+        "puntaje_previo_previo": 277.9872017299037,
+        "cambio_previo": -6.282634494959666
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 233.0135525918253,
+        "puntaje_previo_previo": 238.73032714412025,
+        "cambio_previo": -5.7167745522949645
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 263.3405482510543,
+        "puntaje_previo_previo": 268.9902095163501,
+        "cambio_previo": -5.6496612652957765
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 254.2626318101933,
+        "puntaje_previo_previo": 259.7398197787156,
+        "cambio_previo": -5.4771879685223155
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 242.03407247160627,
+        "puntaje_previo_previo": 248.50868108437405,
+        "cambio_previo": -6.474608612767781
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 234.01879233738802,
+        "puntaje_previo_previo": 239.6524953789279,
+        "cambio_previo": -5.6337030415398885
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 242.09802352564614,
+        "puntaje_previo_previo": 246.18327432136235,
+        "cambio_previo": -4.085250795716206
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 237.77550379481812,
+        "puntaje_previo_previo": 244.3651823186352,
+        "cambio_previo": -6.589678523817071
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 262.2374362053437,
+        "puntaje_previo_previo": 267.7028819976844,
+        "cambio_previo": -5.465445792340688
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 201.30078936435396,
+        "puntaje_previo_previo": 210.09231468849478,
+        "cambio_previo": -8.79152532414082
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 261.0951791242813,
+        "puntaje_previo_previo": 265.1523318921902,
+        "cambio_previo": -4.057152767908917
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 226.7046028627561,
+        "puntaje_previo_previo": 232.93336268897696,
+        "cambio_previo": -6.228759826220852
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 225.6109489051095,
+        "puntaje_previo_previo": 229.82337610264636,
+        "cambio_previo": -4.212427197536869
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 254.13162029762455,
+        "puntaje_previo_previo": 261.12670368500756,
+        "cambio_previo": -6.995083387383005
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 250.7056988758204,
+        "puntaje_previo_previo": 257.3823548834445,
+        "cambio_previo": -6.676656007624132
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 259.5128010489269,
+        "puntaje_previo_previo": 266.3120757813083,
+        "cambio_previo": -6.799274732381377
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 260.73603326704034,
+        "puntaje_previo_previo": 264.26087725504067,
+        "cambio_previo": -3.5248439880003275
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 258.26310647997394,
+        "puntaje_previo_previo": 264.2948184781387,
+        "cambio_previo": -6.031711998164781
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 271.0316953746612,
+        "puntaje_previo_previo": 275.6947412823397,
+        "cambio_previo": -4.663045907678509
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 238.31803341655464,
+        "puntaje_previo_previo": 244.50266066311912,
+        "cambio_previo": -6.1846272465644745
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 246.22166140904312,
+        "puntaje_previo_previo": 251.41487849936053,
+        "cambio_previo": -5.193217090317404
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 255.9790598916386,
+        "puntaje_previo_previo": 260.25644416718654,
+        "cambio_previo": -4.277384275547945
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 252.73690523790484,
+        "puntaje_previo_previo": 259.5389773679799,
+        "cambio_previo": -6.802072130075061
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 256.9301729660474,
+        "puntaje_previo_previo": 261.66826703246454,
+        "cambio_previo": -4.738094066417148
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 244.63283399571998,
+        "puntaje_previo_previo": 248.65604551920342,
+        "cambio_previo": -4.02321152348344
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 234.10877192982457,
+        "puntaje_previo_previo": 243.71880199667223,
+        "cambio_previo": -9.610030066847656
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 218.81869688385268,
+        "puntaje_previo_previo": 220.83391812865497,
+        "cambio_previo": -2.015221244802291
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 224.41472868217053,
+        "puntaje_previo_previo": 236.41322314049586,
+        "cambio_previo": -11.998494458325325
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 230.9458762886598,
+        "puntaje_previo_previo": 239.76017441860466,
+        "cambio_previo": -8.81429812994486
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 214.81294964028777,
+        "puntaje_previo_previo": 216.71217712177122,
+        "cambio_previo": -1.8992274814834502
+      },
+      {
+        "anio_previo": 2019.0,
+        "anio_previo_previo": 2018.0,
+        "puntaje_previo": 229.07349665924275,
+        "puntaje_previo_previo": 233.17731958762886,
+        "cambio_previo": -4.1038229283861085
+      }
+    ],
+    "inputs": [
+      "puntaje_previo",
+      "cambio_previo",
+      "ipm"
+    ],
+    "units": {
+      "H": "puntos global Saber 11",
+      "I": "porcentaje de personas",
+      "D": "porcentaje de hogares"
+    },
+    "persistence": [
+      252.2077818423678,
+      248.72197355383196,
+      271.704567234944,
+      233.0135525918253,
+      263.3405482510543,
+      254.2626318101933,
+      242.03407247160627,
+      234.01879233738802,
+      242.09802352564614,
+      237.77550379481812,
+      262.2374362053437,
+      201.30078936435396,
+      261.0951791242813,
+      226.7046028627561,
+      225.6109489051095,
+      254.13162029762455,
+      250.7056988758204,
+      259.5128010489269,
+      260.73603326704034,
+      258.26310647997394,
+      271.0316953746612,
+      238.31803341655464,
+      246.22166140904312,
+      255.9790598916386,
+      252.73690523790484,
+      256.9301729660474,
+      244.63283399571998,
+      234.10877192982457,
+      218.81869688385268,
+      224.41472868217053,
+      230.9458762886598,
+      214.81294964028777,
+      229.07349665924275
+    ]
+  },
+  "evaluated_year": 2021
+}

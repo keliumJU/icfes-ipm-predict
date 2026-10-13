@@ -1,0 +1,10 @@
+procedure,MAE,RMSE,bias,n,source,status,same165
+procedimiento_v2,4.8795571881610309,6.194961008561882,-0.97586426860308273,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+procedimiento_ipm,9.3042276214832871,11.79901233374882,2.2514627397204028,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+procedimiento_tasas,4.9391881239002862,6.201588823342707,-0.96695163989765809,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+procedimiento_ambas,4.8219344489039306,6.1222659202921941,-0.75841378224905787,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+media,14.642482640334222,17.55592741338506,-2.8081653711548662,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+ols_ipm_00,9.4939068563006774,12.251515978188971,1.1210047277695108,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+ols_tasas_00,7.3615720445234603,8.9750523239172253,-2.4137298540818222,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+ols_ambas_00,8.0979913210947743,10.138071897479104,-1.8116551361739601,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True
+referencia_v1,5.9793032449890777,7.3123874721938797,-0.66828478417668069,165,experimentos_objetivo3_v2/fase3/resultados/predicciones_externas.csv,recálculo de resultados guardados; no nueva estimación,True

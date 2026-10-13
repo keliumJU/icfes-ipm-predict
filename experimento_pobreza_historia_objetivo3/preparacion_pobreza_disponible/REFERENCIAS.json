@@ -1,0 +1,202 @@
+[
+  {
+    "id": "D2025",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional",
+    "consulta": "2026-10-12",
+    "ubicacion": "Información 2025; filas Boletín/Anexo departamental y nota Comunicado",
+    "extracto_breve": "Información publicada el 14 de abril de 2026",
+    "interpretacion": "El anexo departamental está fechado 2026-04-14; el comunicado fue reemplazado 2026-04-20 para precisar redacción sobre personas.",
+    "limitacion": "No hay prueba de revisión de cifras del anexo por esa corrección del comunicado; tampoco de ausencia de otras revisiones.",
+    "copia_documental": ""
+  },
+  {
+    "id": "D2024",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2024",
+    "consulta": "2026-10-12",
+    "ubicacion": "Información 2024; fila Anexo departamental",
+    "extracto_breve": "Anexo departamental 2025-04-22",
+    "interpretacion": "Fecha del producto departamental documentada.",
+    "limitacion": "Primera disponibilidad de cada cifra/indicador de la edición local no demostrada; no se descargó anexo externo.",
+    "copia_documental": ""
+  },
+  {
+    "id": "D2023",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2023",
+    "consulta": "2026-10-12",
+    "ubicacion": "Información 2023; fila Anexo departamental",
+    "extracto_breve": "Anexo departamental 2024-04-19",
+    "interpretacion": "Fecha del producto departamental documentada.",
+    "limitacion": "Primera disponibilidad de cada cifra/indicador de la edición local no demostrada; no se descargó anexo externo.",
+    "copia_documental": ""
+  },
+  {
+    "id": "D2022",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2022",
+    "consulta": "2026-10-12",
+    "ubicacion": "Información por departamentos; fila Anexo departamental",
+    "extracto_breve": "Anexo departamental 2023-05-23",
+    "interpretacion": "Fecha del producto departamental documentada.",
+    "limitacion": "Primera disponibilidad de cada cifra/indicador de la edición local no demostrada; no se descargó anexo externo.",
+    "copia_documental": ""
+  },
+  {
+    "id": "D2021",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2021",
+    "consulta": "2026-10-12",
+    "ubicacion": "Información por departamentos; fila Anexo departamental",
+    "extracto_breve": "Anexo departamental 2022-04-28",
+    "interpretacion": "Fecha del producto departamental documentada.",
+    "limitacion": "Primera disponibilidad de cada cifra/indicador de la edición local no demostrada; no se descargó anexo externo.",
+    "copia_documental": ""
+  },
+  {
+    "id": "D2019",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2019",
+    "consulta": "2026-10-12",
+    "ubicacion": "Información nacional y por departamentos; fila Anexo departamental",
+    "extracto_breve": "Información actualizada el 21 de diciembre de 2020",
+    "interpretacion": "Publicación nacional 2020-07-14; edición departamental fechada 2020-12-21.",
+    "limitacion": "Actualizada no identifica la primera publicación departamental. No trasladar fecha nacional a quince tasas departamentales.",
+    "copia_documental": ""
+  },
+  {
+    "id": "D2018ORIGINAL",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2018/cp_pobreza_multidimensional_18_departamento.pdf",
+    "consulta": "2026-10-12",
+    "ubicacion": "Página PDF/impresa 1, encabezado",
+    "extracto_breve": "12 de julio de 2019",
+    "interpretacion": "Comunicado departamental 2018 en edición anterior a la recalibración CNPV 2018.",
+    "limitacion": "Fecha del comunicado no demuestra fecha de las quince tasas ni identidad con la serie local revisada.",
+    "copia_documental": "evidencia_oficial/dane2018.pdf"
+  },
+  {
+    "id": "DRECALIBRACION",
+    "url": "https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2019/nota_met__pobreza_multidimensional_19.pdf",
+    "consulta": "2026-10-12",
+    "ubicacion": "Páginas PDF/impresas 1–3, Introducción y estandarización",
+    "extracto_breve": "Asimismo, junto con los resultados de 2019 se publicaron los de 2018 actualizados",
+    "interpretacion": "2018 fue recalibrado con CNPV 2018 y divulgado con 2019 el 2020-07-14; la nota declara no comparabilidad con la serie de proyecciones Censo 2005.",
+    "limitacion": "No demuestra primera publicación de todas las celdas departamentales revisadas.",
+    "copia_documental": "evidencia_oficial/dane_nota2019.pdf"
+  },
+  {
+    "id": "DMETODO2025",
+    "url": "https://www.dane.gov.co/files/operaciones/PM/bol-PMultidimensional-2025.pdf",
+    "consulta": "2026-10-12",
+    "ubicacion": "Páginas PDF/impresas 1–3 y 12, Introducción, sección 1 y Tabla 5",
+    "extracto_breve": "A partir de 2018 tiene representatividad estadística",
+    "interpretacion": "DANE calcula/divulga IPM desde ECV; cinco dimensiones/quince indicadores; incidencia de personas; cobertura 32 departamentos y Bogotá. Tabla 5 usa ECV y proyecciones CNPV 2018.",
+    "limitacion": "No autentica libros locales. Las tasas por hogar se identifican en rótulos locales, no se importan cifras del PDF.",
+    "copia_documental": "evidencia_oficial/dane2025.pdf"
+  },
+  {
+    "id": "D2023CORRECCION",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2023",
+    "consulta": "2026-10-12",
+    "ubicacion": "Fila Boletín técnico, nota aclaratoria",
+    "extracto_breve": "Se realiza una corrección tipográfica",
+    "interpretacion": "Boletín reemplazado 2024-05-07 para corregir año de referencia en página 3.",
+    "limitacion": "No prueba revisión de valores del anexo departamental.",
+    "copia_documental": ""
+  },
+  {
+    "id": "DPDET",
+    "url": "https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2022",
+    "consulta": "2026-10-12",
+    "ubicacion": "Sección IPM-PDET, nota informativa y Nota aclaratoria 2023-12-22",
+    "extracto_breve": "La serie del Índice de Pobreza Multidimensional de los Programas de Desarrollo con Enfoque Territorial",
+    "interpretacion": "Se documenta ajuste de factores PDET, un producto diferente del total departamental.",
+    "limitacion": "Antecedente sin vínculo demostrado con las celdas locales; no trasladar su revisión al IPM departamental.",
+    "copia_documental": ""
+  },
+  {
+    "id": "IDATA",
+    "url": "https://www.icfes.gov.co/investigaciones/data-icfes/",
+    "consulta": "2026-10-12",
+    "ubicacion": "Consulta más información y Preguntas frecuentes, formato de archivos",
+    "extracto_breve": "Los archivos de DataIcfes se encuentran en formato .txt",
+    "interpretacion": "Repositorio de bases anonimizadas y documentación; página actualizada 2025-06-26 enlaza inventario, nuevas bases y calendario.",
+    "limitacion": "Actualización de página no es publicación histórica de cada archivo.",
+    "copia_documental": ""
+  },
+  {
+    "id": "IINVENTARIO",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/03/inventario_img.jpg",
+    "consulta": "2026-10-12",
+    "ubicacion": "Imagen completa, primera fila de tabla: Examen Saber 11",
+    "extracto_breve": "1996 - 2024",
+    "interpretacion": "El inventario enlazado declara Saber 11, nivel estudiante, hasta 2024.",
+    "limitacion": "Sin fecha interna de primera publicación; ruta de carga no prueba evento histórico. Omisión de 2025 no demuestra inexistencia.",
+    "copia_documental": "evidencia_oficial/inventario_img.jpg"
+  },
+  {
+    "id": "INUEVAS",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/03/nuevasbases_img.jpg",
+    "consulta": "2026-10-12",
+    "ubicacion": "Imagen completa, bloques Saber 11 y desagregación",
+    "extracto_breve": "Desde 1996 hasta 2024",
+    "interpretacion": "Anuncia nuevas bases y desagregación étnica/discapacidad desde 2016; contexto de reedición del repositorio.",
+    "limitacion": "No identifica cambios de puntajes ni fecha de entrega de los TXT locales.",
+    "copia_documental": "evidencia_oficial/nuevasbases_img.jpg"
+  },
+  {
+    "id": "ICALENDARIO",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/06/calendario_dataicfes.jpg",
+    "consulta": "2026-10-12",
+    "ubicacion": "Imagen completa, Fase II y lista de exámenes",
+    "extracto_breve": "7 de julio",
+    "interpretacion": "Lista Saber Pro 2024, TyT 2024 y Pre Saber 2022–2024; aviso de aplazamiento de 30 de junio a 7 de julio.",
+    "limitacion": "No incluye Saber 11 y no muestra año de lanzamiento dentro de la imagen: no certifica fechas históricas Saber 11.",
+    "copia_documental": "evidencia_oficial/calendario_dataicfes.jpg"
+  },
+  {
+    "id": "I2021CARGA",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2024/12/Informe-de-Gestion-2021-1.pdf",
+    "consulta": "2026-10-12",
+    "ubicacion": "Página PDF/impresa 146, sección 4.8",
+    "extracto_breve": "En el tercer cuatrimestre del año, se realizó la carga anonimizada",
+    "interpretacion": "Informe de gestión 2021 reporta carga anonimizada de Saber 11-2021 calendario A durante septiembre–diciembre de 2021.",
+    "limitacion": "Intervalo, sin día ni edición; no prueba la disponibilidad conjunta de ambos periodos ni los valores locales.",
+    "copia_documental": "evidencia_oficial/icfes_gestion2021.pdf"
+  },
+  {
+    "id": "I2023CARGA",
+    "url": "https://www.icfes.gov.co/wp-content/uploads/2025/04/Informe-de-rendicio%CC%81n-de-cuentas-Vf.pdf",
+    "consulta": "2026-10-12",
+    "ubicacion": "Páginas PDF 111–112 (sin folio impreso), gestión OGPI 2024",
+    "extracto_breve": "Durante el primer trimestre de 2024",
+    "interpretacion": "Registra revisión/publicación de bases Saber 11 2023 A y B durante enero–marzo de 2024 y actualización de diccionarios; prepara transformación del repositorio.",
+    "limitacion": "No fecha exacta, no primera edición identificada, no identidad con TXT locales. Lo previsto para segundo semestre no es evento efectivo.",
+    "copia_documental": "evidencia_oficial/icfes_rendicion2024.pdf"
+  },
+  {
+    "id": "IAGREGADOS",
+    "url": "https://www.icfes.gov.co/evaluaciones-icfes/saber-11/otros-resultados-examen-saber-11/",
+    "consulta": "2026-10-12",
+    "ubicacion": "Sábanas 2011–2025, tablas 2018, 2019, 2021, 2022-1, 2024 y 2025",
+    "extracto_breve": "Sábanas de resultados agregados desde el 2011 al 2025",
+    "interpretacion": "Tablas actuales fechan 2018/2019/2021/2022-1 en 2025-02-26, 2024 en 2025-02-13 y 2025 en 2026-01-22.",
+    "limitacion": "Fechas mostradas para agregados, no primeras publicaciones de bases anonimizadas. 2018-1 y 2018-2 repiten enlace rotulado 20181; no resolver por inferencia.",
+    "copia_documental": ""
+  },
+  {
+    "id": "IESTADISTICAS",
+    "url": "https://www.icfes.gov.co/estadisticas-oficiales/",
+    "consulta": "2026-10-12",
+    "ubicacion": "Alcance; Examen Saber 11, nota metodológica; Cuadros de salida",
+    "extracto_breve": "Estudiantes no repitentes",
+    "interpretacion": "Agregados actuales excluyen según discapacidad, repetición y estado publicado; desagregación territorial disponible. Cuadros 2021/2022/2024 actualizados 2026-04-06 y 2023 en 2026-10-08.",
+    "limitacion": "Producto/población distintos de la media local. No aplicar regla actual retroactivamente ni confundir Updated con primera publicación.",
+    "copia_documental": ""
+  },
+  {
+    "id": "I2026",
+    "url": "https://www.icfes.gov.co/analisis-de-datos/",
+    "consulta": "2026-10-12",
+    "ubicacion": "Informes nacionales Saber 11, 2026 y 2025",
+    "extracto_breve": "Resumen preliminar de resultados del examen Saber 11° – 2026 Calendario B",
+    "interpretacion": "Se enlaza producto preliminar B 2026, mientras el conjunto local termina en 2025.",
+    "limitacion": "No demuestra un año anual A+B comparable ni bases para conservar población; no se accedió a los resultados enlazados.",
+    "copia_documental": ""
+  }
+]

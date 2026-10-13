@@ -1,0 +1,59 @@
+{
+  "fecha_cliente": "2026-10-11",
+  "timezone": "America/Bogota",
+  "autorizacion": "Prompt humano enviado expresamente: semivida2 y fase1, no piloto",
+  "hallazgos": [
+    {
+      "id": "E1",
+      "evidencia": "preflight.json/entorno.json",
+      "impacto": "Permite controles en el entorno contratado",
+      "alternativa": "Revalidar versiones/54paquetes/pipcheck sin sustituir",
+      "resolucion": "Aprobado antes uso y al cierre"
+    },
+    {
+      "id": "E2",
+      "evidencia": "reconstruccion_referencias.json",
+      "impacto": "Evita cambios silenciosos de datos/territorios/objetivo",
+      "alternativa": "Reconstrucción exacta en memoria con regla heredada",
+      "resolucion": "231/33/198 exactos, intervalo2 sin anualizar"
+    },
+    {
+      "id": "E3",
+      "evidencia": "reconstruccion_referencias.json:referencias",
+      "impacto": "Referencias idénticas no duplican evidencia",
+      "alternativa": "Cotejo independiente contra previo, sin volver a ajustar",
+      "resolucion": "165 pares exactos"
+    },
+    {
+      "id": "E4",
+      "evidencia": "pruebas.json:test_17",
+      "impacto": "Excepción EOF de caída impedía cerrar suite",
+      "alternativa": "Incluir excepción esperada en comprobación; conservar fallo",
+      "resolucion": "pruebas_finales.json y pruebas_cierre.json aprobados"
+    },
+    {
+      "id": "E5",
+      "evidencia": "pruebas_cierre.json y fixtures finales",
+      "impacto": "Compatibilidad ponderada/serial validada solo en inventados",
+      "alternativa": "Pruebas completas/scaler independiente/dobles/metadata",
+      "resolucion": "17 grupos, defaults36, 5comprobacionesglobales, sin evidencia de eficacia"
+    }
+  ],
+  "incidencias_lectura": [
+    "Salida inicial protocolo/JSON truncada: protocolo releído completo y JSON íntegro procesado",
+    "Clave informativa candidatos inexistente en v5: usar configuraciones, sin alterar archivos",
+    "Ruta informativa predicciones_externas bajo piloto inexistente: fuente real está en resultados/"
+  ],
+  "antecedentes_archivados": "No reabiertos sin conexión nueva; no criterios históricos inventados",
+  "hipotesis": "Eficacia de recencia pendiente; ninguna evaluación sobre el panel real",
+  "resultados_historicos": "V5 meta no satisfecha intacta; Guainía238vs404/21.012106puntos conserva advertencia",
+  "fits_panel_real": 0,
+  "ajustes_estimadores_inventados_totales": 318,
+  "modelos_historicos_cargados": 0,
+  "modelos_guardados": 0,
+  "ledger_real": 0,
+  "instalaciones": 0,
+  "descargas": 0,
+  "commit": 0,
+  "push": 0
+}

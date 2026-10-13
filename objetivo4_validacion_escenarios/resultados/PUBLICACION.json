@@ -1,0 +1,14 @@
+{
+  "sin_nuevos_ajustes": true,
+  "fuente_modelos_y_protocolo_sin_cambio": true,
+  "fuentes_publicacion_nuevas_o_actualizadas": {
+    "tests.py": "4e890de65a03fcb3002f5e32c1a058275f62ec907a3f4dd8667e62ec6cc7eb95",
+    "notebook_validacion.py": "de173ee12a13e04c718660fbe0e4932622bb834ca4f7be6e3512383ce3bb3742",
+    "graficas.py": "5a120db77808285870f277e6f02c1e552f367e355c44dca603985c12092cd15a",
+    "publicar.py": "0a28386d62b6662c9b6ac32e7a1dbe50dd236fdde9ef9079f32768922d823432",
+    "crear_word.py": "a652a886df379f08e095a78142bb5ba307f06f622a7844206fd91e20a57a4906",
+    "actualizar_notebook_publicacion.py": "76b6dc9f1de4c508ebbbd51439ee6fc49aaa3ee8abae7e1f8d4ca93cb2ae9dfe"
+  },
+  "motivo": "Prueba de datos de figuras y presentación solo de reducciones efectivas; texto, Word y gráficos desde resultados fijados",
+  "tests_finales": 10
+}

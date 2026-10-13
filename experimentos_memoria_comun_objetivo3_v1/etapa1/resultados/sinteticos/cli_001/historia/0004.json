@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "context": "contexto-inventado",
+  "limit": 10,
+  "used": 5.0,
+  "attempts": [
+    {
+      "job": "a",
+      "status": "infrastructure",
+      "attempt": 1,
+      "seconds": 2,
+      "elapsed_measured": 2
+    },
+    {
+      "job": "a",
+      "status": "success",
+      "attempt": 2,
+      "seconds": 3,
+      "elapsed_measured": 3,
+      "artifact": "inventado.txt",
+      "sha256": "70cf3b9e512b0c5cf7bfc506157492b8ed104a87c95f0bc81412cb4a953205ca"
+    }
+  ]
+}

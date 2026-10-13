@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "context": "584c9dbab06f91db1f136fe17191a2de7f774bf2ef8780fd86ffd545178e55f8",
+  "limit": 7200,
+  "synthetic": false,
+  "start_monotonic": 15606.609424939,
+  "start_wall": 1791744207.5427375,
+  "used": 0.07041243899948313,
+  "attempts": [
+    {
+      "job": "ext_e2021_persistencia",
+      "context": "16865ed4a06c1df6528c00d1dc365f9a2af553ffebccd424f40ad8e74365e755",
+      "state": "success",
+      "output": "resultados/piloto/jobs/ext_e2021_persistencia/respaldo.json",
+      "output_sha256": "e82d9e900d5f5361adca69b4ce929cef94751e47a60779bf17d5e7c419d18867",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 3.982800080848392e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_memoria",
+      "context": "fb8a98a6df853ee47257c4ee5686bcef40c1d69c9b9e4a732bf1a82bcb49c38b",
+      "state": "success",
+      "output": "resultados/piloto/jobs/ext_e2021_memoria/respaldo.json",
+      "output_sha256": "e189a65d5d81c770cc12a3883ec7e714f523bb13a404ca50f5a923e522efdf62",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 6.00160001340555e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_comun",
+      "context": "b35d63ec5c4bf33c3b520eb9333a6715518a45dc499ce455f014b5c8212264ee",
+      "state": "success",
+      "output": "resultados/piloto/jobs/ext_e2021_comun/respaldo.json",
+      "output_sha256": "30c2061e8f373ac9ae78cb0467d45f8b1f3239036094485cee77d185957b893a",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 3.7615000110235997e-05,
+      "no_fit": true
+    }
+  ],
+  "retries": 0,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

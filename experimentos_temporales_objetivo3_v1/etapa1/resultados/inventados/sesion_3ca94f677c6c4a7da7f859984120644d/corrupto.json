@@ -1,0 +1,11 @@
+{
+  "origen": "inventado",
+  "contexto": {
+    "origen": "inventado",
+    "semilla": 20261010
+  },
+  "limite": 2,
+  "consumido": -1,
+  "pendiente": false,
+  "ajustes": []
+}

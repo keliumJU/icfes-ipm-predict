@@ -1,0 +1,29 @@
+{
+  "status": "abierto",
+  "budget_seconds": 0.05,
+  "start_monotonic": 27821.200750677,
+  "start_wall": 1791757269.7534525,
+  "elapsed_seconds": 0.05822914600139484,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 1,
+  "pending": null,
+  "events": [
+    {
+      "name": "timeout",
+      "attempt": 0,
+      "pid": 49,
+      "returncode": -15,
+      "terminated": true,
+      "timeout": true,
+      "events_sha": null,
+      "result_sha": null,
+      "stderr": "",
+      "duration": 0.047170441001071595,
+      "ok": false
+    }
+  ],
+  "serial": true
+}

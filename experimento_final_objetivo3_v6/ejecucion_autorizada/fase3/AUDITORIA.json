@@ -1,0 +1,25 @@
+{
+  "aprobado": true,
+  "jobs": 547,
+  "fits": 320,
+  "constant_estimates": 101,
+  "seconds": 640.7349152410025,
+  "coverage": {
+    "aprobado": true,
+    "internal_original": 12870,
+    "internal_unique": 5148,
+    "external": 6600,
+    "selection_records": 156,
+    "lineage": 12870,
+    "global_checks": 5
+  },
+  "snapshots": 1643,
+  "fits_auditor": 0,
+  "deserializations": 0,
+  "independence": "solo comun/bytes/metadatos; ningún import motor/selector/runner",
+  "scaler_tolerance": {
+    "atol": 1e-12,
+    "rtol": 0
+  },
+  "CSV": "exacto;0intfloat equivalente;1e-11 rechazado"
+}

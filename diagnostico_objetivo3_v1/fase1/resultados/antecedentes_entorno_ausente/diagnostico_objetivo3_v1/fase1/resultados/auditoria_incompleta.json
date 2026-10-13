@@ -1,0 +1,23 @@
+{
+  "fase_aceptada": false,
+  "documental_aprobado": true,
+  "entorno_aprobado": false,
+  "reconstruccion": "pendiente",
+  "analisis_A_E": "pendiente",
+  "pruebas_plan_4": "NO ejecutadas",
+  "aritmetica_independiente": "NO ejecutada",
+  "notebook": "NO creado ni ejecutado",
+  "fits": 0,
+  "modelos_cargados": 0,
+  "diferencia_preliminar_resuelta": "base índice piloto.py:74–97; registros finales separados",
+  "consulta_usuario": "Ruta alternativa exacta o conservar incompleto; respuesta pendiente al documentar",
+  "pendientes_indispensables": [
+    "entorno",
+    "reconstrucción",
+    "cobertura/linaje",
+    "análisis A–E",
+    "pruebas/aritmética",
+    "tablas/gráficos/notebook",
+    "aceptación plan§4"
+  ]
+}

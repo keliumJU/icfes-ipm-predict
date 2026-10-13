@@ -1,0 +1,30 @@
+{
+  "aprobado": true,
+  "before_real_fits": true,
+  "real_fits": 0,
+  "seed": 20261010,
+  "sha256": {
+    "comun.py": "7611528f07836457d359a17c61db0b02682c4d2873a855a1647b8acc1c842591",
+    "motor.py": "dec6bdb5e9f73fa448eb0fc4bb1bb83918c53211548a9befb979673ba65c675a",
+    "runner.py": "ca51a9600018836016806b753af33c30696569f899105b400d2345813ac30084",
+    "pruebas.py": "03bc32e308c28274e7c6c421ac601c846fd5609ce6318a7ca50246c228f1501b",
+    "generar_notebook.py": "0a30e8fe1964890f52668dfa111ed1a2d9f6f5f17031f9907e6d10caa9b66937",
+    "notebook_controles.py": "ff23b92c2cfcafe5801d948c8b736a102dc5ecbd9c097c382b012226feb53de1",
+    "ESPECIFICACION_V6.json": "1811915d304d45eedbbbb57eb49caf1732e1363b0ae73022586c04c93e173442",
+    "CANDIDATOS.csv": "9e61b7f6cb63a8d1503dbd127ca48a94a5a77fede655f550f0b126f7bfb1d2dc",
+    "PROTOCOLO_V6.md": "2cba95fb3487267cb5760c635da1d41a2f3abf769c9e7777ed9b64461ecf8428",
+    "ENTORNO_DOCUMENTAL.json": "9e6c8f7f4c45d3e86f843f326d36648a74432767b579fc449934a2d0fcdfa5a6",
+    "fase1/01_controles.ipynb": "10d5b31968b3c3c61264030d3c3bec45235508fce003b0d1d4a85ce9f5a3b101",
+    "fase1/01_controles.ejecucion.json": "2082bc3dd32c9faa2b1315fbf9faa15fcf6cfb8782db18525ddeabe8eccc6eda",
+    "fase1/PRUEBAS.json": "30953963e26e99cb8412a3364f833ee1fb8f8931852facdb0d5583b646522be5",
+    "fase1/ACEPTACION.json": "4f025ab2cd3aed912e551b9c21a05169a792d1e0a40dcd326b7f45be03b11c8d",
+    "fase1/PREFLIGHT.json": "0a11188bf46483dbf189069e9140c9ab1e15d47b312f1fbd85090c21e688d560",
+    "fase1/REFERENCIAS.json": "91621de633306332f94575db377536a7725b052c8d2b8495d9582e48843f8907"
+  },
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "reglas": "contrato cerrado 6.0.0,39IDs/orden/defaults completos; sin modificación de criterios",
+  "created_wall": 1791757582.385279
+}

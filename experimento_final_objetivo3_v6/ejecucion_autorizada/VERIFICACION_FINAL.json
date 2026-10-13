@@ -1,0 +1,24 @@
+{
+  "aprobado": true,
+  "files": 3483,
+  "originals": {
+    "aprobado": true,
+    "protegidos": 32322,
+    "intento_anterior_huellas": 1935,
+    "diferencias": [],
+    "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "rama": "codex/objetivo3-v5-mae",
+    "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora"
+  },
+  "historical": {
+    "MANIFIESTO_FASE1.json": 28,
+    "etapa1/MANIFIESTO_FASE2.json": 234,
+    "MANIFIESTO_FASE3.json": 1018,
+    "MANIFIESTO_FASE4.json": 54
+  },
+  "experiment_complete": true,
+  "new_fits": 0,
+  "models_loaded": 0,
+  "read_only": true,
+  "technical_acceptance_is_not_authenticity_or_confirmation": true
+}

@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "context": "inventado",
+  "limit": 10,
+  "used": 0.0,
+  "attempts": [
+    {
+      "job": "x",
+      "status": "pending",
+      "attempt": 1
+    }
+  ]
+}

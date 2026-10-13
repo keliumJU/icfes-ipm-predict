@@ -1,0 +1,140 @@
+                                                                                                   58
+
+Fase 4: diseño del modelo predictivo departamental
+
+       Mientras el modelo de panel de la Fase 3 se orienta a la inferencia, es decir, a estimar la
+
+magnitud y el signo de la asociación condicional, el modelo de esta fase se orienta a la
+
+predicción: su propósito es anticipar el puntaje promedio de un departamento en años que no
+
+participaron en su construcción. Por esta razón, se diseñará un modelo predictivo de aprendizaje
+
+automático supervisado a nivel departamental, cuya unidad de observación es el par
+
+departamento-año y cuya variable objetivo es el puntaje global promedio de Saber 11 (Hastie et
+
+al., 2009). Las variables predictoras se organizan en tres especificaciones anidadas: la primera
+
+incluye únicamente los efectos de año y la composición de la población evaluada (proporción de
+
+evaluados en establecimientos oficiales, proporción en zona urbana y número de evaluados) y
+
+sirve como línea base; la segunda incorpora la incidencia del IPM; y la tercera reemplaza el
+
+índice agregado por la contribución de sus cinco dimensiones y las tasas de privación de sus
+
+quince indicadores, lo que permite identificar qué componentes de la pobreza multidimensional
+
+aportan mayor capacidad predictiva. Asimismo, se incluye la variable indicadora de 2021 por el
+
+cambio operativo de la encuesta en ese año.
+
+       Dado que el panel cuenta con 198 observaciones y que el índice y sus componentes son
+
+colineales por construcción, se emplearán métodos de regresión regularizada (ridge, lasso y
+
+elastic net), cuyos parámetros de penalización se seleccionarán mediante validación cruzada
+
+dejando un año fuera dentro del periodo de entrenamiento (Hastie et al., 2009). De esta manera
+
+se controla el sobreajuste y se obtiene una selección estable de predictores. Como especificación
+
+de robustez se replicará el modelo con la proporción de estudiantes que alcanzan el nivel 3 o 4 en
+
+la prueba de Matemáticas como variable objetivo, con el fin de conservar la lectura del
+
+desempeño satisfactorio. Su validación se desarrolla en la fase siguiente.
+                                                                                                   59
+
+Fase 5: validación del modelo y estimación bajo escenarios
+
+       Finalmente, el mapa de ruta culmina con la validación del modelo y su uso para la
+
+estimación de escenarios. El modelo se entrenará con los años 2018, 2019, 2021 y 2022 (132
+
+observaciones) y se evaluará una sola vez sobre 2023 y 2024 (66 observaciones), reservados
+
+desde el inicio, de modo que la capacidad de predicción se comprueba sobre años que el modelo
+
+no conoció. Validar el modelo significa, en este contexto, comparar la raíz del error cuadrático
+
+medio (RMSE), el error absoluto medio (MAE) y el coeficiente de determinación fuera de
+
+muestra de cada especificación frente a dos líneas base: el promedio del departamento durante el
+
+periodo de entrenamiento y la especificación sin IPM; de esta manera, la hipótesis H3 se
+
+contrasta como la reducción del error atribuible a la incorporación del índice, de sus dimensiones
+
+y de sus indicadores. Se complementará con una validación cruzada dejando un departamento
+
+fuera en cada iteración, que evalúa la capacidad del modelo para predecir territorios no
+
+observados, y con el análisis de los residuos por departamento, que permite identificar los
+
+territorios cuyo desempeño se aparta sistemáticamente de lo que su nivel de pobreza
+
+multidimensional anticiparía. Como análisis de robustez se replicará el modelo con la proporción
+
+en nivel 3 o 4 de Matemáticas como variable objetivo y excluyendo el año 2021.
+
+       Una vez validado, el modelo se empleará para estimar el puntaje promedio esperado de
+
+cada departamento bajo escenarios de reducción del IPM: reducciones uniformes de uno, tres y
+
+cinco puntos porcentuales y convergencia de los departamentos más pobres hacia la mediana
+
+nacional, anclados en las variaciones efectivamente observadas en el periodo. Los escenarios se
+
+calculan con la especificación del índice agregado; en la especificación por dimensiones e
+
+indicadores, la reducción se aplica de manera proporcional a las tasas de privación, dado que el
+
+IPM se construye a partir de ellas y no es coherente modificarlo manteniéndolas constantes. Se
+                                                                                                  60
+
+trata de estimaciones condicionales que mantienen constantes las demás variables y que heredan
+
+el carácter asociacional de la relación estimada, por lo que no deben leerse como una evaluación
+
+del impacto de una política.
+
+Instrumentos de recolección de información
+
+       La investigación se sustenta en fuentes secundarias de alta fidelidad validadas por
+
+agencias oficiales (ICFES, 2024c; DANE, 2024), e integra los siguientes instrumentos:
+
+       • Portal de Datos Abiertos, Resultados Saber 11: repositorio de microdatos anonimizados
+
+que permite el acceso masivo a los resultados históricos de las pruebas de Estado y facilita el
+
+análisis de grandes volúmenes de datos (ICFES, 2024b).
+
+       • Registro administrativo Saber 11 (ICFES): instrumento que mide competencias en cinco
+
+áreas del conocimiento y reporta, para cada evaluado, el puntaje global, los puntajes y niveles de
+
+desempeño por prueba y las variables administrativas del establecimiento y del evaluado
+
+(ICFES, 2025a). Su cuestionario socioeconómico se emplea únicamente como información
+
+descriptiva complementaria y no como fuente de variables explicativas, dado que es de
+
+diligenciamiento voluntario y presenta no respuesta diferencial entre departamentos y años; sus
+
+proporciones se calculan sobre quienes responden cada pregunta y se informa el porcentaje sin
+
+respuesta.
+
+       • Anexos departamentales del Índice de Pobreza Multidimensional (DANE): publican
+
+anualmente, desde 2018, la incidencia de la pobreza multidimensional, la intensidad, la
+
+incidencia ajustada, la contribución de las dimensiones y las tasas de privación de los quince
+
+indicadores para los 32 departamentos y Bogotá D.C., calculadas a partir de la Encuesta
+
+Nacional de Calidad de Vida (DANE, 2025c).
+

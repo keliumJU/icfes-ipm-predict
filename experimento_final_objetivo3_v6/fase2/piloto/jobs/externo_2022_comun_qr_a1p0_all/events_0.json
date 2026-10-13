@@ -1,0 +1,14 @@
+[
+  {
+    "monotonic": 28366.15179984,
+    "component": "comun",
+    "state": "antes_fit",
+    "fits_started": 1
+  },
+  {
+    "monotonic": 28366.168168526,
+    "component": "comun",
+    "state": "fit_terminado",
+    "fits_completed": 1
+  }
+]

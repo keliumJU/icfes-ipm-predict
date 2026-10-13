@@ -1,0 +1,188 @@
+conjunto,grupo,n,diferencia_mae,diferencia_rmse,diferencia_sesgo
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ambas_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ambas_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ambas_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ambas_03')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ipm_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ipm_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ipm_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_ipm_03')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_tasas_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_tasas_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_tasas_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_cambio_tasas_03')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_historico_00')",33,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_historico_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_historico_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_historico_03')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_nivel_ipm_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_nivel_ipm_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_nivel_ipm_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'boosting_absoluto_nivel_ipm_03')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_ambas_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_ambas_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_ambas_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_ipm_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_ipm_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_ipm_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_tasas_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_tasas_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_cambio_tasas_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_historico_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_historico_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_historico_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_nivel_ipm_00')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_nivel_ipm_01')",33,0,0,0
+internas_originales,"(np.int64(2022), 'mediana_nivel_ipm_02')",33,0,0,0
+internas_originales,"(np.int64(2022), 'persistencia')",33,0,4.4408920985006262e-16,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ambas_00')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ambas_01')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ambas_02')",66,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ambas_03')",66,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ipm_00')",66,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ipm_01')",66,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ipm_02')",66,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_ipm_03')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_tasas_00')",66,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_tasas_01')",66,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_tasas_02')",66,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_cambio_tasas_03')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_historico_00')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_historico_01')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_historico_02')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_historico_03')",66,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_nivel_ipm_00')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_nivel_ipm_01')",66,0,0,0
+internas_originales,"(np.int64(2023), 'boosting_absoluto_nivel_ipm_02')",66,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'boosting_absoluto_nivel_ipm_03')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_cambio_ambas_00')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_cambio_ambas_01')",66,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'mediana_cambio_ambas_02')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_cambio_ipm_00')",66,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2023), 'mediana_cambio_ipm_01')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_cambio_ipm_02')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_cambio_tasas_00')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_cambio_tasas_01')",66,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2023), 'mediana_cambio_tasas_02')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_historico_00')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_historico_01')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_historico_02')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_nivel_ipm_00')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_nivel_ipm_01')",66,0,0,0
+internas_originales,"(np.int64(2023), 'mediana_nivel_ipm_02')",66,0,0,0
+internas_originales,"(np.int64(2023), 'persistencia')",66,0,0,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ambas_00')",99,0,0,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ambas_01')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ambas_02')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ambas_03')",99,0,0,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ipm_00')",99,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ipm_01')",99,0,0,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ipm_02')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_ipm_03')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_tasas_00')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_tasas_01')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_tasas_02')",99,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_cambio_tasas_03')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_historico_00')",99,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_historico_01')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_historico_02')",99,0,0,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_historico_03')",99,8.8817841970012523e-16,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_nivel_ipm_00')",99,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_nivel_ipm_01')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'boosting_absoluto_nivel_ipm_02')",99,0,0,0
+internas_originales,"(np.int64(2024), 'boosting_absoluto_nivel_ipm_03')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_cambio_ambas_00')",99,0,0,0
+internas_originales,"(np.int64(2024), 'mediana_cambio_ambas_01')",99,8.8817841970012523e-16,8.8817841970012523e-16,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_cambio_ambas_02')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_cambio_ipm_00')",99,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2024), 'mediana_cambio_ipm_01')",99,0,0,0
+internas_originales,"(np.int64(2024), 'mediana_cambio_ipm_02')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_cambio_tasas_00')",99,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2024), 'mediana_cambio_tasas_01')",99,8.8817841970012523e-16,8.8817841970012523e-16,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_cambio_tasas_02')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_historico_00')",99,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2024), 'mediana_historico_01')",99,0,0,0
+internas_originales,"(np.int64(2024), 'mediana_historico_02')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_nivel_ipm_00')",99,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'mediana_nivel_ipm_01')",99,0,0,0
+internas_originales,"(np.int64(2024), 'mediana_nivel_ipm_02')",99,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2024), 'persistencia')",99,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ambas_00')",132,0,8.8817841970012523e-16,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ambas_01')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ambas_02')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ambas_03')",132,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ipm_00')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ipm_01')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ipm_02')",132,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_ipm_03')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_tasas_00')",132,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_tasas_01')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_tasas_02')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_cambio_tasas_03')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_historico_00')",132,8.8817841970012523e-16,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_historico_01')",132,0,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'boosting_absoluto_historico_02')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_historico_03')",132,8.8817841970012523e-16,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_nivel_ipm_00')",132,0,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_nivel_ipm_01')",132,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_nivel_ipm_02')",132,0,0,0
+internas_originales,"(np.int64(2025), 'boosting_absoluto_nivel_ipm_03')",132,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2025), 'mediana_cambio_ambas_00')",132,0,0,0
+internas_originales,"(np.int64(2025), 'mediana_cambio_ambas_01')",132,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2025), 'mediana_cambio_ambas_02')",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'mediana_cambio_ipm_00')",132,0,0,0
+internas_originales,"(np.int64(2025), 'mediana_cambio_ipm_01')",132,0,0,0
+internas_originales,"(np.int64(2025), 'mediana_cambio_ipm_02')",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'mediana_cambio_tasas_00')",132,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2025), 'mediana_cambio_tasas_01')",132,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2025), 'mediana_cambio_tasas_02')",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'mediana_historico_00')",132,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2025), 'mediana_historico_01')",132,8.8817841970012523e-16,8.8817841970012523e-16,0
+internas_originales,"(np.int64(2025), 'mediana_historico_02')",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'mediana_nivel_ipm_00')",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'mediana_nivel_ipm_01')",132,8.8817841970012523e-16,0,0
+internas_originales,"(np.int64(2025), 'mediana_nivel_ipm_02')",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_originales,"(np.int64(2025), 'persistencia')",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_ambas_00',)",132,0,8.8817841970012523e-16,8.8817841970012523e-16
+internas_unicas,"('boosting_absoluto_cambio_ambas_01',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_ambas_02',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_ambas_03',)",132,0,8.8817841970012523e-16,0
+internas_unicas,"('boosting_absoluto_cambio_ipm_00',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_ipm_01',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_ipm_02',)",132,0,8.8817841970012523e-16,0
+internas_unicas,"('boosting_absoluto_cambio_ipm_03',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_tasas_00',)",132,0,8.8817841970012523e-16,0
+internas_unicas,"('boosting_absoluto_cambio_tasas_01',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_tasas_02',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_cambio_tasas_03',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_historico_00',)",132,8.8817841970012523e-16,8.8817841970012523e-16,0
+internas_unicas,"('boosting_absoluto_historico_01',)",132,0,0,8.8817841970012523e-16
+internas_unicas,"('boosting_absoluto_historico_02',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_historico_03',)",132,8.8817841970012523e-16,8.8817841970012523e-16,0
+internas_unicas,"('boosting_absoluto_nivel_ipm_00',)",132,0,8.8817841970012523e-16,0
+internas_unicas,"('boosting_absoluto_nivel_ipm_01',)",132,8.8817841970012523e-16,0,0
+internas_unicas,"('boosting_absoluto_nivel_ipm_02',)",132,0,0,0
+internas_unicas,"('boosting_absoluto_nivel_ipm_03',)",132,8.8817841970012523e-16,0,0
+internas_unicas,"('mediana_cambio_ambas_00',)",132,0,0,0
+internas_unicas,"('mediana_cambio_ambas_01',)",132,8.8817841970012523e-16,0,0
+internas_unicas,"('mediana_cambio_ambas_02',)",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_unicas,"('mediana_cambio_ipm_00',)",132,0,0,0
+internas_unicas,"('mediana_cambio_ipm_01',)",132,0,0,0
+internas_unicas,"('mediana_cambio_ipm_02',)",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_unicas,"('mediana_cambio_tasas_00',)",132,8.8817841970012523e-16,0,0
+internas_unicas,"('mediana_cambio_tasas_01',)",132,8.8817841970012523e-16,0,0
+internas_unicas,"('mediana_cambio_tasas_02',)",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_unicas,"('mediana_historico_00',)",132,8.8817841970012523e-16,0,0
+internas_unicas,"('mediana_historico_01',)",132,8.8817841970012523e-16,8.8817841970012523e-16,0
+internas_unicas,"('mediana_historico_02',)",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_unicas,"('mediana_nivel_ipm_00',)",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_unicas,"('mediana_nivel_ipm_01',)",132,8.8817841970012523e-16,0,0
+internas_unicas,"('mediana_nivel_ipm_02',)",132,8.8817841970012523e-16,0,8.8817841970012523e-16
+internas_unicas,"('persistencia',)",132,0,0,0
+externas,"('cambio_ambas', 'persistencia')",165,0,0,0
+externas,"('cambio_ipm', 'persistencia')",165,0,0,0
+externas,"('cambio_tasas', 'persistencia')",165,0,0,0
+externas,"('global', 'persistencia')",165,0,0,0
+externas,"('historico', 'persistencia')",165,0,0,0
+externas,"('nivel_ipm', 'persistencia')",165,0,0,0
+externas,"('persistencia', 'persistencia')",165,0,0,0

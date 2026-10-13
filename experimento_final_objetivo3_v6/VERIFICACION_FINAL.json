@@ -1,0 +1,22 @@
+{
+  "verificacion_cierre_aprobada": true,
+  "experimento_completo": false,
+  "meta_v6_evaluada": false,
+  "ledger": "cerrado_incompleto; saldo agotado conservadoramente",
+  "huellas": 1935,
+  "originales_intactos": true,
+  "historicos_mappings": {
+    "MANIFIESTO_FASE1.json": 28,
+    "etapa1/MANIFIESTO_FASE2.json": 234,
+    "MANIFIESTO_FASE3.json": 1018,
+    "MANIFIESTO_FASE4.json": 54
+  },
+  "fits_verificador": 0,
+  "modelos_cargados": 0,
+  "modo": "solo lectura sin escritura/fit",
+  "pendientes_indispensables": [
+    "ajustes internos independientes por ventana no ejecutados como contrato",
+    "cobertura completa/selección/linaje/CSV final del piloto no verificables",
+    "medición y registro individual de terminación del último pendiente no consolidado"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "reconstruccion_exacta": true,
+  "filas": 231,
+  "territorios": 33,
+  "cambios": 198,
+  "previo_2021": 2019,
+  "intervalos": [
+    1,
+    2
+  ],
+  "sin_anualizar": true,
+  "grupos_exactos": true,
+  "defaults_36_exactos": true,
+  "referencias": {
+    "aprobado": true,
+    "pares": 165,
+    "iguales_exactamente": true,
+    "independencia_del_nuevo_fit": true,
+    "evidencias_independientes_entre_si": false,
+    "archivos": {
+      "experimentos_objetivo3_v5/etapa2/resultados/predicciones_externas.csv": "ea5392cabe0594b9afe36bf3cadc3d2f3010a9870ab142e9aab3f9b6eb5368e3",
+      "experimentos_objetivo3_v3/etapa2/resultados/predicciones_externas.csv": "d50d4199a7316230cc3a12ecad9315429bd78e12cdcf7aa8b8ad015c9e405668"
+    },
+    "procedimiento": "Lectura round_trip; llaves/campos/orden/observados/predicción exactos vs previo reconstruido; sin MAE nuevo"
+  },
+  "fits_reales": 0
+}

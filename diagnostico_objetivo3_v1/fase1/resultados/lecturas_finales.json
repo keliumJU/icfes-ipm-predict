@@ -1,0 +1,60 @@
+{
+  "antecedente_lecturas_iniciales": {
+    "pdf_actuales": {
+      "paginas": 0,
+      "archivos": []
+    },
+    "agentes": {
+      "archivo": "AGENTS.md",
+      "lineas": "1–12",
+      "lectura": "completa"
+    },
+    "continuidad_propia": {
+      "archivo": "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md",
+      "lineas_preparacion": "1–93",
+      "lectura": "completa antes de escritura"
+    },
+    "plan_propio": {
+      "archivo": "diagnostico_objetivo3_v1/PLAN_DIAGNOSTICO.md",
+      "secciones": "1–5",
+      "lineas": "1–226"
+    },
+    "continuidades_vigentes": {
+      "v2": "1–100",
+      "v3": "1–110",
+      "v4": "1–115",
+      "v5": "1–95"
+    },
+    "documentos_v5": [
+      "etapa1/PROTOCOLO_V5.md completo (5.0.0)",
+      "etapa1/README.md",
+      "etapa1/INFORME_CIERRE.md",
+      "etapa1/registro_problemas.md",
+      "etapa2/README.md",
+      "etapa2/INFORME_PILOTO.md",
+      "etapa2/registro_problemas.md",
+      "etapa2/PROTOCOLO_OPERATIVO.md"
+    ],
+    "json_actuales": "Registro preparación completo por código y resumen; manifiestos/congelaciones/controles/contexto/índice por estructura y huellas completas; configuraciones por estructura; selecciones por SHA",
+    "lock": "v4/etapa1/requirements.lock.txt completo,54líneas; solo contrato, no entorno validado",
+    "codigo_historico": "piloto.py v5etapa2 coincidencias rg líneas74–97 para base índice; no importado ni ejecutado",
+    "incidencia_lecturas": "Consulta inicial conjunta truncada por inventario extenso; relecturas acotadas de continuidad propia/plan/continuidades vigentes/documentos v5. No atribuir lectura íntegra nueva de antecedentes históricos omitidos.",
+    "historicas": "Advertencias Guainía/etc. heredadas de continuidades; no nuevo cálculo ni lectura PDF",
+    "pendientes": "Defaults completos/configuraciones/metadatos semánticos/CSV/linaje/reconstrucción aún sin análisis; no atribuir auditoría semántica a SHA",
+    "planes_posteriores": "No solicitados; no entrenamiento posterior ejecutado"
+  },
+  "nuevas_lecturas": [
+    "v5etapa1/preparar.py:reconstrucción/entorno en lectura",
+    "v3comun_v3.py:historial/ventanas leído sin importar",
+    "v4comun_v4.py:1–105,GRUPOS/historial en lectura",
+    "v5etapa2/verificar.py:1–190,piloto.py:105–185 lectura de contrato sin ejecutar",
+    "configuraciones36/defaults/grupos/ventanas completosJSON",
+    "350ajuste.json y10calculo.json internos completos;entradas/predicciones360CSV",
+    "5selecciones/meta/contexto/entorno/273métricas históricas seleccionadas"
+  ],
+  "pdf_paginas_actuales": 0,
+  "planes_consultados": "Solo planpropio1–5;no planes entrenamiento posteriores",
+  "semantica_actual": "Datos/predicciones/parametrización/linaje auditados por fuentespropias",
+  "lecturas_historicas": "AdvertenciasGuainía/local/IPM heredadas;sin lectura PDF nueva ni nuevo cálculo casos",
+  "pendientes_lectura": "NingúnPDFnecesario para este alcance;no autenticaciónfuentesoriginales"
+}

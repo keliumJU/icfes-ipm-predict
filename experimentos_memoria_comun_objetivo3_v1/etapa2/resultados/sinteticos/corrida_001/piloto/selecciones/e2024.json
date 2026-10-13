@@ -1,0 +1,63 @@
+{
+  "records": [
+    {
+      "external": 2024,
+      "role": "interna",
+      "candidate": "persistencia",
+      "eligible": true,
+      "reason": "cobertura completa",
+      "MAE": 3.23989898989899,
+      "RMSE": 3.996842187871254,
+      "n": 99,
+      "selected": true
+    },
+    {
+      "external": 2024,
+      "role": "interna",
+      "candidate": "memoria",
+      "eligible": true,
+      "reason": "cobertura completa",
+      "MAE": 3.255050505050505,
+      "RMSE": 4.012134372403574,
+      "n": 99,
+      "selected": false
+    },
+    {
+      "external": 2024,
+      "role": "interna",
+      "candidate": "comun",
+      "eligible": true,
+      "reason": "cobertura completa",
+      "MAE": 3.255050505050505,
+      "RMSE": 4.012134372403574,
+      "n": 99,
+      "selected": false
+    },
+    {
+      "external": 2024,
+      "role": "interna",
+      "candidate": "comun_correccion",
+      "eligible": true,
+      "reason": "cobertura completa",
+      "MAE": 3.255050505050505,
+      "RMSE": 4.012134372403574,
+      "n": 99,
+      "selected": false
+    }
+  ],
+  "choice": {
+    "candidate": "persistencia",
+    "pool_MAE": [
+      "persistencia",
+      "memoria",
+      "comun",
+      "comun_correccion"
+    ],
+    "pool_RMSE": [
+      "persistencia",
+      "memoria",
+      "comun",
+      "comun_correccion"
+    ]
+  }
+}

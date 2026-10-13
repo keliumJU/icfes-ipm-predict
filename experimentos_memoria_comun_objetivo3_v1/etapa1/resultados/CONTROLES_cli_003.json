@@ -1,0 +1,95 @@
+{
+  "aprobado": true,
+  "grupos": 12,
+  "pruebas": [
+    {
+      "control": "dates_and_history",
+      "estado": "aprobado",
+      "seconds": 0.0017807790009101154,
+      "error": null
+    },
+    {
+      "control": "geography_and_units",
+      "estado": "aprobado",
+      "seconds": 0.001705450000372366,
+      "error": null
+    },
+    {
+      "control": "documentary_defaults",
+      "estado": "aprobado",
+      "seconds": 0.004081533999851672,
+      "error": null
+    },
+    {
+      "control": "zero_one_and_fixed_2021",
+      "estado": "aprobado",
+      "seconds": 0.019939432000683155,
+      "error": null
+    },
+    {
+      "control": "training_scaler_and_invariance",
+      "estado": "aprobado",
+      "seconds": 0.04493776799972693,
+      "error": null
+    },
+    {
+      "control": "numerical_failures",
+      "estado": "aprobado",
+      "seconds": 0.00060340200070641,
+      "error": null
+    },
+    {
+      "control": "selection_bands_and_ties",
+      "estado": "aprobado",
+      "seconds": 0.00024123799994413275,
+      "error": null
+    },
+    {
+      "control": "coverage_and_csv",
+      "estado": "aprobado",
+      "seconds": 0.0031178369990811916,
+      "error": null
+    },
+    {
+      "control": "copies_lineage_context",
+      "estado": "aprobado",
+      "seconds": 0.02932242499991844,
+      "error": null
+    },
+    {
+      "control": "paths_symlinks_and_conservation",
+      "estado": "aprobado",
+      "seconds": 0.0011780499989981763,
+      "error": null
+    },
+    {
+      "control": "budget_retry_resume",
+      "estado": "aprobado",
+      "seconds": 0.07834136999917973,
+      "error": null
+    },
+    {
+      "control": "real_process_termination_invented_worker",
+      "estado": "aprobado",
+      "seconds": 0.18529556800058344,
+      "error": null
+    }
+  ],
+  "fits_inventados": 16,
+  "fits_panel_real": 0,
+  "controles_negativos": 57,
+  "modelos_cargados": 0,
+  "seed": 20261010,
+  "presupuesto_real_iniciado": false,
+  "artefactos": "resultados/sinteticos/cli_003",
+  "huellas_fuentes": {
+    "preflight.py": "96c32e1b7bae6a324cd19658efe6831043cce5990f8c74a9ee60eafaada14926",
+    "motor.py": "8896332df4972e092d5e58396f022275e3964056306befc6c0d1253275dfa48a",
+    "integridad.py": "8609ef420f3ff7b8c3062781d010ff7ff5a6a9b7d003b36eeeef65e9df4f3a2a",
+    "ejecucion_sintetica.py": "4c6e1f757d4803bfcab6a082e2788c848f5e249592def85098ba45217adff777",
+    "worker_inventado.py": "e496e70bccb6b0ef4d5014d581f45e96bdcd7bc5b7c8064de97d854557a7f80d",
+    "controles.py": "997af5ba299faa909999f9366f85372e73b6f5958c4316cf36e7fd21e3ab8386",
+    "notebook_controles.py": "46353a3ccfcebf2f75c1a3214f5896cc442bb9f2d914e0544dd782243d5b4507",
+    "generar_notebook.py": "2300f7a944c15c6f774fd6c2d660541014966a1ec5c291eb10676eba725eadb8"
+  }
+}

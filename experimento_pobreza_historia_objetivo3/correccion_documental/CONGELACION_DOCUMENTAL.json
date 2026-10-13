@@ -1,0 +1,27 @@
+{
+  "aprobado": true,
+  "epoch": 1791830695.8632329,
+  "sha256": {
+    "correccion_documental/infra_correccion.py": "6a2f003480681f3739d65c67e35faad92039ad596c2cf4a205bcbecac01c8ab0",
+    "correccion_documental/preflight_documental.py": "9d5d7e4b85ad618c0a1f478dacbe15bddf76cfcdbf97103738624937de4fd59b",
+    "correccion_documental/notebook_corregido.py": "61be86dc580067bbcd170182b1a6c47af78593d934199263391a14a66f1a933f",
+    "correccion_documental/generar_notebook_corregido.py": "38b57c142bd19dfb6f94f121b67759a7623f7d4adcf4e5d1c5c5a971c20eb34f",
+    "correccion_documental/verificar_entrega_corregida.py": "24b1fc7555ef353dd33f2addc86a1dd87c6dda54342cb5769d04047deff9bd26",
+    "correccion_documental/congelar_documental.py": "dd1e05cd2e02bef727737282882f501b9659f9319691384bc09619b74dd0cd6d",
+    "correccion_documental/cerrar_documental.py": "a3a12132e371c85526d8f3b3da81696c760518d335941effced151e820c687df",
+    "analisis.py": "232268852ea05ebe184de766544167923c1129d6ca244cc9fad1a8f93057d73e",
+    "notebook_resultados.py": "47871543546d7dc9a8ee61acb59da8a6aee21a6647fa61ab9438f7fcde7d7ae6",
+    "auditor.py": "fdb4bf035c39b96aae92da5ae44f293d75031a1f0d34c53e64784c3fcc4f9020",
+    "ESPECIFICACION.json": "7218207d01c66cf34d766f211e42b2e5d2026321663b8ba8fb9d400e15ae8ecf",
+    "CANDIDATOS.csv": "7aea45c6e26142a5a94721d19cfcf2daa35b8f3f0cc7ae536fe02c8bf3e9f02a",
+    "CONGELACION.json": "f71db80c323adc0aa2f8553def0cbec1b226988609de9afab1b7f2be4479eb04",
+    "piloto/ledger.json": "bc6a7446134d424e543b303c0c81b0cc53cbfd14314878f2466b5ded50eeb0cf",
+    "piloto/PREDICCIONES.csv": "4d1a84ad50ab1f1131bbe25ce5c9a612597e1ea92c6927b1ba141e7ed8a0e990",
+    "piloto/POLITICAS.csv": "1d2426f4f120b7a976dda7c2a1bb3ecfd26259f65b926f4bcf8eab97f289a9a0",
+    "piloto/SELECCIONES.json": "911a824ad539c5af30cffdfa0c29c36151ee1b27fe32f0861eab4365879800f4"
+  },
+  "new_fits": 0,
+  "scientific_changes": false,
+  "original_freeze_modified": false,
+  "modifications": "gestor kernel asíncrono, entorno antes imports, reloj documental y guardia cero fits; funciones científicas sin cambios"
+}

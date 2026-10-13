@@ -1,0 +1,23 @@
+[
+  {
+    "etapa": "validación previa a aceptación final",
+    "fits_reales": 0,
+    "problema": "35 representaciones literales de código vs33territorios por año",
+    "resolucion": "normalización dos dígitos, nombres y cotejo completo; sin cambiar población",
+    "evidencia": "preflight/NORMALIZACION_CODIGOS.csv"
+  },
+  {
+    "etapa": "validación CSV propia antes de aceptación final",
+    "fits_reales": 0,
+    "problema": "lector infería codigo_canonico como número",
+    "resolucion": "dtype string explícito para todas columnas textuales; round_trip numérico exacto",
+    "evidencia": "infra.csv_save"
+  },
+  {
+    "etapa": "revisión implementación anterior al primerfit",
+    "fits_reales": 0,
+    "problema": "necesidad de robustecer controles y fijar kernel notebook exacto",
+    "resolucion": "revisiones prefit de congelación preservadas; candidatos/criterios intactos; pruebas todas aprobadas",
+    "evidencia": "CONGELACION.json"
+  }
+]

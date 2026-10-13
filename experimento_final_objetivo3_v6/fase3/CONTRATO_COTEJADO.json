@@ -1,0 +1,31 @@
+{
+  "candidates": 39,
+  "components_per_context": 32,
+  "internal_trainable_window_contexts": 6,
+  "observed_unique_internal_trainable_years": 3,
+  "external_windows": 5,
+  "external_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "internal_windows": 10,
+  "target_percent": 5,
+  "population_territories": 33,
+  "evaluation_pairs": 165,
+  "excluded_year": 2020,
+  "first_level": 2018,
+  "history_only_response_excluded": 2019,
+  "MAE_band": 0.1,
+  "RMSE_band": 0.1,
+  "budget_seconds": 7200,
+  "seed": 20261010,
+  "full_internal_original_rows": 12870,
+  "full_external_rows": 6600,
+  "full_unique_internal_rows": 5148,
+  "full_selection_rows": 156,
+  "notebook_fits": 0,
+  "status": "cantidades contractuales, no cobertura lograda"
+}

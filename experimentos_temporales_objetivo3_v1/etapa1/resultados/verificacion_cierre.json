@@ -1,0 +1,10 @@
+{
+  "aprobado": true,
+  "entregables": 77,
+  "congelacion_completa": true,
+  "conservacion_completa": true,
+  "manifest_sha256": "4405700ebbf0312e0750b15447292f85ebe211c3f0d993902d7b6add2783e002",
+  "fits_panel_real": 0,
+  "piloto_autorizado": false,
+  "pendientes_indispensables_etapa1": []
+}

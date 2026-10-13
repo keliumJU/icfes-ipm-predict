@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-10-11 America/Bogota",
+  "autorizacion": "envío humano exclusivo fase4; continua mantiene alcance",
+  "primer_control": {
+    "aprobado": true,
+    "completa": true,
+    "huellas": 1018,
+    "conservacion": {
+      "aprobado": true,
+      "protegidos": 31245,
+      "diferencias": [],
+      "ajenos_nuevos": [],
+      "versionados": 29640
+    },
+    "modo": "lectura; sin fits/escrituras"
+  },
+  "fits_nuevos": 0,
+  "modelos_cargados": 0,
+  "discrepancias_resultados": [],
+  "incidencias_archivadas": [
+    "lectura plan completo accidental",
+    "salidas truncadas corregidas",
+    "auditor001–003",
+    "complementar001–002"
+  ],
+  "pendientes_cientificos": [
+    "autenticidad",
+    "disponibilidad temporal",
+    "confirmación independiente",
+    "aporte del rezago/regularización"
+  ],
+  "avance_automatico": false
+}

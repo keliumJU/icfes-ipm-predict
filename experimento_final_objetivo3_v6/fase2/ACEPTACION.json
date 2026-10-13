@@ -1,0 +1,12 @@
+{
+  "completa": false,
+  "ledger_closed": true,
+  "control_failed": "no compartir ajustes internos entre ventanas",
+  "pendientes_indispensables": [
+    "implementación incorrecta de ajuste por ventana",
+    "cobertura del piloto no completa",
+    "último pendiente sin terminación/tiempo consolidado"
+  ],
+  "action": "no reiniciar; no calcular desempeño/meta; auditoría independiente y entrega incompleta",
+  "phase1_acceptance_superseded": true
+}

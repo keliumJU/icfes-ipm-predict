@@ -1,0 +1,52 @@
+{
+  "status": "abierto",
+  "budget_seconds": 20,
+  "start_monotonic": 29620.90430607,
+  "start_wall": 1791759069.4570072,
+  "elapsed_seconds": 2.259520997002255,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 1,
+  "failures": 2,
+  "pending": null,
+  "events": [
+    {
+      "name": "failure",
+      "attempt": 0,
+      "pid": 50,
+      "returncode": 2,
+      "terminated": true,
+      "wait_completed": true,
+      "timeout": false,
+      "interrupted": false,
+      "start_monotonic": 29620.912349713,
+      "end_monotonic": 29622.010593821,
+      "request_sha": "6d3bbe41c7d13a615e5d9dbc0595c8c3c2c6d2e02415c34bfcd2e0df2bdc4e36",
+      "events_sha": null,
+      "result_sha": "e53bb6e2f50ac6db4a45180b6f343e2006de4a3c3694b232db2b440c64110c1d",
+      "stderr": "",
+      "duration": 1.0982880629999272,
+      "ok": false
+    },
+    {
+      "name": "failure",
+      "attempt": 1,
+      "pid": 51,
+      "returncode": 2,
+      "terminated": true,
+      "wait_completed": true,
+      "timeout": false,
+      "interrupted": false,
+      "start_monotonic": 29622.037221124,
+      "end_monotonic": 29623.149976173,
+      "request_sha": "6d3bbe41c7d13a615e5d9dbc0595c8c3c2c6d2e02415c34bfcd2e0df2bdc4e36",
+      "events_sha": null,
+      "result_sha": "e53bb6e2f50ac6db4a45180b6f343e2006de4a3c3694b232db2b440c64110c1d",
+      "stderr": "",
+      "duration": 1.1128079459995206,
+      "ok": false
+    }
+  ],
+  "serial": true
+}

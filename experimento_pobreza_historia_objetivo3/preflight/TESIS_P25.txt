@@ -1,0 +1,42 @@
+                                                                                              25
+
+                                                Objetivos
+
+Objetivo general
+
+       Analizar la relación entre el Índice de Pobreza Multidimensional (IPM) y el desempeño
+
+académico en la educación media de los departamentos de Colombia durante el periodo
+
+2018-2024, mediante la integración de información oficial del DANE y del ICFES.
+
+Objetivos específicos
+
+   ●​ Describir el comportamiento del Índice de Pobreza Multidimensional, de sus cinco
+
+       dimensiones y quince indicadores, y del desempeño académico en las pruebas Saber 11, a
+
+       nivel departamental en Colombia durante el periodo 2018-2024, mediante estadística
+
+       descriptiva y análisis exploratorio de datos.
+
+   ●​ Estimar la asociación entre el Índice de Pobreza Multidimensional y el desempeño
+
+       académico departamental en Colombia durante el periodo 2018-2024, mediante modelos
+
+       de datos de panel con efectos fijos de departamento y de año.
+
+   ●​ Diseñar un modelo predictivo de aprendizaje automático a nivel departamental que
+
+       estime el desempeño académico en las pruebas Saber 11 a partir del Índice de Pobreza
+
+       Multidimensional, de sus dimensiones y de sus indicadores, durante el periodo
+
+       2018-2024.
+
+   ●​ Validar la capacidad predictiva del modelo de aprendizaje automático sobre años no
+
+       empleados en su entrenamiento y estimar el desempeño académico departamental
+
+       esperado bajo escenarios de reducción del Índice de Pobreza Multidimensional.
+

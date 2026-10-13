@@ -1,0 +1,16 @@
+{
+  "experimento_completo": false,
+  "entrega_incompleta_verificable": true,
+  "notebook_ejecutado": true,
+  "available_audit_contexts": 258,
+  "no_new_fits": true,
+  "no_v6_performance_synthesis": true,
+  "historical_values_verified": true,
+  "text_evidence_checked": true,
+  "pendientes_indispensables": [
+    "ajustes internos independientes por ventana no ejecutados como contrato",
+    "cobertura completa/selección/linaje/CSV final del piloto no verificables",
+    "medición y registro individual de terminación del último pendiente no consolidado"
+  ],
+  "phase1_acceptance_superseded": true
+}

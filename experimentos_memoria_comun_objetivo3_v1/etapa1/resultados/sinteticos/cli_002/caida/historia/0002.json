@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "context": "inventado",
+  "limit": 10,
+  "used": 10,
+  "attempts": [
+    {
+      "job": "x",
+      "status": "unknown_crash",
+      "attempt": 1,
+      "seconds": 10.0
+    }
+  ]
+}

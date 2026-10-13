@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-10-11",
+  "timezone": "America/Bogota",
+  "autorizacion": "Prompt humano fase2 expresamente enviado, condicionado a etapa1 revalidada",
+  "hallazgos": [
+    {
+      "id": "R1",
+      "ubicacion": "preflight.json/entorno.json",
+      "impacto": "Permite ejecutar contrato sin cambiar datos/defaults/entorno",
+      "alternativa": "Revalidación integral independiente de afirmaciones históricas",
+      "resolucion": "APROBADO antes fit"
+    },
+    {
+      "id": "R2",
+      "ubicacion": "salida_piloto.log/incompleto.json/congelacion_operativa_v2.json",
+      "impacto": "Lectura de esquema symlink detuvo antes primerfit; no afecta análisis científico",
+      "alternativa": "Aceptar ambos esquemas de conservación sin cambiar hashes",
+      "resolucion": "Corregido/revalidado/recongelado antes fit; original archivado, fits0"
+    },
+    {
+      "id": "R3",
+      "ubicacion": "auditoria_independiente.json/linaje_internas.csv",
+      "impacto": "Evita pseudo-repetición de años/candidatos",
+      "alternativa": "Igualdad exacta y train/X/y/weights/metadata idénticos",
+      "resolucion": "11880→4752 condicionado aprobado, menor externo, sin promediar"
+    },
+    {
+      "id": "R4",
+      "ubicacion": "meta.json/tablas/metricas_externas.csv",
+      "impacto": "Meta primario NO SATISFECHA",
+      "alternativa": "Conservar referencia y todas salidas descriptivas, sin rescatar con grupos/control/cortes",
+      "resolucion": "Informe completo; investigación exploratoria cerrada, no avance automático"
+    }
+  ],
+  "antecedentes_propios_archivados": [
+    {
+      "archivo": "resultados/incompleto.json",
+      "motivo": "Intento inicial antes fits0, bloqueo helper resuelto; no estado actual",
+      "evidencia": "salida_piloto.log y congelacion_operativa_v2.json"
+    }
+  ],
+  "incidencias_lectura": [
+    "JSON propuesta salida informativa truncada, procesado completo en preflight/auditoría"
+  ],
+  "modelos_historicos_cargados": 0,
+  "fuentes_extra": 0,
+  "instalaciones": 0,
+  "commit": 0,
+  "push": 0,
+  "criterios_cambiados": false
+}

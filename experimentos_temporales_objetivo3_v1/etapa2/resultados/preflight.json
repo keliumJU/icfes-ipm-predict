@@ -1,0 +1,36 @@
+{
+  "aprobado": true,
+  "fase1_completa_congelada": true,
+  "manifiestos": {
+    "diseno_temporal_objetivo3_v1/resultados/manifiesto_diseno.json": 16,
+    "diagnostico_objetivo3_v1/fase1/resultados/manifiesto_cierre.json": 101,
+    "experimentos_objetivo3_v5/etapa1/resultados/manifiesto_cierre.json": 98,
+    "experimentos_objetivo3_v5/etapa2/resultados/manifiesto_cierre.json": 6869,
+    "experimentos_objetivo3_v5/etapa1/resultados/congelacion_previa.json": 40,
+    "experimentos_objetivo3_v5/etapa2/resultados/congelacion_operativa.json": 55,
+    "experimentos_objetivo3_v5/etapa2/resultados/piloto/indice_integridad.json": 2174
+  },
+  "filas": 231,
+  "territorios": 33,
+  "cambios": 198,
+  "referencias": {
+    "aprobado": true,
+    "pares": 165,
+    "iguales_exactamente": true,
+    "independencia_del_nuevo_fit": true,
+    "evidencias_independientes_entre_si": false,
+    "archivos": {
+      "experimentos_objetivo3_v5/etapa2/resultados/predicciones_externas.csv": "ea5392cabe0594b9afe36bf3cadc3d2f3010a9870ab142e9aab3f9b6eb5368e3",
+      "experimentos_objetivo3_v3/etapa2/resultados/predicciones_externas.csv": "d50d4199a7316230cc3a12ecad9315429bd78e12cdcf7aa8b8ad015c9e405668"
+    },
+    "procedimiento": "Lectura round_trip; llaves/campos/orden/observados/predicción exactos vs previo reconstruido; sin MAE nuevo"
+  },
+  "defaults36": true,
+  "pruebas17": true,
+  "notebook6": true,
+  "fuente_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "derivado_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "fase2_autorizada": "Prompt humano enviado expresamente el 2026-10-11",
+  "plan_fase2_previo": "No existe plan experimental con sección fase2; contrato vigente protocolo1.0.0 §§3–8 y prompt enviado; plan propio documentado antes de fits",
+  "fits": 0
+}

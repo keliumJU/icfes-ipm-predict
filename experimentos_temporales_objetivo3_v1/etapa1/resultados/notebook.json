@@ -1,0 +1,142 @@
+{
+  "aprobado": true,
+  "celdas_codigo_ejecutadas": 6,
+  "metodo": "exec Python por celda, stdout capturado, sin kernel",
+  "fuente_sha256": "d2cbdafadf880fb17834f28caf6f9563e11063f82f2548d532c4e9c85b63ea50",
+  "notebook_sha256": "6c8fa8941c0f3a4f7d9a2d7223bfd3bd9befb68d4bb0b9b3a48776995a82ad62",
+  "ajustes_inventados": 1,
+  "fits_panel_real": 0,
+  "nbformat": "5.10.4",
+  "metadata_ajuste_inventado": {
+    "origen": "inventado",
+    "contexto": {
+      "origen": "inventado",
+      "uso": "notebook_controles"
+    },
+    "pesos": {
+      "esquema": "recencia_h2",
+      "semivida": 2.0,
+      "ancla_train": 2022,
+      "n": 9,
+      "anios_train": [
+        2019,
+        2021,
+        2022
+      ],
+      "llaves": [
+        [
+          "01",
+          2019
+        ],
+        [
+          "01",
+          2021
+        ],
+        [
+          "01",
+          2022
+        ],
+        [
+          "02",
+          2019
+        ],
+        [
+          "02",
+          2021
+        ],
+        [
+          "02",
+          2022
+        ],
+        [
+          "03",
+          2019
+        ],
+        [
+          "03",
+          2021
+        ],
+        [
+          "03",
+          2022
+        ]
+      ],
+      "pesos_brutos": [
+        0.3535533905932738,
+        0.7071067811865476,
+        1.0,
+        0.3535533905932738,
+        0.7071067811865476,
+        1.0,
+        0.3535533905932738,
+        0.7071067811865476,
+        1.0
+      ],
+      "suma_brutos": 6.181980515339464,
+      "pesos": [
+        0.5147186257614298,
+        1.0294372515228596,
+        1.4558441227157108,
+        0.5147186257614298,
+        1.0294372515228596,
+        1.4558441227157108,
+        0.5147186257614298,
+        1.0294372515228596,
+        1.4558441227157108
+      ],
+      "suma_pesos": 9.0,
+      "normalizacion": "n*wbruto/fsum(wbruto); media1",
+      "uniforme": false
+    },
+    "id": "mediana_historico_00",
+    "entradas": [
+      "puntaje_previo"
+    ],
+    "parametros": {
+      "memory": null,
+      "steps": [
+        [
+          "escalado",
+          "StandardScaler()"
+        ],
+        [
+          "modelo",
+          "QuantileRegressor(alpha=0.01)"
+        ]
+      ],
+      "transform_input": null,
+      "verbose": false,
+      "escalado": "StandardScaler()",
+      "modelo": "QuantileRegressor(alpha=0.01)",
+      "escalado__copy": true,
+      "escalado__with_mean": true,
+      "escalado__with_std": true,
+      "modelo__alpha": 0.01,
+      "modelo__fit_intercept": true,
+      "modelo__quantile": 0.5,
+      "modelo__solver": "highs",
+      "modelo__solver_options": null
+    },
+    "transformaciones": {
+      "media": [
+        106.39696961967
+      ],
+      "varianza": [
+        13.93548865891858
+      ],
+      "escala": [
+        3.733026742325667
+      ],
+      "suma_pesos": 9.0
+    },
+    "routing": false,
+    "ruta_fit": [
+      "escalado__sample_weight",
+      "modelo__sample_weight"
+    ],
+    "semilla": 20261010,
+    "sklearn": "1.9.1",
+    "python": "3.12.14",
+    "advertencias": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "completa": true,
+  "real_fits": 0,
+  "controles": {
+    "preflight": true,
+    "tests": true,
+    "notebook": true,
+    "referencias": true,
+    "conservacion": true
+  },
+  "pendientes_indispensables": []
+}

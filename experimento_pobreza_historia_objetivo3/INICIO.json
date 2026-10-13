@@ -1,0 +1,10 @@
+{
+  "start_epoch": 1791828479.0,
+  "start_utc": "2026-10-12T18:07:59Z",
+  "max_total_seconds": 7200,
+  "stop_new_fits_seconds": 5400,
+  "autorizacion": "envío humano expreso en sesión actual",
+  "prompt_sha": "0a4758dea2b5727179092360b6e3578e19a46cf205ae90c3bb80739d24e13bbd",
+  "preparacion_cerrada": true,
+  "saldo_heredado": false
+}

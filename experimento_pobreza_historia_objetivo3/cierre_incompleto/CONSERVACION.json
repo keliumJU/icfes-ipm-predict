@@ -1,0 +1,52 @@
+{
+  "aprobado": true,
+  "modo": "cotejo propio actual; no verificador histórico",
+  "protegidos": 37744,
+  "mappings": {
+    "documental": 16,
+    "vigente": 3483,
+    "vigente_fase1": 64,
+    "vigente_fase2": 3328,
+    "congelacion_vigente": 18,
+    "MANIFIESTO_FASE1.json": 28,
+    "etapa1/MANIFIESTO_FASE2.json": 234,
+    "MANIFIESTO_FASE3.json": 1018,
+    "MANIFIESTO_FASE4.json": 54
+  },
+  "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+  "rama": "codex/objetivo3-v5-mae",
+  "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora",
+  "tracked_diff": "",
+  "status": "?? diagnostico_objetivo3_v1/\n?? diseno_memoria_comun_objetivo3_v1/\n?? diseno_temporal_objetivo3_v1/\n?? experimento_final_objetivo3_v6/\n?? experimento_pobreza_historia_objetivo3/\n?? experimentos_memoria_comun_objetivo3_v1/\n?? experimentos_temporales_objetivo3_v1/",
+  "historico": {
+    "commit": "109797407d75d2097e5b71f8bcef3fc266bc61d2",
+    "archivo": "experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+    "sha256": "33bbdce75635733eae8bad9e14d1900999fd8af6318a55842382b5d2544e13fd"
+  },
+  "trabajo_posterior": "75c3a25182af363f47b0d743820f99084e18fed5 etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora",
+  "temporal_sha": "fd3b963135e9e8233470ef36116d82e67ca4a88aae67b7c785d0a9185ba0b8bb",
+  "verificador_historico": {
+    "aprobado": true,
+    "files": 3483,
+    "originals": {
+      "aprobado": true,
+      "protegidos": 32322,
+      "intento_anterior_huellas": 1935,
+      "diferencias": [],
+      "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+      "rama": "codex/objetivo3-v5-mae",
+      "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora"
+    },
+    "historical": {
+      "MANIFIESTO_FASE1.json": 28,
+      "etapa1/MANIFIESTO_FASE2.json": 234,
+      "MANIFIESTO_FASE3.json": 1018,
+      "MANIFIESTO_FASE4.json": 54
+    },
+    "experiment_complete": true,
+    "new_fits": 0,
+    "models_loaded": 0,
+    "read_only": true,
+    "technical_acceptance_is_not_authenticity_or_confirmation": true
+  }
+}

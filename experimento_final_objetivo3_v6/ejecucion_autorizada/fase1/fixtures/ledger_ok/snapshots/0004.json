@@ -1,0 +1,36 @@
+{
+  "status": "cerrado_completo",
+  "budget_seconds": 20,
+  "start_monotonic": 29619.655737596,
+  "start_wall": 1791759068.20844,
+  "elapsed_seconds": 1.1737388969995664,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": null,
+  "events": [
+    {
+      "name": "sleep",
+      "attempt": 0,
+      "pid": 48,
+      "returncode": 0,
+      "terminated": true,
+      "wait_completed": true,
+      "timeout": false,
+      "interrupted": false,
+      "start_monotonic": 29619.671859934,
+      "end_monotonic": 29620.815716258,
+      "request_sha": "cc2dd912801425e750dfe4fb270411c793382f8ffe4003c3e629c6f2cd99a374",
+      "events_sha": null,
+      "result_sha": "12b34da73b0c67a0319e6eddbd3582af66e3b558b4d44e4a6860e0cec20d726f",
+      "stderr": "",
+      "duration": 1.143900836003013,
+      "ok": true
+    }
+  ],
+  "serial": true,
+  "error": null,
+  "end_wall": 1791759069.3821735
+}

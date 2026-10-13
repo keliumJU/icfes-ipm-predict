@@ -1,0 +1,4 @@
+role,component_fits_durable,contract_count_or_max,meaning,jobs,constant_estimates
+interno,96,192,cantidad requerida,156,30
+externo,79,128,cantidad requerida,102,28
+check,0,8,máximo,0,0

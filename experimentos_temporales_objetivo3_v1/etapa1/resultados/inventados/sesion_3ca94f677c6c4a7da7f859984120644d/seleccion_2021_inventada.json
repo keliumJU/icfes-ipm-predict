@@ -1,0 +1,16 @@
+{
+  "origen": "inventado",
+  "externo": 2021,
+  "decision": {
+    "global_id": "persistencia",
+    "especificaciones": {
+      "historico": "persistencia",
+      "nivel_ipm": "persistencia",
+      "cambio_ipm": "persistencia",
+      "cambio_tasas": "persistencia",
+      "cambio_ambas": "persistencia"
+    },
+    "candidatos": []
+  },
+  "instante_monotonico_antes_externo": 8386.446532019
+}

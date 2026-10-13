@@ -1,0 +1,17 @@
+{
+  "MAE_historico": 3.429267191379531,
+  "MAE_ampliado": 3.429267191379531,
+  "MAE_con_pobreza": 3.616615437035433,
+  "mejora_primaria_percent": 0.0,
+  "meta_percent": 5,
+  "meta_cumplida": false,
+  "mejora_secundaria_percent": -5.463215176900087,
+  "n": 165,
+  "territorios": 33,
+  "respuestas_anios": 5,
+  "pares_fuente": 231,
+  "anios_fuente": 7,
+  "usa_pobreza_ampliado_anios": [],
+  "ultimo_anio_local": 2025,
+  "confirmacion_independiente": false
+}

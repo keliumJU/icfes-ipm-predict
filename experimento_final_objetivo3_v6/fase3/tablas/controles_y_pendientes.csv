@@ -1,0 +1,8 @@
+control,passed,impact
+sources_environment_conservation,True,verificable localmente
+freeze_bytes,True,verificable localmente
+synthetic_auditor_tests,True,verificable localmente
+available_matrices_metadata,True,verificable localmente
+no_fit_sharing_between_internal_windows,False,impide aceptación completa o síntesis dependiente
+coverage_complete,False,impide aceptación completa o síntesis dependiente
+last_worker_independent_termination_record,False,impide aceptación completa o síntesis dependiente

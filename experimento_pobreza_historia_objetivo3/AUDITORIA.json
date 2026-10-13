@@ -1,0 +1,37 @@
+{
+  "aprobado": true,
+  "fits_auditor": 0,
+  "operational_imports": 0,
+  "models_loaded": 0,
+  "independent_selection": true,
+  "reconstructed_predictions": 10395,
+  "contexts": 15,
+  "original_fits": 200,
+  "repetitions": 4,
+  "metrics": {
+    "historico": {
+      "n": 165,
+      "MAE": 3.429267191379531,
+      "RMSE": 4.314920647368904,
+      "sesgo": -2.0960105973100562
+    },
+    "ampliado": {
+      "n": 165,
+      "MAE": 3.429267191379531,
+      "RMSE": 4.314920647368904,
+      "sesgo": -2.0960105973100562
+    },
+    "con_pobreza": {
+      "n": 165,
+      "MAE": 3.616615437035433,
+      "RMSE": 4.813258311341493,
+      "sesgo": -1.6347700390304687
+    }
+  },
+  "primary_percent": 0.0,
+  "meets_threshold": false,
+  "temporal_coverage": true,
+  "csv_exact": true,
+  "elapsed_pilot_seconds": 1196.6335401535034,
+  "scientific_confirmation": false
+}

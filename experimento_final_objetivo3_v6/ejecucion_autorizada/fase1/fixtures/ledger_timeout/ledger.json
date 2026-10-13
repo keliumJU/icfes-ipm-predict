@@ -1,0 +1,36 @@
+{
+  "status": "cerrado_incompleto",
+  "budget_seconds": 0.05,
+  "start_monotonic": 29620.835348664,
+  "start_wall": 1791759069.38805,
+  "elapsed_seconds": 0.0633852430000843,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 1,
+  "pending": null,
+  "events": [
+    {
+      "name": "timeout",
+      "attempt": 0,
+      "pid": 49,
+      "returncode": -15,
+      "terminated": true,
+      "wait_completed": true,
+      "timeout": true,
+      "interrupted": false,
+      "start_monotonic": 29620.843333994,
+      "end_monotonic": 29620.886770447,
+      "request_sha": "82fba2a0169532303b42498455d4c3be712a1dba3e64d039a3c881ca33399ef3",
+      "events_sha": null,
+      "result_sha": null,
+      "stderr": "",
+      "duration": 0.04344296900308109,
+      "ok": false
+    }
+  ],
+  "serial": true,
+  "error": null,
+  "end_wall": 1791759069.4514318
+}

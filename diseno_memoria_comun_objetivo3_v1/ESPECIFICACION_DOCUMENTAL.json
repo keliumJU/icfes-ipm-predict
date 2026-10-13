@@ -1,0 +1,369 @@
+{
+  "version": "1.0.0",
+  "fecha_cliente": "2026-10-11",
+  "timezone": "America/Bogota",
+  "estado": "diseño documental fase1 completo; no congelación operativa",
+  "autorizacion_actual": "Solo fase1 enviada expresamente por usuario",
+  "fase2_autorizada": false,
+  "fits_ejecutados": 0,
+  "modelos_cargados": 0,
+  "semilla": 20261010,
+  "entorno": {
+    "python": "3.12.14",
+    "sklearn": "1.9.1",
+    "lock": "experimentos_objetivo3_v5/etapa1/requirements.lock.txt",
+    "paquetes": 54,
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "pip_check_obligatorio": true,
+    "falta_o_diferencia": "detener, documentar y consultar; no sustituir ni instalar"
+  },
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": {
+      "esperado": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+      "actual": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+      "aprobado": true
+    },
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": {
+      "esperado": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+      "actual": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+      "aprobado": true
+    }
+  },
+  "poblacion_heredada": {
+    "tipo": "ESTUDIANTE",
+    "no_libertad": "S",
+    "grado": 11,
+    "puntajes": "seis presentes y positivos",
+    "calendario": "sin filtro",
+    "media": "global recibida sin reconstruir promediando subpruebas",
+    "geografia": "colegio",
+    "agregacion": "media anual territorial recibida; conteos solo trazabilidad",
+    "verificacion_actual": "Cotejo íntegro fuente/derivado; no reauditoría de raw ni autenticación oficial"
+  },
+  "llaves": [
+    "codigo_departamento",
+    "anio"
+  ],
+  "normalizacion_codigo": "texto zfill(2), contrato histórico; sin alterar bytes originales",
+  "anios": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "definiciones": {
+    "previo(t)": "máximo año disponible estrictamente anterior en panel permitido",
+    "d[j,t]": "prom_punt_global[j,t]-prom_punt_global[j,previo(t)]",
+    "c[t]": "mediana de33 d[j,t]; estadística auxiliar no media nacional ni objetivo nuevo",
+    "r[j,t]": "d[j,t]-c[t]",
+    "prediccion_puntaje": "puntaje_previo[j,t]+cambio_predicho[j,t]",
+    "intervalo": "t-previo(t), solo trazabilidad sin anualizar"
+  },
+  "historia": {
+    "2018": "solo nivel inicial; sin d observado",
+    "2019": "d disponible, solo historial/entrada rezagada; no respuesta con lag inexistente",
+    "2020": "excluido sin imputar",
+    "pares_supervisados": "años completos de33 pares con respuesta y rezago observado, ambos estrictamente anteriores al evaluado",
+    "un_anio": "ajuste futuro permitido; comun1fila, territoriales33filas",
+    "cero_anios": "persistencia explícita para candidato completo, sin scaler ni regresor",
+    "incompleto_no_finito": "fallo de integridad, detener; no convertir ausencia inesperada en respaldo silencioso",
+    "externo2021": "persistencia fija para cuatro políticas y global, sin ajuste/puntuación/selección"
+  },
+  "candidatos": [
+    {
+      "id": "persistencia",
+      "orden": 0,
+      "n_entradas_derivadas": 0,
+      "componentes": [],
+      "cambio_predicho": "0"
+    },
+    {
+      "id": "memoria",
+      "orden": 1,
+      "n_entradas_derivadas": 1,
+      "componentes": [
+        {
+          "nombre": "memoria",
+          "X": "d[j,previo(t)]",
+          "y": "d[j,t]",
+          "unidad": "territorio-año",
+          "filas_por_anio": 33
+        }
+      ],
+      "cambio_predicho": "f_memoria(d[j,previo(t)])"
+    },
+    {
+      "id": "comun",
+      "orden": 2,
+      "n_entradas_derivadas": 1,
+      "componentes": [
+        {
+          "nombre": "comun",
+          "X": "c[previo(t)]",
+          "y": "c[t]",
+          "unidad": "año",
+          "filas_por_anio": 1
+        }
+      ],
+      "cambio_predicho": "f_comun(c[previo(t)])"
+    },
+    {
+      "id": "comun_correccion",
+      "orden": 3,
+      "n_entradas_derivadas": 2,
+      "componentes": [
+        {
+          "nombre": "comun",
+          "X": "c[previo(t)]",
+          "y": "c[t]",
+          "unidad": "año",
+          "filas_por_anio": 1
+        },
+        {
+          "nombre": "correccion",
+          "X": "r[j,previo(t)]",
+          "y": "r[j,t]",
+          "unidad": "territorio-año",
+          "filas_por_anio": 33
+        }
+      ],
+      "cambio_predicho": "f_comun_propio(c[previo(t)])+f_correccion(r[j,previo(t)])"
+    }
+  ],
+  "pipeline_componentes": {
+    "orden": [
+      "StandardScaler",
+      "QuantileRegressor"
+    ],
+    "defaults_completos": {
+      "StandardScaler": {
+        "copy": true,
+        "with_mean": true,
+        "with_std": true
+      },
+      "QuantileRegressor": {
+        "alpha": 1.0,
+        "fit_intercept": true,
+        "quantile": 0.5,
+        "solver": "highs",
+        "solver_options": null
+      }
+    },
+    "sample_weight": null,
+    "recencia": false,
+    "busquedas": false,
+    "alpha": "1.0 fijo propuesto por plan; no optimizado",
+    "ajuste_scaler": "solo X entrenamiento del componente, nunca evaluación",
+    "modelo_comun": "una fila por año sin replicar33veces",
+    "correccion": "parámetros compartidos sin efectos por código",
+    "no_inputs": [
+      "año",
+      "código",
+      "intervalo",
+      "conteos",
+      "IPM",
+      "tasas",
+      "d evaluado",
+      "c evaluado",
+      "r evaluado"
+    ],
+    "postproceso": "sin clipping, imputación, mezclas ni calibración"
+  },
+  "ventanas": [
+    {
+      "externo": 2021,
+      "entrenamiento": [],
+      "procedimiento": "persistencia_fija",
+      "internas": []
+    },
+    {
+      "externo": 2022,
+      "entrenamiento": [
+        2019,
+        2021
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2023,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2024,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        },
+        {
+          "validacion": 2023,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2025,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        },
+        {
+          "validacion": 2023,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022
+          ]
+        },
+        {
+          "validacion": 2024,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022,
+            2023
+          ]
+        }
+      ]
+    }
+  ],
+  "anti_fuga": {
+    "formacion": "materializar solo historia admisible antes de computar estadísticas; c/r del año evaluado no entran en fit ni predict",
+    "entradas_evaluadas": "d/c/r del máximo año previo; el resultado evaluado se lee solo después para puntuar",
+    "mutacion_futura": "fase2 debe probar que cambiar validación o años posteriores no altera matrices, estadísticas, scaler ni predicción",
+    "disponibilidad_real": "orden cronológico lógico; fechas de publicación no autenticadas, sin claim operativo"
+  },
+  "evaluacion": {
+    "primario": "procedimiento de selección global predefinido",
+    "externos": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "n": 165,
+    "peso": "igual territorio-año, sin conteos/pesos recencia",
+    "error": "prediccion-observado",
+    "MAE": "fsum(abs(error))/n",
+    "RMSE": "sqrt(fsum(error**2)/n)",
+    "meta": "100*(MAE_persistencia-MAE_global)/MAE_persistencia>=5",
+    "denominador": "positivo finito, mismas165llaves/observados",
+    "interpretacion": "exploratoria; políticas individuales solo diagnósticas"
+  },
+  "seleccion_documental_futura": {
+    "externo2021": "fijo, sin selección",
+    "resto": "internas expansivas exactas; pool con cobertura íntegra y métricas finitas",
+    "pool1": "MAE <= minimo MAE +0.1",
+    "pool2": "sobre pool1, RMSE <= minimo RMSE +0.1",
+    "desempate": [
+      "n_entradas_derivadas",
+      "orden_candidato"
+    ],
+    "inelegible": "fallo numérico o cobertura incompleta con razón; persistencia indispensable; no fabricar filas",
+    "sin_rescate": "no usar externas para seleccionar o redefinir primario"
+  },
+  "contrato_futuro_propuesto": {
+    "autorizacion": "Cada fase requiere envío expreso de su prompt y anterior válida; ningún presupuesto iniciado",
+    "predicciones_internas_originales": 1320,
+    "registros_seleccion": 16,
+    "predicciones_externas": 825,
+    "internas_unicas_condicionadas": 528,
+    "dedup": "solo copias y contexto exactos con linaje y menor externo; no compartir fits entre ventanas ni candidatos",
+    "presupuesto_segundos": 7200,
+    "cota_componentes_sin_fallos": {
+      "internos": 24,
+      "externos": 16,
+      "repeticiones_globales_max": 6,
+      "total": 46
+    },
+    "unidad_fit": "scaler+regresor completo de un componente; respaldo/persistencia0",
+    "reuso_global": "solo mismo candidato y ventana externa; nunca entre candidatos o ventanas",
+    "fallos": "runner serial terminable, ledger persistente; máximo1retry infraestructura; numérico inelegible; caída sin tiempo medido agota saldo; repetición consume",
+    "audit_CSV": "exactitud numérica; int/float0 equivalente; rechazar1e-11",
+    "audit_repeticiones": "atol1e-10,rtol0"
+  },
+  "advertencias": [
+    "Procedencia local no autenticada; huellas verifican identidad, no autenticidad oficial.",
+    "Guainía: 238 frente404 y diferencia21.012105832431985 puntos, antecedente histórico v2; no corregir media recibida.",
+    "IPM mide hogares, no alumnos; enlace ecológico.",
+    "Geografía del colegio, no residencia.",
+    "Agregación territorial no permite inferencia individual ni causal.",
+    "Dependencia temporal y territorial; pocos años; no tratar copias como años independientes.",
+    "Todos2021–2025 ya vistos: exploratorio sin confirmación independiente ni pronóstico anticipado demostrado."
+  ],
+  "aprobaciones": {
+    "usuario": "panel actual, ajuste estadístico desde1año, conservar objetivo/particiones/meta; envío actual autoriza diseño",
+    "nuevas_decisiones_documentales": "IDs/contrato serializado/fallos de integridad/cobertura de evidencia; sin afirmación de aprobación operativa",
+    "pendiente": "aprobación explícita del diseño y autorización fase2; implementación y controles válidos antes piloto"
+  }
+}

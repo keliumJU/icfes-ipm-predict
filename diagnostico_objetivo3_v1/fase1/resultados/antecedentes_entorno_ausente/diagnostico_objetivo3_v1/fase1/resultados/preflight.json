@@ -1,0 +1,120 @@
+{
+  "fecha_cliente": "2026-10-11",
+  "timezone": "America/Bogota",
+  "estado": "INCOMPLETO: entorno obligatorio ausente",
+  "preflight_documental_aprobado": false,
+  "calculos_autorizados_por_controles": false,
+  "git": {
+    "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora",
+    "rama": "codex/objetivo3-v5-mae",
+    "status_por_archivo": [
+      "?? diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md",
+      "?? diagnostico_objetivo3_v1/PLAN_DIAGNOSTICO.md",
+      "?? diagnostico_objetivo3_v1/PROMPT_DIAGNOSTICO_NUEVA_SESION.md",
+      "?? diagnostico_objetivo3_v1/REGISTRO_PREPARACION.json",
+      "?? diagnostico_objetivo3_v1/fase1/fuentes/preflight_documental.py"
+    ],
+    "trabajo_posterior": [],
+    "cierre_ancestro": true,
+    "coincide_cierre": true
+  },
+  "preparacion_estado_historico": "Preparación documental completa; diagnóstico NO iniciado",
+  "preparacion_sha256": "d1a20c1ea72a1aa87c2e43c296f97b8683adb7180d725201703fe435b6f264ad",
+  "documentos_preparacion": {
+    "n": 3,
+    "aprobado": true,
+    "archivos": [
+      {
+        "archivo": "diagnostico_objetivo3_v1/PLAN_DIAGNOSTICO.md",
+        "sha256_esperado": "4c33307f11ec2da96ea108faf12a1eb44ba52eb805e7fd7ed9ad445eae6e7fe2",
+        "sha256_actual": "4c33307f11ec2da96ea108faf12a1eb44ba52eb805e7fd7ed9ad445eae6e7fe2",
+        "igual_actual": true
+      },
+      {
+        "archivo": "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md",
+        "sha256_esperado": "68013e11bd2f05bd1616b8da2d3c7fdcc865920764ebfd421907a221ee76771e",
+        "sha256_actual": "68013e11bd2f05bd1616b8da2d3c7fdcc865920764ebfd421907a221ee76771e",
+        "igual_actual": true
+      },
+      {
+        "archivo": "diagnostico_objetivo3_v1/PROMPT_DIAGNOSTICO_NUEVA_SESION.md",
+        "sha256_esperado": "f7d3a4f2b02933e1554596a8bd78b5ec09b4b337a264ffca5540ceca8322fca9",
+        "sha256_actual": "f7d3a4f2b02933e1554596a8bd78b5ec09b4b337a264ffca5540ceca8322fca9",
+        "igual_actual": true
+      }
+    ]
+  },
+  "cuatro_archivos_iniciales": {
+    "diagnostico_objetivo3_v1/PLAN_DIAGNOSTICO.md": "4c33307f11ec2da96ea108faf12a1eb44ba52eb805e7fd7ed9ad445eae6e7fe2",
+    "diagnostico_objetivo3_v1/CONTINUIDAD_DIAGNOSTICO.md": "68013e11bd2f05bd1616b8da2d3c7fdcc865920764ebfd421907a221ee76771e",
+    "diagnostico_objetivo3_v1/PROMPT_DIAGNOSTICO_NUEVA_SESION.md": "f7d3a4f2b02933e1554596a8bd78b5ec09b4b337a264ffca5540ceca8322fca9",
+    "diagnostico_objetivo3_v1/REGISTRO_PREPARACION.json": "d1a20c1ea72a1aa87c2e43c296f97b8683adb7180d725201703fe435b6f264ad"
+  },
+  "fuentes_solo_huella": {
+    "n": 3,
+    "aprobado": true,
+    "archivos": [
+      {
+        "archivo": "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv",
+        "sha256_esperado": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+        "sha256_actual": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+        "igual_actual": true
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv",
+        "sha256_esperado": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+        "sha256_actual": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+        "igual_actual": true
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/resultados/manifiesto_cierre.json",
+        "sha256_esperado": "85b040e36000d3bfa2aaeafcc08d337c33ec2df2a0bc443d04c34f2d00b0e084",
+        "sha256_actual": "85b040e36000d3bfa2aaeafcc08d337c33ec2df2a0bc443d04c34f2d00b0e084",
+        "igual_actual": true
+      }
+    ]
+  },
+  "selecciones_solo_huella": {
+    "n": 5,
+    "aprobado": true,
+    "archivos": [
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/resultados/piloto/seleccion_2021.json",
+        "sha256_esperado": "b25270d5b1a08459dd8ffd4e55cc95d8efb6c78edf5dcc50054a3f92ff80e7f9",
+        "sha256_actual": "b25270d5b1a08459dd8ffd4e55cc95d8efb6c78edf5dcc50054a3f92ff80e7f9",
+        "igual_actual": true
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/resultados/piloto/seleccion_2022.json",
+        "sha256_esperado": "5bdd77b483c92f76eaf0dbf4720f7ec9945dadd23a9c80ebe1c1363879b3eb21",
+        "sha256_actual": "5bdd77b483c92f76eaf0dbf4720f7ec9945dadd23a9c80ebe1c1363879b3eb21",
+        "igual_actual": true
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/resultados/piloto/seleccion_2023.json",
+        "sha256_esperado": "caf63ec9f0fc35d2ed298f077109da5866fac9ae68666829b85db4572238ebe0",
+        "sha256_actual": "caf63ec9f0fc35d2ed298f077109da5866fac9ae68666829b85db4572238ebe0",
+        "igual_actual": true
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/resultados/piloto/seleccion_2024.json",
+        "sha256_esperado": "f28b09854937c8b091cb744dfd64a84e594db28f2413ae895f39ebd1a482af80",
+        "sha256_actual": "f28b09854937c8b091cb744dfd64a84e594db28f2413ae895f39ebd1a482af80",
+        "igual_actual": true
+      },
+      {
+        "archivo": "experimentos_objetivo3_v5/etapa2/resultados/piloto/seleccion_2025.json",
+        "sha256_esperado": "b757412ed5afe863c3f0c5f499fb8e6ba0f26d2332f0efe550a6314ca37c49cf",
+        "sha256_actual": "b757412ed5afe863c3f0c5f499fb8e6ba0f26d2332f0efe550a6314ca37c49cf",
+        "igual_actual": true
+      }
+    ]
+  },
+  "reconstruccion_en_memoria": "PENDIENTE; entorno no aprobado",
+  "estadisticas_predicciones_linaje_notebook": "PENDIENTES; no ejecutados",
+  "fits": 0,
+  "modelos_deserializados": 0,
+  "commits": 0,
+  "pip_check": "NO ejecutado: intérprete exigido inexistente"
+}

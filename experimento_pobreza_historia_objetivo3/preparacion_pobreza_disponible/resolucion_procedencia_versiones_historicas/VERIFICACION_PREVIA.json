@@ -1,0 +1,10 @@
+{
+  "aprobado_integridad_documental": true,
+  "solo_lectura": true,
+  "archivos_previos_comprobados": 38962,
+  "archivos_entrega_comprobados": 44,
+  "fuentes_autenticadas": false,
+  "disponibilidad_valores_locales_certificada": false,
+  "pares_certificados": 0,
+  "contexto": "Resultado de python3 -B verificar_documental.py antes de crear esta carpeta; no dictamen posterior del inventario ampliado."
+}

@@ -1,0 +1,22 @@
+{
+  "aprobado": true,
+  "manifiestos": {
+    "diseno_memoria_comun_objetivo3_v1/MANIFIESTO_FASE1.json": 28,
+    "experimentos_memoria_comun_objetivo3_v1/etapa1/MANIFIESTO_FASE2.json": 234,
+    "experimentos_memoria_comun_objetivo3_v1/etapa2/MANIFIESTO_FASE3.json": 1018
+  },
+  "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+  "rama": "codex/objetivo3-v5-mae",
+  "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora",
+  "historica_v5": {
+    "commit": "109797407d75d2097e5b71f8bcef3fc266bc61d2",
+    "archivo": "experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+    "sha256": "33bbdce75635733eae8bad9e14d1900999fd8af6318a55842382b5d2544e13fd"
+  },
+  "temporal_preservada": "fd3b963135e9e8233470ef36116d82e67ca4a88aae67b7c785d0a9185ba0b8bb",
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "autorizacion_diseno": "envío fase2 registrado en protocolo y continuidad íntegra; usuario actual exige diseño aprobado"
+}

@@ -1,0 +1,34 @@
+{
+  "status": "abierto",
+  "budget_seconds": 20,
+  "start_monotonic": 29628.54619978,
+  "start_wall": 1791759077.098901,
+  "elapsed_seconds": 0.4316657329982263,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 1,
+  "pending": null,
+  "events": [
+    {
+      "name": "cancelado",
+      "attempt": 0,
+      "pid": 54,
+      "returncode": -15,
+      "terminated": true,
+      "wait_completed": true,
+      "timeout": false,
+      "interrupted": true,
+      "start_monotonic": 29628.563142658,
+      "end_monotonic": 29628.964118131,
+      "request_sha": "d800c5bbbca3998a115c998c5c7194374cc1bad0bf3a53accc1423a1dbacf862",
+      "events_sha": null,
+      "result_sha": null,
+      "stderr": "",
+      "duration": 0.40098172099897056,
+      "ok": false
+    }
+  ],
+  "serial": true
+}

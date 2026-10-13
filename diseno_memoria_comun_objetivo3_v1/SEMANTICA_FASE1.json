@@ -1,0 +1,92 @@
+{
+  "aprobado": true,
+  "procedimiento": "Lectura completa por bloques1024, float_precision=round_trip; unión exacta33×7; reconstrucción en memoria de TODOS campos v5 por shift dentro territorio; igualdad exacta sin tolerancia; sin guardar reconstrucción ni estadísticos de resultados nuevos.",
+  "fuente": "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv",
+  "derivado": "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv",
+  "filas": 231,
+  "territorios": [
+    "05",
+    "08",
+    "11",
+    "13",
+    "15",
+    "17",
+    "18",
+    "19",
+    "20",
+    "23",
+    "25",
+    "27",
+    "41",
+    "44",
+    "47",
+    "50",
+    "52",
+    "54",
+    "63",
+    "66",
+    "68",
+    "70",
+    "73",
+    "76",
+    "81",
+    "85",
+    "86",
+    "88",
+    "91",
+    "94",
+    "95",
+    "97",
+    "99"
+  ],
+  "anios": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "cambios": 198,
+  "pares_supervisados_disponibles": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "2019": "historial, no respuesta supervisada; falta cambio anterior en2018",
+  "externas": 165,
+  "referencias": [
+    {
+      "archivo": "experimentos_objetivo3_v5/etapa2/resultados/predicciones_externas.csv",
+      "procedimiento": "global",
+      "filas_archivo_leidas": 1155,
+      "pares": 165,
+      "llaves_observados_prediccion_exactos": true,
+      "sha256": "ea5392cabe0594b9afe36bf3cadc3d2f3010a9870ab142e9aab3f9b6eb5368e3"
+    },
+    {
+      "archivo": "experimentos_objetivo3_v3/etapa2/resultados/predicciones_externas.csv",
+      "procedimiento": "persistencia",
+      "filas_archivo_leidas": 825,
+      "pares": 165,
+      "llaves_observados_prediccion_exactos": true,
+      "sha256": "d50d4199a7316230cc3a12ecad9315429bd78e12cdcf7aa8b8ad015c9e405668"
+    },
+    {
+      "archivo": "experimentos_temporales_objetivo3_v1/etapa2/resultados/predicciones_externas.csv",
+      "procedimiento": "global",
+      "filas_archivo_leidas": 1155,
+      "pares": 165,
+      "llaves_observados_prediccion_exactos": true,
+      "sha256": "56705a77d353cb699ced4e4dd12bb6297d09b3fbf8ef391d2341c14d742715a9"
+    }
+  ],
+  "trazabilidad_filas": 15,
+  "particiones_fuente": "experimentos_objetivo3_v5/etapa1/resultados/configuraciones_congeladas.json:ventanas",
+  "semilla": 20261010,
+  "fits": 0,
+  "metricas_nuevas": 0
+}

@@ -1,0 +1,10 @@
+{
+  "graficas_y_metricas": {
+    "tests": 5,
+    "aprobado": true,
+    "ubicacion": "02_resultados_y_graficas.ipynb, celda de unittest"
+  },
+  "rutas_manuales": "AST, importación, contratos de 67/100/39 candidatos y panel de 33 territorios comprobados sin fits",
+  "entrenamiento_manual_ejecutado": false,
+  "fits_nuevos": 0
+}

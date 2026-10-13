@@ -1,0 +1,44 @@
+{
+  "status": "cerrado_incompleto",
+  "budget_seconds": 20,
+  "start_monotonic": 28039.366418213,
+  "start_wall": 1791757487.9191196,
+  "elapsed_seconds": 2.1272843219994684,
+  "fits_started": 0,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 1,
+  "failures": 2,
+  "pending": null,
+  "events": [
+    {
+      "name": "failure",
+      "attempt": 0,
+      "pid": 50,
+      "returncode": 2,
+      "terminated": true,
+      "timeout": false,
+      "events_sha": null,
+      "result_sha": "0b01f6e9e32808eb76bcbc9b92129d00501a3c00207fc192d1e4c5d1898ead6b",
+      "stderr": "",
+      "duration": 1.0436072259981302,
+      "ok": false
+    },
+    {
+      "name": "failure",
+      "attempt": 1,
+      "pid": 51,
+      "returncode": 2,
+      "terminated": true,
+      "timeout": false,
+      "events_sha": null,
+      "result_sha": "0b01f6e9e32808eb76bcbc9b92129d00501a3c00207fc192d1e4c5d1898ead6b",
+      "stderr": "",
+      "duration": 1.0458279170015885,
+      "ok": false
+    }
+  ],
+  "serial": true,
+  "error": null,
+  "end_wall": 1791757490.0464005
+}

@@ -1,0 +1,29 @@
+{
+  "fecha_cliente": "2026-10-11",
+  "antes_de_fits_reales": true,
+  "fits_reales": 0,
+  "incidencias": [
+    {
+      "id": "preflight001",
+      "estado": "archivada/resuelta",
+      "impacto": "Rechazo por identidad de nombres de defaults; entorno real coincide. Ningún cálculo del panel ni fit real antes aprobación.",
+      "evidencia": "antecedentes/preflight_001; ENTORNO_FASE3/PREFLIGHT_FASE3",
+      "alternativa_resuelta": "Comparar nombres de clase y valores exactos, sin sustituir entorno."
+    },
+    {
+      "id": "serializacion",
+      "estado": "resuelta antes congelación",
+      "impacto": "Tuplas de linaje se convierten en listas JSON; comparación estructural debía usar representación JSON canónica. Números y contextos exactos.",
+      "evidencia": "antecedentes/pruebas_001; resultados/sinteticos/corrida_002/CONTROLES.json",
+      "alternativa_resuelta": "Validar salidas en memoria y después de serializar/releer con igualdad exacta."
+    },
+    {
+      "id": "congelacion_rechazada_portabilidad",
+      "estado": "archivada/resuelta antes fits reales",
+      "impacto": "Guardia de fuentes rechazó cambio tardío del lector notebook después de prueba002; no emitió congelación ni permitió fits.",
+      "evidencia": "antecedentes/notebook_portabilidad; CONGELACION_FASE3 fuentes_sha256",
+      "alternativa_resuelta": "Preservar variante no adoptada y conservar exactamente fuente probada; notebook se ejecuta mediante generador Python con __file__, como contrato."
+    }
+  ],
+  "sin_cambio": "Objetivo/población/agregación/variables/evaluación/defaults/semilla/7200/cota46 íntegros"
+}

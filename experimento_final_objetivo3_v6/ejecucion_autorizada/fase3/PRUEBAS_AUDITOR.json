@@ -1,0 +1,23 @@
+{
+  "aprobado": true,
+  "synthetic_fits": 0,
+  "tests": [
+    "CSV0/1e-11",
+    "selector inclusive",
+    "matrices/fecha/coefs/scaler/reconstruction",
+    "rechazo matriz alterada"
+  ],
+  "extended": {
+    "aprobado": true,
+    "fits": 0,
+    "tests": [
+      "AST no fit/import operativo",
+      "mediana par/media exactas",
+      "rechazo mediana central inferior",
+      "árbol umbral inclusivo float32",
+      "rechazo scaler ajeno",
+      "rechazo fit identity compartida",
+      "rechazo linaje sin ajuste propio"
+    ]
+  }
+}

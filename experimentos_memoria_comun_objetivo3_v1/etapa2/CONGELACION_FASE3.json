@@ -1,0 +1,183 @@
+{
+  "version": "1.0.0",
+  "fecha_cliente": "2026-10-11",
+  "timezone": "America/Bogota",
+  "antes_de_fits_reales": true,
+  "fits_reales": 0,
+  "reglas": "fase1 aprobada/fase2 congelada/PROTOCOLO_ETAPA2.md",
+  "fuentes_sha256": {
+    "comun.py": "248519cfcd456f09e827a662c9c8256de93297d8ae450238f18f48a552c92751",
+    "preparar.py": "ae4acb771023aff75329afe11de2e8dec649b8093539b75a3fae656dd2cf10af",
+    "panel.py": "f6207851b1a7efb0ff76f2eea3b9a60e33ee2f1478ff388eeba399af1362ca1e",
+    "worker.py": "906d2d611807c4196feae222b337f48693abdc1d56cb9539eebc65f3dc175fd6",
+    "runner.py": "d41fc7c93adb75adbd5fc6781b612060302cecea9ecab37f7b08a78278c55556",
+    "verificar.py": "bc0c98de79c4b47f1256da56985c2df3685decf55bf1d239fa00f9d5b224b01d",
+    "pruebas.py": "fad0c2e66c21b895e38b147200b6d700f69b6460d8a9f6ff19ef9f95e45d6da4",
+    "congelar.py": "9966dd4580e53d431cc83a3ed5497f69a3b06b70bf4a615564f0cd46214e9f8f",
+    "piloto.py": "d54af96d83b8cd8ca72283bf846819812d2c1385c7cd3cbbdbe6640032f189ea",
+    "notebook_resultados.py": "323a7dca6ca4e83bb5c9e72c35c69d4291df4ba920c598422c09f73d751cbc65",
+    "generar_notebook.py": "87a25fd8cc4c40c1cb5d3db64ca072597f6eca0ce91fc646a3f9577f09e624a8",
+    "cerrar_fase3.py": "fac1e7532a003c091874d8d2058eb3fbe235882097c8672920821198c88282d2",
+    "PROTOCOLO_ETAPA2.md": "68db6c7406f761d01916cc049daf8cb8d3e2dd4b8f1d5712f5022ef7c1d98089",
+    "ENTORNO_FASE3.json": "77dd63e2aa360847cd2b9fc45fc1007391392f88a1d29383a8c9d74e6ffb353d",
+    "PREFLIGHT_FASE3.json": "e147d0d8b574c88c998e22f8825feb90cc9dec2ac68a268f78c4a4b27fd7211d",
+    "SEMANTICA_FASE3.json": "94e5c15c2f6e57b350a5e6e0b863ea8f58c30fe933d66ecb025918a2e527f642",
+    "resultados/sinteticos/corrida_002/CONTROLES.json": "2e9bd49ee1226e4155bcea67fdfd8af71abd5ea659b8515a87a565ccfebf4ea6"
+  },
+  "etapa1_sha256": {
+    "motor.py": "8896332df4972e092d5e58396f022275e3964056306befc6c0d1253275dfa48a",
+    "integridad.py": "8609ef420f3ff7b8c3062781d010ff7ff5a6a9b7d003b36eeeef65e9df4f3a2a",
+    "ejecucion_sintetica.py": "4c6e1f757d4803bfcab6a082e2788c848f5e249592def85098ba45217adff777",
+    "preflight.py": "96c32e1b7bae6a324cd19658efe6831043cce5990f8c74a9ee60eafaada14926",
+    "CONGELACION_FASE2.json": "dddd81743a551b1d90d8825dec9bc2e231ac7e05643a2e92ca6c43c95783658b",
+    "ACEPTACION_FASE2.json": "6b72ea83e90477577c428f0f3d7a51286f69e5b14abf49a0e919e84c34cd1712",
+    "MANIFIESTO_FASE2.json": "a65e2ceb2460827c0146c1e18aff8a1e3418751b13712da5f9efbd5c4ab33f91"
+  },
+  "semilla": 20261010,
+  "presupuesto_nuevo": 7200,
+  "saldo_heredado": null,
+  "cota": 46,
+  "candidatos": [
+    "persistencia",
+    "memoria",
+    "comun",
+    "comun_correccion"
+  ],
+  "ventanas": [
+    {
+      "externo": 2021,
+      "entrenamiento": [],
+      "procedimiento": "persistencia_fija",
+      "internas": []
+    },
+    {
+      "externo": 2022,
+      "entrenamiento": [
+        2019,
+        2021
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2023,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2024,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        },
+        {
+          "validacion": 2023,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2025,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        },
+        {
+          "validacion": 2023,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022
+          ]
+        },
+        {
+          "validacion": 2024,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022,
+            2023
+          ]
+        }
+      ]
+    }
+  ],
+  "controles_inventados": [
+    "orquestacion completa/cobertura",
+    "seleccion",
+    "matrices/fechas/scaler/reuso",
+    "linaje exacto",
+    "CSV0/1e-11",
+    "caida",
+    "cierre sin reinicio",
+    "infra retry max1",
+    "numerico inelegible sin retry",
+    "terminacion real"
+  ],
+  "no_autoriza": "fase4/modelo final/notebook personal/simulación/objetivo4/fuentes nuevas/instalaciones/commit/push"
+}

@@ -1,0 +1,4 @@
+source,policy,n,exact,independiente
+experimentos_objetivo3_v3/etapa2/resultados/predicciones_externas.csv,persistencia,165,True,False
+experimentos_objetivo3_v5/etapa2/resultados/predicciones_externas.csv,global,165,True,False
+experimentos_temporales_objetivo3_v1/etapa2/resultados/predicciones_externas.csv,global,165,True,False

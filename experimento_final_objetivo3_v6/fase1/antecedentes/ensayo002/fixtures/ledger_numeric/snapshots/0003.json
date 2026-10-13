@@ -1,0 +1,29 @@
+{
+  "status": "abierto",
+  "budget_seconds": 20,
+  "start_monotonic": 27823.429327201,
+  "start_wall": 1791757271.9820282,
+  "elapsed_seconds": 1.0396365740016336,
+  "fits_started": 1,
+  "fits_completed": 0,
+  "statistical_estimates": 0,
+  "retries": 0,
+  "failures": 0,
+  "pending": null,
+  "events": [
+    {
+      "name": "numeric",
+      "attempt": 0,
+      "pid": 52,
+      "returncode": 2,
+      "terminated": true,
+      "timeout": false,
+      "events_sha": "6c718536618dce9d531aed8c8d07c39e7321317b8650386020f67325bb5e1d90",
+      "result_sha": "835ef433fc562f4b903f236b82c85f2e3e016247718d5915fe22c6555718e8de",
+      "stderr": "",
+      "duration": 1.0344636239969986,
+      "ok": false
+    }
+  ],
+  "serial": true
+}

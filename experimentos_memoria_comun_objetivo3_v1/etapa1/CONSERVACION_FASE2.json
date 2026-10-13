@@ -1,0 +1,11 @@
+{
+  "aprobado": true,
+  "protegidos": 31010,
+  "versionados": 29640,
+  "diferencias": [],
+  "ajenos_nuevos": [],
+  "git_diff": [],
+  "head_intacto": true,
+  "raw": "Ignorado sin lectura/censo/escritura",
+  "alcance": "Solo etapa1 propia y continuidad experimental nueva; sin reset/checkout/commit/push"
+}

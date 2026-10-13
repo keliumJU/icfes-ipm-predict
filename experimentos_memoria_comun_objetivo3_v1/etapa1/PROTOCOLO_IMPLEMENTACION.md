@@ -1,0 +1,43 @@
+# Protocolo de implementación fase2 — versión 1.0.0
+
+2026-10-11, America/Bogota. El usuario envió expresamente el prompt fase2 y aprobó el diseño documental. Este protocolo materializa `diseno_memoria_comun_objetivo3_v1/PROTOCOLO_FASE1.md` §§1–7 y `ESPECIFICACION_DOCUMENTAL.json`; no cambia sus criterios. El diseño original sigue documental e intacto. La congelación de esta etapa solo es válida cuando `ACEPTACION_FASE2.json` y `CONGELACION_FASE2.json` pasan todas sus verificaciones.
+
+## Contrato y autoridad
+
+Decisiones del usuario: panel actual; población ESTUDIANTE/no libertad S/grado11/seis puntajes presentes positivos/sin calendario; media global recibida; geografía colegio; 2020 excluido; 2018 nivel histórico; cambios originales sin anualizar; 2021 externa fija; 165 pares; igual peso territorio-año; meta5%; ajuste desde un año completo. 2019 permanece historial, nunca respuesta supervisada con lag inexistente. Fuentev2 SHA6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3 y derivadov5 SHAaa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc solo cotejados por bytes en esta fase, sin fits ni cálculo de estadísticas del panel.
+
+Decisiones documentales aprobadas por el envío: cuatro IDs/orden persistencia, memoria, comun, comun_correccion; entradas0,1,1,2; d/c/r y unidades; alpha1 fijo; bandas MAE/RMSE0.1 y desempates; integridad/cobertura/linaje/exactitud; sin rescate del primario por políticas individuales. Comprobaciones actuales se registran por procedimiento en `preflight.py`, `controles.py` y los JSON de resultados. Decisiones técnicas nuevas: API de niveles en diccionarios y adaptador de filas con rechazo de duplicados, huella de contexto SHA de matrices/entradas/llaves/defaults/versiones/semilla, rutas sin traversal ni symlinks, preservación de cada corrida y estados sintéticos. No son cambios de población, objetivo o evaluación y se fijan antes de cualquier evaluación real.
+
+## Implementación y entradas
+
+`motor.py:levels_from_rows` normaliza el código textual zfill2 y detecta duplicados antes de formar diccionarios; no lee archivos. `prepare` materializa solo historia contractual estrictamente anterior y valida los 33 códigos exactos contra la lista documental. Usa el máximo previo admisible, incluido el salto2019–2021 de dos años, sin dividir d. d=actual−previo; c=mediana33; r=d−c. No lee valores de validación/futuro. Año/código/conteos/IPM/tasas/intervalo quedan fuera de X. Cada componente usa una entrada derivada; memoria y corrección tienen33filas/año, común1fila/año.
+
+`fit_predict` crea Pipelines separados, sin cache, pesos, búsqueda, clipping, imputación, calibración ni compartir ajuste común entre candidatos. StandardScaler(copy=True,with_mean=True,with_std=True)→QuantileRegressor(quantile0.5,alpha1.0,fit_interceptTrue,solverhighs,solver_optionsNone). Scaler entrenado solo sobre Xtrain; predicción=previo+cambio. Cero pares devuelve persistencia con razón y sin construir scaler/fit; uno permite ajuste. Incompletos inesperados/no finitos son errores de integridad. Con1fila común aprende principalmente nivel/intercepto: no evidencia de dinámica identificada.
+
+Las ventanas son exactamente las de la especificación documental, cotejadas por `documentary_defaults`. Externa2021 no se puntúa ni selecciona; internas2021 sí se puntúan con respaldos idénticos. `select_internal` exige cuatro registros, rol interno, cobertura completa y persistencia elegible; numérico/convergencia invalida candidato con razón. MAE=fsum(abs(error))/n, RMSE=sqrt(fsum(error²)/n). Filtra MAE≤mínimo+0.1; dentro del pool RMSE≤mínimo+0.1; desempata entradas0,1,1,2 y orden0..3. Los límites son inclusivos, sin epsilon. El primario futuro es global; resultados individuales no lo sustituyen.
+
+## Integridad y ejecución controlada
+
+`integridad.py:exact_csv` conserva columnas, orden y llaves; equivalencia numérica0/0.0, sin tolerancia y rechazo1e-11. `prepared_context` incluye matrices, llaves, fechas, niveles previos, entradas, candidato, rol, defaults, Python/sklearn y semilla; excluye externo para comparar copias de una misma interna. `lineage` exige1320 originales con cobertura exacta antes de obtener528 únicas, solo con copias/contextos iguales, menor externo representante; no modifica originales. `reuse_global` solo mismo candidato/ventana. Expectativas futuras825externas y16registros no son ejecuciones actuales.
+
+`ejecucion_sintetica.py` ensaya un protocolo serial persistente con worker inventado fijo. Sus destinos se limitan a `etapa1/resultados/sinteticos/`, sin ledger operativo. Incluye arranque/proceso/comunicación en tiempo, termina grupos POSIX, guarda estados históricos, coteja huellas/contexto/consumo al reanudar, máximo1retry infraestructura, numérico inelegible sin retry y caída pendiente sin tiempo agota saldo. Toda repetición consume tiempo. Las pruebas de estados con tiempos inventados se distinguen de medición real de procesos inventados. No importa runners históricos ni modelos. El worker fijo no ajusta modelos.
+
+7200segundos y cota46=24internos+16externos+hasta6repeticiones son únicamente contrato futuro sin saldo heredado. No se ha creado un ledger real, runner del piloto, modelo final ni notebook de modelos. Fase3 deberá crear su orquestación propia, validar esta congelación/entorno/conservación, probar y congelar sus adaptaciones antes de cualquier ajuste real, con autorización separada. No cambiar las reglas congeladas después de observar evaluación.
+
+## Entorno, orden y entregables
+
+Orden: `preflight.py` → `controles.py` → `generar_notebook.py` → `cerrar.py` → `cerrar.py --verificar`. Usar exclusivamente `/tmp/icfes-v2-fase2-venv/bin/python`, Python3.12.14/sklearn1.9.1/54lock/pipcheck/PYTHONDONTWRITEBYTECODE=1/semilla20261010. Ausencia/diferencia obliga a detener, documentar y consultar, sin instalar o sustituir. Los scripts que pueden generar artefactos deben revisarse antes de repetir; una fase cerrada se verifica en lectura. `generar_notebook.py` no sobrescribe un notebook existente. No ejecutar scripts históricos.
+
+`notebook_controles.py` es fuente editable; `generar_notebook.py` construye el .ipynb, ejecuta secuencialmente Python con stdout real, valida nbformat y vuelve a leerlo. No kernel Jupyter ni salidas de ejecuciones inexistentes. Datos inventados deterministas con numpy.default_rng(20261010), sin datos personales. El notebook ejecuta otra corrida independiente de la suite y guarda evidencia aparte. Cada corrida conserva JSON, CSV rechazados, estados y links sintéticos; las huellas de los symlinks de ensayo son del texto del enlace, nunca del destino.
+
+## Hallazgos y límites
+
+Resultado histórico: recencia/global no demostró mejora, según `experimentos_temporales_objetivo3_v1/etapa2/resultados/meta.json`; no se reproduce ni se evalúa aquí. Impacto: no hay punto de partida mejor demostrado. Alternativa autorizada: implementar cuatro candidatos con criterios fijos; controles de implementación resueltos en fase2, eficacia pendiente fase3.
+
+Primera corrida sintética: `resultados/CONTROLES_cli_001.json` registró dos fallos propios. Uno era una raíz con `..` no rechazada: podía debilitar aislamiento, resuelto rechazando traversal también en raíz. Otro era un ensayo de linaje que mutaba una interna2024 sin copias repetidas: no probaba el rechazo pretendido. Se cambió al grupo2021 repetido y se mantuvo igualdad exacta. Código de esa corrida en `resultados/antecedentes_cli_001/`; corridas posteriores válidas separadas. Archivados por resolución comprobada, sin impacto científico ni reapertura de controles históricos.
+
+Incidencias de lectura: apertura inicial del plan completo contraria al límite y salida conjunta truncada de continuidades; no se ejecutaron otras fases. Se corrigió la lectura de continuidades vigentes con rangos acotados y se delimitó revisado/pendiente en `LECTURAS_FASE2.json`.
+
+Advertencias heredadas activas: procedencia local no autenticada; Guainía238vs404/diferencia21.012105832431985puntos histórica (`experimentos_objetivo3_v2/fase1/resultados/diagnostico_medias_disponibles.csv`, filas57y90, código94/2025), sin corregir media; IPM hogares frente alumnos; colegio frente residencia; ecología sin inferencia individual; dependencia territorial/temporal y pocos años. Todos2021–2025 ya vistos: exploratorio, sin confirmación independiente, causalidad o pronóstico anticipado demostrado. Las huellas autentican identidad de bytes, no origen oficial ni disponibilidad temporal. La aceptación técnica no cierra estas limitaciones.
+
+No fuentes nuevas, instalaciones, commit, push, piloto, fits reales, carga de modelos, entrenamiento final, simulación, objetivo4 o avance automático.

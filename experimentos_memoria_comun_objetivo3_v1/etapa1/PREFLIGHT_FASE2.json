@@ -1,0 +1,93 @@
+{
+  "aprobado": true,
+  "git": {
+    "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "asunto": "etapa 2 v5: cerrar piloto36 MAE y auditoria sin mejora",
+    "rama": "codex/objetivo3-v5-mae",
+    "ascendencia": {
+      "75c3a25182af363f47b0d743820f99084e18fed5": true,
+      "109797407d75d2097e5b71f8bcef3fc266bc61d2": true
+    },
+    "trabajo_posterior": [],
+    "diff": [],
+    "status": [
+      "?? diagnostico_objetivo3_v1/",
+      "?? diseno_memoria_comun_objetivo3_v1/",
+      "?? diseno_temporal_objetivo3_v1/",
+      "?? experimentos_memoria_comun_objetivo3_v1/",
+      "?? experimentos_temporales_objetivo3_v1/"
+    ],
+    "versionados": 29640,
+    "ajenos_nuevos": []
+  },
+  "antecedentes": {
+    "n": 30980,
+    "diferencias": []
+  },
+  "manifiestos": {
+    "diagnostico_objetivo3_v1/fase1/resultados/manifiesto_cierre.json": {
+      "huellas": 101,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "diseno_temporal_objetivo3_v1/resultados/manifiesto_diseno.json": {
+      "huellas": 16,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "experimentos_objetivo3_v5/etapa1/resultados/manifiesto_cierre.json": {
+      "huellas": 98,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "experimentos_objetivo3_v5/etapa2/resultados/manifiesto_cierre.json": {
+      "huellas": 6869,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "experimentos_objetivo3_v5/etapa1/resultados/congelacion_previa.json": {
+      "huellas": 40,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "experimentos_objetivo3_v5/etapa2/resultados/congelacion_operativa.json": {
+      "huellas": 55,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "experimentos_objetivo3_v5/etapa2/resultados/piloto/indice_integridad.json": {
+      "huellas": 2174,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "experimentos_temporales_objetivo3_v1/etapa2/resultados/manifiesto_cierre.json": {
+      "huellas": 1139,
+      "diferencias": [],
+      "aprobado": true
+    },
+    "experimentos_temporales_objetivo3_v1/etapa1/resultados/manifiesto_cierre.json": {
+      "huellas": 77,
+      "diferencias": [],
+      "aprobado": true
+    }
+  },
+  "fase1": {
+    "valida": true,
+    "huellas": 28,
+    "diferencias": []
+  },
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": true,
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": true
+  },
+  "historica_v5": {
+    "commit": "109797407d75d2097e5b71f8bcef3fc266bc61d2",
+    "archivo": "experimentos_objetivo3_v5/CONTINUIDAD_V5.md",
+    "sha256": "33bbdce75635733eae8bad9e14d1900999fd8af6318a55842382b5d2544e13fd"
+  },
+  "temporal_preservada": {
+    "ubicacion": "experimentos_temporales_objetivo3_v1/etapa2/resultados/partida.json:continuidad_inicial",
+    "sha256": "fd3b963135e9e8233470ef36116d82e67ca4a88aae67b7c785d0a9185ba0b8bb"
+  },
+  "autorizacion": "Usuario envió prompt fase2 y aprobó diseño; no piloto ni fits reales"
+}

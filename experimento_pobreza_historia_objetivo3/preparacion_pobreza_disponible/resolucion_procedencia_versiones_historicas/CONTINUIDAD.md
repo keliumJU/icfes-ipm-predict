@@ -1,0 +1,11 @@
+# Continuidad: plan de nueva sesión guardado, investigación no iniciada
+
+El usuario pidió cerrar la sesión con el plan guardado y un prompt para iniciar una nueva sesión. Autorizó mediante selección expresa documentación y anexos agregados oficiales DANE, exclusivamente para verificar versiones. Las bases ICFES y microdatos siguen excluidos. Esta entrega guarda instrucciones; no ejecuta la investigación.
+
+Leer PLAN_NUEVA_SESION.md para el alcance completo y usar PROMPT_NUEVA_SESION.md para arrancar. Solo se crearon este paquete, partida, manifiesto y verificador propios. No se realizaron consultas oficiales nuevas, descargas de anexos, cotejos de valores, modelos, escenarios ni objetivo 4. No hay presupuesto heredado ni fecha de predicción aprobada. El cierre científico previo sigue incompleto en procedencia/disponibilidad; no se resolvió en esta sesión de guardado.
+
+Antes de escribir se leyó AGENTS.md y la continuidad documental, se aprobó el verificador documental anterior y se registraron huellas de todos los archivos regulares dentro del universo de exclusiones previo. VERIFICACION_PREVIA.json conserva ese dictamen anterior. El verificador de la entrega anterior usa un inventario cerrado: esta ampliación futura lo excede, aunque sus archivos permanezcan idénticos. Se conserva intacto; no afirmar que aprueba el inventario ampliado. La conservación actual se comprueba con verificar_plan.py, sin modificar controles históricos.
+
+Al comenzar la nueva sesión: verificar este paquete con `python3 -B verificar_plan.py`, preservar sus archivos y registrar una nueva partida antes de escribir en investigacion/. Si ya existe investigación, leer su continuidad y no sobrescribir su estado. El verificador de este paquete también tiene inventario cerrado y su aprobación de arranque debe registrarse antes de añadir la investigación; controles nuevos separados deben comprobar la ampliación posterior.
+
+No modificar continuidades superiores, tesis, resultados previos, runtime compartido ni .git. No commit/push. No avance automático. La aprobación de conservación no autentica fuentes oficiales ni certifica disponibilidad histórica. Pendiente: ejecutar únicamente la investigación documental descrita en una nueva sesión, y cerrar con evidencia y pendientes antes de cualquier autorización experimental.

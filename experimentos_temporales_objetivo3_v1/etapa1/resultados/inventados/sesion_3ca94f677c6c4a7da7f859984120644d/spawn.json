@@ -1,0 +1,18 @@
+{
+  "origen": "inventado",
+  "contexto": {
+    "origen": "inventado",
+    "semilla": 20261010
+  },
+  "limite": 15,
+  "consumido": 1.1258200089996535,
+  "pendiente": false,
+  "ajustes": [
+    {
+      "etiqueta": "spawn#1",
+      "estado": "ok",
+      "clase_fallo": null,
+      "segundos": 1.1258200089996535
+    }
+  ]
+}

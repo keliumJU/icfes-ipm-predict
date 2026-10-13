@@ -1,0 +1,38 @@
+{
+  "documental": {
+    "aprobado": true,
+    "versionados_protegidos": 29640,
+    "head": "75c3a25182af363f47b0d743820f99084e18fed5",
+    "rama": "codex/objetivo3-v5-mae",
+    "fuentes_historicas_intactas": true
+  },
+  "reconstruccion_exacta": true,
+  "filas": 231,
+  "territorios": 33,
+  "cambios": 198,
+  "fuente_sha256": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+  "derivado_sha256": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc",
+  "entradas_union_exacta": [
+    "puntaje_previo",
+    "ipm",
+    "cambio_ipm",
+    "cambio_Analfabetismo",
+    "cambio_Bajo logro educativo",
+    "cambio_Barreras a servicios para cuidado de la primera infancia",
+    "cambio_Inasistencia escolar",
+    "cambio_Rezago escolar",
+    "cambio_Trabajo infantil",
+    "cambio_Desempleo de larga duracion",
+    "cambio_Trabajo informal",
+    "cambio_Barreras de acceso a servicios de salud",
+    "cambio_Sin aseguramiento en salud",
+    "cambio_Hacinamiento critico",
+    "cambio_Inadecuada eliminacion de excretas",
+    "cambio_Material inadecuado de paredes exteriores",
+    "cambio_Material inadecuado de pisos",
+    "cambio_Sin acceso a fuente de agua mejorada"
+  ],
+  "fuente_unica": true,
+  "previo_2021": 2019,
+  "anualizado": false
+}

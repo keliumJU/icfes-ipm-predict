@@ -1,0 +1,116 @@
+{
+  "aprobado": true,
+  "fits_nuevos": 0,
+  "modelos_cargados": 0,
+  "n": 165,
+  "primary": "global predefinido",
+  "persistence": {
+    "policy": "persistencia",
+    "n": 165,
+    "MAE": 3.429267191379531,
+    "RMSE": 4.314920647368904,
+    "sesgo": -2.0960105973100562,
+    "improvement_percent": 0.0
+  },
+  "global": {
+    "policy": "global",
+    "n": 165,
+    "MAE": 3.3676098407589707,
+    "RMSE": 4.306243910848592,
+    "sesgo": -1.5242014817652496,
+    "improvement_percent": 1.7979745286559843
+  },
+  "memory_exploratory": {
+    "policy": "memoria",
+    "n": 165,
+    "MAE": 3.004299017227967,
+    "RMSE": 4.212665669505837,
+    "sesgo": -0.965693505233788,
+    "improvement_percent": 12.392390281511053
+  },
+  "target_5_satisfied": false,
+  "historical_discrepancies": {},
+  "fits_historicos": {
+    "externa": 16,
+    "interna": 24,
+    "repeticion": 1
+  },
+  "ledger_used_seconds": 58.63946153299912,
+  "sum_measured_attempt_seconds": 36.574579537005775,
+  "memoria_coefficients_zero_all": true,
+  "memoria_n_adjustments": 11,
+  "correction_zero_all": true,
+  "selections": [
+    {
+      "external": 2022,
+      "candidate": "persistencia",
+      "pool_MAE": [
+        "persistencia",
+        "memoria",
+        "comun",
+        "comun_correccion"
+      ],
+      "pool_RMSE": [
+        "persistencia",
+        "memoria",
+        "comun",
+        "comun_correccion"
+      ]
+    },
+    {
+      "external": 2023,
+      "candidate": "persistencia",
+      "pool_MAE": [
+        "persistencia"
+      ],
+      "pool_RMSE": [
+        "persistencia"
+      ]
+    },
+    {
+      "external": 2024,
+      "candidate": "persistencia",
+      "pool_MAE": [
+        "persistencia",
+        "memoria"
+      ],
+      "pool_RMSE": [
+        "persistencia"
+      ]
+    },
+    {
+      "external": 2025,
+      "candidate": "memoria",
+      "pool_MAE": [
+        "memoria"
+      ],
+      "pool_RMSE": [
+        "memoria"
+      ]
+    }
+  ],
+  "global_2025": {
+    "year": 2025,
+    "policy": "global",
+    "n": 33,
+    "MAE_points": 1.9383082759365036,
+    "RMSE_points": 3.0422087223555567,
+    "bias_points": 1.364113221808658,
+    "benefit_MAE_points": 0.3082867531028031,
+    "improve_pairs": 18,
+    "worsen_pairs": 15,
+    "tie_pairs": 0,
+    "direction_match_pairs": 27
+  },
+  "global_territory_5years_improve": 18,
+  "global_territory_5years_worsen": 15,
+  "coverage": {
+    "internal": 1320,
+    "records": 16,
+    "external": 825,
+    "unique": 528,
+    "lineage": 1320,
+    "global_checks": 5
+  },
+  "limits": "exploratorio; años2021–2025vistos; dependencia; sin causalidad/confirmación"
+}

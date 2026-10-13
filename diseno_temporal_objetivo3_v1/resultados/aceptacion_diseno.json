@@ -1,0 +1,22 @@
+{
+  "aprobado": true,
+  "documentos_coherentes": true,
+  "herencia36_grupos_defaults_ventanas_exacta": true,
+  "cambios_materiales_explicitos": true,
+  "meta_original_5": true,
+  "evaluacion165_pesos_iguales": true,
+  "inventario_fuente231_33": true,
+  "confirmacion_independiente_disponible": false,
+  "evidencia_local_referenciada": true,
+  "fase": "Diseño documental completo,no ejecución experimental",
+  "prompts_guardados_no_ejecutados": 2,
+  "protocolo_operativo_congelado": false,
+  "notebook_necesario_en_fase_documental": false,
+  "pesos_reales_generados": 0,
+  "fits": 0,
+  "modelos_cargados": 0,
+  "nuevas_metricas": 0,
+  "nuevas_fuentes": 0,
+  "commits": 0,
+  "push": false
+}

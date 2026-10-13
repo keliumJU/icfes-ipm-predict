@@ -1,0 +1,13 @@
+{
+  "primario": "recencia_h2/global",
+  "n": 165,
+  "mae_persistencia": 3.429267191379531,
+  "mae_recencia_global": 3.429267191379531,
+  "mejora_porcentaje": 0.0,
+  "umbral_original": 5,
+  "cumple": false,
+  "delta_mae_v5": 0.0,
+  "exploratorio": true,
+  "confirmacion_independiente": false,
+  "causalidad": false
+}

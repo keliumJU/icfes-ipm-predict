@@ -1,0 +1,10 @@
+{
+  "cell": 5,
+  "function": "entrega_incompleta.diagnostic_figure",
+  "files": {
+    "01_control_ajustes_internos.png": "ca6cf8a67cfca1bf3f19cef946e1d1bf4a85543258c01ccd0cbf2ada23e62045"
+  },
+  "input": "e0b429edc7137842a374eb434f32993a89f32f61f139c645daf5261ee57f8bb2",
+  "unit": "componentes ajustados; control técnico, no desempeño",
+  "performance_figure": false
+}

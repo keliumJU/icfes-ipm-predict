@@ -1,0 +1,102 @@
+[
+  {
+    "ajuste": "e2021_externo_persistencia",
+    "segundos": 0.0011136520006402861,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2021_repeticion_persistencia",
+    "segundos": 0.0038043780004954897,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2022_i2021_persistencia",
+    "segundos": 0.0012860170008934801,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2022_externo_persistencia",
+    "segundos": 0.0011427280005591456,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2022_repeticion_persistencia",
+    "segundos": 0.004205052000543219,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2023_i2021_persistencia",
+    "segundos": 0.0010953669989248738,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2023_i2022_persistencia",
+    "segundos": 0.0011433479994593654,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2023_externo_persistencia",
+    "segundos": 0.00132091399973433,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2023_repeticion_persistencia",
+    "segundos": 0.004343074999269447,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2024_i2021_persistencia",
+    "segundos": 0.0011140130009152927,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2024_i2022_persistencia",
+    "segundos": 0.0010729450004873797,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2024_i2023_persistencia",
+    "segundos": 0.0014498740001727128,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2024_externo_persistencia",
+    "segundos": 0.001119738999477704,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2024_repeticion_persistencia",
+    "segundos": 0.004057199001181289,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2025_i2021_persistencia",
+    "segundos": 0.0010720749996835366,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2025_i2022_persistencia",
+    "segundos": 0.001307630998780951,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2025_i2023_persistencia",
+    "segundos": 0.0012295619999349583,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2025_i2024_persistencia",
+    "segundos": 0.001688376998572494,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2025_externo_persistencia",
+    "segundos": 0.0013983829994685948,
+    "sin_fit": true
+  },
+  {
+    "ajuste": "e2025_repeticion_persistencia",
+    "segundos": 0.0045863129998906516,
+    "sin_fit": true
+  }
+]

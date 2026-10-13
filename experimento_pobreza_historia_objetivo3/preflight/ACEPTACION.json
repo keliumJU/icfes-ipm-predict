@@ -1,0 +1,14 @@
+{
+  "aprobado": true,
+  "real_fits": 0,
+  "synthetic_fits": 0,
+  "matrix_files": 315,
+  "operational_acceptance": true,
+  "scientific_confirmation": false,
+  "epoch": 1791829410.6146154,
+  "pendientes": [
+    "autenticidad fuente local",
+    "disponibilidad contemporánea",
+    "dependencia y todos años vistos"
+  ]
+}

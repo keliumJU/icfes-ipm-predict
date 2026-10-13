@@ -1,0 +1,11 @@
+{
+  "estado": "completo",
+  "start_epoch": 1791830279.0,
+  "end_epoch": 1791831156.10737,
+  "elapsed_seconds": 877.1073698997498,
+  "max_seconds": 7200,
+  "new_fits": 0,
+  "pilot_reopened": false,
+  "saldo_reutilizable": false,
+  "no_auto_advance": true
+}

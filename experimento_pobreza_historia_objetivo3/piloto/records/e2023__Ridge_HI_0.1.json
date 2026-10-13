@@ -1,0 +1,136 @@
+{
+  "id": "Ridge_HI_0.1",
+  "family": "Ridge",
+  "params": {
+    "alpha": 0.1,
+    "copy_X": true,
+    "fit_intercept": true,
+    "max_iter": null,
+    "positive": false,
+    "random_state": 20261010,
+    "solver": "svd",
+    "tol": 0.0001
+  },
+  "inputs": [
+    "puntaje_previo",
+    "cambio_previo",
+    "ipm"
+  ],
+  "matrix_file": "preflight/matrices/e2023__Ridge_HI_0.1.json",
+  "matrix_sha256": "3a888797ae8f79db8e9191a9f71461ae1b4e0dc664b7b8b2155368e2123bb091",
+  "prediction": [
+    256.15391500453256,
+    254.49758098360658,
+    276.36715360959613,
+    237.50800133867682,
+    271.3120453475706,
+    261.3457444895058,
+    250.17452753911903,
+    240.85717951931593,
+    248.68645432288614,
+    243.09762360101956,
+    269.8621380580135,
+    211.91480777915353,
+    264.11486633604517,
+    230.05136519678877,
+    234.8331866649021,
+    258.86656919867426,
+    254.524325245583,
+    262.8017729121493,
+    269.53671659552526,
+    262.6512348363266,
+    274.4989182708632,
+    241.34572647279327,
+    252.21025992664332,
+    260.7268527868581,
+    252.11602524238853,
+    262.2103127290494,
+    248.11043706757795,
+    243.9972658890376,
+    226.9015052484623,
+    232.67567544305172,
+    233.65505518642172,
+    218.84989880150914,
+    225.31924286480321
+  ],
+  "warnings": [],
+  "runtime_params": {
+    "alpha": 0.1,
+    "copy_X": true,
+    "fit_intercept": true,
+    "max_iter": null,
+    "positive": false,
+    "random_state": 20261010,
+    "solver": "svd",
+    "tol": 0.0001
+  },
+  "pipeline_params": {
+    "memory": null,
+    "transform_input": null,
+    "verbose": false
+  },
+  "scaler": {
+    "params": {
+      "copy": true,
+      "with_mean": true,
+      "with_std": true
+    },
+    "mean": [
+      243.4631381109307,
+      -3.611423397493417,
+      22.227272727272723
+    ],
+    "var": [
+      268.3942804806096,
+      12.039387246180247,
+      212.848650137741
+    ],
+    "scale": [
+      16.382743374679638,
+      3.4697820170985163,
+      14.589333437060825
+    ],
+    "n_samples_seen": 66
+  },
+  "fit_start_epoch": 1791829485.3436189,
+  "fit_end_epoch": 1791829485.3490179,
+  "fit_duration_seconds": 0.005397759001425584,
+  "threadpools": [
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/numpy.libs/libscipy_openblas64_-f48b354e.so",
+      "version": "0.3.34.106.0",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "blas",
+      "internal_api": "openblas",
+      "num_threads": 1,
+      "prefix": "libscipy_openblas",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/scipy.libs/libscipy_openblas-5f890258.so",
+      "version": "0.3.31.dev",
+      "threading_layer": "pthreads",
+      "architecture": "SkylakeX"
+    },
+    {
+      "user_api": "openmp",
+      "internal_api": "openmp",
+      "num_threads": 1,
+      "prefix": "libgomp",
+      "filepath": "/tmp/icfes-v2-fase2-venv/lib/python3.12/site-packages/scikit_learn.libs/libgomp-e985bcbb.so.1.0.0",
+      "version": null
+    }
+  ],
+  "seed": 20261010,
+  "coef": [
+    14.59933493636366,
+    0.32761406744381816,
+    -1.8658134562452886
+  ],
+  "intercept": 245.0127094498322,
+  "n_features_in": 3
+}

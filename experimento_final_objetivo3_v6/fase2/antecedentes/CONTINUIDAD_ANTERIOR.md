@@ -1,0 +1,9 @@
+# Continuidad v6 — fase1 COMPLETA Y CONGELADA
+
+2026-10-11 America/Bogota. Envío humano actual autoriza fases1→2→3 condicionadas; ninguna otra fase/versión/fuente/instalación/commit/push. Fase0 íntegra preservada fase1/antecedentes/CONTINUIDAD_ANTERIOR.md SHAb9207a2d465e64632ad5a10e8e48078c69b59d6229fb67ba402dc51f7ee9a15a. Documental inicial en lectura aprobado; cierres originales verificados por mappings, no modificados para admitir v6.
+
+Entorno/fuentes/Git/ascendencia/v5commitreal/temporal texto huella/memoria históricos comprobados en fase1/PREFLIGHT.json. Contrato cerrado intacto: población/media recibida/geografía colegio/igualpeso/2018historial/2019no respuesta/2020excluido/salto2021 sin anualizar/165pares/meta5%.39IDs exactos y32componentes por contexto; cero años respaldo, uno permite. Selección internas bandas inclusivas0.1 MAE/RMSE→entradas0/1/2→orden; persistencia primero; primario global_v6. Ningún cambio científico.
+
+Implementación reusable motor.py/runner.py; controles inventados y notebook01 realmente ejecutado en3celdas, nbformat, fuente editable/generador; PRUEBAS/REFERENCIAS/ACEPTACION/CONSERVACION/CONGELACION. Cero fits reales/0modelos cargados; no ledger piloto. Ensayos fallidos de orden/códigos preservados en antecedentes: se resolvieron con índices canónicos y zfill2 histórico; refuerzo traversal/duplicados antes freeze. Originales intactos. Fits inventados por corridas registrados separadamente, no evidencia predictiva.
+
+Pendiente autorizado: leer sección fase2, ejecutar único piloto serial nuevo7200s (328fits máximos sin fallos,104constantes separadas) y cerrar antes auditoría; luego fase3 sin nuevosfits ni uso saldo. Lectura incidental plan completo en creador documentada, sin autorización extra. Procedencia/disponibilidad/Guainía/IPM/ecología/dependencia/pocos años activos; todos2021–2025vistos, solo exploratorio. No modelo final/objetivo4/proyección2026.

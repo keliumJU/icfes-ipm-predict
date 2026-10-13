@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "context": "numerico",
+  "limit": 30,
+  "synthetic": true,
+  "start_monotonic": 15545.976029028,
+  "start_wall": 1791744146.9093409,
+  "used": 1.1704565470008674,
+  "attempts": [
+    {
+      "job": "numerico",
+      "attempt": 1,
+      "context": "c2e9d44489566a55f0c7025c0e061bb59c300faa28e0b7ee2697420a00b60701",
+      "state": "numerical",
+      "request": "resultados/sinteticos/corrida_002/numerico/jobs/numerico/intento_1/solicitud.json",
+      "request_sha256": "6adb3a24b9ac7e14405ee687093e115e49ecb43f10da487ef5fb69087f8b9095",
+      "output": "resultados/sinteticos/corrida_002/numerico/jobs/numerico/intento_1/resultado.json",
+      "start_monotonic": 15545.982475155,
+      "pid": 642,
+      "seconds_measured": 1.1501251379995665,
+      "returncode": 2,
+      "process_terminated": true,
+      "pipeline_fits_started": 1,
+      "output_sha256": "697fa9c70d4c491a88ed0381bababe51a284a51a47d1f9c057737800c82f6281"
+    }
+  ],
+  "retries": 0,
+  "closed": true,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

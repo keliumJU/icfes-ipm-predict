@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "context": "inventado",
+  "limit": 300,
+  "synthetic": true,
+  "start_monotonic": 15503.589722056,
+  "start_wall": 1791744104.5230339,
+  "used": 0.09803009200004453,
+  "attempts": [
+    {
+      "job": "ext_e2021_persistencia",
+      "context": "eafdb6fb19753d99fce42d886b71c22c14086ae8d0bd1434cdca718b065a28f2",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_002/piloto/jobs/ext_e2021_persistencia/respaldo.json",
+      "output_sha256": "8e8a9dd12d7eb4f3b1c9dd3f6efa9a9b5ba9737804d68d124756c3d869c3d4f4",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 8.232899926952086e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_memoria",
+      "context": "f5f5f603322012401d0ffc6b69b887ee8c3f4c0c814ccae85192155549aca024",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_002/piloto/jobs/ext_e2021_memoria/respaldo.json",
+      "output_sha256": "2e4e17f6471d1f0149c2d9279823e6a7f39fa51524e30242d2c9171b3abb03a5",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 0.0003810990001511527,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_comun",
+      "context": "047865582219f2e6c62616362c9ea528511e99bcb1b57e30ce5c41c47868f325",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_002/piloto/jobs/ext_e2021_comun/respaldo.json",
+      "output_sha256": "7ce9ec3c935a944a91ac3654be35ca4419fdc47827ad9fbfbf13641a3b97f320",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 8.229100058088079e-05,
+      "no_fit": true
+    },
+    {
+      "job": "ext_e2021_comun_correccion",
+      "context": "b4d8e4b5589f1ef9d022ecd8e069d82fb18e6ec3bf2d0d00ba02092502146546",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_002/piloto/jobs/ext_e2021_comun_correccion/respaldo.json",
+      "output_sha256": "95c96cac9cd4333a495dee00886f995cb1b7e5e8d957c8b8bf231656d8732502",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 6.809899969084654e-05,
+      "no_fit": true
+    },
+    {
+      "job": "int_e2022_v2021_persistencia",
+      "context": "9d556f2df1fd1192c69c7160671e1a13c6ba08c5ab417396dfb136648311f72b",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_002/piloto/jobs/int_e2022_v2021_persistencia/respaldo.json",
+      "output_sha256": "5f2fe4d1de383d8d18b3c069073f2c66baa1e4d59b502bd59d008dfa3d00643a",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 7.834099960746244e-05,
+      "no_fit": true
+    },
+    {
+      "job": "int_e2022_v2021_memoria",
+      "context": "514360ba0ead51ab186720a923878292492a59567aba7fae3d502314317928c2",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_002/piloto/jobs/int_e2022_v2021_memoria/respaldo.json",
+      "output_sha256": "6b386ad838ecc7a399b8097103f13a706241c26910bc6fec5fef81cbb9bfb986",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 0.00014229199950932525,
+      "no_fit": true
+    }
+  ],
+  "retries": 0,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

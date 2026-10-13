@@ -1,0 +1,13 @@
+# Lecturas y límites de esta revisión
+
+12/10/2026. Antes de revisar se leyó AGENTS.md, continuidad propia de investigación y continuidades/planes locales pertinentes. Del plan de procedencia se revisó el alcance/cierre; no se ejecutó una nueva investigación. PLAN_OBJETIVO_3.md se usa como antecedente de correspondencia, no autorización para ejecutar sus fases.
+
+Texto completo de ACA2.pdf revisado por páginas en esta revisión y la consulta inmediatamente precedente de la misma conversación: 23–25 (pregunta/objetivos), 26–27 (hipótesis y comienzo de justificación), 56–60 (método de los cuatro objetivos), 75–84 (descriptivo IPM), 89–94 (dimensiones e indicadores), 104–114 (asociaciones/discusión). Se leyó texto extraído por Poppler, no se verificaron visualmente las figuras en esta revisión ni se recalcularon sus números. La extracción nueva se hizo con fuentes Python previas guardadas en /tmp: leer_pregunta_tesis.py, revisar_paginas_objetivos.py y leer_dimensiones_tesis.py. No se guardan textos PDF completos en esta entrega.
+
+Otras páginas: se usan antecedentes con ubicación en `../auditoria/mapa_tesis.md`, particularmente 53–69 y 115–117. No se registra nueva lectura completa de esas páginas por consultar la propuesta editorial. No se afirma revisión integral de las 126 páginas de ACA2 ni revisión bibliográfica nueva.
+
+Documentos revisados: auditoria/mapa_tesis.md, diagnostico_calidad.md, propuesta_correccion_tesis.md, procedimientos/README.md; continuidad raíz y apartados de cierre/criterios, README y decisiones de fases3–5; informe revisado de fase6; continuidad/texto/corrección/pendientes del contraste pobreza-historia; decisión de alcance objetivo4; informe/hallazgos/continuidad/README de investigación histórica. Tablas existentes leídas: fase5 tabla_familias_seleccion.csv y tabla_reevaluacion_conjunta.csv; fase4 asociaciones_longitudinales.csv. Las cifras citadas son resultados anteriores, no reproducciones actuales.
+
+Búsqueda local: inventario de fuentes/reportes/notebooks y términos efectos fijos, PanelOLS, fixed effects, objetivo 1/2 en Markdown/Python/CSV pertinentes. No se ejecutan notebooks ni se cargan modelos; no se leen registros TXT, bases individuales o CSV analíticos completos para recalcular. No se inspecciona exhaustivamente cada notebook o carpeta histórica; «no localizado» no equivale a «inexistente».
+
+Conservación previa: verificador de investigación aprobado antes de crear esta carpeta, sin --cotejo. PARTIDA.json nueva registra archivos regulares externos con exclusiones heredadas expresas. Control Python de conservación no analiza registros: solo lee bytes para SHA256. No uso de Git, runtime compartido, red, modelos o escenarios.

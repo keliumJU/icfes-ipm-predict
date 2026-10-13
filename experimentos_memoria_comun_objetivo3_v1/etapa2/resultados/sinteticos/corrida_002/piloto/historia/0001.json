@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "context": "inventado",
+  "limit": 300,
+  "synthetic": true,
+  "start_monotonic": 15503.589722056,
+  "start_wall": 1791744104.5230339,
+  "used": 0.034871204999944894,
+  "attempts": [
+    {
+      "job": "ext_e2021_persistencia",
+      "context": "eafdb6fb19753d99fce42d886b71c22c14086ae8d0bd1434cdca718b065a28f2",
+      "state": "success",
+      "output": "resultados/sinteticos/corrida_002/piloto/jobs/ext_e2021_persistencia/respaldo.json",
+      "output_sha256": "8e8a9dd12d7eb4f3b1c9dd3f6efa9a9b5ba9737804d68d124756c3d869c3d4f4",
+      "attempt": 1,
+      "pipeline_fits_started": 0,
+      "seconds_measured": 8.232899926952086e-05,
+      "no_fit": true
+    }
+  ],
+  "retries": 0,
+  "closed": false,
+  "exhausted": false,
+  "medicion": "Tiempo monotónico continuo desde arranque del runner hasta cierre: incluye procesos, comunicación, fallos, retries, repeticiones y pausas. Sin saldo heredado."
+}

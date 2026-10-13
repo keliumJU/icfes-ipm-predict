@@ -1,0 +1,42 @@
+[
+  {
+    "externo": 2021,
+    "id": "persistencia",
+    "aprobado": true,
+    "sin_fit": true,
+    "atol": 0,
+    "rtol": 0
+  },
+  {
+    "externo": 2022,
+    "id": "persistencia",
+    "aprobado": true,
+    "sin_fit": true,
+    "atol": 0,
+    "rtol": 0
+  },
+  {
+    "externo": 2023,
+    "id": "persistencia",
+    "aprobado": true,
+    "sin_fit": true,
+    "atol": 0,
+    "rtol": 0
+  },
+  {
+    "externo": 2024,
+    "id": "persistencia",
+    "aprobado": true,
+    "sin_fit": true,
+    "atol": 0,
+    "rtol": 0
+  },
+  {
+    "externo": 2025,
+    "id": "persistencia",
+    "aprobado": true,
+    "sin_fit": true,
+    "atol": 0,
+    "rtol": 0
+  }
+]

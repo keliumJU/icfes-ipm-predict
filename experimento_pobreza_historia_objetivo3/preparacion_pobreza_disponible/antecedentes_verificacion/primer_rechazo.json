@@ -1,0 +1,4 @@
+{
+  "aprobado_integridad_documental": false,
+  "error": "Traceback (most recent call last):\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/verificar_documental.py\", line 106, in <module>\n    if __name__=='__main__':print(json.dumps(verify(),ensure_ascii=False))\n                                             ~~~~~~^^\n  File \"/home/kelium/Documents/espcarlos/icfes-predict-improved/experimento_pobreza_historia_objetivo3/preparacion_pobreza_disponible/verificar_documental.py\", line 43, in verify\n    assert not p.is_symlink(), f'Symlink: {p}'\n           ^^^^^^^^^^^^^^^^^^\nAssertionError: Symlink: /home/kelium/Documents/espcarlos/icfes-predict-improved/experimentos_temporales_objetivo3_v1/etapa1/resultados/inventados/sesion_51939915811540daa1dd1df1e5940879/link_archivo\n"
+}

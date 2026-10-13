@@ -1,0 +1,15 @@
+{
+  "aprobado": true,
+  "n_versionados": 29640,
+  "discrepancias": [],
+  "head_igual": true,
+  "continuidad_propia_antecedente_sha256": "68013e11bd2f05bd1616b8da2d3c7fdcc865920764ebfd421907a221ee76771e",
+  "antecedente_integro": true,
+  "plan_prompt_registro_preparacion_intactos": true,
+  "escrituras_solo_diagnostico": true,
+  "raw_ignorado": "No censado por SHA; ninguna escritura",
+  "modelos": "Solo hashes binarios; no deserialización",
+  "status_final": [
+    "?? diagnostico_objetivo3_v1/"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "aprobado": true,
+  "synthetic": true,
+  "fits_panel_real": 0,
+  "fits_inventados_piloto": 43,
+  "fits_inventados_numero_fallido": 1,
+  "grupos": [
+    "orquestacion completa/cobertura",
+    "seleccion",
+    "matrices/fechas/scaler/reuso",
+    "linaje exacto",
+    "CSV0/1e-11",
+    "caida",
+    "cierre sin reinicio",
+    "infra retry max1",
+    "numerico inelegible sin retry",
+    "terminacion real"
+  ],
+  "validacion": {
+    "aprobado": true,
+    "internas": 1320,
+    "internas_unicas": 528,
+    "linaje": 1320,
+    "registros_seleccion": 16,
+    "externas": 825,
+    "global_checks": 5,
+    "fits": {
+      "interna": 24,
+      "externa": 16,
+      "repeticion": 3
+    },
+    "fits_total": 43,
+    "warnings": [],
+    "controles": "Coberturas exactas, contextos/matrices/llaves/fechas/defaults/semilla/objetivos anteriores, scaler aritmético, reconstrucción predicción, selección solo internas, copias/linaje/reuso/global, huellas y procesos terminados",
+    "alcance": "Controles indispensables del piloto fase3. No reemplaza auditoría interpretativa fase4."
+  },
+  "fuentes_sha256": {
+    "comun.py": "248519cfcd456f09e827a662c9c8256de93297d8ae450238f18f48a552c92751",
+    "preparar.py": "ae4acb771023aff75329afe11de2e8dec649b8093539b75a3fae656dd2cf10af",
+    "panel.py": "f6207851b1a7efb0ff76f2eea3b9a60e33ee2f1478ff388eeba399af1362ca1e",
+    "worker.py": "906d2d611807c4196feae222b337f48693abdc1d56cb9539eebc65f3dc175fd6",
+    "runner.py": "d41fc7c93adb75adbd5fc6781b612060302cecea9ecab37f7b08a78278c55556",
+    "verificar.py": "bc0c98de79c4b47f1256da56985c2df3685decf55bf1d239fa00f9d5b224b01d",
+    "pruebas.py": "fad0c2e66c21b895e38b147200b6d700f69b6460d8a9f6ff19ef9f95e45d6da4",
+    "congelar.py": "9966dd4580e53d431cc83a3ed5497f69a3b06b70bf4a615564f0cd46214e9f8f",
+    "piloto.py": "d54af96d83b8cd8ca72283bf846819812d2c1385c7cd3cbbdbe6640032f189ea",
+    "notebook_resultados.py": "323a7dca6ca4e83bb5c9e72c35c69d4291df4ba920c598422c09f73d751cbc65",
+    "generar_notebook.py": "87a25fd8cc4c40c1cb5d3db64ca072597f6eca0ce91fc646a3f9577f09e624a8",
+    "cerrar_fase3.py": "fac1e7532a003c091874d8d2058eb3fbe235882097c8672920821198c88282d2"
+  },
+  "salidas_sha256": "389eb4b829a761cd0f550e35d9cd1f17323ace3c18d5389d16d228e41ad4e227"
+}

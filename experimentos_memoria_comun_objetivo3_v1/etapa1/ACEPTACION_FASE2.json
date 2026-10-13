@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "completa": true,
+  "congelacion_valida": true,
+  "controles": {
+    "fase1_valida_y_conservada": true,
+    "entorno_exacto": true,
+    "suite_cli_valida": true,
+    "suite_notebook_valida": true,
+    "fuentes_probadas_identicas": true,
+    "notebook_validado_ejecutado": true,
+    "conservacion_integra": true,
+    "fits_panel_real_cero": true
+  },
+  "pendientes_indispensables": [],
+  "fits_inventados_total_corridas": 64,
+  "fits_panel_real": 0,
+  "modelos_cargados": 0,
+  "presupuesto_real_iniciado": false,
+  "fase3_autorizada": false,
+  "corrida_cli_final": "resultados/CONTROLES_cli_003.json",
+  "corrida_notebook": "resultados/CONTROLES_notebook_001.json",
+  "criterio": "Implementación y controles inventados, no evaluación de eficacia ni aprobación de piloto",
+  "congelacion_sha256": "dddd81743a551b1d90d8825dec9bc2e231ac7e05643a2e92ca6c43c95783658b"
+}

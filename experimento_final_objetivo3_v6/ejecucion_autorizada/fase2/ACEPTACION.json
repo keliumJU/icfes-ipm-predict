@@ -1,0 +1,20 @@
+{
+  "completa": true,
+  "ledger_closed": true,
+  "reopen_allowed": false,
+  "fits": 320,
+  "constants": 101,
+  "seconds": 640.7349152410025,
+  "failures": 0,
+  "retries": 0,
+  "coverage": {
+    "aprobado": true,
+    "internal_original": 12870,
+    "internal_unique": 5148,
+    "external": 6600,
+    "selection_records": 156,
+    "lineage": 12870,
+    "global_checks": 5
+  },
+  "independent_audit_pending": true
+}

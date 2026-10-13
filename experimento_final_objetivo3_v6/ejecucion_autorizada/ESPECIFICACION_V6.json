@@ -1,0 +1,1067 @@
+{
+  "version": "6.0.0",
+  "estado": "protocolo documental cerrado; implementación/piloto NO ejecutados",
+  "autorizacion_actual": "solo preparar protocolo/plan/archivos/prompt, según envío humano",
+  "fecha_cliente": "2026-10-11",
+  "timezone": "America/Bogota",
+  "semilla": 20261010,
+  "fuentes": {
+    "experimentos_objetivo3_v2/fase1/reconstrucciones/base_analitica_departamento_anio_v2.csv": "6cd37c9784f7953de09ba3dec40d0898e0902b907a5448dbf3e850593d8ddfb3",
+    "experimentos_objetivo3_v5/etapa1/reconstrucciones/panel_cambios.csv": "aa761437a94beb1504068d2c5fb9ace0eb03ea84d4d2f182d58832ea21cbe0dc"
+  },
+  "entorno": {
+    "python": "3.12.14",
+    "sklearn": "1.9.1",
+    "lock": "experimentos_objetivo3_v5/etapa1/requirements.lock.txt",
+    "paquetes": 54,
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "pip_check_obligatorio": true,
+    "falta_o_diferencia": "detener, documentar y consultar; no sustituir ni instalar"
+  },
+  "poblacion": {
+    "tipo": "ESTUDIANTE",
+    "no_libertad": "S",
+    "grado": 11,
+    "puntajes": "seis presentes y positivos",
+    "calendario": "sin filtro",
+    "media": "global recibida sin reconstruir promediando subpruebas",
+    "geografia": "colegio",
+    "agregacion": "media anual territorial recibida; conteos solo trazabilidad",
+    "verificacion_actual": "Cotejo íntegro fuente/derivado; no reauditoría de raw ni autenticación oficial"
+  },
+  "years": [
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "windows": [
+    {
+      "externo": 2021,
+      "entrenamiento": [],
+      "procedimiento": "persistencia_fija",
+      "internas": []
+    },
+    {
+      "externo": 2022,
+      "entrenamiento": [
+        2019,
+        2021
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2023,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2024,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022,
+        2023
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        },
+        {
+          "validacion": 2023,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022
+          ]
+        }
+      ]
+    },
+    {
+      "externo": 2025,
+      "entrenamiento": [
+        2019,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "procedimiento": "seleccion_interna",
+      "internas": [
+        {
+          "validacion": 2021,
+          "entrenamiento": [
+            2019
+          ]
+        },
+        {
+          "validacion": 2022,
+          "entrenamiento": [
+            2019,
+            2021
+          ]
+        },
+        {
+          "validacion": 2023,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022
+          ]
+        },
+        {
+          "validacion": 2024,
+          "entrenamiento": [
+            2019,
+            2021,
+            2022,
+            2023
+          ]
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "id": "persistencia",
+      "order": 0,
+      "family": "persistencia",
+      "history": "all",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": null
+    },
+    {
+      "id": "nivel_median_all",
+      "order": 1,
+      "family": "nivel_territorial",
+      "history": "all",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "median"
+    },
+    {
+      "id": "nivel_median_last1",
+      "order": 2,
+      "family": "nivel_territorial",
+      "history": "last1",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "median"
+    },
+    {
+      "id": "nivel_median_last2",
+      "order": 3,
+      "family": "nivel_territorial",
+      "history": "last2",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "median"
+    },
+    {
+      "id": "nivel_median_last3",
+      "order": 4,
+      "family": "nivel_territorial",
+      "history": "last3",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "median"
+    },
+    {
+      "id": "nivel_mean_all",
+      "order": 5,
+      "family": "nivel_territorial",
+      "history": "all",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "mean"
+    },
+    {
+      "id": "nivel_mean_last1",
+      "order": 6,
+      "family": "nivel_territorial",
+      "history": "last1",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "mean"
+    },
+    {
+      "id": "nivel_mean_last2",
+      "order": 7,
+      "family": "nivel_territorial",
+      "history": "last2",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "mean"
+    },
+    {
+      "id": "nivel_mean_last3",
+      "order": 8,
+      "family": "nivel_territorial",
+      "history": "last3",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "mean"
+    },
+    {
+      "id": "memoria_qr_a0p0_all",
+      "order": 9,
+      "family": "memoria_qr",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p01_all",
+      "order": 10,
+      "family": "memoria_qr",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.01,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p1_all",
+      "order": 11,
+      "family": "memoria_qr",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.1,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a1p0_all",
+      "order": 12,
+      "family": "memoria_qr",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 1.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p0_last2",
+      "order": 13,
+      "family": "memoria_qr",
+      "history": "last2",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p01_last2",
+      "order": 14,
+      "family": "memoria_qr",
+      "history": "last2",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.01,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p1_last2",
+      "order": 15,
+      "family": "memoria_qr",
+      "history": "last2",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.1,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a1p0_last2",
+      "order": 16,
+      "family": "memoria_qr",
+      "history": "last2",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 1.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p0_last3",
+      "order": 17,
+      "family": "memoria_qr",
+      "history": "last3",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p01_last3",
+      "order": 18,
+      "family": "memoria_qr",
+      "history": "last3",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.01,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a0p1_last3",
+      "order": 19,
+      "family": "memoria_qr",
+      "history": "last3",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.1,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_qr_a1p0_last3",
+      "order": 20,
+      "family": "memoria_qr",
+      "history": "last3",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 1.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_ridge_a1p0_all",
+      "order": 21,
+      "family": "memoria_ridge",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "Ridge": {
+          "alpha": 1.0,
+          "copy_X": true,
+          "fit_intercept": true,
+          "max_iter": null,
+          "positive": false,
+          "random_state": 20261010,
+          "solver": "auto",
+          "tol": 0.0001
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_ridge_a10p0_all",
+      "order": 22,
+      "family": "memoria_ridge",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "Ridge": {
+          "alpha": 10.0,
+          "copy_X": true,
+          "fit_intercept": true,
+          "max_iter": null,
+          "positive": false,
+          "random_state": 20261010,
+          "solver": "auto",
+          "tol": 0.0001
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_ridge_a1p0_last2",
+      "order": 23,
+      "family": "memoria_ridge",
+      "history": "last2",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "Ridge": {
+          "alpha": 1.0,
+          "copy_X": true,
+          "fit_intercept": true,
+          "max_iter": null,
+          "positive": false,
+          "random_state": 20261010,
+          "solver": "auto",
+          "tol": 0.0001
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_ridge_a10p0_last2",
+      "order": 24,
+      "family": "memoria_ridge",
+      "history": "last2",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "Ridge": {
+          "alpha": 10.0,
+          "copy_X": true,
+          "fit_intercept": true,
+          "max_iter": null,
+          "positive": false,
+          "random_state": 20261010,
+          "solver": "auto",
+          "tol": 0.0001
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_ridge_a1p0_last3",
+      "order": 25,
+      "family": "memoria_ridge",
+      "history": "last3",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "Ridge": {
+          "alpha": 1.0,
+          "copy_X": true,
+          "fit_intercept": true,
+          "max_iter": null,
+          "positive": false,
+          "random_state": 20261010,
+          "solver": "auto",
+          "tol": 0.0001
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_ridge_a10p0_last3",
+      "order": 26,
+      "family": "memoria_ridge",
+      "history": "last3",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "Ridge": {
+          "alpha": 10.0,
+          "copy_X": true,
+          "fit_intercept": true,
+          "max_iter": null,
+          "positive": false,
+          "random_state": 20261010,
+          "solver": "auto",
+          "tol": 0.0001
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_arbol_d1_all",
+      "order": 27,
+      "family": "memoria_arbol",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "DecisionTreeRegressor": {
+          "ccp_alpha": 0.0,
+          "criterion": "absolute_error",
+          "max_depth": 1,
+          "max_features": null,
+          "max_leaf_nodes": null,
+          "min_impurity_decrease": 0.0,
+          "min_samples_leaf": 11,
+          "min_samples_split": 2,
+          "min_weight_fraction_leaf": 0.0,
+          "monotonic_cst": null,
+          "random_state": 20261010,
+          "splitter": "best"
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "memoria_arbol_d2_all",
+      "order": 28,
+      "family": "memoria_arbol",
+      "history": "all",
+      "components": [
+        "memoria"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "DecisionTreeRegressor": {
+          "ccp_alpha": 0.0,
+          "criterion": "absolute_error",
+          "max_depth": 2,
+          "max_features": null,
+          "max_leaf_nodes": null,
+          "min_impurity_decrease": 0.0,
+          "min_samples_leaf": 11,
+          "min_samples_split": 2,
+          "min_weight_fraction_leaf": 0.0,
+          "monotonic_cst": null,
+          "random_state": 20261010,
+          "splitter": "best"
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "nivel_comun_median_all",
+      "order": 29,
+      "family": "nivel_comun",
+      "history": "all",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "median"
+    },
+    {
+      "id": "nivel_comun_mean_all",
+      "order": 30,
+      "family": "nivel_comun",
+      "history": "all",
+      "components": [],
+      "inputs": 0,
+      "params": {},
+      "statistic": "mean"
+    },
+    {
+      "id": "comun_qr_a0p0_all",
+      "order": 31,
+      "family": "comun_qr",
+      "history": "all",
+      "components": [
+        "comun"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "comun_correccion_qr_a0p0_all",
+      "order": 32,
+      "family": "comun_correccion_qr",
+      "history": "all",
+      "components": [
+        "comun",
+        "correccion"
+      ],
+      "inputs": 2,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "comun_qr_a0p01_all",
+      "order": 33,
+      "family": "comun_qr",
+      "history": "all",
+      "components": [
+        "comun"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.01,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "comun_correccion_qr_a0p01_all",
+      "order": 34,
+      "family": "comun_correccion_qr",
+      "history": "all",
+      "components": [
+        "comun",
+        "correccion"
+      ],
+      "inputs": 2,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.01,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "comun_qr_a0p1_all",
+      "order": 35,
+      "family": "comun_qr",
+      "history": "all",
+      "components": [
+        "comun"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.1,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "comun_correccion_qr_a0p1_all",
+      "order": 36,
+      "family": "comun_correccion_qr",
+      "history": "all",
+      "components": [
+        "comun",
+        "correccion"
+      ],
+      "inputs": 2,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 0.1,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "comun_qr_a1p0_all",
+      "order": 37,
+      "family": "comun_qr",
+      "history": "all",
+      "components": [
+        "comun"
+      ],
+      "inputs": 1,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 1.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    },
+    {
+      "id": "comun_correccion_qr_a1p0_all",
+      "order": 38,
+      "family": "comun_correccion_qr",
+      "history": "all",
+      "components": [
+        "comun",
+        "correccion"
+      ],
+      "inputs": 2,
+      "params": {
+        "StandardScaler": {
+          "copy": true,
+          "with_mean": true,
+          "with_std": true
+        },
+        "QuantileRegressor": {
+          "alpha": 1.0,
+          "fit_intercept": true,
+          "quantile": 0.5,
+          "solver": "highs",
+          "solver_options": null
+        }
+      },
+      "statistic": null
+    }
+  ],
+  "primary": "global_v6 seleccionado exclusivamente por internas",
+  "reference": "persistencia/v3, mismas165llaves/observados; no referencia memoria retrospectiva",
+  "target_percent": 5,
+  "selection": {
+    "MAE_band": 0.1,
+    "RMSE_band": 0.1,
+    "ties": [
+      "inputs",
+      "order"
+    ],
+    "inclusive": true,
+    "external_2021": "persistencia fija, sin fit/scoring/selection"
+  },
+  "history_rule": "Seleccionar respuestas completas elegibles desde2021, después aplicar últimos k años; conservar niveles previos necesarios y lag anterior, nunca futuro.2019 solo historial. Con menos de k usar todos los disponibles; cero años respalda persistencia. Común mismo conjunto temporal del candidato.",
+  "estimation": "median: promedio de los dos valores centrales cuando n sea par;mean:fsum/n. Nivelterritorial apila33respuestas por año; nivelcomun una mediana territorial por año.",
+  "no_inputs": [
+    "year",
+    "code",
+    "interval",
+    "IPM",
+    "counts",
+    "evaluated_d",
+    "evaluated_c",
+    "evaluated_r"
+  ],
+  "budget": {
+    "seconds": 7200,
+    "new_ledger": true,
+    "internal_component_fits": 192,
+    "external_component_fits": 128,
+    "global_repeat_component_fits_max": 8,
+    "component_fits_max_without_failures": 328,
+    "retry_infrastructure_max": 1,
+    "no_reuse_balance": true,
+    "statistical_estimates_without_sklearn_fit": {
+      "internal": 60,
+      "external": 40,
+      "global_checks_max": 4,
+      "max": 104
+    },
+    "measurement": "desde runner real hasta cierre durable, incluyendo arranque/comunicación/constantes/repeticiones/fallos/retries/pausas; preparación/sintéticos separados"
+  },
+  "coverage": {
+    "internal_original": 12870,
+    "selection_records": 156,
+    "external": 6600,
+    "internal_unique_conditional": 5148,
+    "lineage": 12870,
+    "global_checks": 5
+  },
+  "notebook_contract": "todos los cálculos/tablas/figuras/números nuevos del texto originados en celdas realmente ejecutadas;fuente.py+generador.py;nbformat;archivos de salida con manifiesto;sin datos personales",
+  "forecast_horizon_years": 1,
+  "objective4_execution_authorized": false,
+  "new_data_installations_commits_push_authorized": false
+}

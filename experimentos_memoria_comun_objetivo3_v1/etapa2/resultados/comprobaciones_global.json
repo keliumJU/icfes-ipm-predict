@@ -1,0 +1,42 @@
+[
+  {
+    "external": 2021,
+    "candidate": "persistencia",
+    "mode": "previo exacto sin fit",
+    "max_difference": 0.0,
+    "approved": true,
+    "context": "16865ed4a06c1df6528c00d1dc365f9a2af553ffebccd424f40ad8e74365e755"
+  },
+  {
+    "external": 2022,
+    "candidate": "persistencia",
+    "mode": "previo exacto sin fit",
+    "max_difference": 0.0,
+    "approved": true,
+    "context": "fadf528a994de3713b0e3d501e558986e36b57647b162cca5100fb23b79eed69"
+  },
+  {
+    "external": 2023,
+    "candidate": "persistencia",
+    "mode": "previo exacto sin fit",
+    "max_difference": 0.0,
+    "approved": true,
+    "context": "526e6b5a08634cd0838a220201d634c478bcc0bd9f054fb0f83d7bb1b07e4a69"
+  },
+  {
+    "external": 2024,
+    "candidate": "persistencia",
+    "mode": "previo exacto sin fit",
+    "max_difference": 0.0,
+    "approved": true,
+    "context": "c8fe4f41ff1c62919e01bce71c9139ae3113f713834f6b1ace3b461363c92d09"
+  },
+  {
+    "external": 2025,
+    "candidate": "memoria",
+    "mode": "repetición mismo contexto",
+    "max_difference": 0.0,
+    "approved": true,
+    "context": "cbeb22e2ec471804013df74d8afc783a44a47b751b8892ab862383c3335fa313"
+  }
+]

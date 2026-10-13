@@ -1,0 +1,26 @@
+[
+  {
+    "hallazgo": "Código05/08 vs5/8",
+    "impacto": "historia requiere identidad geográfica estable",
+    "alternativa": "zfill(2), cotejo de nombres y tabla de representación",
+    "resolucion": "resuelto antes de resultados; fuentes sin modificar; preflight/NORMALIZACION_CODIGOS.csv"
+  },
+  {
+    "hallazgo": "Verificador histórico no admite carpeta nueva",
+    "impacto": "no usar aprobación parcial ni editarlo",
+    "alternativa": "cotejo propio de originales/manifiestos/mappings/cierres",
+    "resolucion": "aprobado preflight y cierre; verificador histórico conservado"
+  },
+  {
+    "hallazgo": "Bloqueo al iniciar kernel notebook",
+    "impacto": "entrega indispensable no ejecutada; no texto/figuras/evidencias ni certificación de meta",
+    "alternativa": "gestor asíncrono y prueba inventada integral previa, en futura corrección documental expresamente autorizada y sinfits",
+    "resolucion": "no resuelto; único reintento agotado; cierre incompleto; traza y fuentes congeladas preservadas"
+  },
+  {
+    "hallazgo": "Años vistos y fecha local",
+    "impacto": "sin confirmación ni disponibilidad anticipada autenticada",
+    "alternativa": "mantener interpretación exploratoria/condicional y fecha verificable",
+    "resolucion": "límite científico abierto en PENDIENTES; no nuevas fuentes/escenarios"
+  }
+]

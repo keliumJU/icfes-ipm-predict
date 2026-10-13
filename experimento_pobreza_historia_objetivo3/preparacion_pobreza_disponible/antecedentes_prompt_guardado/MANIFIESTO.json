@@ -1,0 +1,14 @@
+{
+  "tipo": "entrega inicial del prompt; sin ejecución de la preparación futura",
+  "sha256": {
+    "CONTINUIDAD.md": "8fa3ae59698561ae63e0100be8b9b6b227695fb56985dc19853c8141074fe3b7",
+    "DECISION_GUARDADA.md": "586a578b3fb047622a97c362a33eecda6958b3751de273ac7968a04b9034fee7",
+    "PARTIDA.json": "0be5506b1ccc41ca1eae474f569881fac835caee32dfa7e5fc4485d29acccdf0",
+    "PROMPT_NUEVA_SESION.md": "617a42be0d44436f8f230bb382cbf7d6ff909f9d8f33e811054564b2dd270daa",
+    "verificar_preparacion.py": "1fc3fb11184ba37642447c0a2ee72e819619f15e3857812b31620bb588653403"
+  },
+  "exclusiones": [
+    "MANIFIESTO.json",
+    "VERIFICACION.json"
+  ]
+}

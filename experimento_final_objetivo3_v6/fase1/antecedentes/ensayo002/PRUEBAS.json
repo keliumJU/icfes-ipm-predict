@@ -1,0 +1,17 @@
+{
+  "aprobado": true,
+  "tests": [
+    "temporalidad/lastk/no2019/2020/2018/salto2021",
+    "anti-fuga por mutación de futuros",
+    "defaults completos invariantes",
+    "39 candidatos/cero-un año/Pipelines/scaler/reconstrucción/constantes",
+    "selector pools inclusivos/constants0/persistencia primero",
+    "CSV intfloat0 exacto/rechazo1e-11",
+    "rutas/symlinks",
+    "linaje12870/5148/contextos exactos/reuso mismoIDventana",
+    "serial durable terminación/timeout/retry/numérico/caída/presupuesto/no reabrir"
+  ],
+  "synthetic_component_fits": 32,
+  "real_fits": 0,
+  "seconds": 7.579974267999205
+}

@@ -1,0 +1,16 @@
+tipo,externo,evaluado,historia_cambios,respuestas_supervisadas,rezagos_respuestas,anios_pares_completos,filas_memoria_correccion,filas_comun,rezago_entrada_evaluada,intervalo_objetivo,politica,semantica
+externa,2021,2021,,,,0,0,0,2019,2,persistencia_fija,documental_sin_fit
+externa,2022,2022,2019;2021,2021,2019,1,33,1,2021,1,ajuste_futuro_permitido,documental_sin_fit
+interna,2022,2021,2019,,,0,0,0,2019,2,respaldo_cero_pares,documental_sin_fit
+externa,2023,2023,2019;2021;2022,2021;2022,2019;2021,2,66,2,2022,1,ajuste_futuro_permitido,documental_sin_fit
+interna,2023,2021,2019,,,0,0,0,2019,2,respaldo_cero_pares,documental_sin_fit
+interna,2023,2022,2019;2021,2021,2019,1,33,1,2021,1,ajuste_futuro_permitido,documental_sin_fit
+externa,2024,2024,2019;2021;2022;2023,2021;2022;2023,2019;2021;2022,3,99,3,2023,1,ajuste_futuro_permitido,documental_sin_fit
+interna,2024,2021,2019,,,0,0,0,2019,2,respaldo_cero_pares,documental_sin_fit
+interna,2024,2022,2019;2021,2021,2019,1,33,1,2021,1,ajuste_futuro_permitido,documental_sin_fit
+interna,2024,2023,2019;2021;2022,2021;2022,2019;2021,2,66,2,2022,1,ajuste_futuro_permitido,documental_sin_fit
+externa,2025,2025,2019;2021;2022;2023;2024,2021;2022;2023;2024,2019;2021;2022;2023,4,132,4,2024,1,ajuste_futuro_permitido,documental_sin_fit
+interna,2025,2021,2019,,,0,0,0,2019,2,respaldo_cero_pares,documental_sin_fit
+interna,2025,2022,2019;2021,2021,2019,1,33,1,2021,1,ajuste_futuro_permitido,documental_sin_fit
+interna,2025,2023,2019;2021;2022,2021;2022,2019;2021,2,66,2,2022,1,ajuste_futuro_permitido,documental_sin_fit
+interna,2025,2024,2019;2021;2022;2023,2021;2022;2023,2019;2021;2022,3,99,3,2023,1,ajuste_futuro_permitido,documental_sin_fit

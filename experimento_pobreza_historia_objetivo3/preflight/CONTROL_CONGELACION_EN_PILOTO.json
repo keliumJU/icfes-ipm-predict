@@ -1,0 +1,7 @@
+{
+  "aprobado": true,
+  "archivos": 343,
+  "epoch": 1791829623.9663024,
+  "reglas_candidatos_sin_cambios": true,
+  "errata_literal_protocolo": "La palabra códigos contiene caracteres de edición accidentales; la regla operativa zfill(2) y el texto de matrices/especificación son inequívocos. Se conserva el documento congelado; no se cambian reglas."
+}
